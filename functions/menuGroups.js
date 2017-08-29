@@ -24,14 +24,17 @@ exports.onMenuGroupWrite = functions.database
       const updates = {};
 
       if (!eventSnapshot.previous.exists()) {
-        updates[`/menuGroups/${id}/menus`] = data.menus || {};
+        updates[`/menuGroups/${id}/menus`] = data.menus = data.menus || {};
       }
 
       if (!eventSnapshot.previous.exists()) {
         updates[storeRefPath] = true;
       }
 
-      if (eventSnapshot.child('menus').changed()) {
+      if (
+        eventSnapshot.child('menus').changed() ||
+        updates[`/menuGroups/${id}/menus`]
+      ) {
         updates[`/menuGroups/${id}/menuCount`] = Object.keys(data.menus).length;
       }
 
