@@ -1,0 +1,6840 @@
+[
+  {
+    "address": "울산광역시 울주군 범서읍 구영리 846-2",
+    "branch": "구영점",
+    "call": "052-245-7279",
+    "category": "chicken",
+    "condition": "울산과기원 3마리 이상 무료배달",
+    "id": "9f13e2",
+    "menuCount": 20,
+    "menuGroups": [
+      {
+        "id": "db6b90",
+        "menus": [
+          {
+            "description": "간장,양념 - 18900원",
+            "id": "e3a6f1",
+            "name": "크런치오븐치킨",
+            "price": 17900,
+            "sortOrder": 0
+          },
+          { "id": "c71a22", "name": "후라이드치킨", "price": 14900, "sortOrder": 1 },
+          { "id": "784903", "name": "간장치킨", "price": 16900, "sortOrder": 2 },
+          { "id": "1fbc5e", "name": "양념치킨", "price": 17900, "sortOrder": 3 },
+          { "id": "29f979", "name": "마늘범벅치킨", "price": 18900, "sortOrder": 4 },
+          { "id": "898154", "name": "핫바베큐치킨", "price": 18900, "sortOrder": 5 },
+          {
+            "description": "후라이드+간장+마늘범벅",
+            "id": "be3c9d",
+            "name": "삼색치킨",
+            "price": 18900,
+            "sortOrder": 6
+          },
+          { "id": "5746e0", "name": "똥집후라이드", "price": 13900, "sortOrder": 7 },
+          { "id": "25ee20", "name": "똥집마늘범벅", "price": 15900, "sortOrder": 8 },
+          { "id": "148b8e", "name": "뼈없는닭발", "price": 16900, "sortOrder": 9 },
+          { "id": "b18147", "name": "치즈불닭", "price": 18900, "sortOrder": 10 },
+          { "id": "9f0d7d", "name": "불닭", "price": 16900, "sortOrder": 11 },
+          { "id": "0fdef3", "name": "순살후라이드", "price": 15900, "sortOrder": 12 },
+          { "id": "2adfe4", "name": "순살마늘범벅", "price": 17900, "sortOrder": 13 },
+          {
+            "id": "2a9114",
+            "name": "감자튀김(1/2)",
+            "price": 3900,
+            "sortOrder": 14
+          },
+          {
+            "id": "4b2bdf",
+            "name": "감자튀김(1/2)+치즈스틱 5개",
+            "price": 8900,
+            "sortOrder": 15
+          },
+          { "id": "93632d", "name": "셀프주먹밥", "price": 2900, "sortOrder": 16 },
+          { "id": "14a66d", "name": "콜라1.25L", "price": 2000, "sortOrder": 17 },
+          { "id": "40526a", "name": "소주", "price": 3000, "sortOrder": 18 },
+          {
+            "description": "1500cc - 7000원",
+            "id": "690dbc",
+            "name": "맥주(1000cc)",
+            "price": 5000,
+            "sortOrder": 19
+          }
+        ],
+        "name": "일반",
+        "sortOrder": 0
+      }
+    ],
+    "name": "달감 치킨(불닭,닭발)",
+    "sortOrder": 0,
+    "time": { "from": 17, "to": 26 }
+  },
+  {
+    "address": "울산광역시 범서읍 울산 울주군 범서읍 천상리 (블) 9",
+    "branch": "범서점",
+    "call": "052-212-9433",
+    "category": "chicken",
+    "condition": "과기원 2마리이상 배달가능 (매주둘째주 화요일 정기휴무)",
+    "id": "f1123c",
+    "menuCount": 11,
+    "menuGroups": [
+      {
+        "id": "71002c",
+        "menus": [
+          {
+            "description": "순살 - 17000",
+            "id": "29a55a",
+            "name": "스낵후라이드 치즈",
+            "price": 16000,
+            "sortOrder": 0
+          },
+          {
+            "description": "매운맛 - 16000",
+            "id": "930e55",
+            "name": "오곡후라이드",
+            "price": 15000,
+            "sortOrder": 1
+          },
+          {
+            "description": "핫양념 - 17000원",
+            "id": "f74463",
+            "name": "양념치킨",
+            "price": 16000,
+            "sortOrder": 2
+          },
+          { "id": "20ff7b", "name": "갈릭플러스치킨", "price": 16000, "sortOrder": 3 },
+          {
+            "description": "양념 - 17000원",
+            "id": "aa4c5c",
+            "name": "순살치킨",
+            "price": 16000,
+            "sortOrder": 4
+          },
+          {
+            "description": "콤보,양념 - 17000원",
+            "id": "b92ffe",
+            "name": "목우촌닭다리치킨(후라이드)",
+            "price": 16000,
+            "sortOrder": 5
+          },
+          {
+            "description": "순살 - 18000원",
+            "id": "fcd2ca",
+            "name": "목우촌파닭",
+            "price": 0,
+            "sortOrder": 6
+          },
+          { "id": "8c6e7d", "name": "목우촌골드윙", "price": 17000, "sortOrder": 7 },
+          {
+            "description": "순살허니 - 17000원",
+            "id": "d0ecb4",
+            "name": "맛강정",
+            "price": 16000,
+            "sortOrder": 8
+          },
+          { "id": "6a0d2b", "name": "찹쌀양념치킨", "price": 17000, "sortOrder": 9 },
+          { "id": "6b14bf", "name": "팝콘치킨", "price": 2000, "sortOrder": 10 }
+        ],
+        "name": "일반",
+        "sortOrder": 0
+      }
+    ],
+    "name": "또래오래",
+    "sortOrder": 1,
+    "time": { "from": 12, "to": 24 }
+  },
+  {
+    "address": "울산광역시 울주군 범서읍 구영리840",
+    "branch": "범서점",
+    "call": "052-212-8705",
+    "category": "chicken",
+    "id": "59592c",
+    "menuCount": 11,
+    "menuGroups": [
+      {
+        "id": "e29879",
+        "menus": [
+          { "id": "53d3eb", "name": "황금치즈치킨", "price": 16000, "sortOrder": 0 },
+          { "id": "a754fb", "name": "야채찜닭", "price": 23000, "sortOrder": 1 },
+          { "id": "38131b", "name": "찢은마늘통닭", "price": 16000, "sortOrder": 2 },
+          { "id": "f74010", "name": "후라이드치킨", "price": 15000, "sortOrder": 3 },
+          { "id": "105ed6", "name": "통구이", "price": 15000, "sortOrder": 4 },
+          {
+            "description": "후라이드 +(황금치즈,양념,간장,레몬,칠리,카레)중 택 1",
+            "id": "6c7826",
+            "name": "순살세트1",
+            "price": 16000,
+            "sortOrder": 5
+          },
+          {
+            "description": "(황금치즈,양념,간장,레몬,칠리,카레)중 택 2",
+            "id": "010441",
+            "name": "순살세트2",
+            "price": 17000,
+            "sortOrder": 6
+          },
+          {
+            "description": "후라이드+(황금치즈,양념,간장,레몬,칠리,카레)중 택 1",
+            "id": "8fca85",
+            "name": "뼈닭세트1",
+            "price": 20000,
+            "sortOrder": 7
+          },
+          {
+            "description": "옛날통닭(황금치즈,양념,간장,레몬,칠리,카레)중 택 1",
+            "id": "c309f2",
+            "name": "뼈닭세트2",
+            "price": 20000,
+            "sortOrder": 8
+          },
+          {
+            "description": "(황금치즈,양념,간장,레몬,칠리,카레)중 택 2",
+            "id": "af06a3",
+            "name": "뼈닭세트3",
+            "price": 21000,
+            "sortOrder": 9
+          },
+          {
+            "id": "1c3356",
+            "name": "똥집튀김+치킨한마리",
+            "price": 20000,
+            "sortOrder": 10
+          }
+        ],
+        "name": "일반",
+        "sortOrder": 0
+      }
+    ],
+    "name": "멕코이치킨",
+    "sortOrder": 2,
+    "time": { "from": 14, "to": 26 }
+  },
+  {
+    "address": "울산광역시 울주군 범서읍 구영리 382-2",
+    "branch": "구영점",
+    "call": "052-245-2030",
+    "category": "chinese",
+    "condition": "과기원 2만원 이상 배달가능",
+    "id": "588df3",
+    "menuCount": 31,
+    "menuGroups": [
+      {
+        "id": "8457c8",
+        "menus": [
+          { "id": "0a03c8", "name": "해물옹기짜장면", "price": 6000, "sortOrder": 0 },
+          { "id": "122115", "name": "해물옹기짬뽕", "price": 8000, "sortOrder": 1 },
+          { "id": "7209ac", "name": "해물옹기볶음우동", "price": 8000, "sortOrder": 2 },
+          {
+            "id": "d71b2d",
+            "name": "해물옹기볶음밥+짜장",
+            "price": 7000,
+            "sortOrder": 3
+          },
+          {
+            "id": "99ad68",
+            "name": "해물옹기잡채밥+짜장",
+            "price": 7000,
+            "sortOrder": 4
+          },
+          {
+            "description": "(2인이상 주문가능)",
+            "id": "e84e60",
+            "name": "해물옹기두부덮밥",
+            "price": 7000,
+            "sortOrder": 5
+          },
+          {
+            "description": "(매운맛)",
+            "id": "cb8d32",
+            "name": "불장면",
+            "price": 6000,
+            "sortOrder": 6
+          },
+          {
+            "description": "(매운맛)",
+            "id": "26cf35",
+            "name": "불장볶음밥",
+            "price": 7000,
+            "sortOrder": 7
+          },
+          { "id": "4cd700", "name": "삼선짜장", "price": 8000, "sortOrder": 8 },
+          { "id": "ceff38", "name": "삼선짬뽕", "price": 8000, "sortOrder": 9 },
+          { "id": "3893f7", "name": "삼선우동", "price": 8000, "sortOrder": 10 },
+          { "id": "b5ad21", "name": "삼선간짜장", "price": 8000, "sortOrder": 11 },
+          { "id": "d03c83", "name": "삼선볶음밥", "price": 8000, "sortOrder": 12 },
+          { "id": "1fc38c", "name": "사천짜장", "price": 8000, "sortOrder": 13 },
+          {
+            "description": "소-21000원, 중-26000원, 대-31000원",
+            "id": "04db2d",
+            "name": "옹기탕수육",
+            "price": 21000,
+            "sortOrder": 14
+          },
+          { "id": "4df0cc", "name": "비빔짬뽕", "price": 7000, "sortOrder": 15 },
+          { "id": "b1ba81", "name": "생굴짬뽕", "price": 7000, "sortOrder": 16 },
+          {
+            "description": "옹기탕수육 + 옹기짜장면2",
+            "id": "baeb8c",
+            "name": "옹기세트메뉴1",
+            "price": 21000,
+            "sortOrder": 17
+          },
+          {
+            "description": "옹기탕수육 + 옹기짜장1 + 옹기짬뽕1",
+            "id": "38ccb2",
+            "name": "옹기세트메뉴2",
+            "price": 23000,
+            "sortOrder": 18
+          },
+          {
+            "description": "옹기탕수육 + 옹기짬뽕2",
+            "id": "03f9e8",
+            "name": "옹기세트메뉴3",
+            "price": 24000,
+            "sortOrder": 19
+          },
+          {
+            "description": "탕수육 + 짜장면2",
+            "id": "37d6a9",
+            "name": "알뜰세트1",
+            "price": 18000,
+            "sortOrder": 20
+          },
+          {
+            "description": "탕수육 + 짬뽕2",
+            "id": "4df2e5",
+            "name": "알뜰세트2",
+            "price": 21000,
+            "sortOrder": 21
+          },
+          {
+            "description": "탕수육 + 볶음밥2",
+            "id": "ed022c",
+            "name": "알뜰세트",
+            "price": 20000,
+            "sortOrder": 22
+          },
+          {
+            "description": "탕수육 + 잡채밥2",
+            "id": "fabd9d",
+            "name": "알뜰세트4",
+            "price": 21000,
+            "sortOrder": 23
+          },
+          {
+            "description": "탕수육 + 짜장면(짬뽕변경시 1000원추가)",
+            "id": "80c8b0",
+            "name": "탕수육 1인세트",
+            "price": 14000,
+            "sortOrder": 24
+          },
+          {
+            "description": "양장피 + 탕수육 + 쟁반짜장",
+            "id": "fc5647",
+            "name": "가족상 세트1",
+            "price": 45000,
+            "sortOrder": 25
+          },
+          {
+            "description": "팔보채 + 깐풍기 + 쟁반짜장",
+            "id": "d94f6c",
+            "name": "가족상 세트2",
+            "price": 45000,
+            "sortOrder": 26
+          },
+          {
+            "description": "유산슬 + 난자완스 + 쟁반짜장",
+            "id": "55b81d",
+            "name": "가족상 세트3",
+            "price": 45000,
+            "sortOrder": 27
+          },
+          { "id": "5c7a0f", "name": "육개장", "price": 7000, "sortOrder": 28 },
+          { "id": "f1d5fb", "name": "갈비탕", "price": 7000, "sortOrder": 29 },
+          {
+            "description": "중 : 26000, 대 : 31000",
+            "id": "4aa2a2",
+            "name": "탕수육",
+            "price": 21000,
+            "sortOrder": 30
+          }
+        ],
+        "name": "일반",
+        "sortOrder": 0
+      }
+    ],
+    "name": "명품관",
+    "sortOrder": 3,
+    "time": { "from": 9, "to": 18 }
+  },
+  {
+    "branch": "범서점",
+    "call": "052-211-9934",
+    "category": "chinese",
+    "id": "f169cf",
+    "menuCount": 11,
+    "menuGroups": [
+      {
+        "id": "4fa4d0",
+        "menus": [
+          {
+            "description": "(대) 22000원",
+            "id": "940394",
+            "name": "탕수강정(소)",
+            "price": 17000,
+            "sortOrder": 0
+          },
+          {
+            "description": "(대) 21000원",
+            "id": "ba89c2",
+            "name": "탕수육(소)",
+            "price": 16000,
+            "sortOrder": 1
+          },
+          {
+            "description": "(대) 22000원",
+            "id": "8701f6",
+            "name": "치즈탕수육(소)",
+            "price": 17000,
+            "sortOrder": 2
+          },
+          { "id": "bd1862", "name": "파탕수육", "price": 17000, "sortOrder": 3 },
+          { "id": "7e55c2", "name": "파양념탕수육", "price": 18000, "sortOrder": 4 },
+          {
+            "description": "(대) 22000원",
+            "id": "cf5782",
+            "name": "양념탕수육(소)",
+            "price": 17000,
+            "sortOrder": 5
+          },
+          {
+            "description": "(대) 22000원",
+            "id": "a3f4da",
+            "name": "녹차탕수육(소)",
+            "price": 17000,
+            "sortOrder": 6
+          },
+          {
+            "description": "(대) 22000원",
+            "id": "9136ef",
+            "name": "카레탕수육(소)",
+            "price": 17000,
+            "sortOrder": 7
+          },
+          {
+            "description": "(대) 22000원",
+            "id": "1195d2",
+            "name": "매운탕수육(소)",
+            "price": 17000,
+            "sortOrder": 8
+          },
+          {
+            "description": "(대) 24000원",
+            "id": "a734f5",
+            "name": "새우탕수육(소)",
+            "price": 20000,
+            "sortOrder": 9
+          },
+          {
+            "description": "(대) 24000",
+            "id": "530253",
+            "name": "깐풍새우(소)",
+            "price": 20000,
+            "sortOrder": 10
+          }
+        ],
+        "name": "일반",
+        "sortOrder": 0
+      }
+    ],
+    "name": "탕코",
+    "sortOrder": 4,
+    "time": { "from": 14, "to": 25 }
+  },
+  {
+    "branch": "범서점",
+    "call": "010-2081-0056",
+    "category": "others",
+    "condition": "과기원 30,000이상 배달가능",
+    "id": "e53abc",
+    "menuCount": 18,
+    "menuGroups": [
+      {
+        "id": "347147",
+        "menus": [
+          {
+            "description": "(2인분 이상)",
+            "id": "8a126a",
+            "name": "생선구이정식",
+            "price": 7000,
+            "sortOrder": 0
+          },
+          {
+            "description": "(2인분 이상)",
+            "id": "30ba21",
+            "name": "보리밥",
+            "price": 6000,
+            "sortOrder": 1
+          },
+          {
+            "description": "(2인분 이상)",
+            "id": "f27166",
+            "name": "동태찌개정식",
+            "price": 7000,
+            "sortOrder": 2
+          },
+          { "id": "f2ed78", "name": "육개장", "price": 7000, "sortOrder": 3 },
+          { "id": "136a5e", "name": "오징어볶음", "price": 15000, "sortOrder": 4 },
+          { "id": "dc3918", "name": "양념고갈비", "price": 10000, "sortOrder": 5 },
+          { "id": "8035c6", "name": "두루치기", "price": 15000, "sortOrder": 6 },
+          { "id": "a67810", "name": "골뱅이무침", "price": 15000, "sortOrder": 7 },
+          { "id": "4766c2", "name": "해물파전", "price": 10000, "sortOrder": 8 },
+          { "id": "09a9b4", "name": "굴전", "price": 10000, "sortOrder": 9 },
+          { "id": "1e0e66", "name": "부추전", "price": 8000, "sortOrder": 10 },
+          { "id": "6d2e76", "name": "명태찜", "price": 20000, "sortOrder": 11 },
+          {
+            "description": "(중) - 5000원 추가, (대) - 10000원 추가",
+            "id": "b89ffe",
+            "name": "생선모듬구이(소)",
+            "price": 20000,
+            "sortOrder": 12
+          },
+          {
+            "description": "(중) - 25000, (대) - 30000",
+            "id": "fe8abf",
+            "name": "칼치찌개(소)",
+            "price": 18000,
+            "sortOrder": 13
+          },
+          {
+            "description": "(중) - 25000, (대) - 30000",
+            "id": "1d3243",
+            "name": "가자미조림(소)",
+            "price": 18000,
+            "sortOrder": 14
+          },
+          { "id": "47c095", "name": "소주", "price": 2000, "sortOrder": 15 },
+          { "id": "40ab94", "name": "맥주", "price": 3000, "sortOrder": 16 },
+          { "id": "134e50", "name": "막걸리", "price": 2000, "sortOrder": 17 }
+        ],
+        "name": "일반",
+        "sortOrder": 0
+      }
+    ],
+    "name": "구영보리밥",
+    "sortOrder": 5,
+    "time": { "from": 12, "to": 22 }
+  },
+  {
+    "branch": "구영점",
+    "call": "052-245-2226",
+    "category": "others",
+    "condition": "20000원 이상 배달 가능",
+    "id": "b534d2",
+    "menuCount": 8,
+    "menuGroups": [
+      {
+        "id": "f1ba34",
+        "menus": [
+          {
+            "description": "(낙지,곱창,새우)",
+            "id": "452290",
+            "name": "낙곱새",
+            "price": 10000,
+            "sortOrder": 0
+          },
+          {
+            "description": "(낙지,새우)",
+            "id": "134a75",
+            "name": "낙새",
+            "price": 9000,
+            "sortOrder": 1
+          },
+          {
+            "description": "(낙지,곱창)",
+            "id": "0fa8bc",
+            "name": "낙곱",
+            "price": 9000,
+            "sortOrder": 2
+          },
+          { "id": "2dfee9", "name": "낙지볶음", "price": 8000, "sortOrder": 3 },
+          { "id": "92f7c4", "name": "불낙전골", "price": 10000, "sortOrder": 4 },
+          { "id": "1f17e4", "name": "곱창전골", "price": 10000, "sortOrder": 5 },
+          { "id": "c42507", "name": "공기밥", "price": 1000, "sortOrder": 6 },
+          {
+            "description": "(당면, 우동, 라면)",
+            "id": "0fcad4",
+            "name": "면사리",
+            "price": 1000,
+            "sortOrder": 7
+          }
+        ],
+        "name": "일반",
+        "sortOrder": 0
+      }
+    ],
+    "name": "개미집(낙지볶음 명가)",
+    "sortOrder": 6,
+    "time": { "from": 11, "to": 21 }
+  },
+  {
+    "branch": "구영점",
+    "call": "052-245-9449",
+    "category": "others",
+    "condition": "과기원 30000원 이상 배달가능 (카드결제 안됨) , 매주 일요일 휴무",
+    "id": "834f65",
+    "menuCount": 10,
+    "menuGroups": [
+      {
+        "id": "a777fb",
+        "menus": [
+          {
+            "description": "(온/냉)",
+            "id": "ae0165",
+            "name": "잔치국시",
+            "price": 4000,
+            "sortOrder": 0
+          },
+          {
+            "description": "(하절기 가능)",
+            "id": "278551",
+            "name": "열무냉국시",
+            "price": 5000,
+            "sortOrder": 1
+          },
+          { "id": "878569", "name": "비빔국시", "price": 5000, "sortOrder": 2 },
+          { "id": "438837", "name": "고기/김치왕만두", "price": 6000, "sortOrder": 3 },
+          {
+            "description": "(2인분 이상 배달)",
+            "id": "9f215c",
+            "name": "김치찌개/된장찌개",
+            "price": 6000,
+            "sortOrder": 4
+          },
+          {
+            "description": "(대) - 10000원",
+            "id": "130f33",
+            "name": "해물부추전(소)",
+            "price": 7000,
+            "sortOrder": 5
+          },
+          {
+            "description": "(동절기 가능)",
+            "id": "5d6ba3",
+            "name": "해물칼국시",
+            "price": 6000,
+            "sortOrder": 6
+          },
+          { "id": "736a9a", "name": "들깨칼국시", "price": 6000, "sortOrder": 7 },
+          { "id": "d630ba", "name": "동래파전", "price": 10000, "sortOrder": 8 },
+          { "id": "a7f2e2", "name": "소주/맥주/막걸리", "price": 2000, "sortOrder": 9 }
+        ],
+        "name": "일반",
+        "sortOrder": 0
+      }
+    ],
+    "name": "국시사랑(국수)",
+    "sortOrder": 7
+  },
+  {
+    "branch": "천상점",
+    "call": "052-244-1092",
+    "category": "others",
+    "condition": "구영(12000원 이상 배달가능), 과기원 배달비 2000원 추가비 별도",
+    "id": "3ff74c",
+    "menuCount": 25,
+    "menuGroups": [
+      {
+        "id": "fe306e",
+        "menus": [
+          {
+            "description": "(매운맛/순한맛) / 2개 5000원",
+            "id": "c07388",
+            "name": "문어꼬치",
+            "price": 3000,
+            "sortOrder": 0
+          },
+          {
+            "description": "(매운맛/순한맛) / 2개 5000원",
+            "id": "f1a1aa",
+            "name": "문어꼬치",
+            "price": 3000,
+            "sortOrder": 1
+          },
+          {
+            "description": "(매운맛/순한맛) / 3개 5000원",
+            "id": "331020",
+            "name": "닭꼬치",
+            "price": 2000,
+            "sortOrder": 2
+          },
+          {
+            "description": "(매운맛/순한맛) / 3개 5000원",
+            "id": "f51526",
+            "name": "닭꼬치",
+            "price": 2000,
+            "sortOrder": 3
+          },
+          {
+            "description": "4개",
+            "id": "09931b",
+            "name": "양꼬치",
+            "price": 5000,
+            "sortOrder": 4
+          },
+          {
+            "description": "4개",
+            "id": "bb9f36",
+            "name": "양꼬치",
+            "price": 5000,
+            "sortOrder": 5
+          },
+          { "id": "d3b1c1", "name": "숯불닭발", "price": 12000, "sortOrder": 6 },
+          { "id": "101d4b", "name": "돼지 두루치기", "price": 12000, "sortOrder": 7 },
+          { "id": "338453", "name": "고르곤졸라피자", "price": 10000, "sortOrder": 8 },
+          {
+            "id": "751a18",
+            "name": "씬피자 매운불고기",
+            "price": 10000,
+            "sortOrder": 9
+          },
+          {
+            "id": "c000da",
+            "name": "씬피자 바베큐",
+            "price": 10000,
+            "sortOrder": 10
+          },
+          {
+            "id": "12aa16",
+            "name": "한우불고기볶음밥",
+            "price": 6000,
+            "sortOrder": 11
+          },
+          {
+            "id": "71a7fc",
+            "name": "햄, 야채볶음밥",
+            "price": 5000,
+            "sortOrder": 12
+          },
+          { "id": "9edb93", "name": "새우볶음밥", "price": 5000, "sortOrder": 13 },
+          { "id": "d98527", "name": "김치볶음밥", "price": 5000, "sortOrder": 14 },
+          { "id": "d15252", "name": "해물볶음밥", "price": 5000, "sortOrder": 15 },
+          { "id": "61cc3b", "name": "즉석떡볶이", "price": 3000, "sortOrder": 16 },
+          { "id": "185f72", "name": "순대", "price": 3000, "sortOrder": 17 },
+          { "id": "0b4417", "name": "오뎅", "price": 3000, "sortOrder": 18 },
+          { "id": "267209", "name": "만두", "price": 3000, "sortOrder": 19 },
+          { "id": "888e32", "name": "공기밥", "price": 1000, "sortOrder": 20 },
+          {
+            "description": "(대) - 2000원",
+            "id": "f362d4",
+            "name": "음료수(소)",
+            "price": 1000,
+            "sortOrder": 21
+          },
+          { "id": "b2cc94", "name": "소주", "price": 2000, "sortOrder": 22 },
+          { "id": "3d8941", "name": "맥주", "price": 3000, "sortOrder": 23 },
+          {
+            "description": "(오후 3시까지 주문가능) 돼지두루치기 + 공기밥2개 or 소주1병",
+            "id": "94c799",
+            "name": "점심특선",
+            "price": 12000,
+            "sortOrder": 24
+          }
+        ],
+        "name": "일반",
+        "sortOrder": 0
+      }
+    ],
+    "name": "꼬치&닭발",
+    "sortOrder": 8,
+    "time": { "from": 11, "to": 24 }
+  },
+  {
+    "address": "구영리 외환은행 2층",
+    "branch": "구영점",
+    "call": "052-246-8258",
+    "category": "others",
+    "condition": "과기원 3만원 이상 배달가능",
+    "id": "f37920",
+    "menuCount": 54,
+    "menuGroups": [
+      {
+        "id": "d5183e",
+        "menus": [
+          {
+            "description": "롤10+반우동",
+            "id": "382b8e",
+            "name": "캘리포니아 정식",
+            "price": 7500,
+            "sortOrder": 0
+          },
+          {
+            "description": "우동(대)+1/2돈까스+공기밥",
+            "id": "cd50eb",
+            "name": "우동정식",
+            "price": 7000,
+            "sortOrder": 1
+          },
+          {
+            "description": "초밥5+메밀소바 (3월~10월)",
+            "id": "b58b45",
+            "name": "메밀정식",
+            "price": 9500,
+            "sortOrder": 2
+          },
+          {
+            "description": "초밥10+반우동",
+            "id": "f2cf9f",
+            "name": "초밥정식",
+            "price": 9500,
+            "sortOrder": 3
+          },
+          {
+            "description": "돈까스+롤3+반우동+공기밥",
+            "id": "8a06eb",
+            "name": "돈까스정식",
+            "price": 9500,
+            "sortOrder": 4
+          },
+          {
+            "description": "알밥+1/2돈까스+반우동",
+            "id": "eb0027",
+            "name": "알밥정식",
+            "price": 9500,
+            "sortOrder": 5
+          },
+          {
+            "description": "초밥4+롤4+돈까스&새우튀김+반우동",
+            "id": "bc6109",
+            "name": "모미지세트(1인)",
+            "price": 12000,
+            "sortOrder": 6
+          },
+          {
+            "description": "초밥6+롤6+돈까스+반우동2",
+            "id": "edcccb",
+            "name": "커플세트(2인)",
+            "price": 17500,
+            "sortOrder": 7
+          },
+          {
+            "description": "초밥10+롤10+돈까스+반우동2+알밥",
+            "id": "bfc22a",
+            "name": "마쯔리세트(2~3인)",
+            "price": 29000,
+            "sortOrder": 8
+          },
+          {
+            "description": "초밥10+롤10+우동(대)2+알밥+야끼우동+새우튀김5",
+            "id": "83499b",
+            "name": "스페셜세트",
+            "price": 48000,
+            "sortOrder": 9
+          },
+          {
+            "id": "5f6661",
+            "name": "로스까스(등심)",
+            "price": 7000,
+            "sortOrder": 10
+          },
+          { "id": "47772a", "name": "치즈돈까스", "price": 8000, "sortOrder": 11 },
+          { "id": "eee6b2", "name": "생선까스", "price": 8000, "sortOrder": 12 },
+          {
+            "description": "10미",
+            "id": "6a8c38",
+            "name": "새우튀김",
+            "price": 15000,
+            "sortOrder": 13
+          },
+          { "id": "2e542e", "name": "새우&돈까스", "price": 9500, "sortOrder": 14 },
+          {
+            "description": "(돈까스 롤)",
+            "id": "f94517",
+            "name": "크런치키스",
+            "price": 7000,
+            "sortOrder": 15
+          },
+          {
+            "description": "(새우튀김,칠리소스 롤)",
+            "id": "68e8dd",
+            "name": "쉬림프롤",
+            "price": 7000,
+            "sortOrder": 16
+          },
+          {
+            "description": "(날치알 롤)",
+            "id": "4e4b88",
+            "name": "캘리포니아 드림",
+            "price": 6000,
+            "sortOrder": 17
+          },
+          {
+            "description": "(훈제연어 롤)",
+            "id": "ea829b",
+            "name": "연어롤",
+            "price": 9000,
+            "sortOrder": 18
+          },
+          {
+            "description": "(장어구이 롤)",
+            "id": "f42d31",
+            "name": "드래곤롤",
+            "price": 6000,
+            "sortOrder": 19
+          },
+          { "id": "86cac3", "name": "소불고기덮밥", "price": 7000, "sortOrder": 20 },
+          { "id": "560275", "name": "참치회덮밥", "price": 6000, "sortOrder": 21 },
+          { "id": "ff0fe6", "name": "새우튀김덮밥", "price": 7000, "sortOrder": 22 },
+          { "id": "c738db", "name": "돈까스덮밥", "price": 6000, "sortOrder": 23 },
+          { "id": "e4c6a9", "name": "장어덮밥", "price": 10000, "sortOrder": 24 },
+          { "id": "e5e024", "name": "치킨덮밥", "price": 7000, "sortOrder": 25 },
+          { "id": "fe1bcd", "name": "카레라이스", "price": 6000, "sortOrder": 26 },
+          { "id": "533138", "name": "새우튀김카레", "price": 8000, "sortOrder": 27 },
+          { "id": "dcc1c5", "name": "돈까스카레", "price": 8000, "sortOrder": 28 },
+          { "id": "5c7b5f", "name": "고로케카레", "price": 8000, "sortOrder": 29 },
+          { "id": "eea5a0", "name": "치킨카레", "price": 8000, "sortOrder": 30 },
+          {
+            "description": "5조각",
+            "id": "8561b0",
+            "name": "일본식유부초밥",
+            "price": 6000,
+            "sortOrder": 31
+          },
+          { "id": "f0cff8", "name": "알밥", "price": 6000, "sortOrder": 32 },
+          {
+            "description": "10조각",
+            "id": "acc338",
+            "name": "한치초밥",
+            "price": 7000,
+            "sortOrder": 33
+          },
+          {
+            "description": "10조각",
+            "id": "87ce40",
+            "name": "새우초밥",
+            "price": 8000,
+            "sortOrder": 34
+          },
+          {
+            "description": "10조각",
+            "id": "b8acee",
+            "name": "생새우초밥",
+            "price": 9000,
+            "sortOrder": 35
+          },
+          {
+            "description": "10조각",
+            "id": "20d54c",
+            "name": "장어초밥",
+            "price": 9000,
+            "sortOrder": 36
+          },
+          {
+            "description": "10조각",
+            "id": "1e237f",
+            "name": "연어초밥",
+            "price": 9000,
+            "sortOrder": 37
+          },
+          {
+            "description": "10조각",
+            "id": "ab0bbb",
+            "name": "생선초밥",
+            "price": 9000,
+            "sortOrder": 38
+          },
+          {
+            "description": "10조각",
+            "id": "b80376",
+            "name": "모듬초밥",
+            "price": 9000,
+            "sortOrder": 39
+          },
+          {
+            "description": "10조가",
+            "id": "4a4cbd",
+            "name": "소고기초밥",
+            "price": 10000,
+            "sortOrder": 40
+          },
+          {
+            "description": "10조가",
+            "id": "7690e3",
+            "name": "참치타다끼초밥",
+            "price": 10000,
+            "sortOrder": 41
+          },
+          {
+            "description": "20조각",
+            "id": "3d9b8f",
+            "name": "모듬초밥",
+            "price": 17000,
+            "sortOrder": 42
+          },
+          {
+            "description": "30조각",
+            "id": "3eae69",
+            "name": "모듬초밥",
+            "price": 26000,
+            "sortOrder": 43
+          },
+          { "id": "5d24ae", "name": "우동", "price": 4500, "sortOrder": 44 },
+          { "id": "2d3db0", "name": "얼큰김치우동", "price": 5000, "sortOrder": 45 },
+          {
+            "description": "(3월~10월)",
+            "id": "60e493",
+            "name": "메밀소바",
+            "price": 6000,
+            "sortOrder": 46
+          },
+          { "id": "39a8e5", "name": "어묵우동", "price": 6000, "sortOrder": 47 },
+          { "id": "8ffc37", "name": "새우튀김우동", "price": 7000, "sortOrder": 48 },
+          { "id": "53b52a", "name": "해물우동", "price": 7000, "sortOrder": 49 },
+          { "id": "c32b81", "name": "해물야끼우동", "price": 8000, "sortOrder": 50 },
+          { "id": "56fc76", "name": "베이컨야끼우동", "price": 8000, "sortOrder": 51 },
+          { "id": "7205d8", "name": "나가사끼짬뽕", "price": 8000, "sortOrder": 52 },
+          {
+            "description": "(대) - 2000",
+            "id": "d5cbe4",
+            "name": "콜라/사이다(소)",
+            "price": 1000,
+            "sortOrder": 53
+          }
+        ],
+        "name": "일반",
+        "sortOrder": 0
+      }
+    ],
+    "name": "스시마쯔리",
+    "sortOrder": 9
+  },
+  {
+    "branch": "범서점",
+    "call": "052-248-4080",
+    "category": "others",
+    "condition": "과기원 20000원 이상 배달가능",
+    "id": "398170",
+    "menuCount": 17,
+    "menuGroups": [
+      {
+        "id": "f95393",
+        "menus": [
+          { "id": "02e28d", "name": "등심까스", "price": 7000, "sortOrder": 0 },
+          { "id": "3aa49e", "name": "안심돈까스", "price": 8500, "sortOrder": 1 },
+          { "id": "830962", "name": "왕돈까스", "price": 9500, "sortOrder": 2 },
+          { "id": "82e20e", "name": "김치볶음밥", "price": 7000, "sortOrder": 3 },
+          { "id": "b59196", "name": "낙지볶음밥", "price": 8000, "sortOrder": 4 },
+          { "id": "63e969", "name": "고구마돈까스", "price": 8500, "sortOrder": 5 },
+          { "id": "19c8af", "name": "고구마치즈돈까스", "price": 9000, "sortOrder": 6 },
+          { "id": "f2b6d1", "name": "생선까스", "price": 8500, "sortOrder": 7 },
+          { "id": "7f6317", "name": "치즈돈까스", "price": 8500, "sortOrder": 8 },
+          { "id": "1c0fbb", "name": "햄치즈돈까스", "price": 9000, "sortOrder": 9 },
+          { "id": "e5d4e4", "name": "단호박돈까스", "price": 8500, "sortOrder": 10 },
+          {
+            "id": "364a38",
+            "name": "단호박치즈돈까스",
+            "price": 9000,
+            "sortOrder": 11
+          },
+          { "id": "4b9c08", "name": "치킨까스", "price": 8500, "sortOrder": 12 },
+          {
+            "description": "얼큰한 맛 - 5500",
+            "id": "d8c1a0",
+            "name": "우동(시원한 맛)",
+            "price": 5000,
+            "sortOrder": 13
+          },
+          {
+            "description": "추가요금",
+            "id": "2ce312",
+            "name": "매운소스",
+            "price": 500,
+            "sortOrder": 14
+          },
+          {
+            "description": "추가요금",
+            "id": "0dce75",
+            "name": "안심",
+            "price": 2500,
+            "sortOrder": 15
+          },
+          {
+            "description": "추가요금",
+            "id": "0d047a",
+            "name": "치킨",
+            "price": 2500,
+            "sortOrder": 16
+          }
+        ],
+        "name": "일반",
+        "sortOrder": 0
+      }
+    ],
+    "name": "카츠애 돈까스",
+    "sortOrder": 10,
+    "time": { "from": 11, "to": 23 }
+  },
+  {
+    "branch": "범서점",
+    "call": "052-211-8089",
+    "category": "hamburgerAndPizza",
+    "condition": "과기원 20000원 이상 배달가능, 매월 둘째주 화요일 휴무",
+    "id": "97b852",
+    "menuCount": 24,
+    "menuGroups": [
+      {
+        "id": "4dd2b0",
+        "menus": [
+          {
+            "description": "공룡알피자 12900",
+            "id": "b324a2",
+            "name": "(일반피자) 슈퍼슈프림 공룡피자",
+            "price": 15900,
+            "sortOrder": 0
+          },
+          {
+            "description": "13900",
+            "id": "94fe39",
+            "name": "(일반피자)불고기피자 / 치즈피자 / 페파로니",
+            "price": 16900,
+            "sortOrder": 1
+          },
+          {
+            "description": "14900",
+            "id": "42b9e1",
+            "name": "(일반피자)포테이토베이컨 / 치킨바베큐 / 고구마",
+            "price": 17900,
+            "sortOrder": 2
+          },
+          {
+            "description": "15900",
+            "id": "12cbd9",
+            "name": "(일반피자)쉬림프크래미 / 스테이크피자",
+            "price": 20900,
+            "sortOrder": 3
+          },
+          {
+            "description": "14900",
+            "id": "7277e4",
+            "name": "(크런치골드) 슈퍼슈프리",
+            "price": 18900,
+            "sortOrder": 4
+          },
+          {
+            "description": "15900",
+            "id": "50add7",
+            "name": "(크런치골드) 불고기피자 / 치즈피자 / 페파로니",
+            "price": 19900,
+            "sortOrder": 5
+          },
+          {
+            "description": "16900",
+            "id": "f486d2",
+            "name": "(크런치골드) 포테이토베이컨 / 치킨바베큐 / 고구마",
+            "price": 20900,
+            "sortOrder": 6
+          },
+          {
+            "description": "17900",
+            "id": "f9aef6",
+            "name": "(크런치골드) 쉬림프크래미 / 스테이크피자",
+            "price": 23900,
+            "sortOrder": 7
+          },
+          {
+            "description": "14900",
+            "id": "595b39",
+            "name": "(치즈크러스트피자) 슈퍼슈프리",
+            "price": 20900,
+            "sortOrder": 8
+          },
+          {
+            "description": "15900",
+            "id": "a82ab9",
+            "name": "(치즈크러스트피자) 불고기피자 / 치즈피자 / 페파로니",
+            "price": 21900,
+            "sortOrder": 9
+          },
+          {
+            "description": "16900",
+            "id": "629ea3",
+            "name": "(치즈크러스트피자) 포테이토베이컨 / 치킨바베큐 / 고구마",
+            "price": 22900,
+            "sortOrder": 10
+          },
+          {
+            "description": "17900",
+            "id": "337de0",
+            "name": "(치즈크러스트피자) 쉬림프크래미 / 스테이크피자",
+            "price": 24900,
+            "sortOrder": 11
+          },
+          {
+            "description": "16900",
+            "id": "7ebb68",
+            "name": "(치즈바이트피자) 슈퍼슈프리",
+            "price": 22900,
+            "sortOrder": 12
+          },
+          {
+            "description": "17900",
+            "id": "41d029",
+            "name": "(치즈바이트피자)불고기피자 / 치즈피자 / 페파로니",
+            "price": 23900,
+            "sortOrder": 13
+          },
+          {
+            "description": "18900",
+            "id": "0be95c",
+            "name": "(치즈바이트피자)포테이토베이컨 / 치킨바베큐 / 고구마",
+            "price": 24900,
+            "sortOrder": 14
+          },
+          {
+            "description": "19900",
+            "id": "82ae06",
+            "name": "(치즈바이트피자)쉬림프크래미 / 스테이크피자",
+            "price": 26900,
+            "sortOrder": 15
+          },
+          { "id": "fd3902", "name": "피", "price": 200, "sortOrder": 16 },
+          { "id": "12500c", "name": "치즈가루", "price": 200, "sortOrder": 17 },
+          { "id": "b9294e", "name": "핫소스", "price": 100, "sortOrder": 18 },
+          { "id": "f4365d", "name": "콜라500ml", "price": 1100, "sortOrder": 19 },
+          {
+            "id": "c0180f",
+            "name": "콜라 1.25l",
+            "price": 1700,
+            "sortOrder": 20
+          },
+          {
+            "id": "16af64",
+            "name": "치즈스틱 5조가",
+            "price": 4000,
+            "sortOrder": 21
+          },
+          {
+            "id": "b5ab10",
+            "name": "핫윙봉 10조가",
+            "price": 8000,
+            "sortOrder": 22
+          },
+          { "id": "adaa9e", "name": "갈릭디핑소스", "price": 500, "sortOrder": 23 }
+        ],
+        "name": "일반",
+        "sortOrder": 0
+      }
+    ],
+    "name": "피자빅 (공룡피자)",
+    "sortOrder": 11,
+    "time": { "from": 10, "to": 26 }
+  },
+  {
+    "branch": "범서점",
+    "call": "052-212-9966",
+    "category": "chicken",
+    "condition": "과기원 2만원 이상 배달가능",
+    "id": "92c594",
+    "menuCount": 17,
+    "menuGroups": [
+      {
+        "id": "e92fad",
+        "menus": [
+          {
+            "description": "후라이드+양념",
+            "id": "fcd452",
+            "name": "순살세트1",
+            "price": 20000,
+            "sortOrder": 0
+          },
+          {
+            "description": "후라이드+골드",
+            "id": "e21262",
+            "name": "순살세트2",
+            "price": 20000,
+            "sortOrder": 1
+          },
+          {
+            "description": "골드+양념",
+            "id": "205c38",
+            "name": "순살세트3",
+            "price": 21000,
+            "sortOrder": 2
+          },
+          {
+            "description": "골드+땡초",
+            "id": "e656a9",
+            "name": "순살세트4",
+            "price": 22000,
+            "sortOrder": 3
+          },
+          {
+            "description": "후라이드+땡초",
+            "id": "b4bf36",
+            "name": "순살세트5",
+            "price": 21000,
+            "sortOrder": 4
+          },
+          { "id": "b418b4", "name": "후라이드치킨", "price": 16000, "sortOrder": 5 },
+          { "id": "763660", "name": "양념치킨", "price": 16000, "sortOrder": 6 },
+          {
+            "description": "양념반 후라이드반",
+            "id": "2eb5e7",
+            "name": "반반치킨",
+            "price": 16000,
+            "sortOrder": 7
+          },
+          {
+            "description": "간장",
+            "id": "be957c",
+            "name": "골드한마리",
+            "price": 16000,
+            "sortOrder": 8
+          },
+          {
+            "id": "3419b2",
+            "name": "멕시윙/핀/듀오",
+            "price": 17000,
+            "sortOrder": 9
+          },
+          { "id": "5a4e90", "name": "간장소스윙", "price": 18000, "sortOrder": 10 },
+          { "id": "7139c5", "name": "매콤한윙", "price": 18000, "sortOrder": 11 },
+          { "id": "121a85", "name": "달콤한윙", "price": 18000, "sortOrder": 12 },
+          { "id": "d0a361", "name": "땡초치킨", "price": 17000, "sortOrder": 13 },
+          {
+            "description": "순살 - 18000원",
+            "id": "0d7019",
+            "name": "파닭",
+            "price": 17000,
+            "sortOrder": 14
+          },
+          {
+            "description": "순살 - 18000원",
+            "id": "6bf3bc",
+            "name": "눈꽃치즈치킨",
+            "price": 17000,
+            "sortOrder": 15
+          },
+          { "id": "ca53c0", "name": "마늘치킨", "price": 18000, "sortOrder": 16 }
+        ],
+        "name": "일반",
+        "sortOrder": 0
+      }
+    ],
+    "name": "멕시카나치킨",
+    "sortOrder": 12
+  },
+  {
+    "address": "울주군 범서읍 구영리 799-5",
+    "branch": "구영점",
+    "call": "052-245-9996",
+    "category": "others",
+    "condition": "과기원 30000원 이상 배달가능",
+    "id": "d03548",
+    "menuCount": 10,
+    "menuGroups": [
+      {
+        "id": "4e2b7d",
+        "menus": [
+          {
+            "description": "2인분이상 주문가능",
+            "id": "7b3a21",
+            "name": "홍담뼈없는불닭발",
+            "price": 7500,
+            "sortOrder": 0
+          },
+          {
+            "description": "2인분이상 주문가능",
+            "id": "77babb",
+            "name": "홍담통불닭발",
+            "price": 7500,
+            "sortOrder": 1
+          },
+          { "id": "088f36", "name": "불오돌뼈", "price": 12000, "sortOrder": 2 },
+          { "id": "e794f0", "name": "영계통구이", "price": 10000, "sortOrder": 3 },
+          { "id": "f45bd5", "name": "불똥집", "price": 10000, "sortOrder": 4 },
+          { "id": "dcbabb", "name": "불떡볶이", "price": 5000, "sortOrder": 5 },
+          { "id": "0b58b0", "name": "누룽지탕", "price": 5000, "sortOrder": 6 },
+          { "id": "28d838", "name": "어묵탕", "price": 8000, "sortOrder": 7 },
+          { "id": "79ee78", "name": "계란찜", "price": 3000, "sortOrder": 8 },
+          { "id": "e51fa4", "name": "날치알주먹밥", "price": 3000, "sortOrder": 9 }
+        ],
+        "name": "일반",
+        "sortOrder": 0
+      }
+    ],
+    "name": "홍담 불닭발",
+    "sortOrder": 13,
+    "time": { "from": 17, "to": 25 }
+  },
+  {
+    "branch": "천상구영점",
+    "call": "052-247-9300",
+    "category": "chicken",
+    "condition": "없음",
+    "id": "3c51db",
+    "menuCount": 15,
+    "menuGroups": [
+      {
+        "id": "5fb868",
+        "menus": [
+          {
+            "description": "후라이드+데리야끼+콜라",
+            "id": "dd29bd",
+            "name": "두마리세트1",
+            "price": 18000,
+            "sortOrder": 0
+          },
+          {
+            "description": "후라이드+양념+콜라",
+            "id": "e598b4",
+            "name": "두마리세트2",
+            "price": 18000,
+            "sortOrder": 1
+          },
+          {
+            "description": "후라이드+훈제+콜라",
+            "id": "080e85",
+            "name": "두마리세트3",
+            "price": 19000,
+            "sortOrder": 2
+          },
+          {
+            "description": "양념+데리야끼+콜라",
+            "id": "e64853",
+            "name": "두마리세트4",
+            "price": 19000,
+            "sortOrder": 3
+          },
+          {
+            "description": "칠리+후라이드+콜라",
+            "id": "506940",
+            "name": "두마리세트5",
+            "price": 18000,
+            "sortOrder": 4
+          },
+          {
+            "description": "칠리+데리야끼+콜라",
+            "id": "9463e5",
+            "name": "두마리세트6",
+            "price": 19000,
+            "sortOrder": 5
+          },
+          { "id": "f5238a", "name": "칠리치킨", "price": 14000, "sortOrder": 6 },
+          {
+            "description": "갈릭,핫소스 중 택1",
+            "id": "c9094c",
+            "name": "데리야끼치킨",
+            "price": 14000,
+            "sortOrder": 7
+          },
+          { "id": "bd39aa", "name": "양념치킨", "price": 14000, "sortOrder": 8 },
+          { "id": "5aee32", "name": "후라이드치킨", "price": 13000, "sortOrder": 9 },
+          { "id": "070101", "name": "훈제치킨", "price": 14000, "sortOrder": 10 },
+          { "id": "fb9d15", "name": "땡초핫치킨", "price": 15000, "sortOrder": 11 },
+          { "id": "5094cc", "name": "순살깐풍치킨", "price": 15000, "sortOrder": 12 },
+          { "id": "9d03b5", "name": "치즈후라이드", "price": 15000, "sortOrder": 13 },
+          {
+            "description": "후라이드(감자)+양념+깐풍+눈꽃치즈",
+            "id": "3ee726",
+            "name": "사계절치킨",
+            "price": 23000,
+            "sortOrder": 14
+          }
+        ],
+        "name": "일반",
+        "sortOrder": 0
+      }
+    ],
+    "name": "치킨파티",
+    "sortOrder": 14,
+    "time": { "from": 11, "to": 26 }
+  },
+  {
+    "branch": "천상점",
+    "call": "052-244-7995",
+    "category": "others",
+    "condition": "과기원 40000원 이상 배달가능",
+    "id": "3887ec",
+    "menuCount": 13,
+    "menuGroups": [
+      {
+        "id": "72e34e",
+        "menus": [
+          {
+            "description": "1kg",
+            "id": "54b947",
+            "name": "모듬회",
+            "price": 25000,
+            "sortOrder": 0
+          },
+          {
+            "description": "1kg",
+            "id": "5c1408",
+            "name": "광어회",
+            "price": 25000,
+            "sortOrder": 1
+          },
+          {
+            "description": "1kg",
+            "id": "f1a6b7",
+            "name": "우럭회",
+            "price": 25000,
+            "sortOrder": 2
+          },
+          {
+            "description": "1kg",
+            "id": "947f5b",
+            "name": "밀치",
+            "price": 25000,
+            "sortOrder": 3
+          },
+          {
+            "description": "1kg",
+            "id": "3246d9",
+            "name": "생우럭구이",
+            "price": 25000,
+            "sortOrder": 4
+          },
+          {
+            "description": "1kg",
+            "id": "f37a6d",
+            "name": "생우럭매운탕",
+            "price": 25000,
+            "sortOrder": 5
+          },
+          {
+            "description": "싯가에 따라 가격 별도",
+            "id": "c5fdee",
+            "name": "돌돔,참돔,농어",
+            "price": 0,
+            "sortOrder": 6
+          },
+          {
+            "description": "싯가에 따라 가격 별도",
+            "id": "1f3bc5",
+            "name": "아나구회, 구이",
+            "price": 0,
+            "sortOrder": 7
+          },
+          {
+            "description": "싯가에 따라 가격 별도",
+            "id": "c1ac0c",
+            "name": "쥐치, 멍게, 낙지",
+            "price": 0,
+            "sortOrder": 8
+          },
+          {
+            "description": "싯가에 따라 가격 별도",
+            "id": "a6abda",
+            "name": "산오징어",
+            "price": 0,
+            "sortOrder": 9
+          },
+          {
+            "description": "싯가에 따라 가격 별도",
+            "id": "241051",
+            "name": "참가자미",
+            "price": 0,
+            "sortOrder": 10
+          },
+          { "id": "413efc", "name": "뼈넣은 매운탕", "price": 5000, "sortOrder": 11 },
+          {
+            "description": "싯가에 따라 가격 별도",
+            "id": "2ed0a7",
+            "name": "봄도다리",
+            "price": 0,
+            "sortOrder": 12
+          }
+        ],
+        "name": "일반",
+        "sortOrder": 0
+      }
+    ],
+    "name": "썰어썰어 횟집",
+    "sortOrder": 15,
+    "time": { "from": 11, "to": 24 }
+  },
+  {
+    "branch": "구영 천상점",
+    "call": "052-248-2333",
+    "category": "others",
+    "condition": "배달비 2000",
+    "id": "80eef0",
+    "menuCount": 5,
+    "menuGroups": [
+      {
+        "id": "649d6d",
+        "menus": [
+          {
+            "description": "중28000/대33000",
+            "id": "a9aae5",
+            "name": "아구찜",
+            "price": 23000,
+            "sortOrder": 0
+          },
+          {
+            "description": "중28000/대33000",
+            "id": "59dbe8",
+            "name": "미더덕찜",
+            "price": 23000,
+            "sortOrder": 1
+          },
+          {
+            "description": "중28000/대33000",
+            "id": "dfc482",
+            "name": "쭈꾸미",
+            "price": 23000,
+            "sortOrder": 2
+          },
+          {
+            "description": "중33000/대38000",
+            "id": "7fbdd5",
+            "name": "해물찜",
+            "price": 28000,
+            "sortOrder": 3
+          },
+          {
+            "description": "중33000/대38000",
+            "id": "5fa698",
+            "name": "해물아구찜",
+            "price": 28000,
+            "sortOrder": 4
+          }
+        ],
+        "name": "일반",
+        "sortOrder": 0
+      }
+    ],
+    "name": "부산 생 아구찜",
+    "sortOrder": 16,
+    "time": { "from": 10, "to": 0 }
+  },
+  {
+    "call": "052-212-0079",
+    "category": "others",
+    "condition": "X",
+    "id": "3d1146",
+    "menuCount": 8,
+    "menuGroups": [
+      {
+        "id": "77376a",
+        "menus": [
+          {
+            "description": "중30000/",
+            "id": "44cce3",
+            "name": "생아구찜/대구뽈",
+            "price": 25000,
+            "sortOrder": 0
+          },
+          {
+            "description": "특대40000",
+            "id": "6d8fe0",
+            "name": "생아구찜/대구뽈",
+            "price": 35000,
+            "sortOrder": 1
+          },
+          {
+            "description": "중35000",
+            "id": "01d7fb",
+            "name": "생아구불고",
+            "price": 30000,
+            "sortOrder": 2
+          },
+          {
+            "description": "특대45000",
+            "id": "3005f2",
+            "name": "생아구불고",
+            "price": 40000,
+            "sortOrder": 3
+          },
+          {
+            "description": "중33000",
+            "id": "340407",
+            "name": "해물아구",
+            "price": 28000,
+            "sortOrder": 4
+          },
+          {
+            "description": "특대45000",
+            "id": "9a741d",
+            "name": "해물아구찜",
+            "price": 38000,
+            "sortOrder": 5
+          },
+          {
+            "description": "중60000/대70000",
+            "id": "4b63d8",
+            "name": "생아구수",
+            "price": 50000,
+            "sortOrder": 6
+          },
+          {
+            "description": "중60000/대70000",
+            "id": "3d7782",
+            "name": "생아구탕/매운",
+            "price": 50000,
+            "sortOrder": 7
+          }
+        ],
+        "name": "일반",
+        "sortOrder": 0
+      }
+    ],
+    "name": "대윤 생 아구찜 대구뽈",
+    "sortOrder": 17,
+    "time": { "from": 9, "to": 25 }
+  },
+  {
+    "call": "052-248-7100",
+    "category": "others",
+    "condition": "배달비 3000",
+    "id": "3d78a8",
+    "menuCount": 12,
+    "menuGroups": [
+      {
+        "id": "0af4a5",
+        "menus": [
+          {
+            "description": "중38000/대45000",
+            "id": "2da5f1",
+            "name": "해물",
+            "price": 30000,
+            "sortOrder": 0
+          },
+          {
+            "description": "중38000/45000",
+            "id": "e13337",
+            "name": "생아구",
+            "price": 30000,
+            "sortOrder": 1
+          },
+          {
+            "description": "중43000/대50000",
+            "id": "2b586c",
+            "name": "갈비해물",
+            "price": 35000,
+            "sortOrder": 2
+          },
+          {
+            "description": "중43000/대50000",
+            "id": "7a6574",
+            "name": "생아구해물",
+            "price": 35000,
+            "sortOrder": 3
+          },
+          {
+            "description": "중35000/대42000",
+            "id": "9d4535",
+            "name": "꽃게찜/대하",
+            "price": 28000,
+            "sortOrder": 4
+          },
+          {
+            "description": "대55000",
+            "id": "c0231f",
+            "name": "해물",
+            "price": 45000,
+            "sortOrder": 5
+          },
+          {
+            "description": "중58000/대65000",
+            "id": "27dc70",
+            "name": "랍스터해물",
+            "price": 50000,
+            "sortOrder": 6
+          },
+          {
+            "description": "대50000",
+            "id": "ff86ea",
+            "name": "랍스터추",
+            "price": 25000,
+            "sortOrder": 7
+          },
+          { "id": "fa8449", "name": "문어추", "price": 10000, "sortOrder": 8 },
+          {
+            "id": "7bef29",
+            "name": "해물,갈비,아구수육추",
+            "price": 10000,
+            "sortOrder": 9
+          },
+          { "id": "a07cc3", "name": "치즈볶음", "price": 3000, "sortOrder": 10 },
+          {
+            "description": "매운맛/아주매운맛 선택가",
+            "id": "bd16dc",
+            "name": "순한맛/보통",
+            "price": 0,
+            "sortOrder": 11
+          }
+        ],
+        "name": "일반",
+        "sortOrder": 0
+      }
+    ],
+    "name": "찜들미",
+    "sortOrder": 18
+  },
+  {
+    "call": "052-243-6866",
+    "category": "others",
+    "condition": "배달비 2000",
+    "id": "e736b9",
+    "menuCount": 6,
+    "menuGroups": [
+      {
+        "id": "90b52a",
+        "menus": [
+          {
+            "description": "중23000/대28000",
+            "id": "79be4d",
+            "name": "부대찌",
+            "price": 18000,
+            "sortOrder": 0
+          },
+          {
+            "description": "중30000",
+            "id": "fa1e96",
+            "name": "한우곱창전",
+            "price": 20000,
+            "sortOrder": 1
+          },
+          {
+            "description": "대25000",
+            "id": "ba12b5",
+            "name": "낙돈두루치",
+            "price": 18000,
+            "sortOrder": 2
+          },
+          {
+            "description": "부대찌개2인분/공기밥2",
+            "id": "9f20e7",
+            "name": "점심특",
+            "price": 18000,
+            "sortOrder": 3
+          },
+          {
+            "description": "부대찌개3인분/공기밥3",
+            "id": "39f3b4",
+            "name": "점심특선2",
+            "price": 23000,
+            "sortOrder": 4
+          },
+          { "id": "23caee", "name": "공기밥/라면사", "price": 1000, "sortOrder": 5 }
+        ],
+        "name": "일반",
+        "sortOrder": 0
+      }
+    ],
+    "name": "의정부 부대찌개",
+    "sortOrder": 19,
+    "time": { "from": 10, "to": 0 }
+  },
+  {
+    "branch": "천상점",
+    "call": "052-248-9272",
+    "category": "others",
+    "condition": "배달비 3000",
+    "id": "a3e298",
+    "menuCount": 8,
+    "menuGroups": [
+      {
+        "id": "319ed1",
+        "menus": [
+          {
+            "description": "대,중-20000원,소-30000",
+            "id": "bb17e2",
+            "name": "생아구수육",
+            "price": 90000,
+            "sortOrder": 0
+          },
+          {
+            "description": "대 ,중소 -5000원",
+            "id": "1c8a99",
+            "name": "생아구찜",
+            "price": 40000,
+            "sortOrder": 1
+          },
+          {
+            "description": "대,중 소 각-10000원",
+            "id": "846b8e",
+            "name": "생아구 매운탕",
+            "price": 50000,
+            "sortOrder": 2
+          },
+          {
+            "description": "대,중소 각-10000",
+            "id": "33ed79",
+            "name": "해물찜",
+            "price": 50000,
+            "sortOrder": 3
+          },
+          { "id": "88b82b", "name": "생아구탕", "price": 13000, "sortOrder": 4 },
+          { "id": "b2847e", "name": "물회", "price": 12000, "sortOrder": 5 },
+          { "id": "b8307b", "name": "돈까스", "price": 6000, "sortOrder": 6 },
+          { "id": "5ee3e7", "name": "횟밥", "price": 10000, "sortOrder": 7 }
+        ],
+        "name": "일반",
+        "sortOrder": 0
+      }
+    ],
+    "name": "감포 생 아구찜 대구뽈찜",
+    "sortOrder": 20,
+    "time": { "from": 10, "to": 22 }
+  },
+  {
+    "branch": "구영점",
+    "call": "052-248-9053",
+    "category": "others",
+    "condition": "메뉴 1개  시 배달비 2000원",
+    "id": "80d50d",
+    "menuCount": 8,
+    "menuGroups": [
+      {
+        "id": "d2dadf",
+        "menus": [
+          {
+            "description": "대자기준,중-20000,소-30000원",
+            "id": "568c67",
+            "name": "생아구수육",
+            "price": 90000,
+            "sortOrder": 0
+          },
+          {
+            "description": "대자기준,중 소 -5000씩",
+            "id": "ceff0e",
+            "name": "생아구찜",
+            "price": 40000,
+            "sortOrder": 1
+          },
+          {
+            "description": "대자기준 , 중 소-10000원씩",
+            "id": "b4bce3",
+            "name": "생아구 매운탕",
+            "price": 50000,
+            "sortOrder": 2
+          },
+          {
+            "description": "대자기준,중 소 -10000",
+            "id": "bce262",
+            "name": "해물찜",
+            "price": 50000,
+            "sortOrder": 3
+          },
+          { "id": "0c28d2", "name": "생아구탕", "price": 13000, "sortOrder": 4 },
+          { "id": "78087e", "name": "물회", "price": 12000, "sortOrder": 5 },
+          { "id": "b4d08e", "name": "돈까스", "price": 6000, "sortOrder": 6 },
+          { "id": "9bca99", "name": "횟밥", "price": 10000, "sortOrder": 7 }
+        ],
+        "name": "일반",
+        "sortOrder": 0
+      }
+    ],
+    "name": "감포 생 아구찜 대구뽈찜",
+    "sortOrder": 21
+  },
+  {
+    "branch": "구영점",
+    "call": "052-245-5382",
+    "category": "jokbal",
+    "condition": "배달비 2000원",
+    "id": "50d464",
+    "menuCount": 11,
+    "menuGroups": [
+      {
+        "id": "a80cdf",
+        "menus": [
+          {
+            "description": "중:38000,대:47000",
+            "id": "ad7b6c",
+            "name": "모듬보싸",
+            "price": 29000,
+            "sortOrder": 0
+          },
+          {
+            "description": "중:33000,대:41000",
+            "id": "7cf408",
+            "name": "맛보쌈(김치)",
+            "price": 25000,
+            "sortOrder": 1
+          },
+          {
+            "description": "중:35000,대:43000",
+            "id": "d188be",
+            "name": "솜씨보싸",
+            "price": 27000,
+            "sortOrder": 2
+          },
+          {
+            "description": "대:34000",
+            "id": "aa0810",
+            "name": "부드러운족ㅂ",
+            "price": 31000,
+            "sortOrder": 3
+          },
+          { "id": "20c09f", "name": "반반족발", "price": 32000, "sortOrder": 4 },
+          { "id": "c7062e", "name": "매운화족발", "price": 28000, "sortOrder": 5 },
+          { "id": "916d28", "name": "냉채족발", "price": 28000, "sortOrder": 6 },
+          {
+            "description": "3인:46000,4인:55000",
+            "id": "44e047",
+            "name": "보족원쌈",
+            "price": 38000,
+            "sortOrder": 7
+          },
+          {
+            "description": "4인:55000",
+            "id": "60c1b6",
+            "name": "불족원쌈",
+            "price": 46000,
+            "sortOrder": 8
+          },
+          {
+            "description": "4인:49000",
+            "id": "27e906",
+            "name": "실속원쌈",
+            "price": 40000,
+            "sortOrder": 9
+          },
+          {
+            "description": "3인:35000,4인:43000",
+            "id": "89725a",
+            "name": "반반보",
+            "price": 27000,
+            "sortOrder": 10
+          }
+        ],
+        "name": "일반",
+        "sortOrder": 0
+      }
+    ],
+    "name": "원할머니 보쌈 족발",
+    "sortOrder": 22,
+    "time": { "from": 11, "to": 24 }
+  },
+  {
+    "address": "울산시 울주군 범서읍 구영리 375-2",
+    "branch": "구영 천상점",
+    "call": "052-211-5849",
+    "category": "jokbal",
+    "condition": "메뉴 1개는 현금결제만 가능 / 2개 이상은 카드 가능",
+    "id": "3673ec",
+    "menuCount": 8,
+    "menuGroups": [
+      {
+        "id": "942fe5",
+        "menus": [
+          {
+            "description": "뒷발:33000",
+            "id": "67a72a",
+            "name": "족",
+            "price": 29000,
+            "sortOrder": 0
+          },
+          {
+            "description": "대:33000",
+            "id": "68b80f",
+            "name": "보쌈",
+            "price": 29000,
+            "sortOrder": 1
+          },
+          { "id": "221704", "name": "직화불족발", "price": 32000, "sortOrder": 2 },
+          { "id": "79dad7", "name": "냉채족발", "price": 33000, "sortOrder": 3 },
+          { "id": "45074b", "name": "큰쟁반국수", "price": 12000, "sortOrder": 4 },
+          { "id": "5abdca", "name": "반반족발", "price": 34000, "sortOrder": 5 },
+          { "id": "769a7a", "name": "해물부추전", "price": 10000, "sortOrder": 6 },
+          { "id": "ac9aeb", "name": "얼큰술국", "price": 10000, "sortOrder": 7 }
+        ],
+        "name": "일반",
+        "sortOrder": 0
+      }
+    ],
+    "name": "가장 맛있는 족발",
+    "sortOrder": 23,
+    "time": { "from": 11, "to": 26 }
+  },
+  {
+    "address": "848-2번지",
+    "branch": "구영리",
+    "call": "052-212-9289",
+    "category": "others",
+    "condition": "배달료3천원부과",
+    "id": "879547",
+    "menuCount": 14,
+    "menuGroups": [
+      {
+        "id": "d18cc2",
+        "menus": [
+          { "id": "b4f894", "name": "순곱버섯전", "price": 35000, "sortOrder": 0 },
+          { "id": "ecdd6f", "name": "순곱버섯전골", "price": 30000, "sortOrder": 1 },
+          { "id": "5567cf", "name": "순대버섯전골", "price": 35000, "sortOrder": 2 },
+          { "id": "db7359", "name": "순대버섯전골", "price": 30000, "sortOrder": 3 },
+          {
+            "description": "소",
+            "id": "777f8d",
+            "name": "순대버섯전골",
+            "price": 25000,
+            "sortOrder": 4
+          },
+          { "id": "e667df", "name": "맛보기한판순대", "price": 12000, "sortOrder": 5 },
+          { "id": "40d589", "name": "순대추가", "price": 10000, "sortOrder": 6 },
+          { "id": "4319ee", "name": "곱창추가", "price": 10000, "sortOrder": 7 },
+          { "id": "2b7adc", "name": "편육추가", "price": 10000, "sortOrder": 8 },
+          {
+            "id": "81542f",
+            "name": "유부곱창버섯전골",
+            "price": 28000,
+            "sortOrder": 9
+          },
+          {
+            "id": "81c91f",
+            "name": "유부만두버섯전골",
+            "price": 280000,
+            "sortOrder": 10
+          },
+          { "id": "938294", "name": "유부만두찜", "price": 12000, "sortOrder": 11 },
+          { "id": "4e69bf", "name": "유부만두추가", "price": 10000, "sortOrder": 12 },
+          {
+            "description": "소",
+            "id": "b42edc",
+            "name": "순곱버섯전골",
+            "price": 25000,
+            "sortOrder": 13
+          }
+        ],
+        "name": "일반",
+        "sortOrder": 0
+      }
+    ],
+    "name": "순곱이네",
+    "sortOrder": 24,
+    "time": { "from": 0, "to": 26 }
+  },
+  {
+    "address": "울주군 범서읍 점촌3길 8-15",
+    "branch": "구영점",
+    "call": "052-248-6288",
+    "category": "others",
+    "condition": "배달비5천원",
+    "id": "0ea1db",
+    "menuCount": 25,
+    "menuGroups": [
+      {
+        "id": "6e1f04",
+        "menus": [
+          {
+            "description": "전복량3",
+            "id": "e88eef",
+            "name": "특전복죽",
+            "price": 20000,
+            "sortOrder": 0
+          },
+          {
+            "description": "전복량2",
+            "id": "37dbe4",
+            "name": "진전복죽",
+            "price": 15000,
+            "sortOrder": 1
+          },
+          { "id": "628897", "name": "전복죽", "price": 10000, "sortOrder": 2 },
+          { "id": "818d33", "name": "삼계전복죽", "price": 150000, "sortOrder": 3 },
+          { "id": "658cbb", "name": "간이편한죽", "price": 9500, "sortOrder": 4 },
+          { "id": "a4350e", "name": "매생이굴죽", "price": 9500, "sortOrder": 5 },
+          { "id": "70fdb9", "name": "삼계죽", "price": 9500, "sortOrder": 6 },
+          { "id": "38466f", "name": "신짬뽕죽", "price": 9500, "sortOrder": 7 },
+          { "id": "572c5c", "name": "게살죽", "price": 9000, "sortOrder": 8 },
+          { "id": "f36e8e", "name": "버섯굴죽", "price": 9000, "sortOrder": 9 },
+          { "id": "33f17c", "name": "불낙죽", "price": 9000, "sortOrder": 10 },
+          { "id": "d01f5e", "name": "해물죽", "price": 9000, "sortOrder": 11 },
+          { "id": "b23446", "name": "오곡쇠고기죽", "price": 8500, "sortOrder": 12 },
+          { "id": "bd4a0d", "name": "냉이바지락죽", "price": 8000, "sortOrder": 13 },
+          { "id": "5bba88", "name": "쇠고기버섯죽", "price": 8500, "sortOrder": 14 },
+          { "id": "f0e21b", "name": "참치야채죽", "price": 8000, "sortOrder": 15 },
+          { "id": "e5872e", "name": "낙지김치죽", "price": 8000, "sortOrder": 16 },
+          { "id": "caa0cf", "name": "새우죽", "price": 8000, "sortOrder": 17 },
+          { "id": "3a3dfb", "name": "쇠고기미역죽", "price": 7000, "sortOrder": 18 },
+          { "id": "65a860", "name": "야채죽", "price": 7000, "sortOrder": 19 },
+          { "id": "4a102b", "name": "잣죽", "price": 9500, "sortOrder": 20 },
+          { "id": "d3bb1f", "name": "흑임자죽", "price": 8000, "sortOrder": 21 },
+          { "id": "b64e17", "name": "녹두죽", "price": 8000, "sortOrder": 22 },
+          { "id": "f82156", "name": "동지팥죽", "price": 8000, "sortOrder": 23 },
+          { "id": "e03b70", "name": "단호박죽", "price": 8000, "sortOrder": 24 }
+        ],
+        "name": "일반",
+        "sortOrder": 0
+      }
+    ],
+    "name": "본죽",
+    "sortOrder": 25
+  },
+  {
+    "address": "구영리 819-2",
+    "branch": "구영점",
+    "call": "052-245-7001",
+    "category": "jokbal",
+    "condition": "없음",
+    "id": "c7b2f4",
+    "menuCount": 4,
+    "menuGroups": [
+      {
+        "id": "1c4a68",
+        "menus": [
+          {
+            "description": "중:27000,대:32000,특댁:37000",
+            "id": "2e4994",
+            "name": "왕족발",
+            "price": 22000,
+            "sortOrder": 0
+          },
+          {
+            "description": "중:30000,대:35000",
+            "id": "dac513",
+            "name": "냉채족ㅂ",
+            "price": 26000,
+            "sortOrder": 1
+          },
+          {
+            "description": "중:30000,대:35000",
+            "id": "999c9f",
+            "name": "족발불고기",
+            "price": 26000,
+            "sortOrder": 2
+          },
+          {
+            "description": "중:27000,대:32000",
+            "id": "99b5b6",
+            "name": "모듬족발",
+            "price": 22000,
+            "sortOrder": 3
+          }
+        ],
+        "name": "일반",
+        "sortOrder": 0
+      }
+    ],
+    "name": "한양 족발",
+    "sortOrder": 26,
+    "time": { "from": 12, "to": 26 }
+  },
+  {
+    "address": "구영리 385-1",
+    "branch": "구영천상점",
+    "call": "052-246-0096",
+    "category": "jokbal",
+    "condition": "소자는 주먹밥같이시킬시 배달가능, 중자부터는 그냥 배달가능, take out시 개당 3천원",
+    "id": "776443",
+    "menuCount": 14,
+    "menuGroups": [
+      {
+        "id": "4c8e28",
+        "menus": [
+          {
+            "description": "중:31000대:38000(치즈추가:3000,고기추가:10000)",
+            "id": "e0e997",
+            "name": "치즈족발",
+            "price": 26000,
+            "sortOrder": 0
+          },
+          {
+            "description": "중:28000,대:35000",
+            "id": "e2e11c",
+            "name": "왕족바베큐",
+            "price": 23000,
+            "sortOrder": 1
+          },
+          { "id": "46dbc4", "name": "냉채족발", "price": 28000, "sortOrder": 2 },
+          {
+            "description": "왕족바베큐+새콤달콤골뱅이무침",
+            "id": "a3dfde",
+            "name": "족뺑ㅇ",
+            "price": 35000,
+            "sortOrder": 3
+          },
+          {
+            "description": "중:28000대:35000",
+            "id": "6ea448",
+            "name": "보쌈바베큐",
+            "price": 23000,
+            "sortOrder": 4
+          },
+          {
+            "description": "보쌈바베큐+새콤달콤골뱅이무침",
+            "id": "7b49b6",
+            "name": "뽀뱅이",
+            "price": 35000,
+            "sortOrder": 5
+          },
+          { "id": "f8fc96", "name": "모듬바베큐", "price": 49000, "sortOrder": 6 },
+          { "id": "1751cf", "name": "미지족바베큐", "price": 30000, "sortOrder": 7 },
+          { "id": "c547eb", "name": "주먹밥", "price": 5000, "sortOrder": 8 },
+          { "id": "b2b2c2", "name": "매콤우동", "price": 4500, "sortOrder": 9 },
+          {
+            "description": "사리추가-우동:2000,오뎅:4000",
+            "id": "def4b9",
+            "name": "부산수제오뎅탕",
+            "price": 17000,
+            "sortOrder": 10
+          },
+          { "id": "7efb03", "name": "미니냉채", "price": 15000, "sortOrder": 11 },
+          { "id": "9ad692", "name": "물냉면", "price": 5500, "sortOrder": 12 },
+          { "id": "9d375e", "name": "비빔냉면", "price": 6000, "sortOrder": 13 }
+        ],
+        "name": "일반",
+        "sortOrder": 0
+      }
+    ],
+    "name": "오븐에 구운 매운 족발",
+    "sortOrder": 27,
+    "time": { "from": 17, "to": 24 }
+  },
+  {
+    "branch": "구영점",
+    "call": "052-248-5382",
+    "category": "jokbal",
+    "condition": "3만원 이상 사장님이 계실경우 그냥 배달 배달시 막구수를 주심",
+    "id": "55c2f8",
+    "menuCount": 9,
+    "menuGroups": [
+      {
+        "id": "967478",
+        "menus": [
+          {
+            "description": "중:30000,대:35000",
+            "id": "30e44f",
+            "name": "마늘보쌈",
+            "price": 27000,
+            "sortOrder": 0
+          },
+          { "id": "ce5ebc", "name": "모듬보쌈", "price": 45000, "sortOrder": 1 },
+          { "id": "afbbec", "name": "생굴보쌈", "price": 35000, "sortOrder": 2 },
+          {
+            "description": "대:52000",
+            "id": "47035f",
+            "name": "홍어 삼합보쌈",
+            "price": 42000,
+            "sortOrder": 3
+          },
+          {
+            "description": "대:36000",
+            "id": "c0797c",
+            "name": "돈통마늘족발",
+            "price": 32000,
+            "sortOrder": 4
+          },
+          { "id": "94b368", "name": "보쌈족발세트", "price": 54000, "sortOrder": 5 },
+          {
+            "id": "cc053e",
+            "name": "훈제오리마늘보쌈",
+            "price": 33000,
+            "sortOrder": 6
+          },
+          { "id": "a1901f", "name": "냉채족발", "price": 30000, "sortOrder": 7 },
+          { "id": "cbbe76", "name": "닭도리탕", "price": 27000, "sortOrder": 8 }
+        ],
+        "name": "일반",
+        "sortOrder": 0
+      }
+    ],
+    "name": "마늘 보쌈",
+    "sortOrder": 28,
+    "time": { "from": 11, "to": 23 }
+  },
+  {
+    "call": "052-224-3372",
+    "category": "others",
+    "condition": "배달비3천원 야채,고추,마늘,쌈장 배달시 2000 원 추가",
+    "id": "7f91f0",
+    "menuCount": 4,
+    "menuGroups": [
+      {
+        "id": "c2df8b",
+        "menus": [
+          {
+            "description": "1KG",
+            "id": "bd7687",
+            "name": "가자미",
+            "price": 27000,
+            "sortOrder": 0
+          },
+          {
+            "description": "1kG당 (고급어종에 따라 가격 변동됩니다.)",
+            "id": "213f27",
+            "name": "자연산모드",
+            "price": 23000,
+            "sortOrder": 1
+          },
+          {
+            "description": "1KG",
+            "id": "1b1f29",
+            "name": "자연산모",
+            "price": 29000,
+            "sortOrder": 2
+          },
+          {
+            "description": "1KG",
+            "id": "ff0c0a",
+            "name": "자연산모",
+            "price": 36000,
+            "sortOrder": 3
+          }
+        ],
+        "name": "일반",
+        "sortOrder": 0
+      }
+    ],
+    "name": "시장횟집",
+    "sortOrder": 29,
+    "time": { "from": 13, "to": 25 }
+  },
+  {
+    "call": "052-212-8868",
+    "category": "others",
+    "id": "ad957f",
+    "menuCount": 4,
+    "menuGroups": [
+      {
+        "id": "5b51b2",
+        "menus": [
+          {
+            "description": "대,중 소 각-10000원",
+            "id": "182cb1",
+            "name": "모듬회",
+            "price": 45000,
+            "sortOrder": 0
+          },
+          {
+            "description": "싯",
+            "id": "74df96",
+            "name": "자연산 모듬회",
+            "price": 0,
+            "sortOrder": 1
+          },
+          {
+            "description": "양념구이,소금구이120g)",
+            "id": "bb987b",
+            "name": "산꼼장어",
+            "price": 12000,
+            "sortOrder": 2
+          },
+          {
+            "description": "1KG",
+            "id": "8747c6",
+            "name": "가자미",
+            "price": 30000,
+            "sortOrder": 3
+          }
+        ],
+        "name": "일반",
+        "sortOrder": 0
+      }
+    ],
+    "name": "거제 회 센타",
+    "sortOrder": 30
+  },
+  {
+    "branch": "구영리점",
+    "call": "052-245-4634",
+    "category": "others",
+    "condition": "2만원이상",
+    "id": "c60afc",
+    "menuCount": 18,
+    "menuGroups": [
+      {
+        "id": "2da1d0",
+        "menus": [
+          {
+            "description": "궁물떡뽂이,모듬튀김,쿨피스",
+            "id": "bf25af",
+            "name": "세트메뉴",
+            "price": 12000,
+            "sortOrder": 0
+          },
+          {
+            "description": "궁물떡뽂이,오뎅탕or순대,모듬튀김,쿨피스",
+            "id": "1e8be6",
+            "name": "세트메뉴",
+            "price": 15000,
+            "sortOrder": 1
+          },
+          {
+            "description": "궁물떡뽁이,오뎅탕or순대,모듬튀김,컵밥,쿨피스",
+            "id": "308a3b",
+            "name": "세트메뉴",
+            "price": 18000,
+            "sortOrder": 2
+          },
+          {
+            "description": "궁물떡뽂이,오뎅탕or순대,모듬튀김,컵밥,사이드1,쿨피스",
+            "id": "23537d",
+            "name": "세트메뉴",
+            "price": 24000,
+            "sortOrder": 3
+          },
+          {
+            "description": "순한맛/매운맛",
+            "id": "32d713",
+            "name": "궁물떡뽂이",
+            "price": 3500,
+            "sortOrder": 4
+          },
+          { "id": "d78af4", "name": "순대", "price": 3000, "sortOrder": 5 },
+          { "id": "cb3f23", "name": "오뎅탕", "price": 3000, "sortOrder": 6 },
+          {
+            "description": "(김말이,튀김오뎅,오징어,고구마,단호박,야채,튀김만두,고추튀김,튀말이)",
+            "id": "5f5ddd",
+            "name": "모듬튀김",
+            "price": 6500,
+            "sortOrder": 7
+          },
+          { "id": "ae197c", "name": "참치마요컵밥", "price": 3000, "sortOrder": 8 },
+          { "id": "47e390", "name": "스팸마요컵밥", "price": 3000, "sortOrder": 9 },
+          {
+            "description": "통오징어튀김",
+            "id": "7a3586",
+            "name": "오짱",
+            "price": 6000,
+            "sortOrder": 10
+          },
+          { "id": "014f3e", "name": "벌집감자튀김", "price": 6000, "sortOrder": 11 },
+          {
+            "id": "76212a",
+            "name": "수제고구마치즈스틱",
+            "price": 500,
+            "sortOrder": 12
+          },
+          {
+            "description": "떡볶이 메뉴",
+            "id": "41549e",
+            "name": "치즈추가",
+            "price": 1000,
+            "sortOrder": 13
+          },
+          { "id": "54018e", "name": "삶은계란", "price": 500, "sortOrder": 14 },
+          {
+            "description": "1000CC",
+            "id": "668c78",
+            "name": "생맥주",
+            "price": 6000,
+            "sortOrder": 15
+          },
+          {
+            "description": "1000cc",
+            "id": "2ff069",
+            "name": "자몽생맥주",
+            "price": 8000,
+            "sortOrder": 16
+          },
+          { "id": "22bf82", "name": "쿨피스", "price": 2000, "sortOrder": 17 }
+        ],
+        "name": "일반",
+        "sortOrder": 0
+      }
+    ],
+    "name": "오 남포 궁물 떡볶이",
+    "sortOrder": 31
+  },
+  {
+    "branch": "구영 천상점",
+    "call": "052-212-3376",
+    "category": "others",
+    "condition": "2만원이상배달",
+    "id": "bf2122",
+    "menuCount": 19,
+    "menuGroups": [
+      {
+        "id": "d08d7e",
+        "menus": [
+          {
+            "description": "떡볶이+오뎅1+만두1",
+            "id": "16e084",
+            "name": "set1",
+            "price": 4500,
+            "sortOrder": 0
+          },
+          {
+            "description": "떡볶이+오뎅1+만두1+튀말이1+김말이1+쿨피스",
+            "id": "c5a483",
+            "name": "set2",
+            "price": 8000,
+            "sortOrder": 1
+          },
+          {
+            "description": "떡볶이+오뎅1+만두1+튀말이1+김말이1+쿨피스+김밥",
+            "id": "7d9a38",
+            "name": "set3",
+            "price": 11000,
+            "sortOrder": 2
+          },
+          {
+            "description": "떡볶이+오뎅1+만두1+튀말이1+김말이1+팥빙수",
+            "id": "e1f047",
+            "name": "set4",
+            "price": 11500,
+            "sortOrder": 3
+          },
+          {
+            "description": "떡볶이+치즈떡볶이1+오뎅2+만두2+튀말이1+김말이1+김밥",
+            "id": "600ad9",
+            "name": "set5",
+            "price": 13500,
+            "sortOrder": 4
+          },
+          {
+            "description": "떡볶이+치즈떡볶이1+오뎅2+만두2+튀말이2+김밥+쿨피스",
+            "id": "97007e",
+            "name": "set6",
+            "price": 15000,
+            "sortOrder": 5
+          },
+          {
+            "description": "떡볶이+치즈떡볶이1+오뎅2+만두2+튀말이2+김밥+치즈김밥+쿨피스",
+            "id": "7601c1",
+            "name": "set7",
+            "price": 17500,
+            "sortOrder": 6
+          },
+          {
+            "description": "치즈떡볶이2+오뎅2+만두2+튀말이2+김말이2+치즈김밥2+쿨피스",
+            "id": "80ab05",
+            "name": "set8",
+            "price": 21000,
+            "sortOrder": 7
+          },
+          {
+            "description": "",
+            "id": "410eb4",
+            "name": "떡볶이",
+            "price": 2500,
+            "sortOrder": 8
+          },
+          { "id": "7704b1", "name": "치즈떡볶이", "price": 3500, "sortOrder": 9 },
+          { "id": "ce303b", "name": "오뎅", "price": 1000, "sortOrder": 10 },
+          { "id": "bca006", "name": "만두", "price": 1000, "sortOrder": 11 },
+          { "id": "9c5f3e", "name": "튀말이", "price": 1000, "sortOrder": 12 },
+          { "id": "0be418", "name": "김말이", "price": 1000, "sortOrder": 13 },
+          { "id": "9bf45d", "name": "김밥辛", "price": 2000, "sortOrder": 14 },
+          { "id": "8aed26", "name": "치즈김밥辛", "price": 2500, "sortOrder": 15 },
+          { "id": "62d73a", "name": "쟁반빙수", "price": 8000, "sortOrder": 16 },
+          { "id": "c38df2", "name": "팥빙수", "price": 4000, "sortOrder": 17 },
+          { "id": "d99a13", "name": "쿨피스", "price": 1500, "sortOrder": 18 }
+        ],
+        "name": "일반",
+        "sortOrder": 0
+      }
+    ],
+    "name": "신전 떡볶이",
+    "sortOrder": 32
+  },
+  {
+    "branch": "구영점",
+    "call": "052-211-9492",
+    "category": "others",
+    "condition": "2인분이상",
+    "id": "2aa962",
+    "menuCount": 4,
+    "menuGroups": [
+      {
+        "id": "749326",
+        "menus": [
+          {
+            "description": "매운맛/순한맛",
+            "id": "2f3ca5",
+            "name": "아라쭈꾸미",
+            "price": 10000,
+            "sortOrder": 0
+          },
+          {
+            "description": "매운맛/순한맛",
+            "id": "f53709",
+            "name": "삼겹쭈꾸미",
+            "price": 10000,
+            "sortOrder": 1
+          },
+          {
+            "description": "매운맛/순한맛",
+            "id": "e6f9a2",
+            "name": "곱창쭈꾸미",
+            "price": 10000,
+            "sortOrder": 2
+          },
+          {
+            "description": "매운맛/순한맛",
+            "id": "fce398",
+            "name": "갈비쭈꾸미",
+            "price": 10000,
+            "sortOrder": 3
+          }
+        ],
+        "name": "일반",
+        "sortOrder": 0
+      }
+    ],
+    "name": "아라쭈꾸미",
+    "sortOrder": 33
+  },
+  {
+    "call": "052-243-1233",
+    "category": "others",
+    "condition": "배달비 2000",
+    "id": "39fa1f",
+    "menuCount": 4,
+    "menuGroups": [
+      {
+        "id": "cfda4f",
+        "menus": [
+          { "id": "979088", "name": "안동찜닭", "price": 18000, "sortOrder": 0 },
+          {
+            "description": "",
+            "id": "70b629",
+            "name": "안동찜닭",
+            "price": 23000,
+            "sortOrder": 1
+          },
+          {
+            "description": "",
+            "id": "60ae59",
+            "name": "안동찜닭",
+            "price": 28000,
+            "sortOrder": 2
+          },
+          {
+            "description": "",
+            "id": "045b9a",
+            "name": "안동찜닭 특대",
+            "price": 33000,
+            "sortOrder": 3
+          }
+        ],
+        "name": "일반",
+        "sortOrder": 0
+      }
+    ],
+    "name": "원조할매 안동찜",
+    "sortOrder": 34
+  },
+  {
+    "call": "052-243-3943",
+    "category": "others",
+    "condition": "현금만 가능",
+    "id": "2e8324",
+    "menuCount": 9,
+    "menuGroups": [
+      {
+        "id": "3ba7a6",
+        "menus": [
+          { "id": "2649b0", "name": "감자탕 소", "price": 26000, "sortOrder": 0 },
+          { "id": "079d1e", "name": "감자탕", "price": 32000, "sortOrder": 1 },
+          { "id": "dea95d", "name": "감자탕", "price": 38000, "sortOrder": 2 },
+          { "id": "ed92ab", "name": "뼈찜 소", "price": 31000, "sortOrder": 3 },
+          { "id": "968808", "name": "뼈찜 중", "price": 37000, "sortOrder": 4 },
+          { "id": "ac8eba", "name": "뼈찜 대", "price": 43000, "sortOrder": 5 },
+          { "id": "1a237f", "name": "해물뼈찜", "price": 34000, "sortOrder": 6 },
+          { "id": "6b076d", "name": "해물뼈찜", "price": 40000, "sortOrder": 7 },
+          { "id": "553f95", "name": "해물뼈찜 대", "price": 46000, "sortOrder": 8 }
+        ],
+        "name": "일반",
+        "sortOrder": 0
+      }
+    ],
+    "name": "맛나감자탕",
+    "sortOrder": 35
+  },
+  {
+    "branch": "범서점",
+    "call": "052-245-9281",
+    "category": "chicken",
+    "condition": "2인분 이상배달가능,  방학때는 24시까지",
+    "id": "0e2122",
+    "menuCount": 12,
+    "menuGroups": [
+      {
+        "id": "e982c6",
+        "menus": [
+          {
+            "description":
+              "후라이드 + (양념,간장,레몬,칠리,카레,불고기,치즈,눈꽃버터,간장치즈,간장눈꽃버터)중 택 1",
+            "id": "560f82",
+            "name": "순살두마리세트",
+            "price": 15000,
+            "sortOrder": 0
+          },
+          {
+            "description": "(양념,간장,레몬,칠리,카레,불고기,치즈,눈꽃버터,간장치즈,간장눈꽃버터)중 택 2",
+            "id": "1ce29e",
+            "name": "순살두마리세트2",
+            "price": 16000,
+            "sortOrder": 1
+          },
+          {
+            "description":
+              "후라이드 + (양념,간장,레몬,칠리,카레,불고기,치즈,눈꽃버터,간장치즈,간장눈꽃버터)중 택 2",
+            "id": "649e8d",
+            "name": "순살세마리세트",
+            "price": 20000,
+            "sortOrder": 2
+          },
+          {
+            "description":
+              "후라이드 + (양념,간장,레몬,칠리,카레,불고기,치즈,눈꽃버터,간장치즈,간장눈꽃버터)중 택 1",
+            "id": "04ff39",
+            "name": "뼈있는 두마리세트",
+            "price": 18000,
+            "sortOrder": 3
+          },
+          {
+            "description": "(양념,간장,레몬,칠리,카레,불고기,치즈,눈꽃버터,간장치즈,간장눈꽃버터)중 택 2",
+            "id": "6a88ef",
+            "name": "뼈있는 두마리세트2",
+            "price": 19000,
+            "sortOrder": 4
+          },
+          {
+            "id": "ae7b04",
+            "name": "후라이드 1마리",
+            "price": 13000,
+            "sortOrder": 5
+          },
+          {
+            "description": "(양념,간장,레몬,칠리,카레,불고기,치즈,눈꽃버터,간장치즈,간장눈꽃버터)중 택 1",
+            "id": "c57588",
+            "name": "치킨 1마리",
+            "price": 14000,
+            "sortOrder": 6
+          },
+          {
+            "description": "1500cc -6000원",
+            "id": "af499b",
+            "name": "맥주(1000cc)",
+            "price": 4000,
+            "sortOrder": 7
+          },
+          { "id": "f9a40e", "name": "소주", "price": 2000, "sortOrder": 8 },
+          { "id": "f7751b", "name": "병맥주", "price": 2000, "sortOrder": 9 },
+          { "id": "123e09", "name": "쿨피스(대)", "price": 1000, "sortOrder": 10 },
+          { "id": "e0032d", "name": "콜라(대)", "price": 1000, "sortOrder": 11 }
+        ],
+        "name": "일반",
+        "sortOrder": 0
+      }
+    ],
+    "name": "기똥찬 파닭",
+    "sortOrder": 36,
+    "time": { "from": 18, "to": 25 }
+  },
+  {
+    "branch": "구영점",
+    "call": "052-248-5992",
+    "category": "chicken",
+    "condition": "배달비 5000원",
+    "id": "f9f5e8",
+    "menuCount": 24,
+    "menuGroups": [
+      {
+        "id": "db9f9c",
+        "menus": [
+          { "id": "19e433", "name": "로스트 그릴드", "price": 14900, "sortOrder": 0 },
+          {
+            "id": "282198",
+            "name": "로스트 그릴드 윙",
+            "price": 16900,
+            "sortOrder": 1
+          },
+          {
+            "id": "98f0aa",
+            "name": "로스트 그릴드 순살",
+            "price": 16900,
+            "sortOrder": 2
+          },
+          { "id": "c0ee6d", "name": "크런치", "price": 15900, "sortOrder": 3 },
+          { "id": "4782e9", "name": "크런치 스틱", "price": 17900, "sortOrder": 4 },
+          { "id": "48d416", "name": "크런치 윙", "price": 17900, "sortOrder": 5 },
+          { "id": "96e2c0", "name": "크런치 순살", "price": 17900, "sortOrder": 6 },
+          {
+            "description": "한마리/반마리",
+            "id": "43cc31",
+            "name": "파파닭 로스트",
+            "price": 0,
+            "sortOrder": 7
+          },
+          {
+            "description": "한마리/반마리",
+            "id": "d18c25",
+            "name": "요거닭 샐러드",
+            "price": 0,
+            "sortOrder": 8
+          },
+          {
+            "description": "한마리/반마리",
+            "id": "1f9f8b",
+            "name": "까르보나라 치킨",
+            "price": 0,
+            "sortOrder": 9
+          },
+          {
+            "description": "윙/ 순살",
+            "id": "5d8aab",
+            "name": "페리페리",
+            "price": 18898,
+            "sortOrder": 10
+          },
+          {
+            "description": "한마리/순살",
+            "id": "d446c4",
+            "name": "반반메뉴",
+            "price": 0,
+            "sortOrder": 11
+          },
+          {
+            "description": "한마리/순살",
+            "id": "165a68",
+            "name": "간장찜닭",
+            "price": 0,
+            "sortOrder": 12
+          },
+          {
+            "id": "258054",
+            "name": "해물치킨두루치",
+            "price": 21900,
+            "sortOrder": 13
+          },
+          {
+            "id": "405681",
+            "name": "해물 깐풍홀릭",
+            "price": 21900,
+            "sortOrder": 14
+          },
+          {
+            "id": "d56784",
+            "name": "해물 핫 닭 볶음",
+            "price": 21900,
+            "sortOrder": 15
+          },
+          {
+            "description": "허니갈릭",
+            "id": "dfcb5a",
+            "name": "크런치 양념",
+            "price": 16900,
+            "sortOrder": 16
+          },
+          {
+            "description": "레드핫",
+            "id": "c77f73",
+            "name": "크런치양념",
+            "price": 16900,
+            "sortOrder": 17
+          },
+          {
+            "description": "꾸닭",
+            "id": "61e88c",
+            "name": "크런치 양념",
+            "price": 16900,
+            "sortOrder": 18
+          },
+          {
+            "description": "매콤아 달콤아",
+            "id": "541b9f",
+            "name": "크런치양념",
+            "price": 16900,
+            "sortOrder": 19
+          },
+          {
+            "description": "데리야끼",
+            "id": "d0f0e7",
+            "name": "크런치 양념",
+            "price": 16900,
+            "sortOrder": 20
+          },
+          {
+            "description": "조이칠리",
+            "id": "c92beb",
+            "name": "크런치 양념",
+            "price": 16900,
+            "sortOrder": 21
+          },
+          {
+            "description": "땡초야 마늘아",
+            "id": "6581ea",
+            "name": "크런치 양념",
+            "price": 17900,
+            "sortOrder": 22
+          },
+          {
+            "description": "순살이 치킨",
+            "id": "940aa3",
+            "name": "크런치 양념",
+            "price": 18900,
+            "sortOrder": 23
+          }
+        ],
+        "name": "일반",
+        "sortOrder": 0
+      }
+    ],
+    "name": "오븐에 꾸운 닭",
+    "sortOrder": 37
+  },
+  {
+    "branch": "범서.구영.천상",
+    "call": "052-248-9982",
+    "category": "chicken",
+    "condition": "2마리이상 배달가능",
+    "id": "aa3c1e",
+    "menuCount": 20,
+    "menuGroups": [
+      {
+        "id": "989556",
+        "menus": [
+          {
+            "description": "순살:19000",
+            "id": "424f11",
+            "name": "스노윙치킨 오리지나",
+            "price": 17000,
+            "sortOrder": 0
+          },
+          { "id": "56d405", "name": "오리엔탈 파닭", "price": 17000, "sortOrder": 1 },
+          {
+            "description": "마일드/핫",
+            "id": "443239",
+            "name": "후라이드",
+            "price": 15000,
+            "sortOrder": 2
+          },
+          { "id": "8f5660", "name": "양념치킨", "price": 16000, "sortOrder": 3 },
+          { "id": "21c26f", "name": "마늘치킨", "price": 17000, "sortOrder": 4 },
+          {
+            "id": "7f1425",
+            "name": "양념반,후라이드 반",
+            "price": 16000,
+            "sortOrder": 5
+          },
+          { "id": "f9a104", "name": "쇼킹핫양념치킨", "price": 17000, "sortOrder": 6 },
+          {
+            "description": "마일드/핫",
+            "id": "054c9b",
+            "name": "닭날개",
+            "price": 17000,
+            "sortOrder": 7
+          },
+          {
+            "description": "마일드/",
+            "id": "312b15",
+            "name": "닭다리",
+            "price": 17000,
+            "sortOrder": 8
+          },
+          {
+            "description": "마일드/",
+            "id": "a80387",
+            "name": "닭다리반, 닭날개",
+            "price": 17000,
+            "sortOrder": 9
+          },
+          {
+            "description": "마일드/",
+            "id": "af519a",
+            "name": "윙봉",
+            "price": 17000,
+            "sortOrder": 10
+          },
+          {
+            "description": "마일드/핫",
+            "id": "931343",
+            "name": "순살",
+            "price": 17000,
+            "sortOrder": 11
+          },
+          {
+            "description": "마일드/핫",
+            "id": "38164e",
+            "name": "후닭",
+            "price": 16000,
+            "sortOrder": 12
+          },
+          {
+            "description": "마일드/핫",
+            "id": "a0fbfe",
+            "name": "후닭윙봉",
+            "price": 18000,
+            "sortOrder": 13
+          },
+          {
+            "description": "순살:21000",
+            "id": "f6fcbe",
+            "name": "스노윙반/쇼킹핫반",
+            "price": 19000,
+            "sortOrder": 14
+          },
+          {
+            "description": "순살:20000",
+            "id": "c64f43",
+            "name": "스노윙 반/양념반",
+            "price": 18000,
+            "sortOrder": 15
+          },
+          {
+            "description": "순살:20000",
+            "id": "bd076d",
+            "name": "스노윙치즈 반 /야채반",
+            "price": 18000,
+            "sortOrder": 16
+          },
+          {
+            "description": "6개",
+            "id": "6eceaf",
+            "name": "네네스위틱",
+            "price": 3000,
+            "sortOrder": 17
+          },
+          {
+            "description": "3개",
+            "id": "20149b",
+            "name": "네네볼",
+            "price": 2500,
+            "sortOrder": 18
+          },
+          {
+            "description": "순살",
+            "id": "a6e536",
+            "name": "오렌지 치킨",
+            "price": 19000,
+            "sortOrder": 19
+          }
+        ],
+        "name": "일반",
+        "sortOrder": 0
+      }
+    ],
+    "name": "네네치킨",
+    "sortOrder": 38
+  },
+  {
+    "branch": "울산본점",
+    "call": "052-246-1101",
+    "category": "others",
+    "id": "e90603",
+    "menuCount": 13,
+    "menuGroups": [
+      {
+        "id": "0bb1c0",
+        "menus": [
+          {
+            "description": "반18000/한마리반30000",
+            "id": "7591c6",
+            "name": "빨간 야채 찜닭",
+            "price": 24000,
+            "sortOrder": 0
+          },
+          {
+            "description": "반18000/한마리 반30000",
+            "id": "a9e39e",
+            "name": "안동찜닭",
+            "price": 24000,
+            "sortOrder": 1
+          },
+          {
+            "description": "한마리+공기밥2",
+            "id": "45b52c",
+            "name": "점심특",
+            "price": 24000,
+            "sortOrder": 2
+          },
+          {
+            "description": "한마리반30000",
+            "id": "652b01",
+            "name": "조림",
+            "price": 22000,
+            "sortOrder": 3
+          },
+          {
+            "description": "대30000",
+            "id": "efc96f",
+            "name": "순살찜닭",
+            "price": 25000,
+            "sortOrder": 4
+          },
+          { "id": "0bbbd4", "name": "어린이 돈까스", "price": 6000, "sortOrder": 5 },
+          { "id": "c2aad2", "name": "뼈닭발조림", "price": 20000, "sortOrder": 6 },
+          {
+            "description": "대30000",
+            "id": "2d65b8",
+            "name": "순살조림닭",
+            "price": 25000,
+            "sortOrder": 7
+          },
+          { "id": "8f231f", "name": "밀떡", "price": 1000, "sortOrder": 8 },
+          { "id": "fdcc60", "name": "당면", "price": 2000, "sortOrder": 9 },
+          { "id": "1d622d", "name": "공기밥", "price": 1000, "sortOrder": 10 },
+          { "id": "425306", "name": "치즈", "price": 3000, "sortOrder": 11 },
+          {
+            "description": "한마리반+공기밥3",
+            "id": "6d91e1",
+            "name": "점심특선2",
+            "price": 30000,
+            "sortOrder": 12
+          }
+        ],
+        "name": "일반",
+        "sortOrder": 0
+      }
+    ],
+    "name": "왕통 찜닭.조림닭",
+    "sortOrder": 39
+  },
+  {
+    "call": "052-246-9022",
+    "category": "others",
+    "id": "172977",
+    "menuCount": 7,
+    "menuGroups": [
+      {
+        "id": "a22d58",
+        "menus": [
+          {
+            "description": "중23000/대28000",
+            "id": "41ca8f",
+            "name": "안동찜닭",
+            "price": 18000,
+            "sortOrder": 0
+          },
+          {
+            "description": "대30000",
+            "id": "ab9ff7",
+            "name": "순살찜닭",
+            "price": 25000,
+            "sortOrder": 1
+          },
+          {
+            "description": "큰놈",
+            "id": "a2a3c0",
+            "name": "조림닭",
+            "price": 25000,
+            "sortOrder": 2
+          },
+          { "id": "3adfa6", "name": "맥주", "price": 3000, "sortOrder": 3 },
+          { "id": "9f83a5", "name": "소주", "price": 2000, "sortOrder": 4 },
+          { "id": "e3f3f8", "name": "밥.음료", "price": 1000, "sortOrder": 5 },
+          { "id": "b77a4e", "name": "사리(당면,떡)", "price": 1000, "sortOrder": 6 }
+        ],
+        "name": "일반",
+        "sortOrder": 0
+      }
+    ],
+    "name": "숙이네 안동찜닭",
+    "sortOrder": 40
+  },
+  {
+    "call": "052-211-4600",
+    "category": "jokbal",
+    "id": "432692",
+    "menuCount": 12,
+    "menuGroups": [
+      {
+        "id": "006995",
+        "menus": [
+          {
+            "description": "소/중/대/특대",
+            "id": "10383c",
+            "name": "장충동왕족발",
+            "price": 0,
+            "sortOrder": 0
+          },
+          {
+            "description": "소/중/대/특대",
+            "id": "96d11c",
+            "name": "보쌈",
+            "price": 0,
+            "sortOrder": 1
+          },
+          {
+            "description": "소/중/대/특대",
+            "id": "767fc8",
+            "name": "바베큐마늘보쌈",
+            "price": 0,
+            "sortOrder": 2
+          },
+          {
+            "description": "소/중/대/특대",
+            "id": "a26dc9",
+            "name": "냉채족발",
+            "price": 0,
+            "sortOrder": 3
+          },
+          {
+            "description": "소/중/대/특대",
+            "id": "bcfd98",
+            "name": "마늘족발",
+            "price": 0,
+            "sortOrder": 4
+          },
+          {
+            "description": "소/중/대/특대",
+            "id": "17c89c",
+            "name": "매운양념족발",
+            "price": 0,
+            "sortOrder": 5
+          },
+          { "id": "358754", "name": "감자탕", "price": 23000, "sortOrder": 6 },
+          {
+            "description": "",
+            "id": "222090",
+            "name": "핵떡볶이",
+            "price": 12000,
+            "sortOrder": 7
+          },
+          { "id": "63db69", "name": "순대", "price": 10000, "sortOrder": 8 },
+          { "id": "3aeb07", "name": "닭발", "price": 12000, "sortOrder": 9 },
+          { "id": "94f8b9", "name": "핫도그", "price": 3000, "sortOrder": 10 },
+          { "id": "b2be33", "name": "쟁반국수", "price": 15000, "sortOrder": 11 }
+        ],
+        "name": "일반",
+        "sortOrder": 0
+      }
+    ],
+    "name": "장충동왕족발보쌈",
+    "sortOrder": 41
+  },
+  {
+    "branch": "범서점",
+    "call": "052-245-1922",
+    "category": "chicken",
+    "condition": "두마리 이상",
+    "id": "b2727e",
+    "menuCount": 22,
+    "menuGroups": [
+      {
+        "id": "254e8d",
+        "menus": [
+          { "id": "797771", "name": "뿌링클", "price": 17000, "sortOrder": 0 },
+          {
+            "id": "6ba0e5",
+            "name": "뿌링클 핫 치킨",
+            "price": 18000,
+            "sortOrder": 1
+          },
+          { "id": "862480", "name": "양념치킨", "price": 16000, "sortOrder": 2 },
+          { "id": "05e1d2", "name": "핫후라이드", "price": 16000, "sortOrder": 3 },
+          {
+            "id": "34fbfe",
+            "name": "닭날개 후라이드",
+            "price": 17000,
+            "sortOrder": 4
+          },
+          { "id": "b54cb8", "name": "치킨강정", "price": 18000, "sortOrder": 5 },
+          { "id": "0ffd84", "name": "순살치킨강정", "price": 19000, "sortOrder": 6 },
+          { "id": "3bec63", "name": "순살떡강정", "price": 19500, "sortOrder": 7 },
+          {
+            "id": "6061bd",
+            "name": "닭다리 후라이드",
+            "price": 17000,
+            "sortOrder": 8
+          },
+          { "id": "e5483a", "name": "간장골드치킨", "price": 16000, "sortOrder": 9 },
+          { "id": "299cc5", "name": "간장골드윙", "price": 17000, "sortOrder": 10 },
+          { "id": "b14c02", "name": "순살맛초킹", "price": 19000, "sortOrder": 11 },
+          { "id": "a6ea9e", "name": "맛초킹", "price": 17000, "sortOrder": 12 },
+          {
+            "description": "레몬요거트/애플요거트 소스 택1",
+            "id": "1c427a",
+            "name": "프리미엄 텐더 요레요레",
+            "price": 17000,
+            "sortOrder": 13
+          },
+          { "id": "f17c24", "name": "치즈볼", "price": 5000, "sortOrder": 14 },
+          {
+            "description": "5개",
+            "id": "6510f6",
+            "name": "뿌링치즈스틱",
+            "price": 4000,
+            "sortOrder": 15
+          },
+          { "id": "901a17", "name": "순살뿌링클", "price": 19000, "sortOrder": 16 },
+          {
+            "id": "5f5035",
+            "name": "순살뿌링클 핫",
+            "price": 20000,
+            "sortOrder": 17
+          },
+          { "id": "676a25", "name": "순살바삭클", "price": 18000, "sortOrder": 18 },
+          { "id": "e7ddbc", "name": "빅콜팝", "price": 11000, "sortOrder": 19 },
+          { "id": "738a8d", "name": "왕콜팝", "price": 4000, "sortOrder": 20 },
+          { "id": "9f5954", "name": "포테이토 콜팝", "price": 2500, "sortOrder": 21 }
+        ],
+        "name": "일반",
+        "sortOrder": 0
+      }
+    ],
+    "name": "BHC",
+    "sortOrder": 42,
+    "time": { "from": 12, "to": 24 }
+  },
+  {
+    "branch": "천상구영점",
+    "call": "052-246-8090",
+    "category": "chicken",
+    "id": "b772fb",
+    "menuCount": 19,
+    "menuGroups": [
+      {
+        "id": "e05036",
+        "menus": [
+          {
+            "description": "후라이드+양념+감자튀김+똥집+비빔국수+콜라大",
+            "id": "07fdac",
+            "name": "순살모듬스페셜",
+            "price": 19000,
+            "sortOrder": 0
+          },
+          {
+            "description": "후라이드+간자+감자튀김+똥집+비빔국수+콜라大",
+            "id": "84db7a",
+            "name": "순살모듬스페셔",
+            "price": 19000,
+            "sortOrder": 1
+          },
+          {
+            "description": "간장+양념+감자튀김+똥집+비빔국수+콜라大",
+            "id": "a02502",
+            "name": "순살모듬스페셜",
+            "price": 20000,
+            "sortOrder": 2
+          },
+          {
+            "description": "후라이드+순살매운양념+감자튀김+똥집+비빔국수+콜라大",
+            "id": "4fa739",
+            "name": "순살모듬스페셔",
+            "price": 20000,
+            "sortOrder": 3
+          },
+          {
+            "description": "간장+매운양념+감자튀김+똥집+비빔국수+콜라大",
+            "id": "7e4199",
+            "name": "순살모듬스페셜",
+            "price": 20000,
+            "sortOrder": 4
+          },
+          {
+            "description": "파닭후라이드+파닭양념+비빔국수+콜라大",
+            "id": "e8bb9e",
+            "name": "순살파닭스페셜",
+            "price": 18000,
+            "sortOrder": 5
+          },
+          {
+            "description": "파닭후라이드+파닭간장+비빔국수+콜라大",
+            "id": "3e9065",
+            "name": "순살파닭스페셜",
+            "price": 18000,
+            "sortOrder": 6
+          },
+          {
+            "description": "파닭간장+파닭양념+비빔국수+콜라大",
+            "id": "488a94",
+            "name": "순살파닭스페셜",
+            "price": 19000,
+            "sortOrder": 7
+          },
+          {
+            "description": "파닭세가지맛+(후라이드+양념+간장)+비빔국수+콜라大",
+            "id": "390f34",
+            "name": "순살파닭스페셜",
+            "price": 19000,
+            "sortOrder": 8
+          },
+          {
+            "description": "파닭후라이드+파닭매우양념+비빔국수+콜라大",
+            "id": "970724",
+            "name": "순살파닭스페셜",
+            "price": 18000,
+            "sortOrder": 9
+          },
+          {
+            "description": "파닭간장+파닭매운양념+비빔국수+콜라大",
+            "id": "defecf",
+            "name": "순살파닭스페셜",
+            "price": 19000,
+            "sortOrder": 10
+          },
+          {
+            "description": "후라이드+후라이드+콜라500ml",
+            "id": "6f3c75",
+            "name": "순살2마리세트",
+            "price": 16000,
+            "sortOrder": 11
+          },
+          {
+            "description": "후라이드+양념치킨+콜라500ml",
+            "id": "555eaf",
+            "name": "순살2마리세트",
+            "price": 16000,
+            "sortOrder": 12
+          },
+          {
+            "description": "후라이드+간장+콜라500ml",
+            "id": "1dece3",
+            "name": "순살2마리세트",
+            "price": 16000,
+            "sortOrder": 13
+          },
+          {
+            "description": "양념+간장+콜라500ml",
+            "id": "92bf35",
+            "name": "순살2마리세트",
+            "price": 17000,
+            "sortOrder": 14
+          },
+          {
+            "description": "후라이드+간장+양념",
+            "id": "f7df71",
+            "name": "순살3마리세트",
+            "price": 25000,
+            "sortOrder": 15
+          },
+          {
+            "description": "후라이드+양념+간장+비빔국수+콜라大",
+            "id": "944770",
+            "name": "순살파닭3마리세트",
+            "price": 27000,
+            "sortOrder": 16
+          },
+          {
+            "description": "양념(간장)+양념+간장+비빔국수+콜라大(파대신떡가능)",
+            "id": "7723fc",
+            "name": "순살파닭3마리세트",
+            "price": 28000,
+            "sortOrder": 17
+          },
+          {
+            "description": "순살후라이드한마리+비빔국수+콜라500ml",
+            "id": "e23439",
+            "name": "시을스페셜",
+            "price": 13000,
+            "sortOrder": 18
+          }
+        ],
+        "name": "일반",
+        "sortOrder": 0
+      }
+    ],
+    "name": "쫄파촌닭",
+    "sortOrder": 43
+  },
+  {
+    "address": "구영리382-2",
+    "branch": "구영점",
+    "call": "052-248-2500",
+    "category": "chinese",
+    "condition": "2만원이상",
+    "id": "f7a2d2",
+    "menuCount": 9,
+    "menuGroups": [
+      {
+        "id": "d0ac4f",
+        "menus": [
+          {
+            "description": "탕수육+황궁쟁반짜장면2",
+            "id": "b3bafb",
+            "name": "황궁2인세트",
+            "price": 22000,
+            "sortOrder": 0
+          },
+          {
+            "description": "탕수육+황궁쟁반짜장면1+황궁짬뽕1",
+            "id": "49fa87",
+            "name": "황궁2인세트",
+            "price": 24000,
+            "sortOrder": 1
+          },
+          {
+            "description": "탕수육+황궁쟁반짬뽕2",
+            "id": "4e58f1",
+            "name": "황궁2인세트",
+            "price": 24000,
+            "sortOrder": 2
+          },
+          {
+            "description": "매운맛,2인분11000",
+            "id": "91f4c6",
+            "name": "황궁쟁반짜장",
+            "price": 6000,
+            "sortOrder": 3
+          },
+          { "id": "37b307", "name": "황궁짬뽕", "price": 7000, "sortOrder": 4 },
+          {
+            "description": "(중) 23000 /(대)28000",
+            "id": "c04487",
+            "name": "황궁쟁반탕수육(대)",
+            "price": 18000,
+            "sortOrder": 5
+          },
+          { "id": "8eee68", "name": "황궁쟁반볶음우동", "price": 7000, "sortOrder": 6 },
+          { "id": "07ba80", "name": "황궁쟁반잡채밥", "price": 7000, "sortOrder": 7 },
+          { "id": "4d3cb9", "name": "황궁쟁반팔보채", "price": 30000, "sortOrder": 8 }
+        ],
+        "name": "일반",
+        "sortOrder": 0
+      }
+    ],
+    "name": "도원 황궁쟁반짜장",
+    "sortOrder": 44,
+    "time": { "from": 12, "to": 20 }
+  },
+  {
+    "branch": "구영리점",
+    "call": "052-212-0487",
+    "category": "others",
+    "condition": "퀵비4000원부담",
+    "id": "8db5fc",
+    "menuCount": 12,
+    "menuGroups": [
+      {
+        "id": "805ca3",
+        "menus": [
+          {
+            "description": "1.2KG (추가600g 14000원)",
+            "id": "296fea",
+            "name": "쪽갈비구이",
+            "price": 27000,
+            "sortOrder": 0
+          },
+          {
+            "description": "1.2KG (추가600g 15000원)",
+            "id": "5bf429",
+            "name": "양념쪽갈비구이",
+            "price": 29000,
+            "sortOrder": 1
+          },
+          {
+            "description": "1.2KG",
+            "id": "fa83a0",
+            "name": "반반쪽갈비구이",
+            "price": 28000,
+            "sortOrder": 2
+          },
+          {
+            "description": "1.2KG (추가600g 15000원)",
+            "id": "f42b4f",
+            "name": "마늘쪽갈비구이",
+            "price": 29000,
+            "sortOrder": 3
+          },
+          {
+            "description": "2~3인분450g (고기추가 350g 9000원)",
+            "id": "00ac30",
+            "name": "치즈등갈비구이",
+            "price": 28000,
+            "sortOrder": 4
+          },
+          { "id": "49928e", "name": "참치마요주먹밥", "price": 4000, "sortOrder": 5 },
+          {
+            "description": "hot",
+            "id": "1bb488",
+            "name": "오돌스타주먹밥",
+            "price": 5000,
+            "sortOrder": 6
+          },
+          { "id": "1b17ad", "name": "순두부찌개", "price": 3000, "sortOrder": 7 },
+          {
+            "description": "2인분",
+            "id": "823ded",
+            "name": "매운갈비찜",
+            "price": 22000,
+            "sortOrder": 8
+          },
+          {
+            "description": "2인분",
+            "id": "71bae4",
+            "name": "치즈매운갈비찜",
+            "price": 26000,
+            "sortOrder": 9
+          },
+          {
+            "description": "참치마요주먹밥+순두부찌개+음료",
+            "id": "4b3f54",
+            "name": "만나고세트1",
+            "price": 6000,
+            "sortOrder": 10
+          },
+          {
+            "description": "오돌스타주먹밥+순두부찌개+음료",
+            "id": "23e8ed",
+            "name": "만나고세트2",
+            "price": 7000,
+            "sortOrder": 11
+          }
+        ],
+        "name": "일반",
+        "sortOrder": 0
+      }
+    ],
+    "name": "만나고쪽갈비가",
+    "sortOrder": 45
+  },
+  {
+    "branch": "구영점",
+    "call": "052-243-5949",
+    "category": "hamburgerAndPizza",
+    "id": "555d18",
+    "menuCount": 36,
+    "menuGroups": [
+      {
+        "id": "f3653b",
+        "menus": [
+          {
+            "description": "중 5900",
+            "id": "3ddc72",
+            "name": "슈퍼콤비네이션피자",
+            "price": 7900,
+            "sortOrder": 0
+          },
+          {
+            "description": "중 6900",
+            "id": "d3c710",
+            "name": "포테이토 피자",
+            "price": 8900,
+            "sortOrder": 1
+          },
+          {
+            "description": "중 6900",
+            "id": "c53401",
+            "name": "불고기 피자",
+            "price": 8900,
+            "sortOrder": 2
+          },
+          {
+            "description": "중 5900",
+            "id": "c01bab",
+            "name": "페퍼로니 피자",
+            "price": 7900,
+            "sortOrder": 3
+          },
+          {
+            "description": "중 5900",
+            "id": "5acf70",
+            "name": "야채 피자",
+            "price": 7900,
+            "sortOrder": 4
+          },
+          {
+            "description": "중 5900",
+            "id": "71f188",
+            "name": "파인애플 피자",
+            "price": 7900,
+            "sortOrder": 5
+          },
+          {
+            "description": "중 5900",
+            "id": "d98494",
+            "name": "치즈피자",
+            "price": 7900,
+            "sortOrder": 6
+          },
+          {
+            "description": "중 9900",
+            "id": "5efcd9",
+            "name": "단팥크러스트 피자",
+            "price": 12900,
+            "sortOrder": 7
+          },
+          {
+            "description": "중 9900",
+            "id": "acf220",
+            "name": "레이디한우 피자",
+            "price": 12900,
+            "sortOrder": 8
+          },
+          {
+            "description": "중 8900",
+            "id": "b63a27",
+            "name": "핫스파이스 피자",
+            "price": 10900,
+            "sortOrder": 9
+          },
+          {
+            "description": "중 7900",
+            "id": "efdfc9",
+            "name": "스위트골드 피자",
+            "price": 9900,
+            "sortOrder": 10
+          },
+          {
+            "description": "중 7900",
+            "id": "58d9fc",
+            "name": "고구마 피자",
+            "price": 9900,
+            "sortOrder": 11
+          },
+          {
+            "id": "f3feeb",
+            "name": "바이트골드 피자",
+            "price": 12000,
+            "sortOrder": 12
+          },
+          {
+            "description": "중 7900",
+            "id": "df847c",
+            "name": "단호박 피자",
+            "price": 9900,
+            "sortOrder": 13
+          },
+          {
+            "description": "중 8900",
+            "id": "ec0c5e",
+            "name": "불고기새우 피자",
+            "price": 10900,
+            "sortOrder": 14
+          },
+          {
+            "description": "중 8900",
+            "id": "5b6644",
+            "name": "통새우 피자",
+            "price": 10900,
+            "sortOrder": 15
+          },
+          {
+            "description": "중 8900",
+            "id": "7e3283",
+            "name": "더블바베큐 피자",
+            "price": 10900,
+            "sortOrder": 16
+          },
+          {
+            "description": "중 8900",
+            "id": "20147c",
+            "name": "통감자새우 피자",
+            "price": 10900,
+            "sortOrder": 17
+          },
+          {
+            "description": "중 12900",
+            "id": "693c9b",
+            "name": "게살 피자",
+            "price": 15900,
+            "sortOrder": 18
+          },
+          {
+            "description": "중 12900",
+            "id": "b805e4",
+            "name": "씨푸드골드 피자",
+            "price": 15900,
+            "sortOrder": 19
+          },
+          {
+            "description": "농촌피자 / 어촌피자",
+            "id": "fb0333",
+            "name": "삼시세끼 피자",
+            "price": 0,
+            "sortOrder": 20
+          },
+          {
+            "id": "99a378",
+            "name": "허니고르곤 피자",
+            "price": 9900,
+            "sortOrder": 21
+          },
+          {
+            "description": "불고기, 포테이토, 콤비네이셔",
+            "id": "96a607",
+            "name": "1타3피자 (맛있는놈)",
+            "price": 13900,
+            "sortOrder": 22
+          },
+          {
+            "description": "통새우, 포테이토, 불고기",
+            "id": "aa8020",
+            "name": "1타3피자 (생각나는놈)",
+            "price": 14900,
+            "sortOrder": 23
+          },
+          {
+            "description": "중 8900",
+            "id": "115687",
+            "name": "베이컨포테이토골드 피자",
+            "price": 11900,
+            "sortOrder": 24
+          },
+          {
+            "description": "중 11900",
+            "id": "65b455",
+            "name": "육해공골드피자",
+            "price": 14900,
+            "sortOrder": 25
+          },
+          {
+            "description": "피자 + 스파게티 + 치킨텐더 + 스틱감자 + 웨지감ㅈ",
+            "id": "8e96c4",
+            "name": "오굿박스 시즌1",
+            "price": 16900,
+            "sortOrder": 26
+          },
+          {
+            "description": "피자 + 스파게티 + 치킨텐더 + 도이치 소시지 + 크런치새우튀김",
+            "id": "5bf137",
+            "name": "오굿박스 시즌2",
+            "price": 19900,
+            "sortOrder": 27
+          },
+          { "id": "4dcc17", "name": "59치키", "price": 9900, "sortOrder": 28 },
+          { "id": "f098b5", "name": "50콜치키", "price": 2500, "sortOrder": 29 },
+          {
+            "id": "ba7dc5",
+            "name": "치즈그라틴스파게트",
+            "price": 4500,
+            "sortOrder": 30
+          },
+          { "id": "f01c51", "name": "불고기스파게티", "price": 5000, "sortOrder": 31 },
+          {
+            "description": "고구마, 감자,  단호박 택1",
+            "id": "4d2f61",
+            "name": "피자스티",
+            "price": 4900,
+            "sortOrder": 32
+          },
+          {
+            "description": "중 2000",
+            "id": "abe4fe",
+            "name": "치즈크러스트 추가",
+            "price": 3000,
+            "sortOrder": 33
+          },
+          {
+            "description": "한줄 / 두주",
+            "id": "a459ed",
+            "name": "고구마 무스 추가",
+            "price": 0,
+            "sortOrder": 34
+          },
+          {
+            "description": "500ml / 1.5L",
+            "id": "318925",
+            "name": "콜라 / 사이다",
+            "price": 0,
+            "sortOrder": 35
+          }
+        ],
+        "name": "일반",
+        "sortOrder": 0
+      }
+    ],
+    "name": "오구피자",
+    "sortOrder": 46,
+    "time": { "from": 11, "to": 23 }
+  },
+  {
+    "call": "052-243-5445",
+    "category": "hamburgerAndPizza",
+    "id": "c9d5c2",
+    "menuCount": 24,
+    "menuGroups": [
+      {
+        "id": "28e94f",
+        "menus": [
+          {
+            "description": "스크린 / 골드 / 바이트",
+            "id": "cab104",
+            "name": "홈 마루 콤비네이션 피자",
+            "price": 0,
+            "sortOrder": 0
+          },
+          {
+            "description": "스크린 / 골드 / 바이트",
+            "id": "b7c1fa",
+            "name": "홈 포테이토 피자",
+            "price": 0,
+            "sortOrder": 1
+          },
+          {
+            "description": "스크린 / 골드 / 바이트",
+            "id": "3a6b54",
+            "name": "홈 고구마 피자",
+            "price": 0,
+            "sortOrder": 2
+          },
+          {
+            "description": "스크린 / 골드 / 바이트",
+            "id": "8f0d80",
+            "name": "홈 불고기 피자",
+            "price": 0,
+            "sortOrder": 3
+          },
+          {
+            "description": "스크린 / 골드 / 바이트",
+            "id": "eef4b8",
+            "name": "홈 스테이크 불갈비 피자",
+            "price": 0,
+            "sortOrder": 4
+          },
+          {
+            "description": "스크린 / 골드 / 바이트",
+            "id": "b6d239",
+            "name": "홈 야채 피자",
+            "price": 0,
+            "sortOrder": 5
+          },
+          {
+            "description": "스크린 / 골드 / 바이트",
+            "id": "f8bd04",
+            "name": "홈 페퍼로니 피자",
+            "price": 0,
+            "sortOrder": 6
+          },
+          {
+            "description": "스크린 / 골드 / 바이트",
+            "id": "84f56b",
+            "name": "홈 이탈리안 피자",
+            "price": 0,
+            "sortOrder": 7
+          },
+          {
+            "id": "913550",
+            "name": "홈 몽베르 피자",
+            "price": 16900,
+            "sortOrder": 8
+          },
+          {
+            "id": "2252f5",
+            "name": "홈 레드핫 치킨피자",
+            "price": 11900,
+            "sortOrder": 9
+          },
+          {
+            "id": "aa2c74",
+            "name": "홈 하와이안 쉬림프 피자",
+            "price": 13900,
+            "sortOrder": 10
+          },
+          {
+            "id": "42488e",
+            "name": "홈 데리 치킨 피자",
+            "price": 11900,
+            "sortOrder": 11
+          },
+          {
+            "id": "6bc7c0",
+            "name": "홈 갈릭 치킨 바베큐 피자",
+            "price": 11900,
+            "sortOrder": 12
+          },
+          {
+            "id": "2ac97d",
+            "name": "홈 골드 텐더치킨 피자",
+            "price": 14900,
+            "sortOrder": 13
+          },
+          {
+            "id": "042170",
+            "name": "홈 크레이지 불새 피자",
+            "price": 16900,
+            "sortOrder": 14
+          },
+          {
+            "id": "5ee210",
+            "name": "홈 이탈리안 딜라이트 피자",
+            "price": 12900,
+            "sortOrder": 15
+          },
+          {
+            "id": "5b9109",
+            "name": "홈 수제 소시지 피자",
+            "price": 11900,
+            "sortOrder": 16
+          },
+          {
+            "id": "6ea314",
+            "name": "홈 크림 쉬림프 피자",
+            "price": 12900,
+            "sortOrder": 17
+          },
+          {
+            "id": "fe4a61",
+            "name": "홈 이탈리안 베이컨 피자",
+            "price": 12900,
+            "sortOrder": 18
+          },
+          {
+            "id": "7196fb",
+            "name": "홈 점보 콤비네이셔 피자",
+            "price": 16900,
+            "sortOrder": 19
+          },
+          {
+            "id": "5f2e62",
+            "name": "홈 점보 포테이토 피자",
+            "price": 17900,
+            "sortOrder": 20
+          },
+          {
+            "id": "0da6be",
+            "name": "홈 점보 고구마 피자",
+            "price": 17900,
+            "sortOrder": 21
+          },
+          {
+            "id": "d350f3",
+            "name": "홈 점보 불고기 피자",
+            "price": 17900,
+            "sortOrder": 22
+          },
+          {
+            "id": "14ba34",
+            "name": "홈 점보 스테이크 불갈비 피자",
+            "price": 21900,
+            "sortOrder": 23
+          }
+        ],
+        "name": "일반",
+        "sortOrder": 0
+      }
+    ],
+    "name": "피자마루",
+    "sortOrder": 47,
+    "time": { "from": 12, "to": 23 }
+  },
+  {
+    "call": "052-248-1080",
+    "category": "hamburgerAndPizza",
+    "id": "5bf2e1",
+    "menuCount": 13,
+    "menuGroups": [
+      {
+        "id": "018edb",
+        "menus": [
+          {
+            "description": "L 1판 / L 2",
+            "id": "d7b13e",
+            "name": "Hands Up 피자",
+            "price": 0,
+            "sortOrder": 0
+          },
+          {
+            "description": "L 1판 / L 2",
+            "id": "e8e5f1",
+            "name": "Hands Up 미트",
+            "price": 0,
+            "sortOrder": 1
+          },
+          {
+            "description":
+              "핫 바비큐, 피쉬 앤 갈릭, 포테이토 킹, 바사크 브런치, 바사크 새우, 파스트라미, 옥토쉬림프 중 택2 또는 택4 // L 1판 / L 2",
+            "id": "b434a6",
+            "name": "프리미엄 피자",
+            "price": 0,
+            "sortOrder": 2
+          },
+          {
+            "description":
+              "스위트 골드 (R사이즈 불가), 화이트 갈릭, 포테이토 스페셜, 베이컨 수프림 // R 1판 / R 2판 / L 1판 / L 2",
+            "id": "786db5",
+            "name": "스페셜 피자",
+            "price": 0,
+            "sortOrder": 3
+          },
+          {
+            "description":
+              "야채, 불고기, 고구마, 수퍼 수프림, 치즈, 페퍼로니 // R 1판 / R 2판 / L 1판 / L 2",
+            "id": "2ccc08",
+            "name": "클식 피자",
+            "price": 0,
+            "sortOrder": 4
+          },
+          { "id": "77a6b3", "name": "치즈 스파게티", "price": 4500, "sortOrder": 5 },
+          {
+            "id": "de240f",
+            "name": "보르네르 스파게티",
+            "price": 4000,
+            "sortOrder": 6
+          },
+          { "id": "2067b8", "name": "새우 리조또", "price": 4500, "sortOrder": 7 },
+          { "id": "cbf44e", "name": "낙지 리조ㄸ", "price": 5500, "sortOrder": 8 },
+          { "id": "c4a81b", "name": "콘버터", "price": 3000, "sortOrder": 9 },
+          { "id": "fac622", "name": "갈릭 디핑 소스", "price": 500, "sortOrder": 10 },
+          { "id": "b5685d", "name": "피크", "price": 300, "sortOrder": 11 },
+          {
+            "description":
+              "프리미엄 1판, 치즈스파게티/새우리조또 중 택1, 버팔로윙(5개)/치킨텐더(5개) 중 택1, 음료(1.25L)",
+            "id": "2cf921",
+            "name": "우리함ㄲ",
+            "price": 24900,
+            "sortOrder": 12
+          }
+        ],
+        "name": "일반",
+        "sortOrder": 0
+      }
+    ],
+    "name": "피자에땅",
+    "sortOrder": 48,
+    "time": { "from": 11, "to": 22 }
+  },
+  {
+    "call": "052-248-2419",
+    "category": "hamburgerAndPizza",
+    "id": "59a091",
+    "menuCount": 39,
+    "menuGroups": [
+      {
+        "id": "52563c",
+        "menus": [
+          {
+            "description": "단품 6000",
+            "id": "7460f1",
+            "name": "한우불고기",
+            "price": 7900,
+            "sortOrder": 0
+          },
+          {
+            "description": "한우불고기 새우버거 치즈스틱 포테이토 콜라2",
+            "id": "8b20b3",
+            "name": "한우연인ㅍ",
+            "price": 13100,
+            "sortOrder": 1
+          },
+          {
+            "description": "한우 핫크리스피버거 치즈스틱2조각 양념감자 콜라2",
+            "id": "47e77e",
+            "name": "한우명품ㅍ",
+            "price": 14900,
+            "sortOrder": 2
+          },
+          {
+            "description": "단품 5000",
+            "id": "ed3f3e",
+            "name": "랏츠버거",
+            "price": 7000,
+            "sortOrder": 3
+          },
+          {
+            "description": "단품 5000",
+            "id": "2c4cf9",
+            "name": "와일드 쉬림프버거",
+            "price": 7000,
+            "sortOrder": 4
+          },
+          {
+            "description": "단품 5200",
+            "id": "d9ad08",
+            "name": "유러피안프리코 치즈버거",
+            "price": 7200,
+            "sortOrder": 5
+          },
+          {
+            "description": "단품 4800",
+            "id": "5dbd7f",
+            "name": "핫크리스피버거",
+            "price": 6800,
+            "sortOrder": 6
+          },
+          {
+            "description": "단품 4500",
+            "id": "eac608",
+            "name": "야채라이스불고기버거",
+            "price": 6600,
+            "sortOrder": 7
+          },
+          {
+            "description": "단품 3700",
+            "id": "57b97d",
+            "name": "리치버거",
+            "price": 5900,
+            "sortOrder": 8
+          },
+          {
+            "description": "단품 4000",
+            "id": "9de5db",
+            "name": "강정버거",
+            "price": 6200,
+            "sortOrder": 9
+          },
+          {
+            "description": "단품 4000",
+            "id": "6f9992",
+            "name": "불갈비버거",
+            "price": 6200,
+            "sortOrder": 10
+          },
+          {
+            "description": "단품 3700",
+            "id": "f135be",
+            "name": "불고기버거",
+            "price": 5900,
+            "sortOrder": 11
+          },
+          {
+            "description": "단품 3700",
+            "id": "c76343",
+            "name": "새우버거",
+            "price": 5900,
+            "sortOrder": 12
+          },
+          {
+            "description": "단품 5300",
+            "id": "bbba0d",
+            "name": "원조 빅불버거",
+            "price": 7300,
+            "sortOrder": 13
+          },
+          {
+            "description": "빅불버거 새우버거 치킨휠레2조각 양념감자 콜라1.25L",
+            "id": "3d21c1",
+            "name": "트윈A",
+            "price": 13400,
+            "sortOrder": 14
+          },
+          {
+            "description": "빅불버거 핫크리스피버거 치즈스틱 양념감자 콜라1.25L",
+            "id": "c47b04",
+            "name": "트윈B",
+            "price": 13900,
+            "sortOrder": 15
+          },
+          {
+            "description": "불고기버거 새우버거 데리버거 치킨휠레4조각 오징어링 치즈스틱 포테이토 콜라1.25L",
+            "id": "9aee8b",
+            "name": "홈실속ㅍ",
+            "price": 19500,
+            "sortOrder": 16
+          },
+          {
+            "description": "어니언 치즈 칠ㄹ",
+            "id": "ac5716",
+            "name": "쉑쉑치키",
+            "price": 2600,
+            "sortOrder": 17
+          },
+          { "id": "8d927d", "name": "홍게너게", "price": 2100, "sortOrder": 18 },
+          { "id": "fb090b", "name": "양념감ㅈ", "price": 2100, "sortOrder": 19 },
+          { "id": "b66408", "name": "치즈스티", "price": 2100, "sortOrder": 20 },
+          { "id": "46f98b", "name": "크런치새우", "price": 2100, "sortOrder": 21 },
+          { "id": "32a93b", "name": "오징어리", "price": 2100, "sortOrder": 22 },
+          { "id": "add9fb", "name": "콘샐러드", "price": 1600, "sortOrder": 23 },
+          { "id": "64c83b", "name": "포테이토", "price": 1600, "sortOrder": 24 },
+          { "id": "d4cd56", "name": "레몬에이드", "price": 2500, "sortOrder": 25 },
+          { "id": "ac82ce", "name": "사과주스", "price": 2200, "sortOrder": 26 },
+          { "id": "649149", "name": "핫초코", "price": 2000, "sortOrder": 27 },
+          { "id": "6cc596", "name": "핫ㅌ", "price": 2000, "sortOrder": 28 },
+          { "id": "acd9ac", "name": "오렌지주스", "price": 2200, "sortOrder": 29 },
+          { "id": "b7f41c", "name": "아이스티", "price": 2200, "sortOrder": 30 },
+          {
+            "id": "1a3f1b",
+            "name": "패션후르츠에이드",
+            "price": 2500,
+            "sortOrder": 31
+          },
+          {
+            "id": "4931de",
+            "name": "스파클링아이스티",
+            "price": 2000,
+            "sortOrder": 32
+          },
+          {
+            "description": "하프팩 8900",
+            "id": "bcbebb",
+            "name": "순살치키",
+            "price": 15900,
+            "sortOrder": 33
+          },
+          {
+            "description": "하프팩 9300",
+            "id": "57ccb5",
+            "name": "치키",
+            "price": 18800,
+            "sortOrder": 34
+          },
+          { "id": "73e9a3", "name": "패밀리패", "price": 13600, "sortOrder": 35 },
+          {
+            "description": "2조각 2500",
+            "id": "7cd7ef",
+            "name": "화이어윙4조가",
+            "price": 4500,
+            "sortOrder": 36
+          },
+          {
+            "description": "2조각 2500",
+            "id": "a3ac8c",
+            "name": "치킨휠레4조가",
+            "price": 4500,
+            "sortOrder": 37
+          },
+          { "id": "5284f5", "name": "치킨1조가", "price": 2400, "sortOrder": 38 }
+        ],
+        "name": "일반",
+        "sortOrder": 0
+      }
+    ],
+    "name": "롯데리아",
+    "sortOrder": 49,
+    "time": { "from": 8, "to": 22 }
+  },
+  {
+    "call": "052-244-2977",
+    "category": "hamburgerAndPizza",
+    "condition": "매월 첫째주 일요일은 휴무입니다.",
+    "id": "259d95",
+    "menuCount": 37,
+    "menuGroups": [
+      {
+        "id": "1663b7",
+        "menus": [
+          {
+            "description": "후라이드반 싸이버거2 케이준양념감자 콜ㄹ",
+            "id": "8c95b8",
+            "name": "세트1",
+            "price": 16000,
+            "sortOrder": 0
+          },
+          {
+            "description": "후라이드반 싸이버거 새우버거또는불고기버거 케이준양념감자 콜ㄹ",
+            "id": "0ef71e",
+            "name": "세트2",
+            "price": 15500,
+            "sortOrder": 1
+          },
+          {
+            "description": "후라이드반 휠렛버거2 케이준양념감자 콜ㄹ",
+            "id": "d495d3",
+            "name": "세트3",
+            "price": 16500,
+            "sortOrder": 2
+          },
+          {
+            "description": "후라이드반 휠렛버거 할리피뇨통살또는할라피뇨가슴살버거 케이준양념감자 콜ㄹ",
+            "id": "dc5994",
+            "name": "세트4",
+            "price": 17000,
+            "sortOrder": 3
+          },
+          {
+            "description": "어니언치즈 핫칠리 커리",
+            "id": "cdbab8",
+            "name": "순살뿌치",
+            "price": 17000,
+            "sortOrder": 4
+          },
+          {
+            "description": "어니언치즈 핫칠리 커리",
+            "id": "9d964e",
+            "name": "뿌치",
+            "price": 17000,
+            "sortOrder": 5
+          },
+          { "id": "0224d4", "name": "후라이드", "price": 15000, "sortOrder": 6 },
+          { "id": "5233fd", "name": "양념치키", "price": 16000, "sortOrder": 7 },
+          { "id": "5e4112", "name": "매운양념치키", "price": 17000, "sortOrder": 8 },
+          {
+            "id": "f55a71",
+            "name": "후라이드반 양념ㅂ",
+            "price": 16000,
+            "sortOrder": 9
+          },
+          { "id": "90a21f", "name": "데리야끼치킨", "price": 16000, "sortOrder": 10 },
+          { "id": "bdf005", "name": "순살치키", "price": 15000, "sortOrder": 11 },
+          {
+            "id": "3924ba",
+            "name": "순살치킨 양ㄴ",
+            "price": 16000,
+            "sortOrder": 12
+          },
+          { "id": "049add", "name": "치킨강ㅈ", "price": 16000, "sortOrder": 13 },
+          { "id": "b92b8d", "name": "순살강ㅈ", "price": 16000, "sortOrder": 14 },
+          { "id": "a32148", "name": "케이준강ㅈ", "price": 17000, "sortOrder": 15 },
+          {
+            "description": "단품 3400",
+            "id": "2364fb",
+            "name": "칼슘플러스버거",
+            "price": 5600,
+            "sortOrder": 16
+          },
+          {
+            "description": "단품 3200",
+            "id": "64bab6",
+            "name": "싸이버거",
+            "price": 5400,
+            "sortOrder": 17
+          },
+          {
+            "description": "단품 4000",
+            "id": "47db70",
+            "name": "핫플러스통살 통가슴살버거",
+            "price": 6200,
+            "sortOrder": 18
+          },
+          {
+            "description": "단품 3700",
+            "id": "027964",
+            "name": "케이준망고통살 통가슴살버거",
+            "price": 5900,
+            "sortOrder": 19
+          },
+          {
+            "description": "단품 3700",
+            "id": "8d7a55",
+            "name": "할라피뇨통살 통가슴살버거",
+            "price": 5900,
+            "sortOrder": 20
+          },
+          {
+            "description": "단품 3700",
+            "id": "2d9afe",
+            "name": "햄치즈휠렛버거",
+            "price": 5900,
+            "sortOrder": 21
+          },
+          {
+            "description": "단품 3400",
+            "id": "c9caeb",
+            "name": "휠렛버거",
+            "price": 5600,
+            "sortOrder": 22
+          },
+          {
+            "description": "단품 2800",
+            "id": "b9c686",
+            "name": "불고기버거",
+            "price": 5000,
+            "sortOrder": 23
+          },
+          {
+            "description": "단품 3000",
+            "id": "21f824",
+            "name": "스파이시불고기버거",
+            "price": 5200,
+            "sortOrder": 24
+          },
+          {
+            "description": "단품 3800",
+            "id": "8356c9",
+            "name": "디럭스불고기버거",
+            "price": 6000,
+            "sortOrder": 25
+          },
+          {
+            "description": "단품 4000",
+            "id": "bf222b",
+            "name": "스파이시디럭스불고기버거",
+            "price": 6200,
+            "sortOrder": 26
+          },
+          {
+            "description": "단품 2700",
+            "id": "099709",
+            "name": "통새우버거",
+            "price": 4900,
+            "sortOrder": 27
+          },
+          {
+            "description": "단품 2800",
+            "id": "718a2f",
+            "name": "주니어치즈버거",
+            "price": 5000,
+            "sortOrder": 28
+          },
+          {
+            "description": "단품 2500",
+            "id": "2ff5e7",
+            "name": "주니어버거",
+            "price": 4700,
+            "sortOrder": 29
+          },
+          {
+            "id": "c87009",
+            "name": "팝콘볼 고구마치즈보",
+            "price": 2500,
+            "sortOrder": 30
+          },
+          {
+            "id": "03be81",
+            "name": "새우 후라이드 2조가",
+            "price": 2000,
+            "sortOrder": 31
+          },
+          {
+            "description": "2조각 1900",
+            "id": "bed886",
+            "name": "치즈스틱3조가",
+            "price": 2800,
+            "sortOrder": 32
+          },
+          { "id": "d98956", "name": "케이준양념감ㅈ", "price": 2000, "sortOrder": 33 },
+          {
+            "description": "싱글 3500",
+            "id": "383ca5",
+            "name": "케이준강ㅈ",
+            "price": 7000,
+            "sortOrder": 34
+          },
+          { "id": "6e8fcb", "name": "치킨샐러드", "price": 3500, "sortOrder": 35 },
+          {
+            "id": "11f236",
+            "name": "콘 고구마 단호박 샐러드",
+            "price": 1500,
+            "sortOrder": 36
+          }
+        ],
+        "name": "일반",
+        "sortOrder": 0
+      }
+    ],
+    "name": "맘스터치",
+    "sortOrder": 50,
+    "time": { "from": 11, "to": 22 }
+  },
+  {
+    "call": "052-211-0565",
+    "category": "chinese",
+    "condition": "짜장면,짬뽕,볶음밥,우동 곱뺴기 주문시 1000원 추가",
+    "id": "1ef269",
+    "menuCount": 42,
+    "menuGroups": [
+      {
+        "id": "251b1b",
+        "menus": [
+          { "id": "384c0e", "name": "황제 쟁반짜장", "price": 6000, "sortOrder": 0 },
+          { "id": "cf791a", "name": "탕볶밥", "price": 7000, "sortOrder": 1 },
+          { "id": "8328c6", "name": "황제 사천짬뽕", "price": 7000, "sortOrder": 2 },
+          { "id": "510938", "name": "볶음밥", "price": 5500, "sortOrder": 3 },
+          {
+            "id": "e2e7ec",
+            "name": "황제 쟁반볶음짬뽕",
+            "price": 7000,
+            "sortOrder": 4
+          },
+          { "id": "795185", "name": "황제잡채밥", "price": 6000, "sortOrder": 5 },
+          { "id": "c8d868", "name": "황제볶음우동", "price": 7000, "sortOrder": 6 },
+          {
+            "id": "0d16b3",
+            "name": "냉면2 + 탕수육",
+            "price": 20000,
+            "sortOrder": 7
+          },
+          { "id": "599986", "name": "짬짜면", "price": 6000, "sortOrder": 8 },
+          {
+            "id": "64ec66",
+            "name": "밀면2 + 탕수육",
+            "price": 20000,
+            "sortOrder": 9
+          },
+          { "id": "32ce55", "name": "볶짜면", "price": 6000, "sortOrder": 10 },
+          {
+            "id": "9e36e3",
+            "name": "냉우동 + 탕수육",
+            "price": 18000,
+            "sortOrder": 11
+          },
+          { "id": "7fd5c7", "name": "볶짬면", "price": 6000, "sortOrder": 12 },
+          {
+            "description": "(중) 15000원, (대) 25000",
+            "id": "f84306",
+            "name": "탕수육(소)",
+            "price": 15000,
+            "sortOrder": 13
+          },
+          { "id": "cc8eac", "name": "탕짜면", "price": 7000, "sortOrder": 14 },
+          { "id": "5300de", "name": "탕짬면", "price": 7000, "sortOrder": 15 },
+          { "id": "7c41da", "name": "짜장면", "price": 4000, "sortOrder": 16 },
+          { "id": "129e3e", "name": "짬뽕", "price": 5000, "sortOrder": 17 },
+          { "id": "a5c887", "name": "우동", "price": 5500, "sortOrder": 18 },
+          {
+            "description": "탕수육 + 짜장 2+ 콜라",
+            "id": "abd50b",
+            "name": "일반세트1",
+            "price": 16000,
+            "sortOrder": 19
+          },
+          {
+            "id": "7d8357",
+            "name": "황제 쟁반볶음밥",
+            "price": 6000,
+            "sortOrder": 20
+          },
+          {
+            "description": "탕수육 + 짬뽕 2 + 콜라",
+            "id": "39a4f0",
+            "name": "일반세트2",
+            "price": 18000,
+            "sortOrder": 21
+          },
+          {
+            "description": "탕수육 + 짬뽕 1+ 짜장 1+ 콜라",
+            "id": "f73fcf",
+            "name": "일반 세트3",
+            "price": 18000,
+            "sortOrder": 22
+          },
+          {
+            "description": "탕수육 + 볶음밥 2 + 콜라",
+            "id": "6350e4",
+            "name": "일반 세트4",
+            "price": 19000,
+            "sortOrder": 23
+          },
+          {
+            "description": "탕수육 + 잡채밥 2 + 콜라",
+            "id": "4ba723",
+            "name": "일반 세트5",
+            "price": 20000,
+            "sortOrder": 24
+          },
+          {
+            "description": "황제탕수육 + 황제쟁반짜장 2 + 콜라",
+            "id": "05165f",
+            "name": "황제 세트1",
+            "price": 18000,
+            "sortOrder": 25
+          },
+          {
+            "description": "황제탕수육 + 황제짬뽕2 + 콜라",
+            "id": "0ca9c2",
+            "name": "황제 세트2",
+            "price": 20000,
+            "sortOrder": 26
+          },
+          {
+            "description": "황제탕수육 + 황제쟁반볶음밥2 + 콜라",
+            "id": "2c763b",
+            "name": "황제 세트3",
+            "price": 20000,
+            "sortOrder": 27
+          },
+          {
+            "description": "황제탕수육 + 황제잡채밥2 + 콜라",
+            "id": "f8f7c2",
+            "name": "황제 세트4",
+            "price": 21000,
+            "sortOrder": 28
+          },
+          {
+            "description": "황제 탕수육 + 황제볶음짬뽕2 + 콜라",
+            "id": "8663d3",
+            "name": "황제 세트5",
+            "price": 21000,
+            "sortOrder": 29
+          },
+          {
+            "description": "황제탕수육 + 황제볶음우동 + 콜라",
+            "id": "9ebeec",
+            "name": "황제 세트6",
+            "price": 21000,
+            "sortOrder": 30
+          },
+          {
+            "description": "황제탕수육 + 황제볶음짬뽕 2 + 콜라",
+            "id": "23b8a5",
+            "name": "황제 1인세트1",
+            "price": 15000,
+            "sortOrder": 31
+          },
+          {
+            "description": "황제 탕수육 + 황제짬뽕1 + 콜라",
+            "id": "f8d9d4",
+            "name": "황제 1인세트2",
+            "price": 15000,
+            "sortOrder": 32
+          },
+          {
+            "description": "황제탕수육 + 황제쟁반볶음밥",
+            "id": "639535",
+            "name": "황제 1인세트3",
+            "price": 15000,
+            "sortOrder": 33
+          },
+          {
+            "description": "황제탕수육 + 황제볶음짬뽕1 + 콜라",
+            "id": "59ad8d",
+            "name": "황제 1인세트4",
+            "price": 15000,
+            "sortOrder": 34
+          },
+          {
+            "description": "황제탕수육 + 황제볶음우동 + 콜라",
+            "id": "f98f1a",
+            "name": "황제 1인세트5",
+            "price": 15000,
+            "sortOrder": 35
+          },
+          { "id": "3279ed", "name": "고기짜장면", "price": 4000, "sortOrder": 36 },
+          {
+            "description": "(중) 28000원",
+            "id": "cc51f3",
+            "name": "칠리새우(소)",
+            "price": 23000,
+            "sortOrder": 37
+          },
+          {
+            "description": "(중) 28000원",
+            "id": "3965ac",
+            "name": "깐풍기(소)",
+            "price": 23000,
+            "sortOrder": 38
+          },
+          {
+            "description": "(중) 28000원",
+            "id": "62cc72",
+            "name": "깐풍육(소)",
+            "price": 23000,
+            "sortOrder": 39
+          },
+          {
+            "description": "(중) 28000원",
+            "id": "d8821b",
+            "name": "라조기(소)",
+            "price": 23000,
+            "sortOrder": 40
+          },
+          {
+            "description": "(중) 28000원",
+            "id": "a123b2",
+            "name": "라조육(소)",
+            "price": 23000,
+            "sortOrder": 41
+          }
+        ],
+        "name": "일반",
+        "sortOrder": 0
+      }
+    ],
+    "name": "황제 쟁반 짜장",
+    "sortOrder": 51,
+    "time": { "from": 10, "to": 21 }
+  },
+  {
+    "call": "052-211-0018",
+    "category": "chinese",
+    "condition": "모든 식사류 곱뺴기 주문시 1,000원 추가",
+    "id": "24ba14",
+    "menuCount": 30,
+    "menuGroups": [
+      {
+        "id": "47a5e1",
+        "menus": [
+          { "id": "0b189b", "name": "고기짜장면", "price": 4000, "sortOrder": 0 },
+          {
+            "description": "탕수육 + 짜장 2",
+            "id": "dc363a",
+            "name": "돌콩 세트2",
+            "price": 16000,
+            "sortOrder": 1
+          },
+          { "id": "c64261", "name": "짬뽕", "price": 6000, "sortOrder": 2 },
+          {
+            "description": "탕수육 + 짬뽕 2",
+            "id": "7f8339",
+            "name": "돌콩 세트3",
+            "price": 18000,
+            "sortOrder": 3
+          },
+          { "id": "80f724", "name": "새우 볶음밥", "price": 6000, "sortOrder": 4 },
+          {
+            "description": "탕수육 + 볶음밥 2",
+            "id": "380ff4",
+            "name": "돌콩 세트4",
+            "price": 19000,
+            "sortOrder": 5
+          },
+          { "id": "fd5ff0", "name": "잡채밥", "price": 6000, "sortOrder": 6 },
+          {
+            "description": "탕수육 + 잡채밥 2",
+            "id": "eaf2db",
+            "name": "돌콩 세트5",
+            "price": 20000,
+            "sortOrder": 7
+          },
+          { "id": "d4fbaa", "name": "간짜", "price": 6000, "sortOrder": 8 },
+          {
+            "description": "탕수육 + 양념만두 + 쟁반짜장 (3인분)",
+            "id": "c85de5",
+            "name": "돌콩 세트6",
+            "price": 30000,
+            "sortOrder": 9
+          },
+          { "id": "acbfb8", "name": "짬뽕밥", "price": 7000, "sortOrder": 10 },
+          {
+            "description": "탕수육 + 양념만두 + 쟁반짜장 (2인분)",
+            "id": "f3a245",
+            "name": "돌콩 세트7",
+            "price": 25000,
+            "sortOrder": 11
+          },
+          { "id": "aa533d", "name": "고추덮밥", "price": 7000, "sortOrder": 12 },
+          { "id": "67c44e", "name": "만두", "price": 4000, "sortOrder": 13 },
+          {
+            "description": "탕수육 + 쟁반짜장 1",
+            "id": "364829",
+            "name": "쟁반 세트1",
+            "price": 15000,
+            "sortOrder": 14
+          },
+          {
+            "description": "(대) 15000",
+            "id": "951826",
+            "name": "탕수육(소)",
+            "price": 10000,
+            "sortOrder": 15
+          },
+          {
+            "description": "탕수육 + 쟁반짜장 2",
+            "id": "09c2c5",
+            "name": "쟁반 세트2",
+            "price": 18000,
+            "sortOrder": 16
+          },
+          {
+            "description": "탕수육 + 쟁반짬뽕 2",
+            "id": "fba7b7",
+            "name": "쟁반 세트3",
+            "price": 20000,
+            "sortOrder": 17
+          },
+          {
+            "description": "(대) 25000",
+            "id": "b03701",
+            "name": "팔보채(소)",
+            "price": 20000,
+            "sortOrder": 18
+          },
+          {
+            "description": "탕수육 + 쟁반볶음밥 2",
+            "id": "7c9455",
+            "name": "쟁반 세트4",
+            "price": 20000,
+            "sortOrder": 19
+          },
+          {
+            "description": "탕수육 + 잡채밥 2",
+            "id": "384f28",
+            "name": "쟁반 세트5",
+            "price": 20000,
+            "sortOrder": 20
+          },
+          {
+            "id": "f41421",
+            "name": "홍합듬뿍 매운짬",
+            "price": 7000,
+            "sortOrder": 21
+          },
+          {
+            "description": "탕수육 + 짜장 1",
+            "id": "e00860",
+            "name": "돌콩세트1",
+            "price": 13000,
+            "sortOrder": 22
+          },
+          {
+            "id": "494ce1",
+            "name": "살이통통 통오징어 짬뽕",
+            "price": 7000,
+            "sortOrder": 23
+          },
+          { "id": "d692c0", "name": "50년 짬뽕", "price": 7000, "sortOrder": 24 },
+          { "id": "61c841", "name": "해물쟁반짜장", "price": 5000, "sortOrder": 25 },
+          {
+            "id": "d38236",
+            "name": "매콤달콤 양념만두",
+            "price": 6000,
+            "sortOrder": 26
+          },
+          {
+            "description": "(대) 25000원",
+            "id": "51e3dd",
+            "name": "양장피(소)",
+            "price": 20000,
+            "sortOrder": 27
+          },
+          {
+            "description": "(대) 25000",
+            "id": "e730ac",
+            "name": "고추잡채 + 꽃빵 (소)",
+            "price": 20000,
+            "sortOrder": 28
+          },
+          {
+            "description": "(대) 25000",
+            "id": "636b36",
+            "name": "칠리새우(소)",
+            "price": 20000,
+            "sortOrder": 29
+          }
+        ],
+        "name": "일반",
+        "sortOrder": 0
+      }
+    ],
+    "name": "돌콩",
+    "sortOrder": 52,
+    "time": { "from": 11, "to": 20 }
+  },
+  {
+    "call": "052-243-1233",
+    "category": "others",
+    "id": "314cd8",
+    "menuCount": 6,
+    "menuGroups": [
+      {
+        "id": "e303ee",
+        "menus": [
+          { "id": "9ab68d", "name": "안동찜닭(소)", "price": 17000, "sortOrder": 0 },
+          { "id": "0f53b8", "name": "안동찜닭(중)", "price": 22000, "sortOrder": 1 },
+          { "id": "0f95b9", "name": "안동찜닭(대)", "price": 27000, "sortOrder": 2 },
+          {
+            "id": "dafe35",
+            "name": "안동찜닭(특대)",
+            "price": 32000,
+            "sortOrder": 3
+          },
+          {
+            "description": "추가금",
+            "id": "a9640e",
+            "name": "떡사리",
+            "price": 1000,
+            "sortOrder": 4
+          },
+          {
+            "description": "추가금",
+            "id": "830856",
+            "name": "당면사리",
+            "price": 2000,
+            "sortOrder": 5
+          }
+        ],
+        "name": "일반",
+        "sortOrder": 0
+      }
+    ],
+    "name": "안동 찜닭",
+    "sortOrder": 53,
+    "time": { "from": 10, "to": 24 }
+  },
+  {
+    "call": "052-246-1101",
+    "category": "others",
+    "id": "9dd60a",
+    "menuCount": 12,
+    "menuGroups": [
+      {
+        "id": "cdf8d9",
+        "menus": [
+          {
+            "description": "한마리 24000/ 한마리반 30000",
+            "id": "b7c5fd",
+            "name": "안동찜닭(반)",
+            "price": 18000,
+            "sortOrder": 0
+          },
+          {
+            "description": "한마리 24000/ 한마리반 30000",
+            "id": "bce5b0",
+            "name": "빨간찜닭(반)",
+            "price": 18000,
+            "sortOrder": 1
+          },
+          {
+            "description": "(순한맛,매운맛,폭탄맛)/ 한마리 24000",
+            "id": "cf60a9",
+            "name": "조림닭(반)",
+            "price": 18000,
+            "sortOrder": 2
+          },
+          { "id": "3ebf89", "name": "양념똥집", "price": 15000, "sortOrder": 3 },
+          { "id": "58faae", "name": "양념닭발", "price": 15000, "sortOrder": 4 },
+          {
+            "description": "후라이드+양념,간장 택1",
+            "id": "068661",
+            "name": "순살파닭",
+            "price": 15000,
+            "sortOrder": 5
+          },
+          {
+            "description": "반마리+공기밥 2개",
+            "id": "c813e1",
+            "name": "점심특선(2인)",
+            "price": 18000,
+            "sortOrder": 6
+          },
+          {
+            "description": "한마리+공기밥 3개",
+            "id": "d06ac0",
+            "name": "점심특선(3인)",
+            "price": 24000,
+            "sortOrder": 7
+          },
+          { "id": "981171", "name": "밀떡", "price": 1000, "sortOrder": 8 },
+          { "id": "db9847", "name": "당면사리", "price": 2000, "sortOrder": 9 },
+          { "id": "e01220", "name": "치즈사리", "price": 3000, "sortOrder": 10 },
+          { "id": "b98afd", "name": "공기밥", "price": 1000, "sortOrder": 11 }
+        ],
+        "name": "일반",
+        "sortOrder": 0
+      }
+    ],
+    "name": "왕통 찜닭",
+    "sortOrder": 54,
+    "time": { "from": 11, "to": 24 }
+  },
+  {
+    "call": "052-212-9957",
+    "category": "chicken",
+    "id": "4d51c9",
+    "menuCount": 6,
+    "menuGroups": [
+      {
+        "id": "96919c",
+        "menus": [
+          {
+            "description": "후라이드+(양념,간장) 택1",
+            "id": "36c5c2",
+            "name": "순살파닭",
+            "price": 15000,
+            "sortOrder": 0
+          },
+          {
+            "description": "양념+간장",
+            "id": "15818d",
+            "name": "순살파닭2",
+            "price": 16000,
+            "sortOrder": 1
+          },
+          {
+            "description": "후라이드+(양념,간장) 택1",
+            "id": "de5666",
+            "name": "뼈닭파닭",
+            "price": 17000,
+            "sortOrder": 2
+          },
+          {
+            "description": "양념+간장",
+            "id": "a5a20a",
+            "name": "뼈닭바닭2",
+            "price": 18000,
+            "sortOrder": 3
+          },
+          {
+            "description": "후라이드+양념+간장",
+            "id": "6a6cea",
+            "name": "스페셜 파닭",
+            "price": 20000,
+            "sortOrder": 4
+          },
+          {
+            "description": "후라이드+(간장,양념,레몬)중 택1+콜라",
+            "id": "5445e6",
+            "name": "순살 세트",
+            "price": 0,
+            "sortOrder": 5
+          }
+        ],
+        "name": "일반",
+        "sortOrder": 0
+      }
+    ],
+    "name": "파닭의 달인",
+    "sortOrder": 55,
+    "time": { "from": 15, "to": 24 }
+  },
+  {
+    "call": "052-212-8895",
+    "category": "chicken",
+    "id": "838e98",
+    "menuCount": 10,
+    "menuGroups": [
+      {
+        "id": "cae116",
+        "menus": [
+          {
+            "description": "후라이드+(레몬,양념,간장)중 택 1",
+            "id": "c75817",
+            "name": "순살 두마리 세트",
+            "price": 16000,
+            "sortOrder": 0
+          },
+          {
+            "description": "양념+간장",
+            "id": "89ba82",
+            "name": "순살 두마리 세트2",
+            "price": 17000,
+            "sortOrder": 1
+          },
+          {
+            "description": "후라이드+탕수육",
+            "id": "5bd053",
+            "name": "순살 두마리 세트3",
+            "price": 17000,
+            "sortOrder": 2
+          },
+          {
+            "description": "탕수육+(간장,양념)중 택 1",
+            "id": "b2005f",
+            "name": "순살 두마리 세트4",
+            "price": 17000,
+            "sortOrder": 3
+          },
+          {
+            "description": "",
+            "id": "4256fe",
+            "name": "후라이드 치킨",
+            "price": 13000,
+            "sortOrder": 4
+          },
+          { "id": "2adc98", "name": "양념치킨", "price": 13000, "sortOrder": 5 },
+          { "id": "15a8b3", "name": "탕수육", "price": 14000, "sortOrder": 6 },
+          { "id": "96bd69", "name": "깐풍기", "price": 15000, "sortOrder": 7 },
+          { "id": "6cfc5f", "name": "오리지널", "price": 15000, "sortOrder": 8 },
+          {
+            "description": "1500cc - 7500",
+            "id": "902a44",
+            "name": "맥주(1000cc)",
+            "price": 5000,
+            "sortOrder": 9
+          }
+        ],
+        "name": "일반",
+        "sortOrder": 0
+      }
+    ],
+    "name": "놀라버린 파닭",
+    "sortOrder": 56,
+    "time": { "from": 15, "to": 24 }
+  },
+  {
+    "call": "052-248-8891",
+    "category": "chicken",
+    "id": "3563d7",
+    "menuCount": 18,
+    "menuGroups": [
+      {
+        "id": "5c35d0",
+        "menus": [
+          { "id": "59f62d", "name": "오리지널", "price": 15000, "sortOrder": 0 },
+          { "id": "ad879a", "name": "오리지널롱다리", "price": 16000, "sortOrder": 1 },
+          { "id": "2b8af0", "name": "오리지널순살", "price": 17000, "sortOrder": 2 },
+          {
+            "description": "(순한맛/매운맛)중 택 1",
+            "id": "52d81b",
+            "name": "양념",
+            "price": 16000,
+            "sortOrder": 3
+          },
+          { "id": "c74e85", "name": "갈릭", "price": 16000, "sortOrder": 4 },
+          { "id": "8e362e", "name": "레몬갈릭", "price": 16000, "sortOrder": 5 },
+          { "id": "9180ca", "name": "핫바베큐", "price": 16000, "sortOrder": 6 },
+          { "id": "08962e", "name": "로얄허브", "price": 17000, "sortOrder": 7 },
+          { "id": "0ccb65", "name": "화풍순살", "price": 18000, "sortOrder": 8 },
+          { "id": "1b65d5", "name": "까르보나라", "price": 18000, "sortOrder": 9 },
+          { "id": "58d2b3", "name": "순살파닭", "price": 18000, "sortOrder": 10 },
+          {
+            "description": "(순한맛/매운맛)중 택 1",
+            "id": "ce57d4",
+            "name": "후라이드",
+            "price": 15000,
+            "sortOrder": 11
+          },
+          {
+            "description": "피자",
+            "id": "85e51c",
+            "name": "마르게리따",
+            "price": 11000,
+            "sortOrder": 12
+          },
+          {
+            "description": "피자",
+            "id": "8859ed",
+            "name": "고르곤졸라",
+            "price": 13000,
+            "sortOrder": 13
+          },
+          {
+            "description": "피자",
+            "id": "3465e6",
+            "name": "포테이토",
+            "price": 13000,
+            "sortOrder": 14
+          },
+          { "id": "cec7b3", "name": "소주", "price": 2000, "sortOrder": 15 },
+          {
+            "description": "1000cc",
+            "id": "1c1e35",
+            "name": "맥주",
+            "price": 5000,
+            "sortOrder": 16
+          },
+          { "id": "e0c7f5", "name": "음료수(대)", "price": 2000, "sortOrder": 17 }
+        ],
+        "name": "일반",
+        "sortOrder": 0
+      }
+    ],
+    "name": "화르화르",
+    "sortOrder": 57,
+    "time": { "from": 17, "to": 23 }
+  },
+  {
+    "call": "052-245-2580",
+    "category": "chicken",
+    "id": "9fd165",
+    "menuCount": 11,
+    "menuGroups": [
+      {
+        "id": "dede74",
+        "menus": [
+          {
+            "description": "순살 - 16000원",
+            "id": "a5e8b3",
+            "name": "후라이드",
+            "price": 15000,
+            "sortOrder": 0
+          },
+          {
+            "description": "순살 - 17000원",
+            "id": "7b2470",
+            "name": "양념치킨",
+            "price": 16000,
+            "sortOrder": 1
+          },
+          {
+            "description": "순살 - 17000원",
+            "id": "9c4267",
+            "name": "간장치킨",
+            "price": 16000,
+            "sortOrder": 2
+          },
+          {
+            "description": "순살 - 18000원",
+            "id": "e51a1d",
+            "name": "마늘치킨",
+            "price": 17000,
+            "sortOrder": 3
+          },
+          { "id": "c7610b", "name": "오리지널", "price": 14000, "sortOrder": 4 },
+          { "id": "9b4f33", "name": "통구이", "price": 15000, "sortOrder": 5 },
+          { "id": "a6c493", "name": "제수용 닭", "price": 16000, "sortOrder": 6 },
+          { "id": "876cfe", "name": "마늘통구이", "price": 17000, "sortOrder": 7 },
+          {
+            "description": "후라이드+(양념,간장)중 택 1/순살- 17000원",
+            "id": "2622fc",
+            "name": "반반세트",
+            "price": 16000,
+            "sortOrder": 8
+          },
+          {
+            "description": "간장+양념/순살- 18000원",
+            "id": "3aa613",
+            "name": "반반세트2",
+            "price": 17000,
+            "sortOrder": 9
+          },
+          {
+            "description": "순살 후라이드/ 후라이드/양념/간장중 택 2",
+            "id": "ce2038",
+            "name": "두마리세트",
+            "price": 20000,
+            "sortOrder": 10
+          }
+        ],
+        "name": "일반",
+        "sortOrder": 0
+      }
+    ],
+    "name": "페리카나",
+    "sortOrder": 58,
+    "time": { "from": 10, "to": 24 }
+  },
+  {
+    "call": "052-245-9279",
+    "category": "chicken",
+    "id": "d23287",
+    "menuCount": 16,
+    "menuGroups": [
+      {
+        "id": "47c091",
+        "menus": [
+          { "id": "7dcbac", "name": "오리지널", "price": 14000, "sortOrder": 0 },
+          { "id": "f28853", "name": "골드베이크", "price": 15000, "sortOrder": 1 },
+          { "id": "196cfa", "name": "바비큐 맛", "price": 15000, "sortOrder": 2 },
+          { "id": "fe7e2f", "name": "불닭 맛", "price": 16000, "sortOrder": 3 },
+          { "id": "e6b03a", "name": "칠리 맛", "price": 15000, "sortOrder": 4 },
+          { "id": "8bd80f", "name": "갈릭 맛", "price": 15000, "sortOrder": 5 },
+          { "id": "129e1b", "name": "데리야끼 맛", "price": 15000, "sortOrder": 6 },
+          { "id": "52fb32", "name": "스테이크 맛", "price": 15000, "sortOrder": 7 },
+          { "id": "d0a014", "name": "순살치킨", "price": 16000, "sortOrder": 8 },
+          { "id": "384469", "name": "다리", "price": 16000, "sortOrder": 9 },
+          {
+            "description": "오리지널+(바비큐/칠리/갈릭)중 택 1",
+            "id": "f877bf",
+            "name": "두마리세트1",
+            "price": 21900,
+            "sortOrder": 10
+          },
+          {
+            "description": "데리야끼/불닭/스테이크/카레 중 택 1",
+            "id": "0ca8db",
+            "name": "두마리세트2",
+            "price": 21900,
+            "sortOrder": 11
+          },
+          {
+            "description": "오리지널/날개/다리/순살 중 택 1",
+            "id": "9a0889",
+            "name": "두마리세트3",
+            "price": 21900,
+            "sortOrder": 12
+          },
+          { "id": "7f2a32", "name": "떡사리", "price": 1000, "sortOrder": 13 },
+          { "id": "2ecfeb", "name": "파채,드레싱", "price": 1000, "sortOrder": 14 },
+          { "id": "f4372c", "name": "계란 2개", "price": 1000, "sortOrder": 15 }
+        ],
+        "name": "일반",
+        "sortOrder": 0
+      }
+    ],
+    "name": "구어좋은닭",
+    "sortOrder": 59,
+    "time": { "from": 17, "to": 25 }
+  },
+  {
+    "call": "052-212-9934",
+    "category": "chicken",
+    "id": "cf6b6b",
+    "menuCount": 26,
+    "menuGroups": [
+      {
+        "id": "ab2628",
+        "menus": [
+          { "id": "684e3f", "name": "후라이드", "price": 14000, "sortOrder": 0 },
+          { "id": "2775c8", "name": "양념치킨", "price": 14500, "sortOrder": 1 },
+          { "id": "6fbda2", "name": "핫 홀릭", "price": 14000, "sortOrder": 2 },
+          { "id": "8ee1bf", "name": "그릴윙", "price": 13500, "sortOrder": 3 },
+          {
+            "description": "매운맛",
+            "id": "63a2e8",
+            "name": "불닭",
+            "price": 12900,
+            "sortOrder": 4
+          },
+          { "id": "3842f8", "name": "허브 순살", "price": 13000, "sortOrder": 5 },
+          { "id": "63b322", "name": "땅땅 파닭", "price": 14900, "sortOrder": 6 },
+          { "id": "f0df63", "name": "서울치킨", "price": 14900, "sortOrder": 7 },
+          { "id": "5885cf", "name": "허브윙봉", "price": 15500, "sortOrder": 8 },
+          {
+            "id": "0eb91c",
+            "name": "블루베리 간장치킨",
+            "price": 14900,
+            "sortOrder": 9
+          },
+          { "id": "9e6c54", "name": "땅땅 불갈비", "price": 13000, "sortOrder": 10 },
+          { "id": "ae4b54", "name": "웰빙 불갈비", "price": 14900, "sortOrder": 11 },
+          { "id": "f53942", "name": "독도 촌닭", "price": 14900, "sortOrder": 12 },
+          { "id": "b07354", "name": "불 골드윙", "price": 15000, "sortOrder": 13 },
+          {
+            "description": "한마리 - 22900",
+            "id": "2e37d5",
+            "name": "오리 오븐구이(반)",
+            "price": 12900,
+            "sortOrder": 14
+          },
+          {
+            "description": "허브순살+불닭",
+            "id": "e22f04",
+            "name": "땅땅세트1",
+            "price": 16000,
+            "sortOrder": 15
+          },
+          {
+            "description": "불닭+땅땅 불갈비",
+            "id": "49bcb3",
+            "name": "땅땅세트2",
+            "price": 16000,
+            "sortOrder": 16
+          },
+          {
+            "description": "허브순살+땅땅 불갈비",
+            "id": "e670d8",
+            "name": "땅땅세트3",
+            "price": 16000,
+            "sortOrder": 17
+          },
+          {
+            "description": "그릴윙+땅땅불갈비",
+            "id": "a6ce27",
+            "name": "땅땅세트4",
+            "price": 16000,
+            "sortOrder": 18
+          },
+          {
+            "description": "핫 홀릭+허브순살",
+            "id": "f6797d",
+            "name": "땅땅세트4",
+            "price": 16000,
+            "sortOrder": 19
+          },
+          { "id": "c1b0c9", "name": "매콤떡볶이", "price": 3000, "sortOrder": 20 },
+          { "id": "a1b739", "name": "치즈 포테이토", "price": 5000, "sortOrder": 21 },
+          { "id": "8fc042", "name": "별난감자", "price": 8000, "sortOrder": 22 },
+          {
+            "id": "74c445",
+            "name": "땅땅 수제소시지",
+            "price": 9000,
+            "sortOrder": 23
+          },
+          {
+            "id": "53ef03",
+            "name": "뼈없는 양념닭발",
+            "price": 12000,
+            "sortOrder": 24
+          },
+          {
+            "description": "소시지+그릴윙+별난감자",
+            "id": "f3200d",
+            "name": "그녀들의 파티",
+            "price": 17000,
+            "sortOrder": 25
+          }
+        ],
+        "name": "일반",
+        "sortOrder": 0
+      }
+    ],
+    "name": "땅땅치킨",
+    "sortOrder": 60,
+    "time": { "from": 17, "to": 26 }
+  },
+  {
+    "call": "052-245-0092",
+    "category": "jokbal",
+    "id": "2757fc",
+    "menuCount": 24,
+    "menuGroups": [
+      {
+        "id": "f6f319",
+        "menus": [
+          {
+            "description": "놀부보쌈대+쟁반막국수대+녹두전or김치전",
+            "id": "f5f107",
+            "name": "행복세트(4인기준)",
+            "price": 56000,
+            "sortOrder": 0
+          },
+          { "id": "efc787", "name": "스페셜모둠보쌈", "price": 49000, "sortOrder": 1 },
+          {
+            "id": "1cc899",
+            "name": "바비큐 오리보쌈",
+            "price": 32000,
+            "sortOrder": 2
+          },
+          { "id": "e8c020", "name": "낙지보쌈", "price": 28000, "sortOrder": 3 },
+          { "id": "2bea76", "name": "매운순살족발", "price": 27000, "sortOrder": 4 },
+          { "id": "5ac770", "name": "놀부족발", "price": 33000, "sortOrder": 5 },
+          { "id": "c03abd", "name": "순살족발", "price": 25000, "sortOrder": 6 },
+          {
+            "description": "놀부보쌈 소 +쟁반 막국수 중(2인기준),3인분시+9000",
+            "id": "01aaa1",
+            "name": "사랑세트",
+            "price": 36000,
+            "sortOrder": 7
+          },
+          {
+            "description": "중:36000,대:41000",
+            "id": "0badf7",
+            "name": "놀부보쌈",
+            "price": 31000,
+            "sortOrder": 8
+          },
+          { "id": "bd066f", "name": "낙지족발", "price": 29000, "sortOrder": 9 },
+          {
+            "description": "족발+보쌈",
+            "id": "78a7f6",
+            "name": "놀부족보",
+            "price": 39000,
+            "sortOrder": 10
+          },
+          {
+            "description": "대:14000",
+            "id": "3e9733",
+            "name": "쟁반막국수",
+            "price": 9000,
+            "sortOrder": 11
+          },
+          {
+            "description": "사이드메뉴",
+            "id": "2109e5",
+            "name": "감자찐만두",
+            "price": 4000,
+            "sortOrder": 12
+          },
+          {
+            "description": "사이드메뉴",
+            "id": "b1a523",
+            "name": "메밀전병",
+            "price": 4000,
+            "sortOrder": 13
+          },
+          {
+            "description": "사이드메뉴",
+            "id": "a8db6f",
+            "name": "녹두전/김치전",
+            "price": 7000,
+            "sortOrder": 14
+          },
+          {
+            "description": "2인이상 주문가능, 런치메뉴",
+            "id": "66e7ca",
+            "name": "제육쌈밥",
+            "price": 9000,
+            "sortOrder": 15
+          },
+          {
+            "description": "2인이상 주문가능, 런치메뉴",
+            "id": "279525",
+            "name": "곤드레 모둠 보쌈정식",
+            "price": 11000,
+            "sortOrder": 16
+          },
+          {
+            "description": "런치메뉴",
+            "id": "b80eb3",
+            "name": "보쌈정식",
+            "price": 8000,
+            "sortOrder": 17
+          },
+          {
+            "description": "런치메뉴",
+            "id": "228b36",
+            "name": "약선정식",
+            "price": 8000,
+            "sortOrder": 18
+          },
+          {
+            "description": "런치메뉴",
+            "id": "604fef",
+            "name": "보쌈과 해물순두부 정식",
+            "price": 9000,
+            "sortOrder": 19
+          },
+          {
+            "description": "런치메뉴",
+            "id": "c215b8",
+            "name": "순두부",
+            "price": 6500,
+            "sortOrder": 20
+          },
+          {
+            "description": "런치메뉴",
+            "id": "37c0bf",
+            "name": "육개장",
+            "price": 6500,
+            "sortOrder": 21
+          },
+          {
+            "description": "2인이상 주문가능, 런치메뉴",
+            "id": "368bcf",
+            "name": "낙지비빔밥",
+            "price": 8000,
+            "sortOrder": 22
+          },
+          {
+            "description": "런치메뉴",
+            "id": "f42902",
+            "name": "곤드레밥 정식",
+            "price": 6500,
+            "sortOrder": 23
+          }
+        ],
+        "name": "일반",
+        "sortOrder": 0
+      }
+    ],
+    "name": "놀부보쌈",
+    "sortOrder": 61,
+    "time": { "from": 10, "to": 22 }
+  },
+  {
+    "call": "052-245-0089",
+    "category": "jokbal",
+    "id": "0754a8",
+    "menuCount": 7,
+    "menuGroups": [
+      {
+        "id": "a11200",
+        "menus": [
+          {
+            "description": "중:30000,대:35000",
+            "id": "e119b6",
+            "name": "족ㅂ",
+            "price": 25000,
+            "sortOrder": 0
+          },
+          {
+            "description": "중:32000,대:37000",
+            "id": "ae3a05",
+            "name": "냉채족발",
+            "price": 27000,
+            "sortOrder": 1
+          },
+          {
+            "description": "중:32000,대:37000",
+            "id": "8bca66",
+            "name": "매운족발",
+            "price": 27000,
+            "sortOrder": 2
+          },
+          { "id": "546c13", "name": "쟁반국수", "price": 10000, "sortOrder": 3 },
+          { "id": "7199b3", "name": "술국", "price": 10000, "sortOrder": 4 },
+          { "id": "1e8d05", "name": "공기밥", "price": 1000, "sortOrder": 5 },
+          {
+            "id": "ac4fda",
+            "name": "껍데기편육,닭발편육",
+            "price": 15000,
+            "sortOrder": 6
+          }
+        ],
+        "name": "일반",
+        "sortOrder": 0
+      }
+    ],
+    "name": "풍문족발",
+    "sortOrder": 62,
+    "time": { "from": 17, "to": 26 }
+  },
+  {
+    "branch": "구영천상점",
+    "call": "052-246-5582",
+    "category": "chicken",
+    "id": "1351f7",
+    "menuCount": 28,
+    "menuGroups": [
+      {
+        "id": "ebbcc6",
+        "menus": [
+          { "id": "997f10", "name": "카레 치킨", "price": 16000, "sortOrder": 0 },
+          {
+            "description": "순살/뼈닭",
+            "id": "103fa7",
+            "name": "칠리 치킨",
+            "price": 16000,
+            "sortOrder": 1
+          },
+          {
+            "description": "순살/뼈닭",
+            "id": "959847",
+            "name": "데리야끼치킨",
+            "price": 16000,
+            "sortOrder": 2
+          },
+          {
+            "description": "순살/뼈닭",
+            "id": "b64179",
+            "name": "레몬겨자치킨",
+            "price": 16000,
+            "sortOrder": 3
+          },
+          { "id": "c188be", "name": "순살 반반치킨", "price": 16000, "sortOrder": 4 },
+          { "id": "1ddf42", "name": "뼈닭 반반치킨", "price": 16000, "sortOrder": 5 },
+          {
+            "description": "양념반 바베큐반",
+            "id": "414e9c",
+            "name": "바베큐 콤보",
+            "price": 16000,
+            "sortOrder": 6
+          },
+          {
+            "description": "하프립 반, 치킨 반",
+            "id": "bda4dd",
+            "name": "립and치킨",
+            "price": 18000,
+            "sortOrder": 7
+          },
+          {
+            "description": "후라이드 + 택 2",
+            "id": "ba488b",
+            "name": "세마리세트",
+            "price": 22000,
+            "sortOrder": 8
+          },
+          { "id": "c0e98e", "name": "사천고추치킨", "price": 17000, "sortOrder": 9 },
+          { "id": "b280ac", "name": "타코야끼", "price": 17000, "sortOrder": 10 },
+          {
+            "id": "a65bff",
+            "name": "오리지널 깐풍치킨",
+            "price": 17000,
+            "sortOrder": 11
+          },
+          {
+            "id": "dc0f41",
+            "name": "캐리비언 깐풍치킨",
+            "price": 17000,
+            "sortOrder": 12
+          },
+          { "id": "00228c", "name": "탕수깐풍치킨", "price": 17000, "sortOrder": 13 },
+          {
+            "description": "타코야끼+택2+콜라대",
+            "id": "9e4800",
+            "name": "알뜰세트",
+            "price": 23000,
+            "sortOrder": 14
+          },
+          {
+            "description": "소스에따라가격이 변동됩니다",
+            "id": "335d60",
+            "name": "뼈 大자 두마리세트",
+            "price": 20000,
+            "sortOrder": 15
+          },
+          {
+            "id": "13fb28",
+            "name": "순살두마리세트",
+            "price": 17000,
+            "sortOrder": 16
+          },
+          {
+            "id": "c1710d",
+            "name": "순살세마리세트",
+            "price": 22000,
+            "sortOrder": 17
+          },
+          { "id": "c80be9", "name": "감자추가", "price": 3000, "sortOrder": 18 },
+          { "id": "731f8a", "name": "떡추가", "price": 1000, "sortOrder": 19 },
+          { "id": "815a6d", "name": "치즈추가", "price": 1000, "sortOrder": 20 },
+          { "id": "edcb55", "name": "콜라", "price": 2000, "sortOrder": 21 },
+          {
+            "id": "74be11",
+            "name": "비버스 윙&봉",
+            "price": 16000,
+            "sortOrder": 22
+          },
+          {
+            "id": "ebbe89",
+            "name": "통마리 바베큐",
+            "price": 15000,
+            "sortOrder": 23
+          },
+          {
+            "id": "714c41",
+            "name": "순살치킨&갈릭치킨",
+            "price": 17000,
+            "sortOrder": 24
+          },
+          {
+            "description": "매콤, 간장볶음 치킨",
+            "id": "0ff288",
+            "name": "타이치킨",
+            "price": 17000,
+            "sortOrder": 25
+          },
+          { "id": "e2a5d4", "name": "비버스립", "price": 19000, "sortOrder": 26 },
+          { "id": "133810", "name": "치킨탕수육", "price": 16000, "sortOrder": 27 }
+        ],
+        "name": "일반",
+        "sortOrder": 0
+      }
+    ],
+    "name": "비버스치킨",
+    "sortOrder": 63,
+    "time": { "from": 15, "to": 26 }
+  },
+  {
+    "call": "052-211-2360",
+    "category": "others",
+    "id": "57a6f1",
+    "menuCount": 15,
+    "menuGroups": [
+      {
+        "id": "9ed4f3",
+        "menus": [
+          { "id": "0cb950", "name": "날으는 치킨까스", "price": 6500, "sortOrder": 0 },
+          {
+            "id": "8a25bd",
+            "name": "오동통 꼬마돈까스",
+            "price": 6500,
+            "sortOrder": 1
+          },
+          {
+            "id": "8611fe",
+            "name": "바다탈출 생선까스",
+            "price": 6500,
+            "sortOrder": 2
+          },
+          {
+            "id": "0687e0",
+            "name": "쫄면만난 생돈까스",
+            "price": 7000,
+            "sortOrder": 3
+          },
+          {
+            "id": "eb11d6",
+            "name": "배터지는 생돈까스",
+            "price": 7500,
+            "sortOrder": 4
+          },
+          {
+            "id": "82233f",
+            "name": "나이스짱 모둠정식",
+            "price": 7500,
+            "sortOrder": 5
+          },
+          {
+            "id": "688406",
+            "name": "산골 고구마 돈까스",
+            "price": 7500,
+            "sortOrder": 6
+          },
+          { "id": "92f797", "name": "웰빙함박스테이크", "price": 7500, "sortOrder": 7 },
+          {
+            "id": "9fffba",
+            "name": "돌아온 피자돈까스",
+            "price": 7500,
+            "sortOrder": 8
+          },
+          {
+            "id": "c61223",
+            "name": "피자떠난치즈 돈까스",
+            "price": 7500,
+            "sortOrder": 9
+          },
+          {
+            "id": "9a4afa",
+            "name": "게살통통게살돈까스",
+            "price": 10000,
+            "sortOrder": 10
+          },
+          {
+            "description": "5개",
+            "id": "a1e42d",
+            "name": "왕새우튀김",
+            "price": 7000,
+            "sortOrder": 11
+          },
+          {
+            "description": "등심+생선+치즈+치킨1/2",
+            "id": "5a6ede",
+            "name": "스페셜 생돈까스",
+            "price": 14500,
+            "sortOrder": 12
+          },
+          {
+            "id": "e01a1f",
+            "name": "김치 치즈롤 돈까스",
+            "price": 7500,
+            "sortOrder": 13
+          },
+          { "id": "359f21", "name": "매운생돈까스", "price": 7500, "sortOrder": 14 }
+        ],
+        "name": "일반",
+        "sortOrder": 0
+      }
+    ],
+    "name": "배터지는 생돈까스",
+    "sortOrder": 64
+  },
+  {
+    "call": "052-211-2118",
+    "category": "others",
+    "id": "4c9c67",
+    "menuCount": 13,
+    "menuGroups": [
+      {
+        "id": "fa8de6",
+        "menus": [
+          { "id": "d17aff", "name": "수제돈가스", "price": 7000, "sortOrder": 0 },
+          { "id": "b6d8db", "name": "수제 생선가스", "price": 8000, "sortOrder": 1 },
+          {
+            "id": "ee6e8e",
+            "name": "수제 매운 불돈가스",
+            "price": 8000,
+            "sortOrder": 2
+          },
+          {
+            "id": "cb94e9",
+            "name": "수제 새우&돈가스",
+            "price": 8000,
+            "sortOrder": 3
+          },
+          { "id": "518846", "name": "수제 치즈돈가스", "price": 8000, "sortOrder": 4 },
+          {
+            "id": "4f9a5a",
+            "name": "수제 고구마 돈가스",
+            "price": 8000,
+            "sortOrder": 5
+          },
+          { "id": "b132f4", "name": "날으는 치킨까스", "price": 6500, "sortOrder": 6 },
+          { "id": "7d9ef0", "name": "캘리포니아롤", "price": 7000, "sortOrder": 7 },
+          { "id": "491f02", "name": "돈가스롤", "price": 8000, "sortOrder": 8 },
+          { "id": "b87aad", "name": "새우튀김롤", "price": 8000, "sortOrder": 9 },
+          { "id": "229f13", "name": "모듬스페셜1", "price": 16000, "sortOrder": 10 },
+          { "id": "02ce81", "name": "모듬스페셜2", "price": 18000, "sortOrder": 11 },
+          { "id": "1525ae", "name": "해송패밀리", "price": 20000, "sortOrder": 12 }
+        ],
+        "name": "일반",
+        "sortOrder": 0
+      }
+    ],
+    "name": "해송돈까스",
+    "sortOrder": 65
+  },
+  {
+    "call": "052-248-5540",
+    "category": "others",
+    "id": "f4de71",
+    "menuCount": 12,
+    "menuGroups": [
+      {
+        "id": "3b0d1f",
+        "menus": [
+          { "id": "b82477", "name": "빠사시떡볶이", "price": 2500, "sortOrder": 0 },
+          {
+            "id": "f48a87",
+            "name": "매콤까르보나라 떡볶이",
+            "price": 4500,
+            "sortOrder": 1
+          },
+          { "id": "24347e", "name": "진짜부산오뎅", "price": 2500, "sortOrder": 2 },
+          { "id": "0e707c", "name": "모듬튀김", "price": 2500, "sortOrder": 3 },
+          { "id": "95e8b9", "name": "찰순대", "price": 3000, "sortOrder": 4 },
+          {
+            "description": "6개/10개/21개/",
+            "id": "eb60ed",
+            "name": "꼬마김밥",
+            "price": 0,
+            "sortOrder": 5
+          },
+          {
+            "description": "2알",
+            "id": "938850",
+            "name": "폭탄주먹밥",
+            "price": 2000,
+            "sortOrder": 6
+          },
+          {
+            "id": "898024",
+            "name": "꿀강정(L)+떡볶이",
+            "price": 12000,
+            "sortOrder": 7
+          },
+          {
+            "id": "f4f88b",
+            "name": "꿀강정(L)+까르보나라떡볶이",
+            "price": 14000,
+            "sortOrder": 8
+          },
+          {
+            "id": "a70a6e",
+            "name": "옛날치킨(L)+떡볶이",
+            "price": 12000,
+            "sortOrder": 9
+          },
+          {
+            "description": "M/L",
+            "id": "904c46",
+            "name": "꿀강정",
+            "price": 0,
+            "sortOrder": 10
+          },
+          {
+            "description": "M/L",
+            "id": "fb4942",
+            "name": "옛날치킨",
+            "price": 0,
+            "sortOrder": 11
+          }
+        ],
+        "name": "일반",
+        "sortOrder": 0
+      }
+    ],
+    "name": "빠사시떡볶이&치킨",
+    "sortOrder": 66
+  },
+  {
+    "address": "구영리374-14",
+    "branch": "구영리",
+    "call": "052-211-9274",
+    "category": "chicken",
+    "condition": "메뉴1개 주문시배달비+2000",
+    "id": "f93b23",
+    "menuCount": 20,
+    "menuGroups": [
+      {
+        "id": "7669db",
+        "menus": [
+          { "id": "34252a", "name": "쌀치즈 품닭", "price": 16000, "sortOrder": 0 },
+          {
+            "id": "4c3deb",
+            "name": "쌀치즈다이어트 순살",
+            "price": 16000,
+            "sortOrder": 1
+          },
+          { "id": "4f8c79", "name": "쌀치즈 살텐더", "price": 17000, "sortOrder": 2 },
+          {
+            "id": "003694",
+            "name": "쌀치즈 쫄깃순살",
+            "price": 18000,
+            "sortOrder": 3
+          },
+          { "id": "8deda6", "name": "쌀치즈 날개", "price": 18000, "sortOrder": 4 },
+          {
+            "id": "c7c6fb",
+            "name": "마늘간장 쌀품닭",
+            "price": 15000,
+            "sortOrder": 5
+          },
+          {
+            "id": "8559c7",
+            "name": "마늘간장다이어트 순살",
+            "price": 15000,
+            "sortOrder": 6
+          },
+          { "id": "537589", "name": "마늘간장살텐더", "price": 16000, "sortOrder": 7 },
+          {
+            "id": "a5b066",
+            "name": "마늘간장 쫄깃순살",
+            "price": 17000,
+            "sortOrder": 8
+          },
+          { "id": "1ee573", "name": "마늘간장 날개", "price": 17000, "sortOrder": 9 },
+          { "id": "266105", "name": "마늘간장 리", "price": 17000, "sortOrder": 10 },
+          { "id": "271778", "name": "후라이드", "price": 15000, "sortOrder": 11 },
+          {
+            "description": "마늘간장+골드양념",
+            "id": "3794bd",
+            "name": "세트1",
+            "price": 20000,
+            "sortOrder": 12
+          },
+          {
+            "description": "마늘간장+청양고추",
+            "id": "e17369",
+            "name": "세트2",
+            "price": 20000,
+            "sortOrder": 13
+          },
+          {
+            "description": "골드양념+청양고추",
+            "id": "849fee",
+            "name": "세트3",
+            "price": 20000,
+            "sortOrder": 14
+          },
+          {
+            "description": "만르간장+쌀치즈",
+            "id": "6e6ef9",
+            "name": "세트4",
+            "price": 2200,
+            "sortOrder": 15
+          },
+          {
+            "description": "청양고추+쌀치즈",
+            "id": "918a2c",
+            "name": "세트5",
+            "price": 2200,
+            "sortOrder": 16
+          },
+          {
+            "description": "골드양념+쌀치즈",
+            "id": "b8e303",
+            "name": "세트6",
+            "price": 22000,
+            "sortOrder": 17
+          },
+          {
+            "id": "e6d834",
+            "name": "모짜렐라 치즈 붉닭",
+            "price": 18000,
+            "sortOrder": 18
+          },
+          {
+            "description": "마늘간장,청양고추,골드양념 중  택2",
+            "id": "6d2d37",
+            "name": "파닭set",
+            "price": 18000,
+            "sortOrder": 19
+          }
+        ],
+        "name": "일반",
+        "sortOrder": 0
+      }
+    ],
+    "name": "쌀을 품은 닭",
+    "sortOrder": 67,
+    "time": { "from": 15, "to": 23 }
+  },
+  {
+    "call": "052-212-9989",
+    "category": "chicken",
+    "condition": "한마리도 가능",
+    "id": "d9645b",
+    "menuCount": 10,
+    "menuGroups": [
+      {
+        "id": "7575d3",
+        "menus": [
+          { "id": "0e8a6e", "name": "숯불양념", "price": 15000, "sortOrder": 0 },
+          { "id": "c3fc50", "name": "숯불소금", "price": 14000, "sortOrder": 1 },
+          { "id": "7e3922", "name": "후라이드", "price": 13000, "sortOrder": 2 },
+          { "id": "ad09be", "name": "양념", "price": 14000, "sortOrder": 3 },
+          { "id": "2b740f", "name": "간장", "price": 14000, "sortOrder": 4 },
+          { "id": "356285", "name": "통구이", "price": 13000, "sortOrder": 5 },
+          { "id": "5e1631", "name": "순살치킨", "price": 14000, "sortOrder": 6 },
+          { "id": "500fa7", "name": "쌀통닭", "price": 14900, "sortOrder": 7 },
+          {
+            "description": "후라이드/통구이/양념/간장 중 택2",
+            "id": "8341d4",
+            "name": "두마리세트",
+            "price": 20000,
+            "sortOrder": 8
+          },
+          { "id": "f2e5a7", "name": "순살 파닭", "price": 16000, "sortOrder": 9 }
+        ],
+        "name": "일반",
+        "sortOrder": 0
+      }
+    ],
+    "name": "올꼬꼬 치킨",
+    "sortOrder": 68,
+    "time": { "from": 17, "to": 25 }
+  },
+  {
+    "call": "052-246-9296",
+    "category": "jokbal",
+    "id": "8bc2c7",
+    "menuCount": 10,
+    "menuGroups": [
+      {
+        "id": "2c2ee4",
+        "menus": [
+          {
+            "description": "대:33000",
+            "id": "f59796",
+            "name": "왕족",
+            "price": 29000,
+            "sortOrder": 0
+          },
+          {
+            "description": "대:35000",
+            "id": "69d10f",
+            "name": "매운불왕족발",
+            "price": 31000,
+            "sortOrder": 1
+          },
+          {
+            "description": "대:35000",
+            "id": "6f9624",
+            "name": "깻잎양념불왕족발",
+            "price": 31000,
+            "sortOrder": 2
+          },
+          {
+            "description": "대:35000",
+            "id": "f014de",
+            "name": "마늘왕족",
+            "price": 310000,
+            "sortOrder": 3
+          },
+          {
+            "description": "대:35000",
+            "id": "fe4be6",
+            "name": "파왕족",
+            "price": 31000,
+            "sortOrder": 4
+          },
+          { "id": "b2f0f0", "name": "반반왕족발", "price": 35000, "sortOrder": 5 },
+          {
+            "id": "9ec743",
+            "name": "해파리오색야채왕족발",
+            "price": 39000,
+            "sortOrder": 6
+          },
+          { "id": "f5ec9b", "name": "골뱅이왕족발", "price": 43000, "sortOrder": 7 },
+          { "id": "b2feee", "name": "족보세트", "price": 46100, "sortOrder": 8 },
+          { "id": "6d8c44", "name": "생맥주", "price": 0, "sortOrder": 9 }
+        ],
+        "name": "일반",
+        "sortOrder": 0
+      }
+    ],
+    "name": "천하제일왕족발",
+    "sortOrder": 69,
+    "time": { "from": 12, "to": 25 }
+  },
+  {
+    "call": "052-244-8898",
+    "category": "chicken",
+    "id": "5811bf",
+    "menuCount": 7,
+    "menuGroups": [
+      {
+        "id": "c875f4",
+        "menus": [
+          { "id": "e0381c", "name": "한마리", "price": 12000, "sortOrder": 0 },
+          { "id": "6f9b8e", "name": "숯불양념", "price": 15000, "sortOrder": 1 },
+          {
+            "description": "후라이드+양념/간장/레몬 택1",
+            "id": "08e9c4",
+            "name": "두마리세트",
+            "price": 17000,
+            "sortOrder": 2
+          },
+          {
+            "description": "양념/간장/레몬 택2",
+            "id": "2833b9",
+            "name": "두마리세트",
+            "price": 18000,
+            "sortOrder": 3
+          },
+          {
+            "description": "후라이드 +핫칠리/카레 택1",
+            "id": "a140ff",
+            "name": "두마리세트",
+            "price": 18000,
+            "sortOrder": 4
+          },
+          {
+            "description": "칠리+양념/간장/레몬/카레 중 택1",
+            "id": "9bbba6",
+            "name": "두마리세트",
+            "price": 19000,
+            "sortOrder": 5
+          },
+          {
+            "description": "후라이드/양념/간장/레몬/핫칠리/카레 중택3",
+            "id": "cdd97f",
+            "name": "세마리세트",
+            "price": 23000,
+            "sortOrder": 6
+          }
+        ],
+        "name": "일반",
+        "sortOrder": 0
+      }
+    ],
+    "name": "파닭에 미쳐써",
+    "sortOrder": 70,
+    "time": { "from": 16, "to": 25 }
+  },
+  {
+    "call": "052-248-9272",
+    "category": "others",
+    "id": "18517b",
+    "menuCount": 7,
+    "menuGroups": [
+      {
+        "id": "3152c5",
+        "menus": [
+          {
+            "description": "중70000/대90000",
+            "id": "c95e8b",
+            "name": "생아구수육",
+            "price": 60000,
+            "sortOrder": 0
+          },
+          {
+            "description": "중35000/대40000",
+            "id": "6d95d6",
+            "name": "생아구찜",
+            "price": 30000,
+            "sortOrder": 1
+          },
+          {
+            "description": "중40000/대50000",
+            "id": "e147ad",
+            "name": "생아구매운탕",
+            "price": 30000,
+            "sortOrder": 2
+          },
+          {
+            "description": "중40000/대50000",
+            "id": "7f2ed4",
+            "name": "해물찜",
+            "price": 30000,
+            "sortOrder": 3
+          },
+          { "id": "e5541a", "name": "생아구탕", "price": 13000, "sortOrder": 4 },
+          { "id": "0adc8d", "name": "물회", "price": 12000, "sortOrder": 5 },
+          { "id": "96ec2a", "name": "횟밥", "price": 10000, "sortOrder": 6 }
+        ],
+        "name": "일반",
+        "sortOrder": 0
+      }
+    ],
+    "name": "감토 생 아구전문",
+    "sortOrder": 71
+  },
+  {
+    "branch": "범서점",
+    "call": "052-223-8844",
+    "category": "chicken",
+    "id": "109374",
+    "menuCount": 3,
+    "menuGroups": [
+      {
+        "id": "e5568f",
+        "menus": [
+          {
+            "description":
+              "후라이드/양념/양파/핫스파이스/후레쉬갈릭/오리엔탈칠리/간장/고추양념/눈꽃버터갈릭/눈꽃스윗치즈/눈꽃허니버터 중 택2",
+            "id": "c3bbc7",
+            "name": "두마리세트",
+            "price": 19000,
+            "sortOrder": 0
+          },
+          {
+            "id": "9014eb",
+            "name": "고추치킨 set",
+            "price": 19000,
+            "sortOrder": 1
+          },
+          {
+            "description": "순살 : 양념/간장/레몬",
+            "id": "1a105e",
+            "name": "불닭+순살+콜라/쿨피스",
+            "price": 22000,
+            "sortOrder": 2
+          }
+        ],
+        "name": "일반",
+        "sortOrder": 0
+      }
+    ],
+    "name": "코리엔탈 깻잎 치킨",
+    "sortOrder": 72,
+    "time": { "from": 17, "to": 26 }
+  },
+  {
+    "call": "052-246-6289",
+    "category": "others",
+    "id": "0780c6",
+    "menuCount": 12,
+    "menuGroups": [
+      {
+        "id": "8c68f8",
+        "menus": [
+          { "id": "31b688", "name": "왕돈까스", "price": 7000, "sortOrder": 0 },
+          { "id": "616260", "name": "안심돈까스", "price": 7500, "sortOrder": 1 },
+          { "id": "1ee4d5", "name": "치즈돈까스", "price": 7500, "sortOrder": 2 },
+          { "id": "cbd359", "name": "고구마돈까스", "price": 7000, "sortOrder": 3 },
+          { "id": "bdc1ab", "name": "치킨까스", "price": 7000, "sortOrder": 4 },
+          {
+            "id": "3654f9",
+            "name": "토마토해산물스파게티",
+            "price": 7000,
+            "sortOrder": 5
+          },
+          { "id": "abbc89", "name": "크림스파게티", "price": 7000, "sortOrder": 6 },
+          { "id": "bf7c7f", "name": "오븐스파게티", "price": 7500, "sortOrder": 7 },
+          { "id": "71315d", "name": "뚝배기 비빔밥", "price": 6000, "sortOrder": 8 },
+          {
+            "description": "돈까스+해물짬뽕",
+            "id": "301e77",
+            "name": "세트1",
+            "price": 8500,
+            "sortOrder": 9
+          },
+          {
+            "description": "치킨까스+해물짬뽕",
+            "id": "ea0e9d",
+            "name": "세트2",
+            "price": 8500,
+            "sortOrder": 10
+          },
+          {
+            "description": "생선까스+해물짬뽕",
+            "id": "8c11cd",
+            "name": "세트3",
+            "price": 8500,
+            "sortOrder": 11
+          }
+        ],
+        "name": "일반",
+        "sortOrder": 0
+      }
+    ],
+    "name": "수제왕돈까스 청담",
+    "sortOrder": 73
+  },
+  {
+    "branch": "범서점",
+    "call": "052-243-9289",
+    "category": "chicken",
+    "condition": "배송료 1000",
+    "id": "3341ff",
+    "menuCount": 5,
+    "menuGroups": [
+      {
+        "id": "6aacea",
+        "menus": [
+          {
+            "description": "후라이드/양념/간장 중 택2+콜라",
+            "id": "9ef6ad",
+            "name": "두마리세트",
+            "price": 20000,
+            "sortOrder": 0
+          },
+          {
+            "description": "후라이드/양념/양파맛/핫스파이스/갈릭/칠리/간장 중 택 2 중복가능",
+            "id": "f16b16",
+            "name": "두마리세트",
+            "price": 19000,
+            "sortOrder": 1
+          },
+          { "id": "9c7663", "name": "다리", "price": 20000, "sortOrder": 2 },
+          { "id": "abf39a", "name": "날개", "price": 20000, "sortOrder": 3 },
+          {
+            "description": "후라이드/양념/간장",
+            "id": "827af7",
+            "name": "순살",
+            "price": 20000,
+            "sortOrder": 4
+          }
+        ],
+        "name": "일반",
+        "sortOrder": 0
+      }
+    ],
+    "name": "호식이 두마리 치킨",
+    "sortOrder": 74,
+    "time": { "from": 18, "to": 24 }
+  },
+  {
+    "branch": "천상점",
+    "call": "052-248-5855",
+    "category": "jokbal",
+    "condition": "배달비1000원",
+    "id": "60f052",
+    "menuCount": 17,
+    "menuGroups": [
+      {
+        "id": "40858e",
+        "menus": [
+          {
+            "description": "중:28000,대:33000,특대:38000",
+            "id": "117229",
+            "name": "족발",
+            "price": 23000,
+            "sortOrder": 0
+          },
+          {
+            "description": "중:28000,대:33000,특대:38000",
+            "id": "3729f8",
+            "name": "보쌈",
+            "price": 23000,
+            "sortOrder": 1
+          },
+          {
+            "description": "중:30000,대:35000",
+            "id": "ee0824",
+            "name": "냉채족발",
+            "price": 25000,
+            "sortOrder": 2
+          },
+          {
+            "description": "대:30000",
+            "id": "2ff284",
+            "name": "불족발",
+            "price": 23000,
+            "sortOrder": 3
+          },
+          { "id": "7778af", "name": "골뱅이족발무침", "price": 30000, "sortOrder": 4 },
+          { "id": "21fcda", "name": "얼큰이족탕", "price": 25000, "sortOrder": 5 },
+          {
+            "description": "족발+보쌈",
+            "id": "08706c",
+            "name": "실속A",
+            "price": 29000,
+            "sortOrder": 6
+          },
+          {
+            "description": "불족발+보쌈",
+            "id": "6d2a47",
+            "name": "실속B",
+            "price": 29000,
+            "sortOrder": 7
+          },
+          {
+            "description": "골족+보쌈",
+            "id": "61cad2",
+            "name": "실속C",
+            "price": 29000,
+            "sortOrder": 8
+          },
+          {
+            "description": "(족발+보쌈)대:42000",
+            "id": "d4f45e",
+            "name": "스페셜세트A",
+            "price": 38000,
+            "sortOrder": 9
+          },
+          {
+            "description": "(냉채족발+보쌈)대:42000",
+            "id": "8efcf6",
+            "name": "스페셜세트B",
+            "price": 38000,
+            "sortOrder": 10
+          },
+          {
+            "description": "(골족+보쌈)대:42000",
+            "id": "f9c1bc",
+            "name": "스페셜세트C",
+            "price": 32000,
+            "sortOrder": 11
+          },
+          {
+            "description": "족발+보쌈+얼큰이족탕",
+            "id": "496e16",
+            "name": "모듬A",
+            "price": 49000,
+            "sortOrder": 12
+          },
+          {
+            "description": "냉채족발+보쌈+얼큰이족탕",
+            "id": "a2e2ab",
+            "name": "모듬B",
+            "price": 49000,
+            "sortOrder": 13
+          },
+          {
+            "description": "골족+보쌈+얼큰이족탕",
+            "id": "548aec",
+            "name": "모듬C",
+            "price": 49000,
+            "sortOrder": 14
+          },
+          {
+            "description": "중:29000,대:34000,특대:39000",
+            "id": "151db5",
+            "name": "마늘보쌈",
+            "price": 24000,
+            "sortOrder": 15
+          },
+          {
+            "description": "대:12000",
+            "id": "2a2097",
+            "name": "막국수",
+            "price": 3000,
+            "sortOrder": 16
+          }
+        ],
+        "name": "일반",
+        "sortOrder": 0
+      }
+    ],
+    "name": "족발 삶는 사람들",
+    "sortOrder": 75,
+    "time": { "from": 12, "to": 26 }
+  },
+  {
+    "address": "울산 울주군 범서읍 천상중앙길 104",
+    "branch": "천상점",
+    "call": "052-248-1991",
+    "category": "chicken",
+    "id": "c7f515",
+    "menuCount": 16,
+    "menuGroups": [
+      {
+        "id": "b6fdbb",
+        "menus": [
+          {
+            "id": "63b4f4",
+            "name": "교촌허니오리지날",
+            "price": 15000,
+            "sortOrder": 0
+          },
+          {
+            "description": "다리",
+            "id": "d80b80",
+            "name": "교촌허니스틱",
+            "price": 18000,
+            "sortOrder": 1
+          },
+          {
+            "description": "날개+봉+다리",
+            "id": "749c40",
+            "name": "교촌허니콤보",
+            "price": 18000,
+            "sortOrder": 2
+          },
+          { "id": "6cdf32", "name": "교촌오리지날", "price": 15000, "sortOrder": 3 },
+          {
+            "description": "다리",
+            "id": "99f5a3",
+            "name": "교촌오리지나스틱",
+            "price": 17000,
+            "sortOrder": 4
+          },
+          {
+            "description": "날개+봉+다리",
+            "id": "a06e66",
+            "name": "교촌오리지나콤보",
+            "price": 17000,
+            "sortOrder": 5
+          },
+          {
+            "description": "날개+봉",
+            "id": "0c46cb",
+            "name": "교촌오리니자윙",
+            "price": 17000,
+            "sortOrder": 6
+          },
+          {
+            "description": "가슴살+다리살(쌀가루 튀김옷)",
+            "id": "197c25",
+            "name": "교촌살살치킨",
+            "price": 16000,
+            "sortOrder": 7
+          },
+          {
+            "description": "가슴살+다리살(일반튀김옷+파채+간장소스)",
+            "id": "854282",
+            "name": "교촌소이살살",
+            "price": 16000,
+            "sortOrder": 8
+          },
+          {
+            "id": "1ac55f",
+            "name": "교촌레드오리지날",
+            "price": 16000,
+            "sortOrder": 9
+          },
+          {
+            "description": "다리",
+            "id": "4e77f5",
+            "name": "교촌레드스틱",
+            "price": 18000,
+            "sortOrder": 10
+          },
+          {
+            "description": "날개+봉+다리",
+            "id": "7854d9",
+            "name": "교촌레드콤보",
+            "price": 18000,
+            "sortOrder": 11
+          },
+          {
+            "description": "날개+봉",
+            "id": "49a7b6",
+            "name": "교촌레드윙",
+            "price": 18000,
+            "sortOrder": 12
+          },
+          { "id": "1d53c7", "name": "교촌후라이드", "price": 15000, "sortOrder": 13 },
+          {
+            "description": "단품시 Take out 전용/ 치킨과 같이 주문시 2000원 배달가느",
+            "id": "2557bb",
+            "name": "교촌웨지감자",
+            "price": 3000,
+            "sortOrder": 14
+          },
+          {
+            "description": "단품tl Take out 전용/ 치킨과 같이 주문시 4000원 배달가능",
+            "id": "372f05",
+            "name": "교촌수경재배 샐러드",
+            "price": 4500,
+            "sortOrder": 15
+          }
+        ],
+        "name": "일반",
+        "sortOrder": 0
+      }
+    ],
+    "name": "교촌치킨",
+    "sortOrder": 76,
+    "time": { "from": 12, "to": 24 }
+  },
+  {
+    "call": "052-910-9292",
+    "category": "chicken",
+    "id": "9b16ee",
+    "menuCount": 24,
+    "menuGroups": [
+      {
+        "id": "df3f2b",
+        "menus": [
+          {
+            "description": "(순한맛,매운맛)",
+            "id": "1bc72c",
+            "name": "후라이드",
+            "price": 15000,
+            "sortOrder": 0
+          },
+          { "id": "969a1f", "name": "허브후라이드", "price": 16000, "sortOrder": 1 },
+          {
+            "description": "",
+            "id": "746611",
+            "name": "양념반 후라이드반",
+            "price": 16000,
+            "sortOrder": 2
+          },
+          { "id": "9afec0", "name": "통구이", "price": 15000, "sortOrder": 3 },
+          {
+            "description": "후라이드",
+            "id": "69bf42",
+            "name": "날개+다리",
+            "price": 16000,
+            "sortOrder": 4
+          },
+          { "id": "b72bb0", "name": "간장", "price": 16000, "sortOrder": 5 },
+          {
+            "description": "간장",
+            "id": "19b61c",
+            "name": "다리",
+            "price": 17000,
+            "sortOrder": 6
+          },
+          {
+            "description": "간장",
+            "id": "dcef44",
+            "name": "델리윙",
+            "price": 17000,
+            "sortOrder": 7
+          },
+          { "id": "2673e4", "name": "닭강정", "price": 16000, "sortOrder": 8 },
+          { "id": "d2a8b8", "name": "살로만", "price": 16000, "sortOrder": 9 },
+          { "id": "b75a3f", "name": "핫불", "price": 17000, "sortOrder": 10 },
+          { "id": "67d95d", "name": "핫윙", "price": 17000, "sortOrder": 11 },
+          {
+            "description": "",
+            "id": "078b6b",
+            "name": "핫스틱",
+            "price": 17000,
+            "sortOrder": 12
+          },
+          {
+            "description": "(순한맛,매운맛)",
+            "id": "851f8f",
+            "name": "와락윙",
+            "price": 17000,
+            "sortOrder": 13
+          },
+          { "id": "fcf1d0", "name": "땡초마늘닭", "price": 17000, "sortOrder": 14 },
+          { "id": "a56b77", "name": "와락치킨", "price": 16000, "sortOrder": 15 },
+          { "id": "507450", "name": "와락파닭", "price": 17000, "sortOrder": 16 },
+          { "id": "de6a3b", "name": "순살와락파닭", "price": 18000, "sortOrder": 17 },
+          { "id": "9f4d25", "name": "순살레몬파닭", "price": 17000, "sortOrder": 18 },
+          {
+            "id": "a92930",
+            "name": "후라이드+양념or간장",
+            "price": 20000,
+            "sortOrder": 19
+          },
+          { "id": "9ccde0", "name": "양념+간장", "price": 21000, "sortOrder": 20 },
+          {
+            "id": "abb14e",
+            "name": "후라이드+와락치킨",
+            "price": 22000,
+            "sortOrder": 21
+          },
+          {
+            "description": "순살치킨",
+            "id": "cabe74",
+            "name": "후라이드+양념or간장",
+            "price": 20000,
+            "sortOrder": 22
+          },
+          {
+            "description": "순살치키",
+            "id": "cd4c7c",
+            "name": "양념+간장",
+            "price": 21000,
+            "sortOrder": 23
+          }
+        ],
+        "name": "일반",
+        "sortOrder": 0
+      }
+    ],
+    "name": "처갓집 양념치킨",
+    "sortOrder": 77,
+    "time": { "from": 11, "to": 24 }
+  }
+]

@@ -8,13 +8,18 @@
   "scripts": {
     "get-data": "firebase database:get / > database.data.json",
     "get-data:users": "firebase database:get /users > database.data.users.json",
-    "get-data:stores":
-      "firebase database:get /stores > database.data.stores.json"
+    "get-data:stores": "firebase database:get /stores > database.data.stores.json"
   },
   "devDependencies": {
+    "babel-eslint": "^7.2.3",
     "eslint": "^4.5.0",
     "eslint-config-prettier": "^2.3.0",
     "eslint-plugin-prettier": "^2.2.0",
     "prettier": "^1.6.0"
+  },
+  "dependencies": {
+    "fs-extra": "^4.0.1",
+    "lodash": "^4.17.4",
+    "uuid": "^3.1.0"
   }
 }
