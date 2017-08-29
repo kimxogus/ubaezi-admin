@@ -1,0 +1,11 @@
+{
+  "name": "ubaezi-admin",
+  "version": "1.0.0",
+  "main": "functions/index.js",
+  "repository": "https://github.com/kimxogus/ubaezi-admin.git",
+  "author": "kimxogus <kgyoo8232@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "get-data": "firebase database:get / > database.data.json"
+  }
+}
