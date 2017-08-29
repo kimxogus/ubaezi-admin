@@ -21,6 +21,7 @@ const stores = storesJson
           b.id = uuid();
           b.menuGroupId = menuGroup.id;
           b.storeId = store.id;
+          b.favoriteUsers = {};
           a[b.id] = b;
           delete b.id;
           return a;
@@ -34,6 +35,7 @@ const stores = storesJson
       })
       .reduce((a, b) => {
         b.storeId = store.id;
+        b.favoriteUsers = {};
         a[b.id] = b;
         delete b.id;
         return a;
@@ -52,6 +54,7 @@ const stores = storesJson
     return store;
   })
   .reduce((a, b) => {
+    b.favoriteUsers = {};
     a[b.id] = b;
     delete b.id;
     return a;

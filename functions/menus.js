@@ -15,11 +15,22 @@ exports.onMenuWrite = functions.database.ref('/menus/{id}').onWrite(event => {
     database.ref().update(updates);
   } else {
     // on create or update
+    const updates = {};
     if (!eventSnapshot.previous.exists()) {
-      const updates = {
-        [storeRefPath]: true,
-        [menuGroupRefPath]: true,
-      };
+      updates[storeRefPath] = true;
+      updates[menuGroupRefPath] = true;
+    }
+
+    if (
+      eventSnapshot.child('favoriteUsers').changed() ||
+      updates[`/menus/${id}/favoriteUsers`]
+    ) {
+      updates[`/menus/${id}/favoriteUserCount`] = Object.keys(
+        data.favoriteUsers
+      ).length;
+    }
+
+    if (Object.keys(updates).length) {
       database.ref().update(updates);
     }
   }

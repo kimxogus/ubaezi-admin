@@ -38,6 +38,15 @@ exports.onMenuGroupWrite = functions.database
         updates[`/menuGroups/${id}/menuCount`] = Object.keys(data.menus).length;
       }
 
+      if (
+        eventSnapshot.child('favoriteUsers').changed() ||
+        updates[`/stores/${id}/favoriteUsers`]
+      ) {
+        updates[`/stores/${id}/favoriteUserCount`] = Object.keys(
+          data.favoriteUsers
+        ).length;
+      }
+
       if (Object.keys(updates).length) {
         database.ref().update(updates);
       }

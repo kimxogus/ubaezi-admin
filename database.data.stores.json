@@ -1,5 +1,5 @@
 {
-  "fe4b2c0c-6f49-4749-98ba-9d4ae9000113": {
+  "129408b4-96d2-46dc-9945-3960233174c9": {
     "address": "울산광역시 울주군 범서읍 구영리 846-2",
     "branch": "구영점",
     "call": "052-245-7279",
@@ -7,37 +7,38 @@
     "condition": "울산과기원 3마리 이상 무료배달",
     "menuCount": 20,
     "menuGroups": {
-      "cf10b88c-985e-455e-ba16-56b54ca4e0ab": true
+      "3f3d2564-0850-47ca-997f-1ef6618478c6": true
     },
     "name": "달감 치킨(불닭,닭발)",
     "sortOrder": 0,
     "menus": {
-      "36c4d7ca-4f83-4ae2-a83d-86ed69da5f0d": true,
-      "34c0efda-6de7-4016-8cdd-e674a8d6a938": true,
-      "668175b4-b454-445c-a1d3-8e65029940c2": true,
-      "567a2ebb-6c8c-4e15-84c8-82c1cc713e7f": true,
-      "b883859a-2160-4266-b277-2ff90955d1f5": true,
-      "2d961180-23f9-4a8b-99c1-05b3b6c06b97": true,
-      "875fe585-b718-4e41-8f43-7cfa3b4e3ebb": true,
-      "dd9b392b-1c02-4c77-a9d1-27a381bd4b65": true,
-      "bf8090d6-ce0e-494b-a053-562a2c4e78d6": true,
-      "d06fba85-8f95-4485-a0c1-1771584e4199": true,
-      "4d6742b5-137f-41eb-9bc3-cddb97c6b024": true,
-      "448110c3-a8bd-45ff-9a14-bb4808d3c231": true,
-      "d10a463a-130a-49ac-93d0-69e85cbfd23d": true,
-      "1066a0ab-263b-4ec2-8710-47a98669f334": true,
-      "9566e48f-0040-4e1b-86d6-f032a0c1098f": true,
-      "3a8a06d6-c08b-48ab-8e6a-95cc5e000849": true,
-      "bd5e0877-bb94-414b-acbd-244b352e5ff9": true,
-      "d0a22d7e-31aa-41e9-925d-3a5401ef3841": true,
-      "efe49283-1a33-4e11-8a7f-7dd13caf4472": true,
-      "a2b8e608-5eb8-4f43-bbe1-d9784773ab9a": true
+      "a5524fb1-2be3-46dc-86bd-05e72797d1c4": true,
+      "e54850c9-672a-4fbb-8826-0763a6e37436": true,
+      "437982a4-d7c5-490c-9f9d-4e224d0c42fb": true,
+      "6f7cd9c8-037b-4c71-a1bc-76c6eaeb7e3b": true,
+      "77a12021-9b8d-4d8b-873c-3f7309e98493": true,
+      "cac6b6ab-7c6b-4476-93bb-57e3a6d995a2": true,
+      "57f7b2cb-29cb-45a2-982e-321b587791c9": true,
+      "a99a0379-b8b4-4a69-a695-d7aa36deed37": true,
+      "419e3644-6fd5-4b1d-94bf-fe03eface066": true,
+      "c807df6c-3d6b-41f1-b391-4267b9328fa1": true,
+      "6bbe566d-a286-4b92-9064-9cc8b0a55053": true,
+      "deb00396-5b26-4a46-bfb8-c290579fa138": true,
+      "a61b46b4-393f-4b74-b937-fdb27af00c2b": true,
+      "c98a45c2-7542-4fb1-b71b-1720fe13642a": true,
+      "809f92b8-3fc4-49da-a67d-d3b320497710": true,
+      "b01ccd19-3b97-4a8c-9a16-137a96826873": true,
+      "a43548fa-6b34-4daf-a785-dcee61a8ed49": true,
+      "1257c55d-15b5-48ee-af47-d7fb140a6e62": true,
+      "395d0882-ff72-47c4-8b82-9704b9522354": true,
+      "43746948-90f5-4985-91b0-f334cba05aa1": true
     },
     "menuGroupCount": 1,
     "timeFrom": 17,
-    "timeTo": 26
+    "timeTo": 26,
+    "favoriteUsers": {}
   },
-  "8895ff3e-f720-4ec4-9ebd-3ae489caaf79": {
+  "67798e85-c25c-4ddc-8326-89d088729e9d": {
     "address": "울산광역시 범서읍 울산 울주군 범서읍 천상리 (블) 9",
     "branch": "범서점",
     "call": "052-212-9433",
@@ -45,56 +46,58 @@
     "condition": "과기원 2마리이상 배달가능 (매주둘째주 화요일 정기휴무)",
     "menuCount": 31,
     "menuGroups": {
-      "af2d5445-34ad-4b2d-a34f-43d4395d3f16": true
+      "9a446873-4c68-4da9-a21a-3faae5a2066e": true
     },
     "name": "또래오래",
     "sortOrder": 1,
     "menus": {
-      "0ede0801-3f21-4e04-9b80-40ae25d90487": true,
-      "3b994da7-2b65-47d8-b6da-a7334f0428b5": true,
-      "31605d0c-5324-45ed-a28e-192017cd4e07": true,
-      "f04e160e-c302-424e-a411-7c91427a075a": true,
-      "22281ee2-ca61-4cbc-b759-51211c0fe89f": true,
-      "14cf1fce-56df-4cbf-925f-4924804a10e8": true,
-      "f90083ba-4f7c-4d1b-a02a-d33ac6d9bfb5": true,
-      "2b5361bd-7638-4210-8351-bd3c24b272ea": true,
-      "3b5a2ae4-d090-43fc-96fe-a0d9dfdfd442": true,
-      "64c7358f-f4c5-454a-94a1-2851141ad3f5": true,
-      "6e8404eb-8741-4c84-9d66-cc8970665e62": true
+      "8a06ce28-ab91-49c7-ba81-de1fd9985f6b": true,
+      "2a672f4a-4bfe-43ef-bf4c-9f7c93bd2f6f": true,
+      "e55091d9-830f-4c6d-ab1f-dff6aef6cb28": true,
+      "009cd933-e5c3-4346-a2fe-0c6186d020db": true,
+      "f3b9f571-60e3-435b-bdaf-3d4a540d4aa2": true,
+      "874580d2-42bd-4877-bc27-5c7c627986d0": true,
+      "08bd6631-3421-4433-85d0-eea8adbe73d2": true,
+      "6ac67ca6-d331-484b-878a-0202cd473886": true,
+      "1cd56325-3f3a-4543-b1b6-12400f52c960": true,
+      "1b9163ed-40ac-4c8f-b226-2f06741ac0d1": true,
+      "7c3420a9-6c06-4c0c-a5c8-e5ca562dd61c": true
     },
     "menuGroupCount": 1,
     "timeFrom": 12,
-    "timeTo": 24
+    "timeTo": 24,
+    "favoriteUsers": {}
   },
-  "6edcf09e-0c30-475e-9e99-c814544ffa0a": {
+  "2a7c82d8-5f3c-49fc-812b-60f450780d2d": {
     "address": "울산광역시 울주군 범서읍 구영리840",
     "branch": "범서점",
     "call": "052-212-8705",
     "category": "chicken",
     "menuCount": 42,
     "menuGroups": {
-      "13409be0-cec9-40e9-a316-0a6ccb222c7a": true
+      "bf79a7de-2326-48d2-8c5e-dc3e6ef8b8d9": true
     },
     "name": "멕코이치킨",
     "sortOrder": 2,
     "menus": {
-      "740531e2-b376-4310-8e0d-1ffa77f2b011": true,
-      "444e1cfc-d10c-4951-b2f6-994e3a78a495": true,
-      "8139d4ed-adbb-413d-a1a6-e11c840dbb88": true,
-      "59969887-cb3c-488a-8e13-700d9ced4bc8": true,
-      "7ce49958-0e37-41cd-8a89-91852a33dfae": true,
-      "cb18ec7e-8064-4f3e-8b50-b62fd3352165": true,
-      "ba312f51-d0c7-4b42-8eef-5fcdef1578ea": true,
-      "ff036d13-897f-410a-8382-df885d546a89": true,
-      "f798fe95-630e-4137-9a1e-222f71332188": true,
-      "c1bd607f-8c6f-4526-9d2e-f9ea48b90716": true,
-      "363b08b3-fe57-4401-ab7f-2f4462dfb8c7": true
+      "fef1d804-dcb1-4e2e-9dc7-63acab352625": true,
+      "0c398df2-7758-416f-9001-cae752d52968": true,
+      "4c4a829e-5374-41c4-876f-982b3a5320a8": true,
+      "2f250f10-b4fe-4886-9fa0-a62846bf822c": true,
+      "6fdf5e70-c7a0-4242-a4dd-3b35c8212fdb": true,
+      "a52f3ce1-2b84-46e4-8e0b-e9b14099376c": true,
+      "1cc551f9-176b-4ca5-91e4-f6cad95e2ea8": true,
+      "79bb1fc4-ea82-4f76-87b9-1bf8af873335": true,
+      "f6e6221b-885d-4bdc-90e0-c38f87df3a1a": true,
+      "1184304c-1f93-410d-880a-a4765af937c1": true,
+      "93b3aaa1-5410-4127-839f-197aaf3bec27": true
     },
     "menuGroupCount": 1,
     "timeFrom": 14,
-    "timeTo": 26
+    "timeTo": 26,
+    "favoriteUsers": {}
   },
-  "3156f6a2-13f6-4941-89f2-3a9e71fb7459": {
+  "e239dcc5-ec04-4b86-9b70-a1d547bda4a9": {
     "address": "울산광역시 울주군 범서읍 구영리 382-2",
     "branch": "구영점",
     "call": "052-245-2030",
@@ -102,204 +105,210 @@
     "condition": "과기원 2만원 이상 배달가능",
     "menuCount": 73,
     "menuGroups": {
-      "b1347670-1ea0-41eb-ac0a-670fe52819ff": true
+      "2cedc547-768d-43b8-b525-b7d48dc6e5d3": true
     },
     "name": "명품관",
     "sortOrder": 3,
     "menus": {
-      "0db446dc-680c-496f-832f-0e583eed5360": true,
-      "516f5bfa-3f98-4341-8471-532a932be0aa": true,
-      "c9359e8d-7521-408d-8e7c-b11885b30c72": true,
-      "ccc721db-fef1-4e9a-839d-894e9906126f": true,
-      "82a1901b-6c84-4884-8f9f-c685df34d276": true,
-      "b938b713-237e-4b03-8e81-47215d494c77": true,
-      "6c310438-4cf5-4f01-ad52-026b942e990d": true,
-      "0ef33e45-daf3-4581-a01a-c2320db931f0": true,
-      "8c6e5eea-c104-4bb6-8bf9-3d847bb54e09": true,
-      "589aad1c-b228-48ab-836d-034ede26720d": true,
-      "dbecb333-19b2-472a-99b2-8f3b23b5d785": true,
-      "24d26ea3-dbb1-48a8-80c7-4e81bd0ea19f": true,
-      "5ccdcca3-a520-48e7-8f1d-bb520e0ab034": true,
-      "96f203cf-1343-4487-8a46-080339eed7b4": true,
-      "fa6c86d2-6862-400b-8787-ca0918e7a27c": true,
-      "d9a56edd-3334-42da-a74f-fb56467acbcf": true,
-      "002adcd8-2660-44ee-b5db-8db7bc30bacb": true,
-      "a24dbf88-5297-40ca-9e04-1909bc492902": true,
-      "36e00724-b645-48f1-849a-48087e73c642": true,
-      "d60a63c6-6254-4cc1-931a-9e694113c2e7": true,
-      "06cd883e-3c9b-4b72-be7f-7aaa8646f3df": true,
-      "ee908bf8-54b4-40d1-a08e-20e11fb7e5af": true,
-      "851ddbde-860e-4cf5-9e7d-334f85861c4f": true,
-      "8e00dfce-4c8d-4391-bf0d-ec5b3e6c8858": true,
-      "99185214-a49d-4cb2-b82d-ced0f7199dcb": true,
-      "df8d4e4e-1264-45c9-9075-a31b4c89a966": true,
-      "37c6a140-1435-4b01-845b-ab0536f7aca5": true,
-      "2e2e9264-cf67-40c7-851c-a046a8674b05": true,
-      "81f6a0d8-9943-4607-9325-d7bdc8b4b8d8": true,
-      "34762adb-e72f-4010-9c59-a514e1e688c2": true,
-      "55b14dae-b81e-4727-93c5-8a22e426ef5d": true
+      "ee4e5f4e-582a-4d6c-a56b-fbf7abc887e2": true,
+      "cc4d4375-00a0-490a-9d0b-a2e70febf2ca": true,
+      "5e818843-9064-4f45-8f05-8710c18aa9d4": true,
+      "0c81ad94-1483-4caa-8c85-2431482bdd0f": true,
+      "bb304e1a-ed6b-423b-9b58-e3349474eb49": true,
+      "6f9f00f3-cf25-42a6-88e9-8a86f7b437b4": true,
+      "f8b914a3-2162-4a53-b9bc-ce1bad49be7a": true,
+      "6e4e2b13-ffa4-4763-aad0-671e23e981c0": true,
+      "57716688-347e-4bd7-bd5c-33dde5d09b78": true,
+      "4ac7f0f7-8a6a-4453-8c0c-c15d52b351a7": true,
+      "15cf5c72-5372-40e0-964c-39cdadad57b0": true,
+      "7e8b91e5-5dcd-4999-8725-3a1a349793d3": true,
+      "3c9e56bd-fc52-470e-a258-8a43f3f3a4ea": true,
+      "f69efb25-6299-4de2-a693-b57e1aa2d0e0": true,
+      "376e91ab-e496-42b2-8ce6-83b5d4895ac7": true,
+      "0a98b7b1-71b1-4f73-97a0-0759321a231b": true,
+      "14237309-0e6a-4dbe-b941-b4e5dc828a5e": true,
+      "f07cabc1-beeb-49de-9c15-410c9996ed7e": true,
+      "fe2d9f3e-d415-462d-b7b8-1fd08c242a2f": true,
+      "30dbd574-9dea-4022-9144-6a0563c7d68a": true,
+      "b6d747c4-63b2-4332-a1d1-366d5635fac5": true,
+      "ff68c6ed-5c18-47c3-a89e-9610b8e9a09b": true,
+      "7f661da1-1572-4f35-b7bd-8bc655dec177": true,
+      "1fab9f2f-ff8e-4e23-a1e6-9db8b955442f": true,
+      "1cd2c7b7-9495-4be8-bd73-794807ebdce0": true,
+      "f3cfb403-2648-4c08-8c22-7bfeab9d5e97": true,
+      "2be261de-0e19-42b9-8a13-16d48d2c0be6": true,
+      "4b435ea2-7077-41a3-a51a-fe9e1d934037": true,
+      "70e9380e-ece2-4211-84f5-47ab1453cb74": true,
+      "4dbb93b3-411d-40a5-8f25-ed1712bc93c3": true,
+      "f9a3ede7-784d-41e3-b0bf-4af948822dc9": true
     },
     "menuGroupCount": 1,
     "timeFrom": 9,
-    "timeTo": 18
+    "timeTo": 18,
+    "favoriteUsers": {}
   },
-  "ac78b504-bac9-4869-9a0d-c6f1694c8224": {
+  "550b1a97-55a3-498c-bf67-36a417883fc7": {
     "branch": "범서점",
     "call": "052-211-9934",
     "category": "chinese",
     "menuCount": 84,
     "menuGroups": {
-      "eb431eef-3266-4de3-ab42-d4360f39895b": true
+      "31df5a99-e081-4ae8-9ca3-7ce26b91c295": true
     },
     "name": "탕코",
     "sortOrder": 4,
     "menus": {
-      "44ab12c1-894e-467b-a735-48687e75c851": true,
-      "1ff392ff-f784-43d1-b802-e4ae73b5e6a5": true,
-      "18767f27-e4d8-45ad-b389-fb70e21ed107": true,
-      "9bc1927a-7871-4074-a098-f137daac2cfc": true,
-      "12013afb-1d71-4f07-b49f-eec332b97f5c": true,
-      "82f13e2c-6e2e-4262-be36-535d4f53137d": true,
-      "fffdffb1-46c0-49c6-a4a5-6d57819d5917": true,
-      "e56956b5-5db4-4db7-829a-45acc1ca5b7f": true,
-      "0a5439d8-3b91-4cf2-a39e-6fa9accf76d3": true,
-      "511fb54d-3336-4730-80ef-d875e15cf71c": true,
-      "5b106dca-3b5c-4964-918c-eed9e26e9990": true
+      "1904c1b1-2523-4813-8811-ea190bbec2c6": true,
+      "beb32851-9a93-4836-9ea8-a85abcf12748": true,
+      "052feae9-f570-489f-a3ce-8d3ebdf81abc": true,
+      "ceeea059-ba3a-4121-a94b-d4bf04e6a2c2": true,
+      "d3e4e909-ed16-4a6b-998c-119bacb3e9bb": true,
+      "9074bb45-a089-4994-9dcd-7f63dd4589cc": true,
+      "1bca33c4-ff59-4b79-8a0c-0f2c913a6162": true,
+      "88ccbe99-4d67-4f46-8e9c-3d59a0528b5d": true,
+      "d9e9dddc-f52c-4a14-a9b5-95832c143f05": true,
+      "c0ac7cf8-0ba1-44ac-8ec1-996887b34eb8": true,
+      "fe0925b6-b651-4720-8dd4-37e3b1dd29ca": true
     },
     "menuGroupCount": 1,
     "timeFrom": 14,
-    "timeTo": 25
+    "timeTo": 25,
+    "favoriteUsers": {}
   },
-  "ecbe3792-6b0e-4b76-98e6-d1e445cb8dbd": {
+  "9a4ea6c4-3c86-40eb-9b86-517f0b9c9f02": {
     "branch": "범서점",
     "call": "010-2081-0056",
     "category": "others",
     "condition": "과기원 30,000이상 배달가능",
     "menuCount": 102,
     "menuGroups": {
-      "428d9c5a-cd28-46df-b963-0c98526a793c": true
+      "bd5eef3b-d090-4923-92a2-e511006ad97c": true
     },
     "name": "구영보리밥",
     "sortOrder": 5,
     "menus": {
-      "ebd899fa-91f8-4cac-a91e-9c07c16cb3dc": true,
-      "c64d2ce2-16cb-4c7f-b62e-f2d783a7afab": true,
-      "4a445a5e-6416-4b38-af82-dc4fbe63fa07": true,
-      "be1cdcdf-863e-4882-8fcb-1c61040c9a8e": true,
-      "6be3d71b-4a7c-422e-8a44-0fcce9ae6696": true,
-      "43c2991d-b056-414f-9e33-c2943fea04be": true,
-      "637effdc-325c-43a9-b08b-c7645d3a90ad": true,
-      "7c6ed68d-0433-4f01-9f01-90d3cb6bac22": true,
-      "080cbebb-b584-4ef7-b0a9-f2fcf5ab8a31": true,
-      "d6c9d4a7-8464-40e5-a659-8eefc7b79e66": true,
-      "73cf3b50-5c0f-4749-8c86-f99c3de8c4d5": true,
-      "0141274d-b38d-42c0-b347-4d5abf81aa09": true,
-      "f01f8d44-6e9b-4066-94f2-2bf864b10bd3": true,
-      "633e6905-f236-4a08-9392-db67451140d7": true,
-      "626186ff-0920-47e6-ae4c-d128dd6a3280": true,
-      "377cc73b-5f90-4b70-b56a-c99b4edee8c1": true,
-      "04145890-0059-4fbc-9300-a5b187115fb2": true,
-      "6960f420-4a80-486f-a725-71253ed19e04": true
+      "13956d0f-6308-4423-aba8-c7a96acb2bfd": true,
+      "67eab4d0-32a0-475e-9dd3-456c0dbdf32d": true,
+      "a9246e9c-32ce-4eed-af41-283a890b9bc9": true,
+      "e5545826-5456-45e3-b5ac-f82a90e01e98": true,
+      "1dd3db60-77ec-4a1d-92b1-744dc75e3b83": true,
+      "1e58cb3b-3a26-4dd0-8b0d-d7146b6b42d0": true,
+      "b265513f-dde8-4639-a925-7306ac43c2dc": true,
+      "1875e23d-333a-40fe-8383-90f919e4d81d": true,
+      "088ea061-7d58-4bab-ac48-9bd7663ad1ad": true,
+      "7b5bafb1-2856-4ba2-937f-526249e53a6a": true,
+      "30207145-f379-4a9e-ab17-d8079c1ad1ce": true,
+      "bac11ec9-52d0-4470-aa89-b8e62b31b38e": true,
+      "f44705ee-7a40-4d7b-9938-065e437a9400": true,
+      "18d5ce1b-20c9-4594-840f-d86f1cd36dcd": true,
+      "764795a9-a64d-47ab-b206-0a9f4f84a12f": true,
+      "6f4c014e-354f-4efd-8528-3c6aeb8f2cb9": true,
+      "cdba4ae8-4088-4a3e-9a22-44b05c5ef5b4": true,
+      "6d31b9c5-9478-4b33-a6a2-d6c9e3e1cb1f": true
     },
     "menuGroupCount": 1,
     "timeFrom": 12,
-    "timeTo": 22
+    "timeTo": 22,
+    "favoriteUsers": {}
   },
-  "194e301b-b5bb-494b-8212-18b8a5b5331c": {
+  "a0d567d2-b1a9-48c5-b166-176994536ac4": {
     "branch": "구영점",
     "call": "052-245-2226",
     "category": "others",
     "condition": "20000원 이상 배달 가능",
     "menuCount": 110,
     "menuGroups": {
-      "523c65a8-f7b6-4b1d-86f6-c3c59567ade1": true
+      "10d246fc-ac8a-4150-972a-6dac9b29b156": true
     },
     "name": "개미집(낙지볶음 명가)",
     "sortOrder": 6,
     "menus": {
-      "65511543-4f0a-4204-95e4-1bd6c302235e": true,
-      "b04016be-860f-4ff0-a599-735e35302fb7": true,
-      "c85e9b5f-3cc5-4951-b670-185a936bcda9": true,
-      "450916f2-9d46-42ea-b640-419ba6268d31": true,
-      "fa6d6336-afb6-4ffa-8008-8a88858348e7": true,
-      "1cf3ee34-2f80-4c10-9825-bf40f2b9841d": true,
-      "c3428b1c-b689-4946-b50b-c1b39e69fae7": true,
-      "1920cf67-82ed-4659-9fb1-e8b2094ace0b": true
+      "c04f6e94-4ed5-4793-b4a9-e367a7eab893": true,
+      "0d7b939d-3cab-41a6-a8d6-1811e0893cc2": true,
+      "b3f9d5db-7804-42d7-aeea-2f3b9216f923": true,
+      "1cd62ce1-dbd7-49be-9f9f-11abee2cb9d5": true,
+      "8cb4a731-0e28-4a3a-824c-fedb38ec8de5": true,
+      "6762cb2c-bd9c-4bb6-974e-994e33f66e81": true,
+      "eb09630d-0aa8-40fa-900f-4bfb0910f000": true,
+      "5442172d-d99c-4c67-9eaf-b2df84736dd3": true
     },
     "menuGroupCount": 1,
     "timeFrom": 11,
-    "timeTo": 21
+    "timeTo": 21,
+    "favoriteUsers": {}
   },
-  "9df414cf-d2f1-4c5e-a2ca-9907d900deaa": {
+  "406300ff-be14-4200-9d98-88f54b809178": {
     "branch": "구영점",
     "call": "052-245-9449",
     "category": "others",
     "condition": "과기원 30000원 이상 배달가능 (카드결제 안됨) , 매주 일요일 휴무",
     "menuCount": 120,
     "menuGroups": {
-      "c4c499c3-13be-4b43-b89f-39eb41e67a38": true
+      "aafc21fd-dc01-4f26-8da1-0ac79576f7a6": true
     },
     "name": "국시사랑(국수)",
     "sortOrder": 7,
     "menus": {
-      "5873d919-7e4d-4aca-bca7-6ebb06de5480": true,
-      "785bd6f3-c745-481a-a38e-df2ab466b232": true,
-      "163c13b3-3665-47cf-a7b5-e362c60d6dd3": true,
-      "922c4596-e07a-4f3d-bbc5-c061468a4a7d": true,
-      "adbf5ac4-9c3f-484c-9f28-ac3eee6729ea": true,
-      "2ed2745a-1e65-495f-a540-bb412643b94c": true,
-      "f2ea6a34-5d64-454b-bd6a-0d53ede40be9": true,
-      "3e31c2e0-8744-485b-8726-e8d5bea001b7": true,
-      "29dbbc50-f262-41f3-8891-1ddc2a86f959": true,
-      "78859ad0-0515-4228-80fd-99acec44807d": true
+      "f0cf2605-68e9-4f80-9199-aa94d05fc3c4": true,
+      "2847e066-96db-42c2-b55c-92aa5687c5c1": true,
+      "a12a7445-cf97-410a-917e-2a6ee1eab91a": true,
+      "015c775a-b9c7-4879-97f5-a0e4508f0869": true,
+      "0c1ad0d9-6d17-4c35-8d07-5bb0b3f9717e": true,
+      "4df74fa9-e389-42ad-bdd9-651e48b62d3f": true,
+      "87d7b1db-b06f-410a-a099-5ff58e8ea794": true,
+      "6bae57b0-ea36-4b0e-a6fe-f71049558130": true,
+      "14d98d4d-4a85-4243-96ea-ebe914f043a9": true,
+      "486c8f5a-2753-4202-b409-308c6b993c96": true
     },
     "menuGroupCount": 1,
     "timeFrom": null,
-    "timeTo": null
+    "timeTo": null,
+    "favoriteUsers": {}
   },
-  "17d316c3-880f-460e-8120-41d669a4bba7": {
+  "2aa76c91-6d5c-4c44-ab18-db627a874954": {
     "branch": "천상점",
     "call": "052-244-1092",
     "category": "others",
     "condition": "구영(12000원 이상 배달가능), 과기원 배달비 2000원 추가비 별도",
     "menuCount": 145,
     "menuGroups": {
-      "245fc669-d59c-4127-9af5-0149c86bd622": true
+      "742220a8-af6f-49f5-b152-b777bc6eca5f": true
     },
     "name": "꼬치&닭발",
     "sortOrder": 8,
     "menus": {
-      "cea7ef26-cd15-409f-8ab5-aa5107a4a68e": true,
-      "dc45ec60-60dc-46d0-9f8a-15d1a40bc716": true,
-      "1bc00a15-0167-42f6-93b1-279c2d696574": true,
-      "72b7f633-37ce-48a8-a789-260fae13d012": true,
-      "7738f133-d9b4-41c9-8112-d05b7308374a": true,
-      "f2fb4073-357e-48f8-aa7a-e8c59f568d54": true,
-      "70ee2b45-bf34-4744-826a-78b52624a20b": true,
-      "593fdcf3-08ab-4b66-aeb7-c06da164045b": true,
-      "465bb61a-ccf8-43d4-9ea4-491a168736f8": true,
-      "c9b3982f-bd15-425f-9bd2-deb3e58903b4": true,
-      "76c23fff-02ee-48e8-b224-6811e83565f9": true,
-      "9eb4ef18-9724-4cf7-9fd5-6c8bbb7aff43": true,
-      "6c2428a6-756c-42c7-a310-5b875792873e": true,
-      "8dda4cb6-8659-4a34-aab3-5100981195e8": true,
-      "4e908978-b2d4-4a45-aa0b-d8f5f3cc9edb": true,
-      "cc57086b-bf50-4ba3-848e-882b64a5ef55": true,
-      "deea778b-0df2-4ca5-9cb3-29a3eb9878a0": true,
-      "a5dbcdd7-d68c-4c3e-886c-7155cf3363e2": true,
-      "58cde718-f6cc-4b88-922d-e95d65620f99": true,
-      "2e0f5ada-6c01-4018-991f-1774af155d03": true,
-      "2b349143-8e4c-4e39-b8ca-5e9f08084e3b": true,
-      "92c7040c-8377-4a4e-be74-506183055f8d": true,
-      "f088f020-cb10-49ac-84bb-cd5176a9cfdd": true,
-      "c2820e5b-9784-4993-a379-352e93854aba": true,
-      "76d77b59-d055-4294-95e2-9d744013e25e": true
+      "e2eddfbb-1f2a-4e5d-bccf-b11f3597b36d": true,
+      "07f39b3e-b83d-485b-b6f7-b1d4c876df0c": true,
+      "b95a2913-055d-4e27-9cfa-ec0587f05c55": true,
+      "ecf06e5c-f70d-4cf5-9f04-37e3655a4675": true,
+      "b3801184-2c08-417d-ba62-21e5e9ec8b6c": true,
+      "b211dff6-90e4-44bd-b147-09f4127e6cbf": true,
+      "34b52081-b06b-4967-a3f2-93d6726cfb9c": true,
+      "68cdc797-0b80-44bc-8aeb-6861d27ebcab": true,
+      "ed62abf4-cde9-4793-8892-842da781d105": true,
+      "99ffee5e-3586-4ca2-bcd0-784e9db16507": true,
+      "fbb025bd-4af9-428b-a888-2a0b3fbc1e60": true,
+      "93fd6c77-4f8a-4dad-aa28-2188f125c8e9": true,
+      "c86ced2a-4cbe-4f75-a6d2-41c75c0d1e33": true,
+      "6ac441ca-a259-40c0-b0a0-925dafbbe5ac": true,
+      "f36eddf4-4ba2-48e2-85c4-b206076f316d": true,
+      "4e8ce87c-6e95-4a9e-b3c5-2a9776f47a33": true,
+      "baf42af2-86d6-4a7b-81d4-03339c351ce1": true,
+      "7bf438c6-8b52-4254-8db6-5a0a7579b6ee": true,
+      "ba80a07d-45a1-42a2-a232-f8de2f1947cf": true,
+      "53ffc819-80ce-4cef-874f-1efdd5b149aa": true,
+      "5d60aff6-6249-44c5-94a6-291fd63830a7": true,
+      "edde0bb9-f0fe-4e94-bebd-4945a740e446": true,
+      "f2c1eb25-5d68-4827-ad5d-f94eadfc44b2": true,
+      "425956b5-36d2-4903-b197-a7a7ecc51e71": true,
+      "93b8a310-b3cd-409e-97cf-aba66105af43": true
     },
     "menuGroupCount": 1,
     "timeFrom": 11,
-    "timeTo": 24
+    "timeTo": 24,
+    "favoriteUsers": {}
   },
-  "2b81dab5-ebf0-49a0-94c3-15fa328013b5": {
+  "56aaa76d-4633-4c7d-8afe-d8ca1cc6ddfe": {
     "address": "구영리 외환은행 2층",
     "branch": "구영점",
     "call": "052-246-8258",
@@ -307,180 +316,184 @@
     "condition": "과기원 3만원 이상 배달가능",
     "menuCount": 199,
     "menuGroups": {
-      "5e4ca7a2-06d7-4892-a64e-c89da6dc2984": true
+      "ce5f5220-d4be-4d0c-9391-eaaf427474ee": true
     },
     "name": "스시마쯔리",
     "sortOrder": 9,
     "menus": {
-      "06fe8391-b111-4420-868c-b91fbc3a3e58": true,
-      "00066d9d-a3ff-436d-8749-ecd6b10b011e": true,
-      "d4c888c8-5dc1-4b00-bb7c-eceb86e3bb44": true,
-      "3cdbb843-6dbc-4513-8226-25e2564324a8": true,
-      "c666b07b-3f54-4282-aecd-677f96550991": true,
-      "9229579c-5d69-4021-a86b-0f1432f6a58f": true,
-      "e22889e0-843d-4950-b332-313f66291ce9": true,
-      "bc4dd07d-dd09-434b-ba21-5c48d994f16b": true,
-      "2affdb81-a8d5-4f69-ac90-0c64aa105dca": true,
-      "9f3f666c-eee0-4ff0-9640-c984bfaa9cb8": true,
-      "5c7bb547-d4d1-4786-a110-b83315f8dfc8": true,
-      "00332567-46fb-4f61-9581-0c905ca1caef": true,
-      "a915032d-949c-4d87-81f3-2bf5e1788979": true,
-      "1709ad00-6a04-453a-adc3-639df038b92b": true,
-      "7f34abaa-b7a2-4c06-97ae-cdba82967e19": true,
-      "c515a867-89c7-4f90-8afe-572b7b80c169": true,
-      "2c03887f-5444-41e2-b135-220b0c2249bd": true,
-      "02f7bde4-0341-4509-955d-03349757386c": true,
-      "dc422343-8fbb-43d9-a1f0-8c260c331bd1": true,
-      "611ba537-ea58-4825-97fa-38ff21a233a0": true,
-      "64376bd1-5bc2-4d3d-bbd4-0c1c8459d0d2": true,
-      "023fb2ae-2b8e-494d-b29f-ac4767113aec": true,
-      "69fd7a5e-6f8a-4766-a7b4-330f29dd5938": true,
-      "95d90e30-5a33-4265-8d88-30794e00403b": true,
-      "09e9a183-fadc-42c2-9ba0-34da16f6a241": true,
-      "fe160fc9-0446-4ea9-a6a4-a9c576e7591a": true,
-      "d5728ce5-002c-41ff-83fe-6b00154a8228": true,
-      "88edea0f-aadd-4839-b582-8d36b9c48f73": true,
-      "b98f8eb6-b389-419a-9eda-1d66f8004c8b": true,
-      "0a2b8c5e-43e5-41af-b61f-1d91156b94bb": true,
-      "0fcea567-cf31-4503-a9b8-11fb6ddc0ef5": true,
-      "99ccd703-0841-498d-81c9-f2114934d1c7": true,
-      "41810e8f-c85a-4662-969c-af0f2c8dc973": true,
-      "73477909-a977-44e7-9194-920ef2abf521": true,
-      "52b5a610-b4f6-4987-a201-a306225c6828": true,
-      "ea0f193a-a64a-4d9b-aaf7-8931ece77fe0": true,
-      "09a3661e-f81c-475b-868e-4e919ef6f039": true,
-      "1689e4e0-1e42-40c5-baad-8478f58d1fc4": true,
-      "6ed577a8-d7e0-4315-b3d4-7d9981254315": true,
-      "39a5f09f-4e2c-4848-bdb4-7d4dc80b1b8c": true,
-      "e5813731-88ef-460e-8c3a-853fefbd68b5": true,
-      "465fb4e1-3c9d-4d87-8bd4-7a80d61d51a8": true,
-      "942c70df-071f-4d75-b602-a0e33a5b670b": true,
-      "a2edd521-7898-494d-b601-16be2f27def1": true,
-      "ff046e50-433f-4628-8221-458182e5c52b": true,
-      "d3e32f8f-6ece-439a-b0de-4fa9654c161c": true,
-      "06268b5e-d345-4e3b-97ad-ef143f34888e": true,
-      "57bb2156-67d3-4065-8b32-703561fdce6e": true,
-      "83bf520f-17c0-4f65-bca0-ddb8404d548d": true,
-      "4257fed8-7bc6-48a2-a537-2808571d524b": true,
-      "9c4ff46b-22ff-4288-9d40-16c991023e3a": true,
-      "e884fb5c-027c-49d5-8e68-b47c460524c1": true,
-      "e5b13c93-dccf-4e9e-9b2f-12fed651eb5f": true,
-      "33748d29-a3bf-48b7-bde7-cfb0f1f8ea6c": true
+      "0b3b2d79-5ff4-44d9-9957-f34c4f633791": true,
+      "26860b3e-252f-4136-9750-81f5bb7c6d7d": true,
+      "57ebaf6e-39ab-4b13-b9b6-a069f6aa5f72": true,
+      "9876ae61-a34f-4417-870f-470f6b1f97d2": true,
+      "78eec77c-4127-4496-bfde-f44b3ef0ced0": true,
+      "6130ff3a-41e4-4784-85b0-ba7af64d25cc": true,
+      "c2b54322-62b1-4369-994e-c2db2ea7eaf1": true,
+      "ce359617-9c93-4745-b174-b7310af94fb6": true,
+      "0dd78355-12d4-4904-a702-3b8bd9d77ef9": true,
+      "5ead924d-365a-4510-baf3-1b156ee8d319": true,
+      "3a2d2a7c-03ba-4ea6-9408-e414edf6b31c": true,
+      "c2449ca2-c50c-43d3-9e52-f200e1a451e1": true,
+      "0b6069be-6735-498e-b192-7addc5739e70": true,
+      "63613d39-8d0c-4951-847d-9ff61f1fa65b": true,
+      "f2e8cbae-6468-41cb-95bd-399deead1d6b": true,
+      "db9c28da-b6d8-407c-8386-08a5825d5074": true,
+      "98cc167b-5912-40e8-bc88-3f0680ac6acc": true,
+      "c6e3c120-25e3-4260-8514-14f197559164": true,
+      "690899f3-da50-4db9-8190-6edf8da3d7d8": true,
+      "92cdb20e-a966-4c7e-9787-6784f21992e5": true,
+      "02c48d2f-dd91-49c4-ad56-b73ac09299d0": true,
+      "a019222f-a4d4-401d-a5c2-064dc3a6da72": true,
+      "1c3ea1fd-b352-4b83-890a-893c49b1fa37": true,
+      "f2f4b11e-a456-414b-ae61-9a3462da854d": true,
+      "f5c16f05-2729-44cd-9c30-e132cb937a11": true,
+      "ff42c1c3-5277-4b2c-b905-8d7ddd876e79": true,
+      "3a836999-60f8-4f67-831c-a8561654b61c": true,
+      "cae9c2ff-af38-4ba9-b4d5-12fa43a06d47": true,
+      "29ea88ef-195b-4251-bb5d-6ee1a82fe319": true,
+      "a39476ca-c962-422f-b17f-36af605be47c": true,
+      "386b2383-e567-4796-9adb-3d14adfafe5f": true,
+      "469963da-d7a2-4891-8c2c-e82b464da5e1": true,
+      "158272f1-6fcf-4620-a6e6-cf7f31481ce6": true,
+      "73e1479f-7744-4888-975b-97ec20b71a71": true,
+      "05bdb153-525d-41ce-82ad-b46e87a6090c": true,
+      "51cbc529-f270-447f-8337-3117d723a4d3": true,
+      "d2b0f585-a795-4596-9f4b-b32eb815a3cb": true,
+      "5c089424-554b-45a6-b018-ca57051074e7": true,
+      "512011fa-ea39-4784-b09b-68c1d15515ab": true,
+      "660721f4-f88b-41ae-8b87-7b0d20479392": true,
+      "491ac6bc-929f-4827-8643-e3518c1df5fa": true,
+      "f950443a-4aab-4c6b-93c4-1276175bb31c": true,
+      "59709280-99b9-40bb-8f0c-74d3299b477b": true,
+      "04f30a9f-ca8d-4951-8ad3-d5596f9a7801": true,
+      "725d8360-a67c-41f1-8e02-5c733562ec95": true,
+      "a3e0a20e-cf7e-4ced-8e85-f49f6f34dbe5": true,
+      "0d1d6b68-15d3-4357-85d7-5e72190e87d9": true,
+      "80a6cda0-f219-4cae-a3c5-62a151ff23c3": true,
+      "d0d7fcb1-1f88-464a-bf04-054b3eec9590": true,
+      "87c1f47a-8787-419b-b170-408099169485": true,
+      "ab70e742-1481-4730-918e-b64b6df8610e": true,
+      "dc157f32-e4c9-47a0-b36c-b75632efbc31": true,
+      "0935ae13-b1f1-4b69-b75a-be7d1408c715": true,
+      "cdd22863-6918-4e37-a13e-13e7178bb98e": true
     },
     "menuGroupCount": 1,
     "timeFrom": null,
-    "timeTo": null
+    "timeTo": null,
+    "favoriteUsers": {}
   },
-  "b45297f1-e1f1-46af-95de-71289906aa9e": {
+  "8fed56be-c5d2-4dbd-8df3-e303f93df066": {
     "branch": "범서점",
     "call": "052-248-4080",
     "category": "others",
     "condition": "과기원 20000원 이상 배달가능",
     "menuCount": 216,
     "menuGroups": {
-      "63a41077-f008-4747-bf08-50acff573f84": true
+      "363bc804-3681-44c0-b01c-99da3c3e18ab": true
     },
     "name": "카츠애 돈까스",
     "sortOrder": 10,
     "menus": {
-      "734ffc4f-4e8a-4ce6-b0b3-556a882091d4": true,
-      "e736a353-4277-4b37-ad4d-9b497978fd9c": true,
-      "01615827-b22e-488f-8b17-5795697730cd": true,
-      "5b6bc25f-fad3-4702-969d-067aac483508": true,
-      "adbc0464-96dc-4031-829e-7cf1000a5e08": true,
-      "5efffda2-0b60-4a00-a1ce-dd1a66fe8aad": true,
-      "b92696b4-b29a-45f9-ace7-599dae94555a": true,
-      "a443aae2-191b-4e11-8be8-23af953fde79": true,
-      "883eab69-bf00-442d-8112-528dcc7dbd35": true,
-      "4a7d148c-6adf-4b80-93de-ae804dfd6b96": true,
-      "68a452f3-d442-4aca-aecd-455b8b86deef": true,
-      "f9c82722-c0b4-41ce-b223-2d4c837ce790": true,
-      "d3daafde-516d-469b-a920-a6c1e454de30": true,
-      "a0e52f9d-426f-4a65-93b1-423f0df968c0": true,
-      "a1c6d321-c75e-4152-bcd8-248e96ba0479": true,
-      "d53c35e4-92c3-4ef2-96d7-c5cae6b90393": true,
-      "90485520-599c-4734-8095-539b0d5b0ad8": true
+      "81fcd63a-0304-4ab7-be64-26dbfbc34ea6": true,
+      "55b6f3aa-add3-4bb0-a405-03467b27aa30": true,
+      "3ea0c40d-6c7f-4219-9140-b1b76bc032bd": true,
+      "5616061e-3b50-455f-bfcb-8e33ceaa07ce": true,
+      "5f78a01b-94a3-43aa-8982-d5affdc1ba1d": true,
+      "36ae5a9c-61b7-4ded-9542-9b3ade66bfb2": true,
+      "31abd037-b6e2-4a6c-a1ad-8925739df601": true,
+      "a17fae95-52d7-4c1e-8674-cb4aee9b9c5e": true,
+      "44888253-7d20-4fa1-9a77-0970b3851581": true,
+      "1dec79c9-d31f-4a94-bc1c-a2402aba4774": true,
+      "60936319-5cc8-4e44-9e5a-00a108be37d9": true,
+      "7568d7d4-cae9-440e-b263-a8e5fbdfa190": true,
+      "8fce39a8-c61d-4b55-a577-27e5f1ca9958": true,
+      "3c9923f8-2b68-40c1-a90d-8e03d8be9b27": true,
+      "51c00024-111a-4d38-ad2c-40b60c902904": true,
+      "352de1b1-b508-463f-9fef-ab74129bbd13": true,
+      "1c67c028-7672-41b8-8fe5-0dfe6aea4bb5": true
     },
     "menuGroupCount": 1,
     "timeFrom": 11,
-    "timeTo": 23
+    "timeTo": 23,
+    "favoriteUsers": {}
   },
-  "babdbf01-6189-4b41-844f-52d0b9937fd2": {
+  "4f311025-5290-4641-9c96-341d036147ea": {
     "branch": "범서점",
     "call": "052-211-8089",
     "category": "hamburgerAndPizza",
     "condition": "과기원 20000원 이상 배달가능, 매월 둘째주 화요일 휴무",
     "menuCount": 240,
     "menuGroups": {
-      "5aaf4e2c-c39a-423f-bac9-0658c73d62a3": true
+      "7be630be-0267-4fbe-8372-d2c818674f35": true
     },
     "name": "피자빅 (공룡피자)",
     "sortOrder": 11,
     "menus": {
-      "230ffe1c-2104-4bcd-a427-f318afb44783": true,
-      "2e339e52-d4d6-4ffc-8789-249f779f0119": true,
-      "1641e130-5e6a-45f9-a5c5-ddd0872876c8": true,
-      "0d0df731-cc7c-4a0a-a8fa-83f70cc168d4": true,
-      "280683aa-a320-440b-a0b0-ff0bb2842e97": true,
-      "015d2de5-931a-4eb1-95fc-55115b3f36a5": true,
-      "9feddb70-567d-443d-85d5-e54d69a3328a": true,
-      "30ed87ce-28ee-43c8-9110-5cc5a34e364f": true,
-      "81a5ee18-2eef-4970-8f87-ba777b821548": true,
-      "8cd3d423-ffac-4930-9c23-1b22153737be": true,
-      "9b30595e-8be7-4174-8325-659100df7814": true,
-      "2f58f37e-8a5d-4819-91c0-f5aa96ceead0": true,
-      "d062fcb5-2c8a-46c9-8fe9-99f243a233d7": true,
-      "2428f432-ccd0-422b-96c5-6e484b3bf195": true,
-      "0a31d642-36e6-404d-b0c5-07ed84bddb6c": true,
-      "a35d95fa-491a-4d79-aeaf-fe7434c51cbe": true,
-      "37e66574-338b-4883-b425-22c766612849": true,
-      "aa077ba1-139f-4d0c-9d5e-af276f919be5": true,
-      "bd47fe1b-53f4-4d30-a6f9-1410f0789db7": true,
-      "f7551929-881d-433d-9c5b-3289b7b52898": true,
-      "8adfebbe-614f-491f-adf4-482ad8fee927": true,
-      "9a95eb68-bc3a-4a86-8380-a0eb9900a676": true,
-      "989b8e7f-86bd-4e76-9be8-67917e78c4e6": true,
-      "bcc922dc-9ec6-420d-9186-25f775213b52": true
+      "894954c6-2baf-4d45-8f12-7e07caff3b57": true,
+      "9d011771-32a5-4176-b634-3e896922dc06": true,
+      "781f5350-93dc-4fdf-8e94-2284b90906b9": true,
+      "c2dcc76d-6740-4379-98e7-ef5da4a75d59": true,
+      "0ce2a9b0-9067-4a1d-9379-0b2f238ef70f": true,
+      "46208c4e-536e-40a0-bdfb-07fbad8ec87d": true,
+      "a3f27795-89b1-4b7b-9dcf-d16cff4da2f2": true,
+      "f3d95220-4bfb-475c-acbc-08b09125c12b": true,
+      "0122bab3-11ab-4e3c-a7d5-6ae01ef7a804": true,
+      "14fc5678-6a5d-4fbb-a81c-b6007a4678f9": true,
+      "0ff937c6-9017-427e-a26e-1e5c70fd6c0e": true,
+      "2e8e62fe-101b-46f9-92c1-1a2200defd7c": true,
+      "435382ad-9a7e-424b-b951-106e27a01b4e": true,
+      "34130712-841d-440f-9a4a-f4b34480aa5d": true,
+      "b286636a-5a8b-4386-89dd-fd8d2d89415b": true,
+      "67705fb7-224b-4bb8-9bb3-3176b64ad8c1": true,
+      "03eec588-0ebf-4124-9208-851f5f1e274e": true,
+      "e6603bc6-a06b-4bd2-b139-c094b22a8bdf": true,
+      "d6395ffe-892a-4e66-92df-01498b6a87d1": true,
+      "e302a07c-ab00-4eda-a2a9-cf1a089ef1d3": true,
+      "dadd5b8a-202e-4e88-8d1d-9a23e649afd4": true,
+      "de47f3ee-9a8f-4746-be2a-ee6f7897161a": true,
+      "3a19aa68-2e08-4757-b9d5-e9e179782bbc": true,
+      "68caef17-ab07-446c-8fbc-b575d6fba1c2": true
     },
     "menuGroupCount": 1,
     "timeFrom": 10,
-    "timeTo": 26
+    "timeTo": 26,
+    "favoriteUsers": {}
   },
-  "fb57c00e-b57c-4431-97f4-9e32ff59fc39": {
+  "9e6e60ac-00c2-497b-aca7-1977815c326f": {
     "branch": "범서점",
     "call": "052-212-9966",
     "category": "chicken",
     "condition": "과기원 2만원 이상 배달가능",
     "menuCount": 257,
     "menuGroups": {
-      "38da5a97-dcb3-43a6-a142-2ed9dc4db54b": true
+      "48a50b9d-8725-461a-83c4-fe4d0c739d2a": true
     },
     "name": "멕시카나치킨",
     "sortOrder": 12,
     "menus": {
-      "ea31b39e-d02d-4b47-b493-f980b02f76e1": true,
-      "2d53745b-1176-4384-b284-2583dfd90ea1": true,
-      "5e08a8a2-58ad-4cc9-a1d0-b5e612b7e1c4": true,
-      "4205e07e-a516-4667-87b7-6a047530c544": true,
-      "57a20aa7-26ee-435d-b5e5-5ee301fa3816": true,
-      "79e2b3e9-399f-43e5-afe6-aba88ab5a934": true,
-      "507892a6-a2d4-4dd9-a416-677b86a92787": true,
-      "b8bc9a6d-2d98-460f-ae9a-9e2f23ca5f21": true,
-      "c173ca04-e3dc-4b4c-8973-ad3c336afb43": true,
-      "9c95321b-3cd8-4d55-873b-5a7e66bee6e0": true,
-      "5128507b-cf07-44c8-9570-63f26d9367f6": true,
-      "e5457911-ade1-45b3-aa29-cc8bbb598ab8": true,
-      "4e2210a0-043f-4b9b-b663-9697b9fdf413": true,
-      "7d5b81de-be82-4627-8814-40fd74804181": true,
-      "f0a0ce42-25b3-4dd3-a19f-552508083075": true,
-      "eff725be-9a28-4555-b234-1bb52e8da017": true,
-      "3c52dcf5-627e-4953-9d37-1f94f9a65c77": true
+      "1e428bde-257c-4777-bc24-1a41ea3170df": true,
+      "68548c44-e92c-42b2-a8f0-8f01d56add9c": true,
+      "f7494bfd-a518-4fbb-a5e6-9d13d207f09f": true,
+      "a116dd79-0948-4b9f-9522-2ac341db36df": true,
+      "4ea58548-75d5-4885-b590-3e108c85271b": true,
+      "50ca0cba-9a28-492d-9a6f-92fed16e2ef5": true,
+      "a498867d-c6c1-4f92-8978-22a9221c8d72": true,
+      "05d05381-c9c1-425c-b3b7-db051790be1f": true,
+      "91eea091-3a46-4f76-b440-d6c0a78310a6": true,
+      "985a7e46-143a-4ea9-bdd3-b37dee511137": true,
+      "f7e2147b-6261-44d3-a292-bf518e48ce09": true,
+      "0ef5eeef-57bd-433b-8215-be87a121ab10": true,
+      "93ac1437-206a-425f-9e98-d1a6f6e13950": true,
+      "fcc02fbb-e23a-44d9-9153-7ff59a6580ad": true,
+      "e0a763e5-af4a-40e3-83e8-02dec17bd63f": true,
+      "20ce33de-f23c-4cd2-8da8-82fe5678bf5a": true,
+      "5a1575b5-585c-4dca-964f-f5f2e07f8f87": true
     },
     "menuGroupCount": 1,
     "timeFrom": null,
-    "timeTo": null
+    "timeTo": null,
+    "favoriteUsers": {}
   },
-  "fd3d2f9c-27a6-40ab-ad19-d17715de722a": {
+  "cbba3644-b691-41c8-987e-051ca26be6f5": {
     "address": "울주군 범서읍 구영리 799-5",
     "branch": "구영점",
     "call": "052-245-9996",
@@ -488,263 +501,273 @@
     "condition": "과기원 30000원 이상 배달가능",
     "menuCount": 267,
     "menuGroups": {
-      "34ef076b-7d25-4602-9ea8-f6533ea65a88": true
+      "5e271297-86d0-4b05-89d5-aea240d28821": true
     },
     "name": "홍담 불닭발",
     "sortOrder": 13,
     "menus": {
-      "448c54b2-5766-479e-8572-a569d2e366f3": true,
-      "4c1b865c-84fc-4bec-a7b3-e498033fdf17": true,
-      "e530933a-8623-4e6e-8ebe-239e52fe7603": true,
-      "000492ee-cb62-4dab-b45d-2ec4a4834024": true,
-      "ed4a18ae-55ec-4cbc-bb56-acaeb9482f4c": true,
-      "1b23bbcc-81f3-4cfd-b231-46f718b69314": true,
-      "1bc7ef5b-142b-4d2a-8882-8960aba797f3": true,
-      "1abf830a-302b-474d-a76d-0a86ea70791d": true,
-      "68bd9456-aaf4-4c4a-9e14-bd7dffa21d9f": true,
-      "d745471e-5931-45fd-a195-63aeb8dc19bc": true
+      "89fbb10a-23ad-4b75-bfe4-328acbc9b85a": true,
+      "b4e000d3-fb8a-438d-94d2-0c1841da937a": true,
+      "93886c50-e840-4d7f-bd24-1a087931ac94": true,
+      "832836d5-4628-49c5-854a-8540c7a3ec36": true,
+      "f5df94a9-1a63-44a9-8f4b-900641233c7e": true,
+      "ed34f9fd-9f67-4823-a159-45fb6b8774af": true,
+      "e067f628-ff55-455b-9233-15876adfc026": true,
+      "e41e2fee-2111-4284-b51a-4ca4786f8b1a": true,
+      "4f3bfb0f-e576-4768-865c-6289e392ec24": true,
+      "97d69509-44ba-4343-a213-ef49e604c6db": true
     },
     "menuGroupCount": 1,
     "timeFrom": 17,
-    "timeTo": 25
+    "timeTo": 25,
+    "favoriteUsers": {}
   },
-  "74e37040-1c4d-4590-aee4-4bc729f59ecf": {
+  "67a44c5b-a335-4a57-8ddf-ccbc6778b398": {
     "branch": "천상구영점",
     "call": "052-247-9300",
     "category": "chicken",
     "condition": "없음",
     "menuCount": 282,
     "menuGroups": {
-      "2fcd1386-f0b4-47cb-b4f7-39e0f469e5ed": true
+      "c6b4a7a9-2ca7-44ea-9c50-caff33db9e3c": true
     },
     "name": "치킨파티",
     "sortOrder": 14,
     "menus": {
-      "df2a5478-2bf3-49e8-8bd6-b2eace1dbf10": true,
-      "4dbe7ae2-c7a7-4aec-abfa-733641a4a3c3": true,
-      "9f98e18d-5031-4a3b-852b-b98891aa8404": true,
-      "5a4bbc63-47f7-45a6-a91b-fed2241d4fc7": true,
-      "cea07b57-7106-4a2d-b5dc-c20ad3801131": true,
-      "3a10e5c4-7ad3-4251-8924-07ed14746b29": true,
-      "92614454-3708-4d5e-ae7b-1d83cb35b303": true,
-      "c6f8f0c8-7d47-429e-b762-cd691b68c098": true,
-      "e9cbbc47-aca8-4933-bd79-c8ccad1959d4": true,
-      "5be2ecd7-e43b-40de-a778-677e2456c0b5": true,
-      "90ff70e1-0a60-4b5f-89ae-590847d8f1ab": true,
-      "e8a2d5ab-8b3a-4977-a400-e703a2db5fc8": true,
-      "629dddbf-de44-4b79-a70e-da4144c3c91e": true,
-      "43514bd6-838c-4f57-8a18-e482024a9b2f": true,
-      "e007f72a-b42f-4c3e-a798-4dab291512a6": true
+      "6413da60-da85-449f-b0f6-ec5077b0aabb": true,
+      "b19e0be0-1d13-4ffe-9e98-919173991ed8": true,
+      "ebd687a1-819e-4973-aff8-a55b69984638": true,
+      "7a40a2fd-3da2-422a-bb00-e1c6c8d923b6": true,
+      "2937edad-4399-4828-8e5b-5ed0211e82f5": true,
+      "aeb7e744-f493-4902-a30a-8f4c39c4b01c": true,
+      "ae205135-5aed-45f0-8815-18b5fc00f54d": true,
+      "8be05dea-ca32-432e-b36c-7d7792b8d1c5": true,
+      "b3b9c89e-2ceb-4a02-bca2-870fc8faad8b": true,
+      "9f0d1551-61ef-4ecf-91f3-adf4c409b071": true,
+      "39485eea-5b42-4d95-8bfb-03b8ef8017f8": true,
+      "1f95ac07-07ae-4dd2-885a-bcfabd7d6c57": true,
+      "7afb6b34-54ad-41f8-bec0-887acf317af8": true,
+      "84dbcbaf-63be-4702-a288-684f3cc28396": true,
+      "54376b85-9b05-4f92-9a58-00f4aefda58d": true
     },
     "menuGroupCount": 1,
     "timeFrom": 11,
-    "timeTo": 26
+    "timeTo": 26,
+    "favoriteUsers": {}
   },
-  "c1b2cee1-f268-4894-8c50-86a0c55aead8": {
+  "03dfe7fd-a4d1-4b81-971c-02cf14086f21": {
     "branch": "천상점",
     "call": "052-244-7995",
     "category": "others",
     "condition": "과기원 40000원 이상 배달가능",
     "menuCount": 295,
     "menuGroups": {
-      "a96cef43-e4b5-46ef-a0b5-dc15357d0421": true
+      "d166c334-efd8-40fc-85c7-93836384d3f7": true
     },
     "name": "썰어썰어 횟집",
     "sortOrder": 15,
     "menus": {
-      "5d73a8d0-1aa0-4c14-ae1f-992ae8c064db": true,
-      "f0452251-b279-43d6-bed9-ac99f89617ca": true,
-      "590bedd7-f912-4cc1-aa23-977066d84468": true,
-      "c7fbb62d-ffa7-4182-b9e1-1d8df65f6444": true,
-      "0a9b581c-6dbc-4f37-ad0a-33635757a0cd": true,
-      "5703c258-8d4e-4646-aa91-a5fb8e76bce4": true,
-      "0608b131-7818-48fd-8762-5e19dc70932e": true,
-      "dd64dd27-6c25-4be2-8b68-758edf4721e4": true,
-      "43177a9f-7980-49e2-a55a-90806b86d1ed": true,
-      "c136367e-4699-4364-bc0f-d05d60cc1ddf": true,
-      "350e8eb6-5ffc-47ab-9776-72ad5bbab3fb": true,
-      "4781ed8f-482a-4a89-8a04-6033843853dd": true,
-      "3fff0055-5ca7-42db-9aaf-8858111ba4f1": true
+      "db8db5f3-bba4-4a09-99e2-437dd61c54ae": true,
+      "8af006ad-0e8c-4f64-a62b-cc3d8f29367c": true,
+      "b5c5e326-7a12-492d-bd6b-863f33ba2a2b": true,
+      "3bad0136-ab8a-4bc9-aafa-440d78351438": true,
+      "be17dd02-4f72-4f0b-b9aa-b00685109406": true,
+      "a3cd5f4f-823c-450c-b578-158cf55e5bf6": true,
+      "11a3d27e-11d5-47b2-b9b7-fc4c82bf4feb": true,
+      "c4a9859b-5f42-45e3-a0ef-69f65e8a16a4": true,
+      "9fa62f74-28a6-4116-9927-699ee85b29ca": true,
+      "64441cea-49ad-4ee4-ae01-39aa044279f3": true,
+      "2b0ca3ff-1aa7-4ba5-900a-89b38a3e0108": true,
+      "71edea39-96a7-4625-965d-9e8eb70c1eca": true,
+      "d8f4d386-9c3a-451a-b4cd-3bd3e9202eab": true
     },
     "menuGroupCount": 1,
     "timeFrom": 11,
-    "timeTo": 24
+    "timeTo": 24,
+    "favoriteUsers": {}
   },
-  "c2df8bbe-6348-4e61-804a-460b27a2945a": {
+  "57cc1292-e3a6-4f53-a3c3-66b97b152ba4": {
     "branch": "구영 천상점",
     "call": "052-248-2333",
     "category": "others",
     "condition": "배달비 2000",
     "menuCount": 300,
     "menuGroups": {
-      "3db99aec-79e8-453a-b720-400ca72eb530": true
+      "d761a291-8058-4c43-8e2a-7f474cb5dde8": true
     },
     "name": "부산 생 아구찜",
     "sortOrder": 16,
     "menus": {
-      "9642cea6-449c-4e89-b546-19a1bb905719": true,
-      "d5089015-098f-4e7e-911e-c37d02f5ef72": true,
-      "171637e9-da53-4e2c-bafa-4cc44fe97b36": true,
-      "0f30dca3-638f-4b40-833f-5e335273db84": true,
-      "2638b7c1-0d70-43f4-8634-1569e2a39b91": true
+      "17fa8ac6-135e-40db-b68b-272a8bd9a70f": true,
+      "cfc5ff8f-46a5-44fd-9f2f-7127d31175bc": true,
+      "f3c53a42-b549-46ed-9391-0bf72a8dedce": true,
+      "53b850b9-ae1a-4a32-8486-d36c03218108": true,
+      "99389c0e-33b4-48c1-9501-887103758f7f": true
     },
     "menuGroupCount": 1,
     "timeFrom": 10,
-    "timeTo": null
+    "timeTo": null,
+    "favoriteUsers": {}
   },
-  "19284c9a-1095-41d1-9d20-ae71eadd74e5": {
+  "3b19ae95-65c9-46ed-8641-35f405a7a76c": {
     "call": "052-212-0079",
     "category": "others",
     "condition": "X",
     "menuCount": 308,
     "menuGroups": {
-      "4bc75240-1cc7-4698-b11f-2cb3fa78da80": true
+      "08ec0a22-4756-43ae-8a8e-b74ddb8608a2": true
     },
     "name": "대윤 생 아구찜 대구뽈",
     "sortOrder": 17,
     "menus": {
-      "e618bf06-4bb5-4d80-86a1-4a798b03c146": true,
-      "a8fb55c1-6ab4-4e66-964b-a92d41a76f82": true,
-      "400c9487-051e-4908-b4bb-4e5c57528a55": true,
-      "6bcfa724-e294-4388-808a-8a833ddef8ce": true,
-      "0b07fa5f-2dcf-436d-87e5-5aa6115334d9": true,
-      "ba37c9e1-0c01-4db9-97dc-6772103c4fd6": true,
-      "d777b8ba-8160-47a1-b786-4dbb19ed1f35": true,
-      "3fc46602-7024-439e-b5af-adab6ba0b203": true
+      "1f87900b-74c5-417e-95e2-9ab09cae4af3": true,
+      "726f5292-b505-46ee-b716-df306404b97b": true,
+      "5da44c8e-8e12-461a-9766-7392aa0b9094": true,
+      "fb39e471-f57e-45c5-b40a-b1841b65829f": true,
+      "f8bebff4-b322-41ee-8ce7-5e6f61b2dd61": true,
+      "79c35bf9-8759-44bb-afd8-1460d13db626": true,
+      "81c10f8e-73be-4490-9edf-689e905f318d": true,
+      "61a94392-d64e-4804-8955-677cc36f6194": true
     },
     "menuGroupCount": 1,
     "timeFrom": 9,
-    "timeTo": 25
+    "timeTo": 25,
+    "favoriteUsers": {}
   },
-  "ea3edd70-737d-4642-85cf-43c1fe103651": {
+  "f4c7bdb9-193a-475b-ab25-827300fdff8f": {
     "call": "052-248-7100",
     "category": "others",
     "condition": "배달비 3000",
     "menuCount": 320,
     "menuGroups": {
-      "00e7b0c3-bb04-4e98-9a80-2f7868c216b4": true
+      "491b88bf-0b65-4700-b368-865e4eccc01a": true
     },
     "name": "찜들미",
     "sortOrder": 18,
     "menus": {
-      "9804d90a-9c72-46dc-9bd6-6532db1be57f": true,
-      "d69e37f7-492b-4786-bf06-7e53aa07eb11": true,
-      "161f5de4-395a-4742-830c-d7368196e774": true,
-      "c202e5fc-4856-4d49-9efe-e48b7b226310": true,
-      "8c143b4a-175a-47b2-8613-7995212bb615": true,
-      "9dec7a17-d28f-4dae-b067-e95bb1f261ee": true,
-      "a92efea3-ab5f-413f-94b3-33b611adf3fc": true,
-      "e7549064-273d-490d-82dd-484429adad0f": true,
-      "839c466a-53a8-46ee-ad7e-78e942ce4efe": true,
-      "ca05ae3f-3c6c-4368-9fc7-3bd9af4329ae": true,
-      "627d372d-9d46-44bc-9075-932255aee73f": true,
-      "3a5bf912-95c7-4123-a8e0-7767b94d5a3e": true
+      "15be2f5e-2482-4162-ac7e-46da78bcf804": true,
+      "6916efdd-9bde-44a2-96bb-19eab0efd091": true,
+      "2803d93b-f11f-4b79-a80b-eb2f699c3466": true,
+      "57065d41-01a8-46ed-999b-3db3e39fcd7f": true,
+      "6693cc70-cf3c-4364-9816-6c72548ea2be": true,
+      "bf5e2cc6-e3f7-423f-bb9f-d0efe1e3ad10": true,
+      "d4bdbbba-13af-4177-aa58-15f37382a928": true,
+      "7d49a0f3-31cb-49f2-a6a7-614197e4295b": true,
+      "208b30ff-d7f5-42c1-b487-941c80c401f4": true,
+      "9554275d-4a8c-4464-8287-b90faf6dba87": true,
+      "7830a796-72ce-43e4-9afe-c7716f69dd9b": true,
+      "843994b3-baa0-49f2-91de-fae40d6c5753": true
     },
     "menuGroupCount": 1,
     "timeFrom": null,
-    "timeTo": null
+    "timeTo": null,
+    "favoriteUsers": {}
   },
-  "a175b8e6-a5ed-4762-9e9d-cba9b0b43302": {
+  "0e98db1a-3e45-45ff-9d3c-877826498c5f": {
     "call": "052-243-6866",
     "category": "others",
     "condition": "배달비 2000",
     "menuCount": 326,
     "menuGroups": {
-      "56dd56e6-a992-4433-a5c0-b477a10f8b67": true
+      "a52b5e1b-6ad6-489e-a5c2-05e2595c5ab6": true
     },
     "name": "의정부 부대찌개",
     "sortOrder": 19,
     "menus": {
-      "55eeb0a1-15c0-4a6a-a11b-f7709d1ad02a": true,
-      "cbf6928c-331a-4ce1-8845-b2b7072eee1a": true,
-      "e7bfd8e6-8478-4897-9b5e-168c2a851170": true,
-      "48ee2308-8fb4-4eca-97d8-571360658aff": true,
-      "0ecc8e1e-7468-4a5f-829b-b4d74d84096b": true,
-      "5a6c1cd2-359d-4e6e-90c8-3a5a9e765ec7": true
+      "657ffbc5-54a1-43c5-851b-11278af4093a": true,
+      "1144f8eb-6024-4239-9866-1f2db35243ad": true,
+      "9372dacd-917f-4e4b-996e-74854da98029": true,
+      "db3f34eb-8344-431d-aa2c-d02d34483418": true,
+      "b471c4c3-41ac-4485-a992-167bf40c91a2": true,
+      "70e74550-00f9-4e0b-910f-9d15511680b1": true
     },
     "menuGroupCount": 1,
     "timeFrom": 10,
-    "timeTo": null
+    "timeTo": null,
+    "favoriteUsers": {}
   },
-  "3f898600-364b-4f9a-be07-641bdc1e5df5": {
+  "1e07bfc8-6986-419b-837a-e5f4db9f257f": {
     "branch": "천상점",
     "call": "052-248-9272",
     "category": "others",
     "condition": "배달비 3000",
     "menuCount": 334,
     "menuGroups": {
-      "17a4529c-2407-4c0f-957b-2c1bc29d2503": true
+      "1e36c44a-39be-4669-9fba-96e3cf5e3882": true
     },
     "name": "감포 생 아구찜 대구뽈찜",
     "sortOrder": 20,
     "menus": {
-      "f1edba52-55aa-47c7-ad37-b39fcc2b7d81": true,
-      "f63766d5-3abd-41a5-88d5-a6729d355096": true,
-      "b88f6507-c91f-4d93-8767-d2704b192f1d": true,
-      "08e95a2e-ff7f-4941-af00-fcb626dfda9f": true,
-      "8dd60538-fa88-4df2-a0d8-42528d30493d": true,
-      "d827542f-81ee-4efd-ab4b-6cc76a3e7c58": true,
-      "6ce7e754-e005-442f-8de9-2cb55c3dfcd8": true,
-      "f6e56ad1-45de-4e11-8d01-ec0207690f2d": true
+      "dabbbba2-c117-4c61-97ad-9dfcf93b24db": true,
+      "5b99580a-b4da-4c4b-a193-5a7cb52ac5b8": true,
+      "90af611d-44b1-4b7a-a68d-f43e8d0d2391": true,
+      "6b86f09e-b31d-474e-afc8-48344d292766": true,
+      "fa753ce8-acc5-4d91-b5f2-604c2adcc6b3": true,
+      "23378901-1503-4c86-b640-cc03a3c8e9a9": true,
+      "d98cb4cc-0e11-4712-9d22-6705d1a9ee7d": true,
+      "3e829180-7829-465b-a9d8-8356508a9421": true
     },
     "menuGroupCount": 1,
     "timeFrom": 10,
-    "timeTo": 22
+    "timeTo": 22,
+    "favoriteUsers": {}
   },
-  "7baac2a9-6104-4453-a1f3-1f4d6675b51b": {
+  "703d887b-4d34-42c0-a8ef-6f04503234b1": {
     "branch": "구영점",
     "call": "052-248-9053",
     "category": "others",
     "condition": "메뉴 1개  시 배달비 2000원",
     "menuCount": 342,
     "menuGroups": {
-      "0a4ff496-6df8-4ce1-9995-1e521fdd5c16": true
+      "60281059-f01e-45ab-98e2-6e23403f440f": true
     },
     "name": "감포 생 아구찜 대구뽈찜",
     "sortOrder": 21,
     "menus": {
-      "96e701aa-822c-4c52-819b-8f93d7cff635": true,
-      "a4b6b571-13d2-4f67-9961-ac11660a8303": true,
-      "8d14e533-fdca-4b55-9dbf-ae144e9f3348": true,
-      "16f513ed-4af2-4568-ae11-24b7a7b6b592": true,
-      "d363e1ab-1a3e-4888-bfa7-09ee977e52e3": true,
-      "1fe198f1-28b8-43c8-a04c-7eea5ef0f2ea": true,
-      "2803fcd6-16e7-435a-b97a-a5867012d1be": true,
-      "cd73be25-28d1-4f07-b67f-4f6f9f55e910": true
+      "3734ba72-26bb-4d50-8986-ec94e85d4bdf": true,
+      "fac6e527-edb7-412a-b38b-b9d25277500b": true,
+      "c6acdc01-c738-41bd-9969-66fd05a4e286": true,
+      "d1031472-89f2-408f-85e4-e3d476f50de7": true,
+      "eafbf46e-4451-43ff-a2f7-17859967a45c": true,
+      "a479cc72-580b-4655-9d70-1f97f1707c25": true,
+      "c045f814-88e8-420c-8b7b-61cfbe040918": true,
+      "1eb768dc-a6ca-432a-a124-82f6ae0bc6a6": true
     },
     "menuGroupCount": 1,
     "timeFrom": null,
-    "timeTo": null
+    "timeTo": null,
+    "favoriteUsers": {}
   },
-  "c24b6ea0-5823-42b4-8e90-64a39047b298": {
+  "a602f1d7-8e66-45e5-9305-af07e3a63e94": {
     "branch": "구영점",
     "call": "052-245-5382",
     "category": "jokbal",
     "condition": "배달비 2000원",
     "menuCount": 353,
     "menuGroups": {
-      "5367db2a-cfda-43bc-9bc3-0ad1211de79a": true
+      "68604997-890a-4622-bec9-22f45056c1b1": true
     },
     "name": "원할머니 보쌈 족발",
     "sortOrder": 22,
     "menus": {
-      "81c45a98-0bab-4e9d-bc3c-7adfc85f9d93": true,
-      "ed3b0f12-7eef-4e45-b68a-d5d49da36f87": true,
-      "e3ad066d-202d-4c4f-944e-11b3f1909183": true,
-      "1fd68066-3194-4c40-8bb4-2788d82e4a92": true,
-      "54aaaef4-6aa3-45d7-b12e-df38d8ea1d4c": true,
-      "b6a43911-16fd-4121-a7a5-10853ffb66a8": true,
-      "1dc3a613-5dcb-44bb-89ff-4af3fe653687": true,
-      "8f8035c5-9227-4bad-8c67-6623e6fc233d": true,
-      "0246b9fb-4d74-415d-a831-a84cbc1403d3": true,
-      "8e3aa6b2-f732-4327-aa4b-cfc5046fa1f3": true,
-      "3d2703f8-b662-490d-91a3-d6247d840f24": true
+      "42b194f6-5349-4efb-9e22-5264db3d6e1d": true,
+      "964bf8a0-213a-42ea-bb70-24c6a8aad120": true,
+      "6d25860b-bfc0-410b-a10b-ee7ecefc5d66": true,
+      "db964c2a-f9de-4699-9311-3224a2d0fa09": true,
+      "b86ff3c8-5aee-4e28-81f5-3dd695bf6c62": true,
+      "eeaa8f50-8a3d-47e1-a6a3-856e87bd1521": true,
+      "d9ae8d32-ab25-448a-8423-a71853a28de6": true,
+      "d96e5e51-a7ad-4183-8dad-6225f4951a6d": true,
+      "637f4e0d-fedc-4e92-8ac8-a4e21cd6b26a": true,
+      "7e59979b-d0fb-4565-943d-3e0cb1fee4de": true,
+      "a46b3219-5b50-4177-9a79-26d6d527ead0": true
     },
     "menuGroupCount": 1,
     "timeFrom": 11,
-    "timeTo": 24
+    "timeTo": 24,
+    "favoriteUsers": {}
   },
-  "eccb88eb-f5d9-4ad1-bfde-63fce4a2232b": {
+  "9ad6ad00-1055-4d8e-bd1e-25384e776d1f": {
     "address": "울산시 울주군 범서읍 구영리 375-2",
     "branch": "구영 천상점",
     "call": "052-211-5849",
@@ -752,25 +775,26 @@
     "condition": "메뉴 1개는 현금결제만 가능 / 2개 이상은 카드 가능",
     "menuCount": 361,
     "menuGroups": {
-      "ffbf1a0e-7d9f-4345-87fd-ca329b6a896a": true
+      "dfa35a2a-7943-4a62-a5de-f8bbaa505f5b": true
     },
     "name": "가장 맛있는 족발",
     "sortOrder": 23,
     "menus": {
-      "fd90963e-c7c7-41ef-abdc-3a92598c2408": true,
-      "af8441f2-2bfc-4961-97cf-3ba9d64d6135": true,
-      "3a834d7a-1f06-4cda-81cd-963a89ccb991": true,
-      "f67b09f5-7f25-42d1-9d6a-5fdf81cebb1a": true,
-      "eeace010-eab4-47e3-b0a9-75d247baf2b0": true,
-      "b367a338-db05-4c05-84df-341556dc72a5": true,
-      "f3dc87ee-02fe-4274-8c61-87802904a1b5": true,
-      "2a12af20-8d4f-4a32-a865-70766fa43e40": true
+      "6d66dbd3-334a-4a5a-a438-86a8895446e9": true,
+      "98dc2c0d-1b09-4749-81a0-8d067494fa5b": true,
+      "49276777-dc21-4cf3-b2e2-6402048fc550": true,
+      "31eef8c5-2b19-4947-aa04-99a60228afb5": true,
+      "1f3fd692-a679-40fd-b30b-97a0f84447e2": true,
+      "90505454-9805-4264-bc2c-179ac3bb698c": true,
+      "41f0ec24-8a7b-4bc1-ba37-d0e14fab6ce4": true,
+      "2ce3c748-9b52-44e3-8a1a-d56a99ab21b2": true
     },
     "menuGroupCount": 1,
     "timeFrom": 11,
-    "timeTo": 26
+    "timeTo": 26,
+    "favoriteUsers": {}
   },
-  "d7ea8465-32dd-42ca-b774-7b566ca5c165": {
+  "216a5714-28c7-4ca4-9229-56949584511e": {
     "address": "848-2번지",
     "branch": "구영리",
     "call": "052-212-9289",
@@ -778,31 +802,32 @@
     "condition": "배달료3천원부과",
     "menuCount": 375,
     "menuGroups": {
-      "750b68b0-ae77-4e8b-a5f6-a5e0a32cac5a": true
+      "35edbc18-cbdf-40c2-bef3-22e53f1c42c8": true
     },
     "name": "순곱이네",
     "sortOrder": 24,
     "menus": {
-      "1a0ccd5d-da22-4fc4-991b-0015e8fbde1a": true,
-      "828fa2a7-9dea-4a00-a33e-e93557092f38": true,
-      "56237f9d-c1e3-4b26-a487-b40724041b64": true,
-      "84347a3e-783d-4454-ab2f-4c4dd1e87f29": true,
-      "3fb757f7-8558-4b50-a76b-cc983cdb286b": true,
-      "7e6af34d-803d-4433-8da0-e26621d7f045": true,
-      "fcae8a3d-f108-46e2-b119-3f13908fee1d": true,
-      "e95b6517-276c-42c4-83fe-b98c79ab2305": true,
-      "6ad8bb3f-8e9c-4f44-ad80-b85edb4caaa8": true,
-      "c5e7d085-2b2f-49d3-9b36-f493db30093d": true,
-      "319389f5-063d-47ff-b6ee-fde9e0bc1fab": true,
-      "a0de8b8d-ad5f-440e-8f7a-6900f38e705e": true,
-      "a4d4b7a8-83d3-4188-befe-d5f879365641": true,
-      "489af668-9db2-4fb7-82cb-26f23c4a64c5": true
+      "5733abe3-4f09-41cc-bd34-090857b70c73": true,
+      "0baa7f53-cda9-4c9c-abc4-a3e41351ddf4": true,
+      "b1ae7e19-c9c8-472d-9a32-58b130fe939c": true,
+      "d2732bf6-a8fc-4038-9052-2e1a0ba36c26": true,
+      "9f3a7217-7d54-4136-bdb1-b770ffdde048": true,
+      "9bd37a52-1f94-4a3c-b565-66d2a5c528d3": true,
+      "7755c436-2a7b-4ed7-a4fd-5a6b70b20e26": true,
+      "b9a10860-465c-4bcd-8023-4ebb8305d0fe": true,
+      "1f810df1-3942-43d3-b76c-a87e9f739a6b": true,
+      "fb064fe3-8c54-4dc7-87e9-9d56a3d53ca5": true,
+      "eaffe7f4-2402-46dd-b3bc-279924ec3ad8": true,
+      "19140d82-caa9-4ee1-8df8-c3e0a139d6c7": true,
+      "da108a42-17f6-4ca7-bb85-bf313905b2b9": true,
+      "0ef05db5-40a9-4ee6-96f5-225bdd52f337": true
     },
     "menuGroupCount": 1,
     "timeFrom": null,
-    "timeTo": 26
+    "timeTo": 26,
+    "favoriteUsers": {}
   },
-  "429791fe-0bee-49ba-8163-8c154d14e72a": {
+  "887bd62f-8f8a-4800-8e51-23fed954de6d": {
     "address": "울주군 범서읍 점촌3길 8-15",
     "branch": "구영점",
     "call": "052-248-6288",
@@ -810,42 +835,43 @@
     "condition": "배달비5천원",
     "menuCount": 400,
     "menuGroups": {
-      "15236be2-862f-4361-b44a-0bebd9002790": true
+      "2994b553-bc92-4b1d-97fc-ae84ffba235a": true
     },
     "name": "본죽",
     "sortOrder": 25,
     "menus": {
-      "5e55dd96-2b00-43f3-bd9d-3861f9d34940": true,
-      "af04d6f4-de43-4e46-b7a5-1c8529edd021": true,
-      "b44f368e-d05a-4a5c-83df-a2004571c1ff": true,
-      "29c512ff-3a33-4132-a59d-24ad8ef3cbdd": true,
-      "3382c5b7-2f25-4eef-a553-95db42adbb95": true,
-      "500f35c8-7b91-4eb1-a19a-960c472040d8": true,
-      "587eabd1-faaa-4c07-bff6-dfdf94934019": true,
-      "109b1288-8208-4a1a-a877-6b92039940ce": true,
-      "babb8542-d4aa-49c1-8d2c-255676ebf4a5": true,
-      "bf2f9fa3-147f-4d2f-80fe-dae5cc521f70": true,
-      "9a45fc47-72dc-4ac3-b62d-7d1d5829aa82": true,
-      "5515f0f9-eb0e-46e9-a3e4-90cece771fa1": true,
-      "e98ff45d-561c-4179-9b2b-ed432a9f28b2": true,
-      "eb540144-7c90-4939-bccc-c659bd2c4100": true,
-      "75de96b7-bb9b-4901-bceb-793b2ffb00e8": true,
-      "7ab96f93-7de2-4778-9910-384564a30189": true,
-      "95d3e1aa-4cd4-4cbb-89fb-081a56846439": true,
-      "f610759a-0a91-4849-8420-3c86d0640e2c": true,
-      "b640f220-05e8-485b-a28b-f7bbde768930": true,
-      "a8303eb3-dcca-46c4-b994-506fefba282e": true,
-      "f0587eae-81f8-4fe6-9c4d-f24fb25e5b2e": true,
-      "048ee31a-b156-4c47-9a4b-4f2d012570ab": true,
-      "26e059b5-154a-4089-bad6-e3ae8c0d4f55": true,
-      "342b117c-52b0-4c55-9462-528880e65228": true,
-      "a82eb76e-45e3-4cb0-815b-a7395f03654b": true
+      "76cfad8c-3c53-4365-ae36-d01421fc6dab": true,
+      "131149a6-9511-4e18-be89-9cd1d1ef54e5": true,
+      "5385e810-c185-4521-bcc8-8778325cb20d": true,
+      "03004102-79db-40ae-90e0-cfcd4b091aa3": true,
+      "9eaf37ed-c17a-4c01-b7b0-ced8d3411282": true,
+      "51153c11-7ee8-469f-bb16-4dcb4a530a33": true,
+      "3ccd7fde-7940-4ab2-9818-92f67b9a9b32": true,
+      "ce273e34-7dbc-477d-a32d-cd2f8a7927c1": true,
+      "cd49b59b-9dd5-45b0-8751-8000b126c643": true,
+      "d48f9943-eb5d-4ec2-8c99-4527836eed16": true,
+      "90683ced-e2ec-4f20-8930-f8212fff91c0": true,
+      "0f0ffcec-7c51-41a1-ae44-b363bf9240aa": true,
+      "b92c34cb-388c-485e-b4bb-eb9b4ff32bc5": true,
+      "bc5bc1a9-57eb-445d-872e-f1b0dc7f0199": true,
+      "c64f2d99-9f8a-4aee-bd80-b59d9e1f88cc": true,
+      "d0a1299e-e2b1-46cc-a781-0b53c9eaebec": true,
+      "0cc9a5a3-a312-4cfc-9add-ade6517d3750": true,
+      "76a5de59-d5cc-4e1f-b453-76ff85971da5": true,
+      "d790e638-ac20-4467-a637-134c4d0235b7": true,
+      "29a7cf95-18ae-48f3-94ca-15b0a4045c93": true,
+      "ce836c0b-2f9e-4d50-b75f-e8ba04e722da": true,
+      "1c49e417-08f0-4122-8e84-f6e4d741fd4a": true,
+      "446042b4-912f-4c02-a619-691fa2deab9d": true,
+      "d27f9cee-2873-4465-bcb8-59d299985db5": true,
+      "33d1f894-8aea-4305-8fd4-fa8aae554b14": true
     },
     "menuGroupCount": 1,
     "timeFrom": null,
-    "timeTo": null
+    "timeTo": null,
+    "favoriteUsers": {}
   },
-  "6f5ff619-c42f-4989-a836-ca4de3cdeddc": {
+  "0231f456-6e4c-47a3-807b-d98c8bc48cc1": {
     "address": "구영리 819-2",
     "branch": "구영점",
     "call": "052-245-7001",
@@ -853,21 +879,22 @@
     "condition": "없음",
     "menuCount": 404,
     "menuGroups": {
-      "9d99f997-e810-4670-b655-8bbaf0627ee4": true
+      "47d17da4-7fb5-4d7a-ba71-671ce1b9a8d0": true
     },
     "name": "한양 족발",
     "sortOrder": 26,
     "menus": {
-      "ce5c88ee-155e-44ce-9c77-2bb29f2e75a0": true,
-      "566abf95-93db-4567-a0c7-bb18942ed4c7": true,
-      "2660a625-f86f-4fea-a01d-65ae774d22e3": true,
-      "91e312f9-2dc0-4d30-8cd4-6e7b761f5693": true
+      "dda2a53a-3f0d-4b58-9229-576d7e3b3834": true,
+      "55baca54-5b75-4ab8-b5b9-b5c639906988": true,
+      "e5fa8bb7-a612-4b9f-951b-00278181e8dd": true,
+      "358cceca-f653-4681-aa47-93677e84ae17": true
     },
     "menuGroupCount": 1,
     "timeFrom": 12,
-    "timeTo": 26
+    "timeTo": 26,
+    "favoriteUsers": {}
   },
-  "f3e0030f-cbfa-42a2-9084-c395ba55d173": {
+  "9d208063-586c-4b66-ab22-6dae93ad3973": {
     "address": "구영리 385-1",
     "branch": "구영천상점",
     "call": "052-246-0096",
@@ -875,492 +902,509 @@
     "condition": "소자는 주먹밥같이시킬시 배달가능, 중자부터는 그냥 배달가능, take out시 개당 3천원",
     "menuCount": 418,
     "menuGroups": {
-      "cc5f8f81-5366-4ab4-a15d-ed68f2de8b12": true
+      "78df64af-c2a2-4230-893d-949566c82890": true
     },
     "name": "오븐에 구운 매운 족발",
     "sortOrder": 27,
     "menus": {
-      "8ed7029a-743d-4dc9-943d-3ed7109def1c": true,
-      "a39306b3-1477-474f-aa64-fea095ef1c0b": true,
-      "caea81e8-db3d-4b46-831e-487a59f7c9ee": true,
-      "eaddcc17-59a7-44bd-a6ff-382e0c6ae115": true,
-      "65f84c95-7170-4aca-bab0-1b443f94b7a5": true,
-      "7c4f8124-1e0d-482d-aaa9-eabdeeab88f2": true,
-      "3f67df3e-0c9e-472b-bc0f-0da35dae03f7": true,
-      "50c3a002-7ba8-4258-898a-52df6069af9a": true,
-      "5a314b7c-d122-43e4-a67e-59ec5577db8a": true,
-      "d2383bca-4680-4757-bddd-7fab6e8f3c08": true,
-      "b83477c2-8f22-4960-8a6b-3c4121aa29a4": true,
-      "60d5c0d4-cb9c-410f-8b5f-8f3b55053542": true,
-      "19290697-9a2f-4ee4-b7f8-e8046f9bd189": true,
-      "05895483-e92d-460d-b55b-f8f0d29ce976": true
+      "b258e6d6-b09d-4e46-9442-a80d9f52f2ef": true,
+      "0d96290a-eba6-46cb-846e-4882176af426": true,
+      "b3e52efa-6ae2-4f6e-8565-b977bcae3e62": true,
+      "3137d39c-5856-4b88-a325-fd2d6568dc31": true,
+      "aa52740d-d3d0-431b-b35f-35717d1ebf38": true,
+      "bc1b5ec6-6637-4dc3-ad9c-55cb4c7d18f6": true,
+      "4616e2a0-b477-454e-9adc-0ee2af286ac8": true,
+      "640b03f4-2bde-46c8-bb82-c183ab2e2c7c": true,
+      "8c014e47-af24-4e52-b245-e5ce8bdc0869": true,
+      "c379af2b-4db8-41c8-91a4-32e54627b1c6": true,
+      "0ded0592-2097-4101-9dbd-fecff403fe90": true,
+      "ef15fdeb-a07e-442c-86fd-9bfa92dae991": true,
+      "b655716f-36df-45a1-8956-90498058ae26": true,
+      "3894ab59-0469-4cd8-b717-716abe8b5c57": true
     },
     "menuGroupCount": 1,
     "timeFrom": 17,
-    "timeTo": 24
+    "timeTo": 24,
+    "favoriteUsers": {}
   },
-  "d6688241-b875-4a16-93d6-3bc7bedf0aa4": {
+  "7a224679-a142-44b3-93e8-be8e0afb600c": {
     "branch": "구영점",
     "call": "052-248-5382",
     "category": "jokbal",
     "condition": "3만원 이상 사장님이 계실경우 그냥 배달 배달시 막구수를 주심",
     "menuCount": 427,
     "menuGroups": {
-      "17c2efbd-0b13-4056-a34b-48fe879f40d3": true
+      "03eeab0e-2ecc-4f04-8d09-3e92d129f78a": true
     },
     "name": "마늘 보쌈",
     "sortOrder": 28,
     "menus": {
-      "2dd4080a-fb8a-4676-972c-491662fe3c40": true,
-      "1ceb8045-387a-49f7-a3cf-9609e91a7b3e": true,
-      "b73986bd-a5e8-44fe-9945-fa9f067707f2": true,
-      "6608be98-cb61-4375-996a-8379de0f62e8": true,
-      "59cee37e-a2db-42a7-9772-fbf6b4ceaaac": true,
-      "29459e95-5c5d-43d3-b56b-9bcd5333e675": true,
-      "2efb683f-845f-4e2f-a0fa-bb56d11220b7": true,
-      "88c35964-5fd1-4c29-aeec-9434987c9d53": true,
-      "c036ffc7-bae3-4922-90a6-7776e0a592d3": true
+      "b46f2068-2179-49f5-a2f8-ed7d3c2c2721": true,
+      "55ee0ec4-eb75-4817-9472-73a0e9cc1f3f": true,
+      "257b2c28-50f0-4b7a-b0ce-71a3a7e3e92b": true,
+      "e5ffbcc1-bc2e-4002-bc02-dbc92b046434": true,
+      "312fd13b-a9ab-421a-9d30-26e6eb9ce644": true,
+      "c9eb057a-614b-426f-bef3-1d229fa3bf0a": true,
+      "8e4cc094-3b6b-4d92-a7ce-711805107075": true,
+      "a09594cf-2ea4-4c38-aedc-47f3e9279619": true,
+      "903c2ed4-d287-44a7-8f47-ea9510468de3": true
     },
     "menuGroupCount": 1,
     "timeFrom": 11,
-    "timeTo": 23
+    "timeTo": 23,
+    "favoriteUsers": {}
   },
-  "501ce203-dcdd-400f-b218-14c80b50c616": {
+  "a21f70ee-3fdf-463c-b06b-b5d2080be90f": {
     "call": "052-224-3372",
     "category": "others",
     "condition": "배달비3천원 야채,고추,마늘,쌈장 배달시 2000 원 추가",
     "menuCount": 431,
     "menuGroups": {
-      "4edf8206-e3ff-4a3f-9687-5ef880e28d4b": true
+      "c5b54cf3-2c38-4216-b13b-1a6ec1211f83": true
     },
     "name": "시장횟집",
     "sortOrder": 29,
     "menus": {
-      "489e2aae-db95-49ec-b015-6a8c767cd985": true,
-      "723d03a9-8c78-446c-8b0d-dd761197fb82": true,
-      "0f66f71e-f209-4737-879f-4363747c87e0": true,
-      "3a7de3e8-ea9b-44be-9ce7-36cff4796942": true
+      "2a346c52-befc-4368-912b-de18e87bc4c7": true,
+      "46b3562f-c4b1-4198-8df5-7e4799918b27": true,
+      "48fb559c-b99e-4b4c-abcc-4775567f3f39": true,
+      "fbcfe5c5-832a-41f1-82bd-4921b13ae784": true
     },
     "menuGroupCount": 1,
     "timeFrom": 13,
-    "timeTo": 25
+    "timeTo": 25,
+    "favoriteUsers": {}
   },
-  "92d22082-64d1-4053-8454-b97521bcb38d": {
+  "d8362cd0-70e6-4604-9059-84ace22a2bc8": {
     "call": "052-212-8868",
     "category": "others",
     "menuCount": 435,
     "menuGroups": {
-      "4c5f3dc8-0e60-413f-b9bf-0e5486916dfd": true
+      "5d19bd21-2dd0-4c3d-870f-6e66a0747da6": true
     },
     "name": "거제 회 센타",
     "sortOrder": 30,
     "menus": {
-      "ba6190c5-576b-488f-a185-3c0413c55690": true,
-      "6b624bf2-04d7-41a6-9a06-b7c1b7029721": true,
-      "4c548e85-952d-4547-a782-9d4c605073ee": true,
-      "650689c0-a5c7-4e68-9a35-d3ae9065bf3b": true
+      "50945291-496b-4c00-a3c6-1fecdf6b6de3": true,
+      "30a0fe16-04af-4fd2-b694-3eb9cd2b6547": true,
+      "4b965ce2-b03c-4e36-b15f-990faca13d38": true,
+      "45fefb63-cd41-4019-91dd-e814c8d65f04": true
     },
     "menuGroupCount": 1,
     "timeFrom": null,
-    "timeTo": null
+    "timeTo": null,
+    "favoriteUsers": {}
   },
-  "75da9c3b-16e7-4680-986d-a07724e2ed86": {
+  "bf732839-de61-4e79-a1ba-057738cc5924": {
     "branch": "구영리점",
     "call": "052-245-4634",
     "category": "others",
     "condition": "2만원이상",
     "menuCount": 453,
     "menuGroups": {
-      "f2769051-7ce4-4fb8-b195-ca3106b306a9": true
+      "de422fe8-e6dd-4326-a96a-b4a3ee974dff": true
     },
     "name": "오 남포 궁물 떡볶이",
     "sortOrder": 31,
     "menus": {
-      "c23ab93c-4f58-43f8-ac81-49a9276774e7": true,
-      "cd755d6d-fa3f-448d-bf6e-aedfacd75460": true,
-      "25a4bc0b-c062-496f-a529-14b1a1dd1f86": true,
-      "88e7c5fd-e07b-437e-a525-609d41227d7e": true,
-      "16351a06-c294-4297-b50b-1d37dc0907bc": true,
-      "bb9f456f-f786-4842-8d78-54ec982a6078": true,
-      "5d5ac1e2-4e81-4644-96e6-3a301712d3e7": true,
-      "3bae53e3-84f2-4cbf-8fb1-155569823e54": true,
-      "f836c5de-0795-4420-9392-feae870a57ab": true,
-      "41e86f5f-934b-4b3b-9082-c7629c5dc537": true,
-      "cccb879a-b3b4-43e0-9e36-45738b1bbc23": true,
-      "75dbda23-abc0-4469-94b3-eb9429dc0dbb": true,
-      "fbd130a2-4987-4670-b536-15e6464cad48": true,
-      "68c5f32d-d504-42e4-be99-5f60a577bfd7": true,
-      "557b8a5b-9019-41f3-8c49-616886080ec9": true,
-      "1bf25bb3-3843-42f1-b0a9-84430ea137f7": true,
-      "81302756-a8d9-424a-8728-a64f6a8fcdbd": true,
-      "9d8e6311-0629-4bca-b088-556724876d2d": true
+      "059c1fea-39b7-40a7-83f8-e0ba219f9507": true,
+      "6884be0d-3734-4d94-9f71-2a598c63f513": true,
+      "191c9ca3-3f9a-463e-aefb-32b1a8346513": true,
+      "b2c3eef2-adea-4cc1-a261-47c7bcb5371e": true,
+      "ec6cbb6c-0f35-4ad5-8b18-fa07a8d78700": true,
+      "8f5e9be7-bd2b-4bbd-894f-70e528c71f27": true,
+      "3b6f9c80-489d-481a-b35a-2e5b2fd8c54b": true,
+      "b52756e1-1aeb-4894-83c4-ba95ccb68c56": true,
+      "4da00687-35ab-40e9-bd9b-5074a364ce46": true,
+      "a7065473-505f-41c2-9926-0707da7a3adb": true,
+      "d4c3cf48-e6a4-48e1-a9e2-15b92e787eee": true,
+      "a83cd5ba-fb03-435c-b1e5-77087bb9dd0a": true,
+      "360f1a7b-84ee-4359-a829-e0d5c63b7fad": true,
+      "48cc178b-dc16-42a7-93f9-d7fe88d458ac": true,
+      "de5dbe0e-e3ed-4333-a229-dcd6864330db": true,
+      "2c993ba7-f6a8-45ae-813d-4fc175d7f1ed": true,
+      "86e5e2fa-1680-4426-a2df-83772e2e1aaf": true,
+      "d3207010-4b44-4323-8582-0dd9b1bf0744": true
     },
     "menuGroupCount": 1,
     "timeFrom": null,
-    "timeTo": null
+    "timeTo": null,
+    "favoriteUsers": {}
   },
-  "1cb20e5f-8763-451c-953a-2dbe3a3fd098": {
+  "7fea1738-4ee3-4745-a3c7-122140f187bf": {
     "branch": "구영 천상점",
     "call": "052-212-3376",
     "category": "others",
     "condition": "2만원이상배달",
     "menuCount": 472,
     "menuGroups": {
-      "af65255d-4453-4eef-9aa9-c7e2cd8f613f": true
+      "c93ccc0d-3262-4b0d-8b36-b0342c56754a": true
     },
     "name": "신전 떡볶이",
     "sortOrder": 32,
     "menus": {
-      "e9a5955b-99c9-4b36-a7eb-3034b858e94f": true,
-      "7004d6be-0a29-400c-bce8-7d1c1a744973": true,
-      "a937e705-b770-4cf0-83ad-aa2cf57b5cb8": true,
-      "362c7c0c-2c6b-42ec-b9e2-761131b344ff": true,
-      "be45f43f-e30b-4e13-a1fc-ad86f69dec3b": true,
-      "f29643fd-f850-4e11-bde6-c8cb8747d2da": true,
-      "3b41da9b-a5f2-4060-96ef-9cb6c488b32d": true,
-      "f88fab56-af25-4c56-88ea-b6c49bd36c82": true,
-      "50ed1baa-b7b3-4c66-8a3a-da6ff0df4a17": true,
-      "fe830cb5-2708-4664-8824-98d6bb554c70": true,
-      "24df97cf-406d-472a-9157-1decd87bc503": true,
-      "58026bdd-d0bd-43e0-94a0-a161cc34fa72": true,
-      "69c9e990-9fc7-436c-baf3-a9dc1304989b": true,
-      "fcaea797-b43a-4a59-8af2-c7e06899498f": true,
-      "04a7272c-a10e-422d-a499-5ded7f0a4704": true,
-      "75bcb7e4-e5df-43ec-b95c-cb8f2b1e682d": true,
-      "f475d4c1-2b31-412b-90a5-89c71ac787c7": true,
-      "dce2e6dd-d101-4ce9-b6a5-b2f51c11a6f8": true,
-      "95af9f7c-07e1-4880-a923-f113e204ea05": true
+      "4edbd25b-ad7a-4584-ab4e-af010a0d6b9a": true,
+      "48a0db58-487e-436e-9d26-847f87bdd664": true,
+      "9c6e73dc-f54f-47ad-bdc6-d04304a735c2": true,
+      "fc526435-13cd-4b13-bbd9-1005169fcbf3": true,
+      "4e3abf01-9a34-463d-85cf-6c313d917c81": true,
+      "575f8763-17a5-4aec-b42e-c24368f82a9f": true,
+      "b9bf8065-45ed-4dfa-a32c-e5a5f97f434c": true,
+      "cdac3327-ed49-445d-aee4-219ed9665319": true,
+      "08827b49-06eb-4d79-a9ad-26a57b6517b5": true,
+      "a2251406-da87-4138-9c80-be4f06658632": true,
+      "adcfb226-76fa-4fc2-93ba-79745dca6a2d": true,
+      "54db4219-df7f-4984-8e18-f660f9100c2c": true,
+      "4d2ecb6d-aec3-40eb-8194-0e0b74659a3f": true,
+      "96765aba-d146-4121-8e3f-78754120762b": true,
+      "67d6439b-e594-4bcc-bba7-6c78d0e2cf0c": true,
+      "f7a7a994-2f1b-4b0e-8e73-9a2187af460f": true,
+      "0fc81e91-8acd-4ee4-81fc-70a56dd570c2": true,
+      "bcad1041-62e7-4c96-b447-291c51982c61": true,
+      "2ef02bb4-f205-41e4-a793-4369aa847cbd": true
     },
     "menuGroupCount": 1,
     "timeFrom": null,
-    "timeTo": null
+    "timeTo": null,
+    "favoriteUsers": {}
   },
-  "42e4a70b-53fd-4947-9818-810313a0ed3f": {
+  "c61f14cb-a3ce-4236-8d71-ecde2b0a838d": {
     "branch": "구영점",
     "call": "052-211-9492",
     "category": "others",
     "condition": "2인분이상",
     "menuCount": 476,
     "menuGroups": {
-      "5f1e5e18-6f21-4ea2-ab7e-3d3d7ce15043": true
+      "4205ec25-b15d-41ea-9948-61795627f281": true
     },
     "name": "아라쭈꾸미",
     "sortOrder": 33,
     "menus": {
-      "5e115835-a3b4-4c10-8a1e-258408ab6fd8": true,
-      "61ed9ba4-31fb-4f55-a57d-45ab7d8903f2": true,
-      "2e62b89d-325f-4920-806e-9dcbbfaa8477": true,
-      "88e790ef-51be-4d68-b4ce-a60953865e2f": true
+      "e4fd58d9-b79d-451a-91db-332918ad6d31": true,
+      "7c49708e-f569-4e91-9aff-21a974b72920": true,
+      "d2dc1192-9f84-42ff-aae2-6861eb6186d5": true,
+      "4c6a7023-eab1-4031-9639-21b8b05ecdab": true
     },
     "menuGroupCount": 1,
     "timeFrom": null,
-    "timeTo": null
+    "timeTo": null,
+    "favoriteUsers": {}
   },
-  "221d9ac8-8b14-4b25-9f50-f52a867562f3": {
+  "eb836cad-c794-4d65-9557-6b6bd329cd5d": {
     "call": "052-243-1233",
     "category": "others",
     "condition": "배달비 2000",
     "menuCount": 480,
     "menuGroups": {
-      "0a33b798-cf1c-4437-8979-7e10996bb3c1": true
+      "7c308a89-27e2-4f0f-9acf-8531dd97a920": true
     },
     "name": "원조할매 안동찜",
     "sortOrder": 34,
     "menus": {
-      "feb70bd7-ba7d-4db3-99af-1659539ff36f": true,
-      "55428bdb-0d3a-4065-9ae3-a4d74970dad8": true,
-      "c996f007-d0d1-4cbe-9f8d-a7af21e406f9": true,
-      "0d5246fc-5338-4b45-9fb7-e5bf594d2d01": true
+      "518a34ae-fd45-4f9a-a83f-a5a3350aa294": true,
+      "07a716e2-cbd9-4427-8480-3e12aaac5d66": true,
+      "7df6f548-61b3-4275-ae0c-5f4b8c14e2f6": true,
+      "f6b33b70-a23e-4148-8c9a-b1d961c15281": true
     },
     "menuGroupCount": 1,
     "timeFrom": null,
-    "timeTo": null
+    "timeTo": null,
+    "favoriteUsers": {}
   },
-  "77375568-4336-439a-b5e1-683fe5e76ed6": {
+  "5e8660b9-703c-47de-b0dd-aae9779d23e6": {
     "call": "052-243-3943",
     "category": "others",
     "condition": "현금만 가능",
     "menuCount": 489,
     "menuGroups": {
-      "9f98077b-9dca-4bad-82fa-c32a1a08e3a5": true
+      "ee346917-c418-479f-847b-6691b7c54083": true
     },
     "name": "맛나감자탕",
     "sortOrder": 35,
     "menus": {
-      "91ab50b6-4be1-43be-90d1-26fca7338eb2": true,
-      "8e7c8f41-f0e5-4727-acf1-6d4b709abbb7": true,
-      "6a9cfe20-5551-4640-a249-a765fd37aff4": true,
-      "28754939-914f-4af8-a210-ab149d3d01d4": true,
-      "fc8b7b93-3572-41c6-a87b-e5cfe36c5b23": true,
-      "cc99071a-cc5b-4353-a4f5-a115994cf23e": true,
-      "192e9729-9b92-4108-845d-5a512213fe5a": true,
-      "f425598b-428d-4978-b003-4d7780ea2dc6": true,
-      "cca113fc-d009-45ce-aca7-81e9e3ef05af": true
+      "524db4ed-69ed-4d12-9f2d-76d1930357bf": true,
+      "6e31b6dd-0eca-4a4a-aea3-d255e86d6eb0": true,
+      "6371ce16-330a-4eb5-9ae5-a008c741f57b": true,
+      "30616e2c-0e58-4a19-97f6-081a75ca3f74": true,
+      "951542f6-c38e-414e-806a-97be90fd3011": true,
+      "5f787f9f-f838-47c3-ae17-0ca89d7f5332": true,
+      "7997078d-cde6-4552-a4e6-00b401c30ca2": true,
+      "d413ffcc-0028-401a-99d3-c673457b41b9": true,
+      "97b6a43e-012b-4586-8d72-98c0863e5fe5": true
     },
     "menuGroupCount": 1,
     "timeFrom": null,
-    "timeTo": null
+    "timeTo": null,
+    "favoriteUsers": {}
   },
-  "332e4e9c-4cb9-4bd0-861c-29ec8f82a74e": {
+  "aac06b9a-ac0d-4b3a-a03e-9752850d7501": {
     "branch": "범서점",
     "call": "052-245-9281",
     "category": "chicken",
     "condition": "2인분 이상배달가능,  방학때는 24시까지",
     "menuCount": 501,
     "menuGroups": {
-      "174c0663-f70e-4a22-a707-0ad79684cb34": true
+      "9c4f08c1-6f30-46a8-8b78-fbea2b505029": true
     },
     "name": "기똥찬 파닭",
     "sortOrder": 36,
     "menus": {
-      "ed9fd801-f3a9-40e0-8ea9-13f017dd2a88": true,
-      "9302b68f-5e08-4469-84bd-51a1b6c963bf": true,
-      "2ddb40a8-fcf2-4cbd-8721-90443fe2978a": true,
-      "1adc2fbd-3853-4ee3-96ec-20e30e56dbec": true,
-      "024d23fa-324e-47a0-aa6d-0eb513f0dbfa": true,
-      "3cb74ed4-826d-451b-92ee-99c53844423a": true,
-      "81e39123-e66c-4c38-942e-e478062479a2": true,
-      "68fe3f5b-3059-4e3c-9a68-5f0041b57c5a": true,
-      "9cd359d6-5c30-4a95-9e8e-ee4f69f7dc25": true,
-      "992f60bd-6cad-49e9-82d6-078928ed0ccc": true,
-      "e76a1c0a-222f-42fa-8cd8-fa971574bc26": true,
-      "52ad1246-9a43-4273-8099-0edf760dd60a": true
+      "f5816280-7487-40d6-828a-157525c59a1e": true,
+      "64eca5a3-2065-4cf9-bcf0-8d469c548cce": true,
+      "d2e27011-00ad-4a50-814a-9d217f60adad": true,
+      "11eb07fd-a3f4-4381-9c84-a684567e052f": true,
+      "82681acd-0eff-4d29-98de-45e71cc7d473": true,
+      "4117b6df-f73f-4f2e-918e-cefb471e27d2": true,
+      "67255008-bd63-4884-801b-5c3bc0e80b0e": true,
+      "77bd6606-d817-4134-abe3-b3b8f00f976e": true,
+      "e88519a6-8cd0-4d9e-9c30-3a7de920e975": true,
+      "703dd5c7-fcfc-4802-8677-2b799bf1ba84": true,
+      "a3dcbd53-52e6-420e-8f9c-91e49ad80b3c": true,
+      "0b20231f-c38a-474e-bdee-1a7b92a588c5": true
     },
     "menuGroupCount": 1,
     "timeFrom": 18,
-    "timeTo": 25
+    "timeTo": 25,
+    "favoriteUsers": {}
   },
-  "5292bbc2-cadb-4217-b5af-74c13d35492b": {
+  "c97e2c66-20a2-49f3-aa6a-b0c510853bb5": {
     "branch": "구영점",
     "call": "052-248-5992",
     "category": "chicken",
     "condition": "배달비 5000원",
     "menuCount": 525,
     "menuGroups": {
-      "251a6f33-c88e-4578-a427-1049e911eccb": true
+      "525b231c-f3e0-47e5-bdbe-020226adc4a4": true
     },
     "name": "오븐에 꾸운 닭",
     "sortOrder": 37,
     "menus": {
-      "6d9d0171-9e26-45c7-bf60-9607667ea6be": true,
-      "4081fe76-b90c-46e5-a17d-fa1ca112ad96": true,
-      "7018fb94-49b0-49d0-be14-18f14b1493d9": true,
-      "691c94e3-868d-4f88-b327-5cb7fb728451": true,
-      "2357d7b2-9ce1-4bca-9d12-16c0b4957a52": true,
-      "d5d4d73c-4968-45b7-a2fd-d9b2fae31094": true,
-      "f82406fd-bc3b-4b4d-aa90-19b530847497": true,
-      "f26d48cc-1add-4bfd-9f38-14a8321bd976": true,
-      "8066fdcc-3e31-4247-b03b-f996244a60a5": true,
-      "cdf26d89-950c-4310-a0a4-53487de06b52": true,
-      "5e0d575e-9795-4d68-8ccf-4be77eeeddc9": true,
-      "c3b751c4-b004-4c9f-aa5f-b2ad86e97d32": true,
-      "c16dd7cb-815b-4990-bf2d-1563880286ac": true,
-      "dc6ff57a-1f23-420b-9bbe-0f1082fb12a3": true,
-      "9bab11ed-6922-4349-b62b-615fe62e12d8": true,
-      "75dd4e83-6321-4bcd-b9e2-1ace2cc35307": true,
-      "a567bfec-83ee-41ea-88ef-8a981b6d58d4": true,
-      "f41d330b-f6fc-47a9-9c5e-9b50aa6ea66e": true,
-      "7214fb75-ec91-4c34-8845-4c2ecc5da886": true,
-      "b1592ff6-c814-4df6-8ed2-dd4d3cc50db7": true,
-      "5a39e663-4bd3-4b28-bb36-408f7dc0d5b2": true,
-      "5c588663-2f91-47bf-b8a5-c8bda82ba03a": true,
-      "b823d00e-9912-4e82-9102-dfef311bca2d": true,
-      "11eb748d-db91-49b2-bfe8-497acefe9a44": true
+      "e242df30-4817-47e9-b2b8-c315508fff56": true,
+      "6777cd1b-bdf8-49e6-9f1c-60884b28f7fc": true,
+      "fc30ea59-125d-4a2b-b72a-130b698142d6": true,
+      "ee57fd06-96c8-48fe-97eb-efa02921a429": true,
+      "a8c112a0-c0cf-414d-81e2-0e772bd97655": true,
+      "ecb1641f-23a6-4e69-90be-85750daed2a8": true,
+      "fdefb557-f9fb-4a2e-8df1-f7e6395399eb": true,
+      "e635b86f-c170-41b2-a29f-c1ecebcc10b9": true,
+      "052cbda6-1132-4f0a-aa2c-d10724f24c46": true,
+      "b13b4ca0-8b5c-40ac-8f58-68883dc748fc": true,
+      "f36906d5-c103-4eb1-b204-dea6707b3b38": true,
+      "bc3e1abf-c8b0-4a4d-8451-eb16a7ae5c5e": true,
+      "8ca312db-1ce0-4921-b651-a22ee67d1488": true,
+      "60366af0-bb74-4ee8-b588-5b885983e673": true,
+      "3c7f4cc8-59e6-432b-b6c8-eae62231842c": true,
+      "3d802715-36fe-47ea-b84f-f90f3f6c74c7": true,
+      "832d2e01-7847-40c8-a8fb-add83cc4e882": true,
+      "e8364151-ad74-442f-aa10-a1dbdef45cea": true,
+      "d87c0359-9353-4739-91a0-bb84a65bb5f7": true,
+      "4b5bdfc4-a0b2-42a3-be3d-cb9f0bbbd152": true,
+      "5d9f117d-ae9a-466d-b129-fcbe85f7078e": true,
+      "ba11bd52-79bc-4deb-b771-5d4559745b37": true,
+      "5be8dda1-8c3b-4d57-8140-595ee480899d": true,
+      "c155c3c9-d893-4fca-9dcd-5f2350775491": true
     },
     "menuGroupCount": 1,
     "timeFrom": null,
-    "timeTo": null
+    "timeTo": null,
+    "favoriteUsers": {}
   },
-  "0e727109-93a1-4fd3-9a1b-090ecc73cfe7": {
+  "fb4790c3-d435-403c-b97a-673cd50423ec": {
     "branch": "범서.구영.천상",
     "call": "052-248-9982",
     "category": "chicken",
     "condition": "2마리이상 배달가능",
     "menuCount": 545,
     "menuGroups": {
-      "74253fa9-45c4-4c59-9246-c7c5e75e5043": true
+      "7e268e4c-fcd3-4851-9d54-a75e062815c6": true
     },
     "name": "네네치킨",
     "sortOrder": 38,
     "menus": {
-      "d625f23e-ca84-40ae-84a9-8a08a9957d3e": true,
-      "1c4649db-3437-48e1-954c-9562eee6fbbc": true,
-      "6d619900-26b5-44af-bb76-072e89e6d6b3": true,
-      "4eff385f-8660-4d71-be36-03ee862ecf71": true,
-      "1d2449c9-0f89-43a3-bff4-eb9d065f02ef": true,
-      "6902a94e-8e22-43f4-81d1-dfb25870bc04": true,
-      "b0da858e-f70c-462f-a044-4451290de560": true,
-      "9e7633d8-fa5b-4b47-a4af-5eb19bdf2b7c": true,
-      "4afdac74-ed30-4da5-bd70-430b65d92824": true,
-      "01eb2833-e633-4873-a866-66111b6c823d": true,
-      "83d693ca-ee81-4c29-9199-9125c2781485": true,
-      "a176235a-9fe2-4e74-a568-7f7e4b7c824a": true,
-      "2d403668-75a5-48df-b065-e62cb2bfa27b": true,
-      "4fbec892-5ce6-47df-adff-d4306e170657": true,
-      "56a577f7-64c0-4d0a-b55c-ab9ad05ac5e5": true,
-      "2fe83d6c-e2fc-4a63-ba62-3c1ab4a17d78": true,
-      "6c96d630-3203-4478-bba1-0f9c29a4a562": true,
-      "b0b4c5f9-14a3-4d1d-aab0-31522df9487e": true,
-      "a42d7b39-8f9f-454f-926d-a33d4331caad": true,
-      "5a59fc1c-8d6c-4ffa-a8fa-3d7163ab6a1a": true
+      "fbf93029-c685-464f-8bce-637a27934524": true,
+      "10e121c9-a282-4092-8d60-a115f03b484d": true,
+      "1c6b7949-0368-4ee2-9429-e3bd0a075b1b": true,
+      "28073aba-20db-4005-a409-408b197ded33": true,
+      "0e9635bb-4511-46dc-8939-ef48432a7cb2": true,
+      "8a17426d-1821-4271-a5c4-eaf36d246b54": true,
+      "dcecb351-32c1-4721-9a23-e92577c78e7c": true,
+      "1d9a4e3c-08d3-4803-be87-042acc55f508": true,
+      "d418facd-aac1-456c-a809-def39434c185": true,
+      "c77eeaca-503c-4364-8286-bab0d7259573": true,
+      "79a29baa-8948-42a5-96b3-31d20076eee9": true,
+      "6d5b93e2-408f-4592-b72f-5abed9cce0e9": true,
+      "1039c373-7959-4915-a66f-2b34d300eee3": true,
+      "62362bbc-dab3-401c-8f28-b477c2f0b69a": true,
+      "30029d51-3767-4364-987b-cb5db5a3241d": true,
+      "705cdadb-a684-4fb5-a5e9-3ef04c2dc196": true,
+      "16ee929b-a0cf-4759-a514-518ef1922ccb": true,
+      "60ebfc00-cf3e-4bf2-a924-4aab1e6c7d28": true,
+      "6d409762-340c-4410-a1ef-c70f1ecc6d17": true,
+      "ebbdf89a-2782-40c9-b203-0c12d0b5eab1": true
     },
     "menuGroupCount": 1,
     "timeFrom": null,
-    "timeTo": null
+    "timeTo": null,
+    "favoriteUsers": {}
   },
-  "b47bc411-37f0-439f-bea0-c9eb3a9f677b": {
+  "1ccc3841-618b-449a-82df-1dd3dbc2fca8": {
     "branch": "울산본점",
     "call": "052-246-1101",
     "category": "others",
     "menuCount": 558,
     "menuGroups": {
-      "ec6813c2-772c-45a0-ae12-93a801e99fcb": true
+      "5a924058-3378-4e99-94c5-0428c7d66ea9": true
     },
     "name": "왕통 찜닭.조림닭",
     "sortOrder": 39,
     "menus": {
-      "bccdb396-6c2e-4608-9121-c65290a8551a": true,
-      "b38dbf42-87e5-4af1-b01a-f802ed211599": true,
-      "e4d77041-6575-4028-8c77-f16fa542d75f": true,
-      "0839aac2-e9c6-452d-a1e9-67fe5d01b49e": true,
-      "b3c6183f-14c2-4b94-a830-6f2fefef3477": true,
-      "dbc0765a-107d-4cf7-ab55-370ee508c3dc": true,
-      "80b1aa8e-8556-4730-b800-bf66fe5c8086": true,
-      "5eadc861-2eed-402b-8ce7-b04c7a43165a": true,
-      "417db2bf-efa9-46d2-a53f-9a01ba958f22": true,
-      "53d0691d-f6d4-4096-95f5-7578b38e85ee": true,
-      "27cb8dfe-167c-4eb0-9eef-9c7f3ae80a35": true,
-      "ef8d3860-bbdc-4050-bbe4-fe64cbd70a5d": true,
-      "4f86f533-654e-470a-8ec7-6ce3a9e60ec9": true
+      "9256dfc9-3433-4ee0-84f4-14d227012f24": true,
+      "429fb2ee-763b-4b2a-9b58-9735b8ac6e22": true,
+      "051739ac-c687-4222-8d6f-cb7e0b113da6": true,
+      "3cdbdd2f-0972-4a98-af96-c8c19e12774c": true,
+      "13b90df7-8082-4a12-9266-4b9b3c19586f": true,
+      "7b0030f3-716b-4663-a540-f90b51a87c84": true,
+      "818f5d26-4f9a-45ad-b908-922a090e2fba": true,
+      "ea9c2329-1acd-407d-ade2-293d54678ab2": true,
+      "36e2e53a-fbde-465a-b084-1d2ef4603d6c": true,
+      "d6b6f1e0-e241-4b8a-a323-320a73eef79a": true,
+      "add9b55e-46b0-4a48-be96-6d8b8ed5ffd2": true,
+      "3969f8cf-f925-411f-b266-8dbb3287e9d2": true,
+      "0f67ec13-9c88-4e6f-bd10-460efa953d12": true
     },
     "menuGroupCount": 1,
     "timeFrom": null,
-    "timeTo": null
+    "timeTo": null,
+    "favoriteUsers": {}
   },
-  "6cb84fb7-93e4-478f-8f57-057f54262fb8": {
+  "40ad26e9-ef5f-4271-8e29-3d7e8c43a478": {
     "call": "052-246-9022",
     "category": "others",
     "menuCount": 565,
     "menuGroups": {
-      "6eeee17b-ba8e-4812-8c9f-04193256f106": true
+      "d30b297d-68c2-44b0-b5c5-3e62685af596": true
     },
     "name": "숙이네 안동찜닭",
     "sortOrder": 40,
     "menus": {
-      "c87fb8f0-3ef1-472c-97b0-9cdcb091b1df": true,
-      "a9002e07-d8bb-4997-85a9-3deaf387fa17": true,
-      "db69925c-0d29-4ac8-af77-45be44662834": true,
-      "3de12333-734a-4188-a846-9e3cb87f13e9": true,
-      "e550e6f5-58c8-4ac3-8f5d-9b26d1e09d46": true,
-      "f46d1cb1-64b7-49f0-9f4a-f2eebea249f2": true,
-      "467bd0ac-088b-48a0-88eb-613d7a80e0e0": true
+      "06e4d533-59ab-4e61-80d9-eed165846cf1": true,
+      "3d6d3be1-3085-45b4-8ec4-cbca41dac3dd": true,
+      "ce948027-126f-41bc-92e9-4f9a8a703d58": true,
+      "4c9248bd-9f47-4ece-bd47-4518dcb505ed": true,
+      "ca3618d8-2344-44dd-a80b-1979721b9e4d": true,
+      "589c17d3-1de8-4177-a530-98a78a235693": true,
+      "7b4c7e5b-e803-4a99-bca5-e422192e3aab": true
     },
     "menuGroupCount": 1,
     "timeFrom": null,
-    "timeTo": null
+    "timeTo": null,
+    "favoriteUsers": {}
   },
-  "e4f385eb-abd0-4a2a-a13c-b453cccf9d0f": {
+  "1f557f0e-5187-49c8-9c27-2ed07f1a0d5a": {
     "call": "052-211-4600",
     "category": "jokbal",
     "menuCount": 577,
     "menuGroups": {
-      "0e621828-93c2-4bab-bd37-9307fae18765": true
+      "6ebbcd97-5cde-43fb-9fc6-27c1f7581ff3": true
     },
     "name": "장충동왕족발보쌈",
     "sortOrder": 41,
     "menus": {
-      "2e5b0748-c035-4661-8f0d-a517094a1208": true,
-      "13532864-22dd-40c4-9c74-7506f0407e6c": true,
-      "5434c5d8-f1c6-42c0-b735-1a9c47e55354": true,
-      "ab2a6ef6-1402-4812-82b3-ca54fb981a8e": true,
-      "9c775834-de88-4c20-a05d-2ad9adf076a3": true,
-      "5a0f218c-2743-4c27-909d-77cae6a9bdff": true,
-      "3e258473-e1de-49a0-aa59-ae43f0f182fb": true,
-      "97408167-697f-4b31-92e8-6c77a71d7e31": true,
-      "eb1c0103-df0f-42b4-ad68-e4d18f04d9eb": true,
-      "25c4ecc5-05e5-4815-931e-efe63f27c58f": true,
-      "31b5e16c-22f7-4dcd-8d0d-00c44d744eed": true,
-      "bed023da-1fff-4885-9ef8-9eec6d481acc": true
+      "06b8ab43-7500-4228-85e9-58589d326b92": true,
+      "a05a02fe-5318-484b-8bf8-14f475c6faac": true,
+      "20767525-5d04-40fe-8812-77c640e868ce": true,
+      "84e290c8-e1d2-47b5-8974-74d3835f0851": true,
+      "4c042c1b-abd5-466a-9cec-7f9e7e0d5e8e": true,
+      "0ab9ff4d-6b47-4cff-a5fd-601bf331ae92": true,
+      "c74136f8-bf59-4157-bef9-1a1e1111869b": true,
+      "85945656-837e-4db6-b5ed-2fdce6c283aa": true,
+      "c98f1a6e-5274-47dd-90dc-81199b196081": true,
+      "e83092df-6f97-4938-8074-a0ddfc8a763b": true,
+      "a8b00228-2383-4c72-92f3-38a5c596d788": true,
+      "7d8e0879-9c96-47a4-935b-cbb62b001d82": true
     },
     "menuGroupCount": 1,
     "timeFrom": null,
-    "timeTo": null
+    "timeTo": null,
+    "favoriteUsers": {}
   },
-  "136de334-a045-4c09-8bb6-80eff62f2882": {
+  "b9fd58b0-64b5-4429-a8a7-eaac8feb1a72": {
     "branch": "범서점",
     "call": "052-245-1922",
     "category": "chicken",
     "condition": "두마리 이상",
     "menuCount": 599,
     "menuGroups": {
-      "f07bd926-a6cf-4533-ba82-a279ad26bfad": true
+      "21c81d13-bac1-4bf8-96e0-660afca8fa40": true
     },
     "name": "BHC",
     "sortOrder": 42,
     "menus": {
-      "74229c71-1b9b-4c58-9b1a-6073149c7a9a": true,
-      "1893d04a-7ced-49e3-bae1-741878965200": true,
-      "7067e6fc-da05-4262-b1ac-762df26bc2d1": true,
-      "074a005d-76a9-4afe-a5aa-9869ba2c9f96": true,
-      "eabea695-f840-4e6c-895f-dadbdc81f2f1": true,
-      "0ed9b1cc-1999-4955-92cb-b68106846b92": true,
-      "98069504-8a72-4eea-97f0-30e81f369d61": true,
-      "6ed754d7-618c-49a9-9cbd-ee8ef88ba272": true,
-      "f8f9ed4c-ad75-420f-87d2-84221e7e6065": true,
-      "4670bbe4-3b1b-47cc-be79-cb32e49539d7": true,
-      "d28fcc4f-9a5e-4716-9090-10cd86260726": true,
-      "2ef20de4-a6f0-4399-9345-0cd680638c63": true,
-      "6f00ad51-ea73-4d9f-a275-8229a292257f": true,
-      "768c2c14-fd66-4ddc-b0b1-55a54af5d003": true,
-      "2c70c5d7-1b51-47fe-93c5-a93dbbf374e9": true,
-      "bd567bcd-b100-4dad-8b65-6cfc9903bfa0": true,
-      "714c1d5e-7f9a-4ced-a536-3dffb19cf475": true,
-      "70fa28c7-7103-4221-95d0-ca037c97c233": true,
-      "1ff142c1-9ed1-41ed-8047-5d8f586a70ef": true,
-      "43767b68-a2f4-4bb4-8483-b56a987f778a": true,
-      "6827c4bb-af5f-4bcf-834a-8ae43739a271": true,
-      "2ae22b3d-7123-4612-bca0-363dbd57fe7e": true
+      "dc0dd172-1844-453f-a422-e6f9b6422d42": true,
+      "483f59c9-50dd-4b20-8a85-31218ebf3a34": true,
+      "d86da479-8174-4d90-a696-bf92733e3062": true,
+      "987d2495-b237-4a57-baf1-3e74312a63df": true,
+      "3a7a1ca0-6f86-4278-bab1-ecb2a58dbe12": true,
+      "98710a03-9151-4696-902c-b08ecec8d35f": true,
+      "dae2ec9b-2ddd-455a-99a6-27a5d2c23784": true,
+      "9677af4c-594c-420b-9023-596ac7679890": true,
+      "9623fa75-a462-4e4e-8561-634ba24a918c": true,
+      "ac48eb0b-9f33-4e07-94e9-270d378715ce": true,
+      "b26c338d-1878-42d3-b99b-2e5a9724467c": true,
+      "a7bc4771-3125-4a6a-b19d-00a47d1583a5": true,
+      "6002ca32-4b92-4ccb-ae61-0d247f3800ed": true,
+      "04b961c7-fcbe-46cf-a3b4-ef450b354dec": true,
+      "f490d059-81de-4a3b-91d6-f09afbcf72d9": true,
+      "158c7bd7-a3bc-45da-a2a0-c66b1cbe07d9": true,
+      "2cce8c6e-6bef-4421-b126-d7a550151dd6": true,
+      "48fb705f-3bb3-4a75-8640-c5ff3f3d2ad8": true,
+      "e1c36742-c793-4636-8c16-139ca0178198": true,
+      "73409014-0073-48fe-8d55-d025d98468b0": true,
+      "d745c1b9-2ecb-4e3d-958b-1480766345df": true,
+      "2b79f173-26ca-4e07-ae91-8850784bc8c7": true
     },
     "menuGroupCount": 1,
     "timeFrom": 12,
-    "timeTo": 24
+    "timeTo": 24,
+    "favoriteUsers": {}
   },
-  "e85f809d-6012-4f31-9962-22f75384b5ab": {
+  "70beabfa-8ee2-46a2-96ee-665450d789ab": {
     "branch": "천상구영점",
     "call": "052-246-8090",
     "category": "chicken",
     "menuCount": 618,
     "menuGroups": {
-      "60b57d32-ab8d-4413-8b4b-25fd3abfd8e4": true
+      "834dcc6b-273a-46f7-a0f2-3d6e8f42b13f": true
     },
     "name": "쫄파촌닭",
     "sortOrder": 43,
     "menus": {
-      "17f77e88-fd41-4915-99a3-221a00b131f9": true,
-      "a30f9db4-c873-4304-a5c0-c1de30021f9f": true,
-      "bb5c28a6-635e-4fc3-9215-a5c47a4a2a2f": true,
-      "2511f842-81c2-448e-9ca8-cd297c46e65d": true,
-      "832aacaa-73a3-49b0-bc84-b772c668471c": true,
-      "8814ed96-c60e-4b45-aa88-3a47d89ba771": true,
-      "d1c52bf2-c51a-4035-bd13-52a7bf58e1f6": true,
-      "ce75e9bc-20b1-4d18-b029-91257669ebc3": true,
-      "c7bc8f4e-a491-4b99-a6ec-f1476356e2d7": true,
-      "61423ea9-5beb-4de7-bc91-82b11f0dc7a5": true,
-      "7efa167a-537c-4118-8f5b-6213e4b364f4": true,
-      "e969abd1-5fde-45c5-b8c3-49e854300d88": true,
-      "a3d4b267-2308-4905-a369-0929c6ae7a4a": true,
-      "88e17229-28c3-4d05-809b-b4d795073203": true,
-      "4833b144-a957-435c-9e06-33e677bdcf02": true,
-      "4626272d-329d-432b-b612-b3193aff3057": true,
-      "edea53fb-f2b2-4803-97fe-d15053953c48": true,
-      "54b06a44-65b1-428f-a030-146f65be91b1": true,
-      "6e9fc1e4-b0bc-4baf-9e4a-8a8c070da269": true
+      "0264a6be-2840-40ad-9683-26624c565b25": true,
+      "362ec4ca-5f32-40a2-93ce-fcfa73712664": true,
+      "47ca57fe-0818-4963-b16a-14a1d3fbb89d": true,
+      "db69f21e-3df0-4191-81e2-b6e01a96e02f": true,
+      "acb31356-7219-480d-93cb-d2a61984f8e1": true,
+      "1eca443d-b620-4b0d-9080-2a1ff0dc63fe": true,
+      "a8b89b74-4dbe-4fe2-a5c5-bb39a5e6f77c": true,
+      "874a79a1-45e8-4229-b782-bfc422e803c1": true,
+      "6b641812-5bed-4e31-987a-b75f64246d2c": true,
+      "e62546ba-3ad0-4a93-8a6e-a342d9a09645": true,
+      "a530083b-56f8-404e-b8dd-2ed98a7cc73a": true,
+      "efb34e2b-94dc-4629-be52-6e96c8001394": true,
+      "5e67b117-ae79-4144-a1b6-2cc636efd5ff": true,
+      "612467a7-b373-46df-b2b0-3cbafe3bbb7d": true,
+      "b98c63b1-e627-4eb8-93fd-d143eff93cfc": true,
+      "3f2a2dc4-0c8c-4d48-b16a-df00bfb808b1": true,
+      "92999457-9af7-45a6-ae61-3d251de1c46e": true,
+      "39dd37a2-1b27-4872-a469-6feca6dbdbb8": true,
+      "20a1ae4a-ea37-42d5-8542-ee23ec610c04": true
     },
     "menuGroupCount": 1,
     "timeFrom": null,
-    "timeTo": null
+    "timeTo": null,
+    "favoriteUsers": {}
   },
-  "9318ee61-ff79-487e-b285-5ec248df2d72": {
+  "f44bf0a9-94e9-4236-9abf-f64d357cc8fe": {
     "address": "구영리382-2",
     "branch": "구영점",
     "call": "052-248-2500",
@@ -1368,800 +1412,823 @@
     "condition": "2만원이상",
     "menuCount": 627,
     "menuGroups": {
-      "6d34614f-c629-4b29-a493-7bbcfb1acced": true
+      "34088942-0b68-441b-a715-bfcb1cf88e44": true
     },
     "name": "도원 황궁쟁반짜장",
     "sortOrder": 44,
     "menus": {
-      "770e3189-1478-41c0-b72a-7d5acf049079": true,
-      "d82ad62a-7ff8-467d-96e5-257f1f7857c6": true,
-      "abea73c4-a3e4-496b-951b-0d89b9e75f03": true,
-      "8148be34-c850-407e-bba0-e3442cb2829b": true,
-      "da6be5be-8661-4f8b-b532-a6b2e523a07b": true,
-      "3cd1ba74-91d9-45ad-9e38-70e1fcc20dcb": true,
-      "1795af01-f690-445d-a3c1-7a407112f0f4": true,
-      "72496728-1f72-4e4d-9f6d-ef8563ce2320": true,
-      "519069e8-6dc7-466f-9bbd-890f0a76262e": true
+      "4c0f0ac9-e124-4fe1-969c-be00ad0a23a9": true,
+      "8441dee8-fb9a-490c-9ca9-7e665f597bde": true,
+      "964c29db-e609-4b99-bdf2-1db83a537ff9": true,
+      "0733cbd7-80f8-4c78-a258-1aec17a1e985": true,
+      "b681475f-5c95-4b6f-be57-08f390ba1136": true,
+      "aefb8196-76da-4074-a858-7099de1f6ccb": true,
+      "b73cad6c-ae8f-4fe5-8b02-5171fa1efe5c": true,
+      "21b6ce98-cddd-4d2e-8c15-00cd1621b8d8": true,
+      "1079226f-e6ce-416f-ace5-be7060b2117d": true
     },
     "menuGroupCount": 1,
     "timeFrom": 12,
-    "timeTo": 20
+    "timeTo": 20,
+    "favoriteUsers": {}
   },
-  "a62a9279-856a-47cc-9ba5-d51df139d3c7": {
+  "9f93141c-8831-48f7-9a35-b91f59ffd2e7": {
     "branch": "구영리점",
     "call": "052-212-0487",
     "category": "others",
     "condition": "퀵비4000원부담",
     "menuCount": 639,
     "menuGroups": {
-      "d8ec0644-7a7a-42df-afcd-7ca787eb7950": true
+      "7ee5375f-acb6-43aa-a41c-16d890e99ddc": true
     },
     "name": "만나고쪽갈비가",
     "sortOrder": 45,
     "menus": {
-      "2336b33d-4bc6-47db-a1d7-85423c6b142f": true,
-      "05add4a8-02c8-4fec-adfb-13ac624e4705": true,
-      "562b9ebe-08dc-4a1b-8fee-42d447471688": true,
-      "d6d5933d-add7-4f10-a59e-8a93b728dbc7": true,
-      "b8140133-f3be-414e-a79e-ecf6e2562cbb": true,
-      "381c9b24-5d56-4a02-b2fa-6bdc6794c99d": true,
-      "2755b7b2-7b74-43f4-92f2-ca81e9ffe2d6": true,
-      "94d8ffa9-46fa-4057-9d06-13cfd12549ff": true,
-      "8894bd55-5114-44b0-875f-443b2108a5ca": true,
-      "073d0f84-e718-4633-96dc-977042ada46c": true,
-      "d006fd44-fd72-40cf-ab7d-fb74f91a10a5": true,
-      "e5a48a7a-75ee-4119-a37f-748cab1f8de4": true
+      "908fe4df-ecee-4f89-ad9f-8c6beddbe3fe": true,
+      "8b02b390-4b26-4e57-85f3-b145e1736fa2": true,
+      "05848c21-a15c-4d76-badd-fdb368258e15": true,
+      "f5abbae4-b84b-4459-998a-929cf9c38df8": true,
+      "051cb7a4-a4d8-441f-96dc-ab88b1e7e9b4": true,
+      "fc51b67e-ab2f-4f5c-8990-c44394f0248b": true,
+      "cb87d0ec-6f8c-48af-8160-9b022b836edd": true,
+      "5bb00427-6d72-41fd-849d-6cddc1a759ca": true,
+      "89f6ae9e-831c-49de-8b6e-5993fd57d003": true,
+      "47de5cd9-44d0-40d0-abcb-9816073ab457": true,
+      "5994f801-5d42-44bd-996a-775b88c1b35f": true,
+      "8dfc17a0-3ff4-4342-b694-d0ce081a5392": true
     },
     "menuGroupCount": 1,
     "timeFrom": null,
-    "timeTo": null
+    "timeTo": null,
+    "favoriteUsers": {}
   },
-  "42920d69-e76d-41d1-89fb-9c01cfe57705": {
+  "89defc09-8e87-4fc0-9aad-36f583bee26a": {
     "branch": "구영점",
     "call": "052-243-5949",
     "category": "hamburgerAndPizza",
     "menuCount": 675,
     "menuGroups": {
-      "b646aec1-6f16-4d79-8720-fbe1a23baa67": true
+      "1be725e2-e665-480d-8406-50376bf4b6e7": true
     },
     "name": "오구피자",
     "sortOrder": 46,
     "menus": {
-      "3c8915d6-b849-46a3-95e9-ed384698f12f": true,
-      "c8fed810-4a8f-419a-b80f-36596efa0df8": true,
-      "a57832d5-a969-492b-96d1-5ad0f2c3b105": true,
-      "c206ecf2-8d6f-4877-a7c7-10e025a336da": true,
-      "26500d2c-3ca3-40ca-a64e-38ec3368be68": true,
-      "2bebade2-5deb-4e34-9abb-9c41c7c8ebea": true,
-      "0478852c-00ee-4a7b-8e1f-52a5c98ffc3c": true,
-      "92e9b822-0777-41fc-bdb7-f97e14996bec": true,
-      "f119675a-8a69-4c9d-a838-cb813232923c": true,
-      "dd3e6f46-0b2d-45e2-aefd-a2b24de61b98": true,
-      "3846d8af-bc6f-4ae9-90c6-91c6fb7e590d": true,
-      "a696f94e-b528-48fe-98a4-1a347f8dff48": true,
-      "68768b0f-3e6c-42dc-b22f-50bfcab2e1eb": true,
-      "00402106-a15b-430c-a689-9a3bcfb2072a": true,
-      "68abb2ee-2bba-41a8-a976-6f654884f6a2": true,
-      "e42eabd9-02cb-4a76-acc2-438d4c3c72f3": true,
-      "604ebfa0-4d63-4299-affe-9507513b898a": true,
-      "19e6704d-e0c5-44ed-afcd-7bb273e48649": true,
-      "9158dbc4-c409-44be-8ad1-699e804e80a4": true,
-      "997f1b84-9a90-45a2-aaed-d5e7ca27b2ed": true,
-      "2aae865f-4490-4229-a369-7ee7c7a0d6cb": true,
-      "7029575e-53bd-4cae-af1b-fdaccdd8a554": true,
-      "ddd1b3d5-e43c-4c8d-a56c-c66eedab18e7": true,
-      "b3cf6c0f-282b-42b0-867c-3a4e994ab38c": true,
-      "7fca9f3a-b7b5-4433-b09d-8036bbe0fb28": true,
-      "58839779-69c9-4353-8f13-74914ee73294": true,
-      "dab3f8fc-b9f3-43c9-bcb0-78c71c86472e": true,
-      "bc82e960-00c1-4a87-9a0c-ef931f9d72da": true,
-      "1bff261d-22f9-40ea-a049-c2387fe30b70": true,
-      "17df15e5-2b16-4f87-8d5e-056e98f58ef6": true,
-      "395da322-4cf7-43e6-8329-093e60936bbd": true,
-      "6943a8d4-4359-4703-89c1-8a52c70021c2": true,
-      "b22e6b75-8cbc-4776-895a-8eba40bdeafb": true,
-      "aa8daf5f-9eb8-48ea-a748-25a91e4bf309": true,
-      "cca2884b-e566-47d6-b07f-7d2015091a2d": true,
-      "260e9035-7685-4638-97ac-135c5317b48d": true
+      "3657bfa6-9fb7-4564-a52d-07ba55de14d3": true,
+      "0c407272-9582-4384-95e7-e4a46fd6ac62": true,
+      "4571486f-f2b7-4d6c-8a1a-71838dc0c90e": true,
+      "106dda39-9d6d-4eb1-80b5-f8649e5f83c1": true,
+      "c1c95a4d-fba4-470c-9f11-238bbcc3deb4": true,
+      "090b2678-c930-4503-b8f6-669a98f65e58": true,
+      "d0cadb3e-29d0-4f1f-b0eb-8f5b63ddc152": true,
+      "e5b25725-6024-4605-9c80-223a530401e1": true,
+      "f5e65ce2-354c-4be7-b001-9c72a7ba50f8": true,
+      "fd7cc08e-5687-4d93-a2fa-39104e3c0039": true,
+      "6c5ebfff-47d0-47a6-9bad-752e32fa4915": true,
+      "6cbead66-9e58-4d23-a8c9-e89805febdfe": true,
+      "7bb0f735-ca10-448f-ac2a-896c5dc3e193": true,
+      "667553fb-6784-4665-8061-1e5ea4d2d242": true,
+      "44711916-1a12-4988-bf1d-d470c357f625": true,
+      "8e28fabf-dfcb-41a2-ae85-fce0ee939d23": true,
+      "26f1029a-a231-401e-a061-cf40b7b683ea": true,
+      "6fe41915-3642-4224-a971-4b4bbd319395": true,
+      "ae91205c-568e-41a9-9a33-e8c546775886": true,
+      "3a1caf82-7c45-452f-8137-db2e2697d637": true,
+      "38fc00a2-cf5f-4e2e-9a62-fe4c86d3f21f": true,
+      "4abcbf1a-a5a3-4614-9c00-30a503d6ef3e": true,
+      "d3e0698d-41a2-45ce-a9a1-a80cd26bc7e7": true,
+      "b12e0837-ca49-4811-a442-9a8a00a81dd9": true,
+      "850390f8-c51e-49a7-af13-ae93f230741d": true,
+      "a306bc96-f5a9-4f7f-a43d-e6a189474101": true,
+      "f5d801cb-800d-4217-9796-80088865c71f": true,
+      "b4683d9f-488f-4f12-9509-69e18360e7c3": true,
+      "0adb0e77-d552-4e58-92bc-ad296d0ebd3b": true,
+      "6efb4259-dc3c-4803-a120-9478c9626d2e": true,
+      "c388f538-8e03-4499-8ac6-5e3a22bb978d": true,
+      "3fbb0ced-ad36-4060-acd3-7020efa4eee0": true,
+      "959e01f3-a658-45ad-8334-9cea052fcc57": true,
+      "f09c5808-a2f0-415e-8163-ca3c7c65c1bd": true,
+      "54ea3bec-db71-4d00-9b06-1d0a6f9b7d92": true,
+      "261af8b8-9bdf-4149-88a3-f79d9bf77a7e": true
     },
     "menuGroupCount": 1,
     "timeFrom": 11,
-    "timeTo": 23
+    "timeTo": 23,
+    "favoriteUsers": {}
   },
-  "006a4b37-5b02-4769-a848-cee95587b636": {
+  "69234e7e-e450-4ff4-9bd2-3dab45d5cc82": {
     "call": "052-243-5445",
     "category": "hamburgerAndPizza",
     "menuCount": 699,
     "menuGroups": {
-      "19e0456d-0b8a-4e33-8e3a-626f7bae8214": true
+      "934ab5af-8ec8-4ea1-acb0-2e8e205b31d7": true
     },
     "name": "피자마루",
     "sortOrder": 47,
     "menus": {
-      "ec322341-5b67-4714-b5f5-9e3567890bb5": true,
-      "ee35d8aa-9486-4eb7-bf6c-0866aa419bf9": true,
-      "fe97f0aa-faa9-4d6c-aee9-2c9bc5c9bcbe": true,
-      "b0becb66-8ede-4aae-877e-0e32c918f699": true,
-      "63725ef9-7a38-4ee4-aa24-173275dea9b9": true,
-      "09bbf00c-8872-4dc8-93e9-471d1b141eb1": true,
-      "a17d7723-3dd7-4a74-91d1-787803c56fea": true,
-      "3cf14572-2761-4126-9ddf-ec95725cdf82": true,
-      "4bb7a2a5-a397-42d7-8f36-f22858c5b296": true,
-      "bb648083-b408-4390-964b-d4be0ccbdc33": true,
-      "4cc141c3-8a19-4ae5-9a78-8a5a2ea72852": true,
-      "7f433e18-f5a9-4650-bb5b-30230b4c9380": true,
-      "afc58dde-2df7-4e6d-8620-d4cef960e638": true,
-      "5b09f555-d07f-49a4-9303-30bf83f36de6": true,
-      "be17e916-1ab7-415a-86d3-6b1ec3ac5faf": true,
-      "91bf1ff1-f03b-4162-8659-79945a5aa46d": true,
-      "6eb2d017-ed60-4ae4-89f1-6052a3c99e2e": true,
-      "af09ecb7-6ade-4d23-b404-b2e709b1ad56": true,
-      "5af3a1cd-6f49-40eb-a55b-53be5e4ab2b6": true,
-      "d854e822-4db1-47ec-858e-aecb44e63733": true,
-      "c8ee690d-0f27-47d7-8991-090250e1c03d": true,
-      "17ef38dc-afea-4f12-9ea3-26b747b5681c": true,
-      "e4ee7327-546d-43aa-b8f7-112204ee9e26": true,
-      "e0bf5edf-e71b-4200-91ee-d900abb15454": true
+      "1d14e192-0246-40c4-9c55-015cd423fb5c": true,
+      "4eff6a4b-ea3f-48f0-a6ef-cfca76c77170": true,
+      "4069aa14-248c-49d5-ab86-470225c259bb": true,
+      "f56f4463-c2c8-4417-ac2c-e5031625c1a0": true,
+      "038d5597-9d27-44c6-ad12-6e788a0ba11f": true,
+      "18d272c3-2946-4de6-8f98-b71413c1fdb4": true,
+      "8d9f6895-ca64-4a21-bb22-77aa6c21801b": true,
+      "28a91dae-ac47-4c88-b84c-bdb7f306e272": true,
+      "361962e1-02b0-4e70-9c1e-72b175219439": true,
+      "b27438a9-9a41-45bf-bc60-8228d98bb295": true,
+      "eaae1b4a-c198-4a76-9aa2-95450445c76c": true,
+      "3a732c8c-fa0c-4ffb-8916-a46c882dfa5e": true,
+      "8cf9823c-42d5-4b93-a602-ff0f2b2577a7": true,
+      "861c9b6b-4d96-4125-9761-605ae8d84aee": true,
+      "f4d3f2e3-f50f-478d-b75c-da8adf8963fb": true,
+      "83288948-c5ee-42b8-9fba-bb92bcf38320": true,
+      "97686baa-4297-4bd5-a3c6-0db5a27b2137": true,
+      "f8749b38-5e1f-4318-a878-b27ed8d875b3": true,
+      "3e6ad7ad-4589-4330-9d9b-2f271bd40b68": true,
+      "1aad809d-f484-4fb8-b85c-6bceca1bb76e": true,
+      "cf872e0f-267e-4c75-a854-8b0db00d93cd": true,
+      "dadb67c2-846a-49bd-a58f-e50749179bed": true,
+      "ec7829c2-421c-4f3f-99d4-ca2677d6793b": true,
+      "df6f584c-53b5-4873-a02e-4e53e7f5563e": true
     },
     "menuGroupCount": 1,
     "timeFrom": 12,
-    "timeTo": 23
+    "timeTo": 23,
+    "favoriteUsers": {}
   },
-  "7e4c8ce6-60d0-4973-80e0-bfc573309557": {
+  "98d2fea3-ab5c-4c95-b47f-e7a82ed9c6ac": {
     "call": "052-248-1080",
     "category": "hamburgerAndPizza",
     "menuCount": 712,
     "menuGroups": {
-      "bc0889b7-373e-4009-83cd-4b69e43a1f7f": true
+      "020f2266-8e0b-4a65-8df3-b7c953df401e": true
     },
     "name": "피자에땅",
     "sortOrder": 48,
     "menus": {
-      "963fbebb-1c2e-4a46-864b-82f471839e01": true,
-      "24d6f906-7735-4a3e-9a30-0d145ea9411d": true,
-      "603cb42c-3dfd-4ffe-bd09-f83b5a68f3bf": true,
-      "4974418b-a21e-4aef-9b6b-2a2b2947d10e": true,
-      "8a99b486-b770-4e9a-aa3f-24e7bbf9ef57": true,
-      "6d0faf2a-89fc-4851-80d8-8bda714e87d4": true,
-      "f75c0ba8-05e5-4238-b569-e2cfa811be3f": true,
-      "d0f88036-f222-4f11-8a92-800b4bb451e4": true,
-      "96344235-4948-4f50-add2-1c813a2f388b": true,
-      "cbd43416-e2cf-4e9f-bc76-04fa368af787": true,
-      "abea28b3-1bac-4f26-b297-1e38bf5b23c0": true,
-      "4eef4956-c600-456b-a659-48cf2a4f2adc": true,
-      "e8c19e7a-a2d4-4353-95d8-a867557c70fd": true
+      "c25a8dfe-462f-42ce-8d9c-b8ae4e817e2b": true,
+      "4c6ccb9d-3e19-44b7-ad2e-fcd262840e88": true,
+      "1919f620-105f-4ab7-9c94-de54a40fec3a": true,
+      "e3190799-e735-4a74-a456-af77cdb8bd9e": true,
+      "1e60a3ea-e55e-40d0-8452-d2eaaad92149": true,
+      "aad3889c-240e-42bf-bf77-d1b1816e1a3f": true,
+      "ab0ac43c-4498-4dda-a859-65417e4dc7bb": true,
+      "c1911d3a-1377-4995-82ca-64505e4f4a06": true,
+      "f47edb84-9302-4626-b1b1-a7acc436a6d5": true,
+      "a8ff817d-1c39-4827-97aa-e614931ba371": true,
+      "bb5d14cd-d946-4ab5-8822-db8d0c8c9bc8": true,
+      "b6c75a3f-74a1-49ec-b2ab-2d5410587235": true,
+      "52dbecdf-cfbd-4985-8b66-8096a93c7ab1": true
     },
     "menuGroupCount": 1,
     "timeFrom": 11,
-    "timeTo": 22
+    "timeTo": 22,
+    "favoriteUsers": {}
   },
-  "89e80d1d-0337-4514-bd7d-4ae7306c4ecc": {
+  "4a0e3b1c-f791-4e88-b444-7d871607fdbc": {
     "call": "052-248-2419",
     "category": "hamburgerAndPizza",
     "menuCount": 751,
     "menuGroups": {
-      "31ea0098-f27e-400b-87ba-984c55ae135d": true
+      "b90a39a9-30ec-4ced-a774-eb187d31e226": true
     },
     "name": "롯데리아",
     "sortOrder": 49,
     "menus": {
-      "8ca7e0cd-eb9e-4fe9-97ce-25def9963e5e": true,
-      "b060a32e-6e8b-4a3a-baca-9dced8485877": true,
-      "9cd9640f-2ca9-4f7d-87a9-823d085cef3f": true,
-      "fd65d765-d56a-47dd-b75b-44d3160155d7": true,
-      "b550db81-a6d8-4526-b790-80cbe20279bc": true,
-      "de6c2ce4-6ffe-40b3-83d4-2e76fd78c0b1": true,
-      "bfc0b4ed-e200-4a05-a0ed-3fd3b9fffbdf": true,
-      "d86bed21-80d0-4f92-9659-8508bbffdeda": true,
-      "58afb25d-cdf4-41f0-bb66-4d1e9660ccdb": true,
-      "65be85e1-4721-41dd-be3b-c67157ff3ed9": true,
-      "3a35ab6b-8e65-4efa-b5a8-d602cc84b2f0": true,
-      "d368f927-8626-4348-bba8-d5635a1a6706": true,
-      "f61b6be9-5fc1-4f2d-b23a-62e48e87684c": true,
-      "73e41a45-e9ec-4052-8bee-1fc4bbdc84c3": true,
-      "37f825b6-13c6-4088-87a4-aa1df2012d57": true,
-      "6299a948-e608-451f-bf47-c22397f551b3": true,
-      "051b24c2-55ab-416d-8283-ddf1c365d9e4": true,
-      "02e4a6f3-f27a-4414-bbf6-ad918eaad154": true,
-      "aff8dba2-485d-4945-bc45-9ef2136f26d7": true,
-      "55792582-4115-422f-ba1e-6f108d276cf8": true,
-      "a6dd76e1-39f3-46a3-9b7d-1a021c19a0b0": true,
-      "057852c5-e347-4bc3-9515-55f75cf645bc": true,
-      "417d0168-416e-408e-b9da-05bdd670eed0": true,
-      "9802ffd6-8ba9-4389-a985-fe3edd9b4a9b": true,
-      "a4167664-5a92-464e-97e4-f7a309cec854": true,
-      "3c7dda69-3295-460a-ad48-998fd87d6887": true,
-      "8ba81189-3ee0-4b4d-8d02-5fb3330d42cc": true,
-      "bcbec27d-4b9a-4503-b39f-a0fcac76758e": true,
-      "c04d7c17-cc68-4cfa-8fad-be582e3b4c68": true,
-      "6eecb53a-8069-471b-baee-dca1b34f93a9": true,
-      "6cebba81-b085-42d6-a13a-789ce25081ce": true,
-      "f606e94f-ec1a-47bc-ad33-8b66d5088d1b": true,
-      "06d2f04d-eacf-4c53-8dd5-48b89b13cb59": true,
-      "cad83abb-e750-49bf-a603-643a4e7aef0e": true,
-      "b08f1516-2f85-4f65-bc8f-deb5a0e4068a": true,
-      "afa3bded-d201-4292-90b8-efd74adf82cd": true,
-      "748be6e1-871d-401e-8e40-ac35d96d898e": true,
-      "768d28cd-8c13-44b8-ae49-8d50a02ac421": true,
-      "dff203b9-70c0-406a-86ee-d583f2f3ebc7": true
+      "900ac4d7-0e92-419b-bcf9-c1c73125d874": true,
+      "0cb0154f-dad0-4eae-aa71-9e8715533930": true,
+      "ac91c4ab-1b5f-4af2-a535-2523513b7c2e": true,
+      "b1c8b3ac-c506-4955-a46e-48f8e88b4b9d": true,
+      "161e4cda-cc62-47aa-bb68-009c98039361": true,
+      "c7301665-5fa5-417d-bd8e-51ec134f5a01": true,
+      "32f4bb54-3f83-49f5-b0f2-f16b25ef000c": true,
+      "e9ae2914-0f79-4b4e-ab04-686209ea5e90": true,
+      "ecbb4dcf-ae9c-4fe6-ba1c-9c0fad0b78bf": true,
+      "03cdb211-9ca6-403d-b86b-ae6f216d3f5b": true,
+      "9afa72f6-7a79-4cd2-a56a-eeb741a0e587": true,
+      "f3c1b56e-393c-4667-8d2d-8a45563f1aca": true,
+      "fba459cb-2ee1-4887-aaab-cd916cd2a686": true,
+      "692948a6-14a0-495d-b5cb-5bdc30da7eff": true,
+      "53487bc6-d7ad-42ee-9bdb-9da6e5977545": true,
+      "0c218532-e643-4bb1-b666-c93c3b421d9b": true,
+      "8efcc76f-319f-4a92-9a8e-52cb1c3424b5": true,
+      "b6968738-4222-4082-b82e-82b098941922": true,
+      "53d98ede-44b3-4474-906d-29d4e8f21770": true,
+      "f4f96ef2-6abb-4acb-a02a-0e330598e9ef": true,
+      "c67706ea-ee00-49ca-bdac-c62ebc5b075c": true,
+      "0a78e5bb-b41d-4529-b45a-ae508ecfe63a": true,
+      "70e0be8e-e0f8-4e82-a196-a0aa6a88a5c5": true,
+      "fef4556a-e99d-4c4e-b50f-b7079d400df6": true,
+      "f6a3e2cc-b46e-4767-beb0-4198e3fcea65": true,
+      "535d06c1-add5-4007-8fd2-aaf022032c68": true,
+      "9c414c7a-754e-462e-9994-125ec7d3243a": true,
+      "6f540e3b-4043-4842-b132-32ce777e07c6": true,
+      "b00592e7-e66c-4964-962c-4a0944ede958": true,
+      "f520d4af-92e6-4130-8e7e-fe58c4243eeb": true,
+      "e5efe65b-749a-4f5b-8fdd-9cd1a8a14cb8": true,
+      "5e512e80-5525-4ca4-9d82-cbcecb4232f3": true,
+      "60bb0cf9-164b-4fbf-ba1e-41f6e00dd227": true,
+      "d7e80383-72fa-4740-b780-00fd95019092": true,
+      "5cbf5f1d-c958-4170-b72b-facf9337d2d1": true,
+      "37a09483-9859-4be3-8d1f-e2de76228d0b": true,
+      "bd6c397d-4a92-4b5b-88c0-0d8541bd9634": true,
+      "91a43871-82fc-4373-89c0-fa480be47a3c": true,
+      "cadce469-48f2-4ea3-baa1-d0ec63d61fd1": true
     },
     "menuGroupCount": 1,
     "timeFrom": 8,
-    "timeTo": 22
+    "timeTo": 22,
+    "favoriteUsers": {}
   },
-  "87ee9450-312e-422e-a8de-2480fbdc7707": {
+  "6e2315c4-e733-4abb-b661-1d3c0acf1fb9": {
     "call": "052-244-2977",
     "category": "hamburgerAndPizza",
     "condition": "매월 첫째주 일요일은 휴무입니다.",
     "menuCount": 788,
     "menuGroups": {
-      "d6e766f6-fd10-445a-826b-a3f9ce956f73": true
+      "42039348-4462-4c78-8874-5e5e82cef7fe": true
     },
     "name": "맘스터치",
     "sortOrder": 50,
     "menus": {
-      "e2129b6d-37ae-4756-bc80-7ecaeaef1ff6": true,
-      "6ad6d977-8f65-4f1a-aaef-588c09cdfff1": true,
-      "d0938fb5-317b-481a-91af-ff8ff58578cc": true,
-      "3cb765d6-8ada-4217-864e-040d96d40f7a": true,
-      "18365875-a408-4eb7-98ab-420bb7dff64e": true,
-      "6dfc5fcb-d362-4851-9450-5634b4ffe07d": true,
-      "b319fa4c-32da-4142-9a8b-5f574b30e5a0": true,
-      "b402bb04-7baa-4a20-99e9-f251fbf5495f": true,
-      "4a34b47d-8538-4b92-9459-8807d364e9d4": true,
-      "c4bc3987-ab15-4a2b-b497-403b521ce95a": true,
-      "86a44277-8a49-4720-913b-e709e99bd1fd": true,
-      "d8761827-0fc9-4484-bfbf-8ca5b84acb83": true,
-      "46ec7b1f-c59a-49fb-9627-607d50a5d8da": true,
-      "84992e5b-56d8-4a33-abf7-851745bedb89": true,
-      "51a6fdf5-5f71-4f48-88f8-6a47e971b9ac": true,
-      "75979de7-2f04-42f7-91e7-b7eeea388b26": true,
-      "53a0c7b3-d843-43c9-8864-ff8554487547": true,
-      "0f5c8f42-2eff-468b-90f6-6a8a0f280a71": true,
-      "4e19f890-8980-420b-879c-a6c5c509be34": true,
-      "6a4a6e36-634a-46dc-95f8-a7bf5746d3b1": true,
-      "a6206817-fcf8-4fe4-af3d-8831fa8c6f7d": true,
-      "0a73241d-9b28-493d-b96d-322da11c76ea": true,
-      "87b93fa7-f549-4b8f-bb8f-42b16d250af6": true,
-      "a2a78684-4882-4b76-8614-060c43f8d69a": true,
-      "492696c7-c38a-4f3f-b7f9-dc104a02324b": true,
-      "a892cb6e-b0bd-40e9-9c07-1fe92dd41139": true,
-      "ff92f960-4e04-4d21-be54-7163fba3e4a5": true,
-      "21c1328a-ef08-45bd-945d-d74ea77ff981": true,
-      "3cc9b600-fd11-439d-bb60-449b871c1213": true,
-      "808f8ec5-b9ab-45aa-9c74-ee66d831bf74": true,
-      "09c56282-5881-4d65-834b-f0c83dece7e8": true,
-      "2e83a605-58ff-4143-bb56-7b7a54df3221": true,
-      "5bea668a-2db7-4521-b17c-0ffd459d0751": true,
-      "e7aab0f3-8341-429f-8e49-4c229baa0ba2": true,
-      "f29e60af-b313-4712-a193-ad19dc325ba4": true,
-      "c1a1060f-a4b6-4e10-92d8-fe1e652ba618": true,
-      "ee06c539-489e-4f62-9b28-993b7be136d4": true
+      "8def8f5a-41eb-4ce3-87f0-363b1b96bff8": true,
+      "181efcdf-4057-4268-b782-e788512866d3": true,
+      "d33ddcb0-82af-4c59-bed1-826edd6fbadc": true,
+      "b63cd63b-299e-4f6a-8ed9-a2076c3e6a0d": true,
+      "46e5a9fd-bfe7-488b-b6ea-4358a67ff7d8": true,
+      "bf7a2d94-5aba-4518-8bab-a0ca119f3175": true,
+      "7691aac4-e412-4b9f-a6e7-787829253388": true,
+      "f9519880-292f-4ae3-9e8c-89f3a351577c": true,
+      "d55f3d51-de30-4f78-86a2-e8135afe5165": true,
+      "fdf2f61f-9972-472a-9ea0-6e95ab69f346": true,
+      "a9b1ca0f-50a8-4635-b22c-102a4e0eb196": true,
+      "89338167-b6af-4384-a63c-d644ce728383": true,
+      "4ee45237-c475-4d4f-95b0-264b830ea4ba": true,
+      "2e5ee069-56e1-4e00-86cc-0a12e3d14bfb": true,
+      "8893b56a-45b0-4521-9291-43f4552ff695": true,
+      "ab578a59-2b1a-478b-a7f7-61453d074a4b": true,
+      "e8f1dd02-9029-47df-ad9f-f7d6e05386a3": true,
+      "958e27b7-e0c6-434a-aae3-9c452613b174": true,
+      "36209d7c-b14a-45f4-bd64-25ce49b36644": true,
+      "0e5e4d3d-68f8-43d7-88a4-e9bcd386af0d": true,
+      "ba932152-88d0-4565-8c5e-b5fd5f3530ee": true,
+      "4ca9b5b5-f0ba-4f71-b1e9-3de2b27bb141": true,
+      "c04aa7a2-7eb0-414c-9c8d-b60c0ed05e29": true,
+      "b8869a3c-6990-4c0d-9458-383f5750d387": true,
+      "0fa61c9e-629e-402f-a590-e692419d5d85": true,
+      "0950b381-1008-40b3-81c2-34076da3bfd4": true,
+      "e4119948-f3ea-4444-9f91-0af05c0ccc48": true,
+      "37a829b0-e5af-46f5-a6a6-7b2205cbfeea": true,
+      "a3534825-cf2a-4aef-82ba-01b3846fe2d0": true,
+      "bc3659c1-2f82-416c-a501-09ad95cc95db": true,
+      "1ebd0864-1d88-43ea-8b85-60170e386f8b": true,
+      "b17f891f-74c3-401a-9259-9a2a96b075a9": true,
+      "5221c7f4-fb92-46b6-9ea0-889c5fb38f36": true,
+      "a4b37275-82e4-428a-9664-faf3704ae884": true,
+      "f7bab382-e5c1-4149-ab57-362adffb4cec": true,
+      "4aa83dfa-2a17-44e8-8a74-a76380400fa0": true,
+      "0cec1f07-1374-40bd-86f7-aeecb92bb29a": true
     },
     "menuGroupCount": 1,
     "timeFrom": 11,
-    "timeTo": 22
+    "timeTo": 22,
+    "favoriteUsers": {}
   },
-  "d7dd8401-3385-4b3e-92e5-63f841f6e6a6": {
+  "082b64ee-fe83-42bc-830e-ff39223ed4d8": {
     "call": "052-211-0565",
     "category": "chinese",
     "condition": "짜장면,짬뽕,볶음밥,우동 곱뺴기 주문시 1000원 추가",
     "menuCount": 830,
     "menuGroups": {
-      "c7023670-19fb-4b4a-86bd-dce9952ecabe": true
+      "3514f7e4-cc2b-47f7-a669-82f0724a7ea8": true
     },
     "name": "황제 쟁반 짜장",
     "sortOrder": 51,
     "menus": {
-      "ee5a2e69-47b5-4e5d-97cc-b6841e504a76": true,
-      "d68f5a17-76c6-44f0-8fce-894bc9ed6df0": true,
-      "568af287-b912-44b9-9e1e-0eeec6a5922d": true,
-      "0b0c19cd-4175-4aeb-be60-77d4ac751152": true,
-      "b8716f61-eeb8-4eb7-8e06-313a03e69f80": true,
-      "b9942087-b177-4c7d-8759-29db6731e44a": true,
-      "f0a836c9-a55c-4e39-9212-05905fa78d23": true,
-      "33c56e1b-4781-487b-b94c-e25ba6c63ae3": true,
-      "91fd4264-f712-4ab1-b771-a717d52c02ad": true,
-      "f6425b54-6015-4c8c-8c85-e3a27fdfbb6c": true,
-      "43cda7ee-5058-4024-842d-fa35df3a1a48": true,
-      "44ad08ee-ca62-4f0b-b0dc-d76112bac7bb": true,
-      "1cc48c2c-c393-4696-8ccf-1cffd91702fa": true,
-      "8204357f-fbe7-4d53-acf8-acac0a73de4e": true,
-      "0e72649a-a0be-4f49-bf98-8ed566816c55": true,
-      "bc8336ee-0923-4790-aeef-d7be31f92cb4": true,
-      "6f8f88c9-f188-461c-8ef0-eebe2248477d": true,
-      "5bcad69c-83fc-4826-bcf2-92c321b3a10e": true,
-      "63d5033c-4521-406c-9d46-7cb4b809c16f": true,
-      "017e5bd2-beac-4d81-9ec5-19837554b138": true,
-      "e429b85d-fa10-4da9-93c9-f248354700f0": true,
-      "46498ce6-b675-4578-ab5b-9b01590a45b6": true,
-      "25aca477-c078-4d50-ac9e-c9364371f3fc": true,
-      "1bf150f6-c8a4-4474-a4e3-ba908e22c60b": true,
-      "7ac623af-d0ca-4fb2-8709-c43872411430": true,
-      "afcce36b-75f4-4d50-a26f-f8ed440ef937": true,
-      "1671c569-90b4-42c6-8c54-ee6f51f9e42e": true,
-      "515d373b-e36b-4f21-a0ab-7381713dbc2d": true,
-      "d028fc13-873e-44bd-9499-e69b9929110e": true,
-      "e84d7756-a0e0-47b9-acbf-acdaf250a58c": true,
-      "a8f0b2d5-d04f-4517-837d-52d131be4142": true,
-      "7cd7999e-35ad-494c-b2a5-289ce83f9d46": true,
-      "b3af573a-d07e-41f3-b188-d8f319d1a6c9": true,
-      "2c4f20d4-fcb5-426d-9823-336d4f31e543": true,
-      "ee88862e-de9b-479b-8246-aefaf149bf4e": true,
-      "f49e8277-65d4-4539-9dea-147adee95d8d": true,
-      "6f5c7412-e16a-404e-a0fe-34273949ce06": true,
-      "74d299e9-2a57-45a3-b282-b4b63358de52": true,
-      "a7313bd2-a1bb-4865-a3c3-589212e3a0ac": true,
-      "6ebc2dcc-f6a6-4279-9840-9ac2dc8ee9fa": true,
-      "923f2f49-bc89-4080-b31d-b99424ad22d2": true,
-      "99cdd816-48be-42c1-94f2-02b493e21a8a": true
+      "a3a4f487-867d-43a3-9528-c623be609d71": true,
+      "b635f949-d70d-4890-867d-f9643eb12912": true,
+      "126df5da-b56c-465b-a8d3-abba02dcf560": true,
+      "f5ae9951-0f95-45cc-b065-c03ddf498aa2": true,
+      "79e4fb57-5f31-4f96-a41c-5e7aa23c4387": true,
+      "82f050fd-e2c9-40f6-817c-0ec0db60f95b": true,
+      "e9f798e6-6706-43f7-a4a7-b7c393320d8a": true,
+      "3d0c32d5-6b4d-4ae1-89b4-f33fd5b9977f": true,
+      "007f676f-b067-4cb8-80e3-e7d57d0fb88d": true,
+      "0b7b9e9f-1aba-40c2-9761-a48e496fa177": true,
+      "1335effb-25e0-41fa-8c60-00ba66119365": true,
+      "6ca31d3c-99f0-4b4c-b7a1-fafa8a2dd0a6": true,
+      "061a108f-6591-4467-b241-7370239d9751": true,
+      "8b76b35a-8a48-4bc2-88d0-93926475868e": true,
+      "60f88f3f-71e5-4446-9328-386da47f9102": true,
+      "dee900af-9276-4192-81bc-e73465f5102b": true,
+      "f5d9b088-ba7e-4c51-8833-13ec1821ac9e": true,
+      "cc9cd510-dff9-4a9c-b0af-91d27e540253": true,
+      "b26791b8-f66c-4b54-9257-ba2212f2610e": true,
+      "8852324c-e13e-4cd3-a0d3-84ccfdb20d5a": true,
+      "19b1e2cd-199c-4e18-bc28-ba5ce8d49da1": true,
+      "baa74ba2-9096-4b38-8c2d-c9a3b773bde9": true,
+      "b81631ff-da1f-4888-8a92-3ede8fae37e8": true,
+      "b9818502-d97e-4604-ae8a-ea0dfc10c52b": true,
+      "f25503fb-d352-4dd5-a84d-cb2e8823d5b4": true,
+      "92204c76-35c6-49a2-b2da-294049f38ef9": true,
+      "ec668828-72d1-4cf5-8395-1bcc9ba9c086": true,
+      "18e0f034-8541-4b59-8e30-09f8abddef93": true,
+      "9a9f01e1-9425-4eee-8245-cc6816d8dd0b": true,
+      "a711e6d0-0c1d-440c-b130-2741d567b5c8": true,
+      "7984fa5f-3877-407f-ad19-2620d6510c4c": true,
+      "bce57e75-98b7-4d68-8f7e-9e94d65bbb99": true,
+      "717127bb-acee-4041-be63-ee7db6699951": true,
+      "bc852310-475d-4d91-ad73-44c34f97090b": true,
+      "e646aca8-8891-499a-a5d7-fbbfc260060e": true,
+      "ff3fcd0c-5351-4e4f-9a64-3add7b9e5c13": true,
+      "3d35d04f-2ae9-4ae2-8ec9-650b162dd1d6": true,
+      "68c38f92-f5ca-4eae-918f-076c371a3a80": true,
+      "96559875-ace9-41f7-a498-1ae722f8e6c1": true,
+      "73fb9011-1496-4840-8cd9-48a1711b904c": true,
+      "ead862ff-2cfa-41de-9b5c-2200bda93a6c": true,
+      "94842244-9445-4d26-89aa-6a7724d9c0ea": true
     },
     "menuGroupCount": 1,
     "timeFrom": 10,
-    "timeTo": 21
+    "timeTo": 21,
+    "favoriteUsers": {}
   },
-  "ad1a6dfd-ce89-4fa8-83f2-51d07b8c962d": {
+  "51cfac97-dc8f-4a7f-9c18-58e6cb3dccdc": {
     "call": "052-211-0018",
     "category": "chinese",
     "condition": "모든 식사류 곱뺴기 주문시 1,000원 추가",
     "menuCount": 860,
     "menuGroups": {
-      "3ee148aa-de87-4c1b-a76d-d7017340f58a": true
+      "9f5beec1-e3bd-4388-972c-9ed7c49c9c7a": true
     },
     "name": "돌콩",
     "sortOrder": 52,
     "menus": {
-      "3e0f0800-3fc1-4a67-8189-1280daabf769": true,
-      "cd4e68e4-2191-45b8-b70f-a05b96b3f3aa": true,
-      "fe57097c-ac3e-4c18-b1bc-08d27677c267": true,
-      "598607d1-561c-460a-b095-4bc04d143cff": true,
-      "37b26ac6-fd99-4345-9eda-027910b95e8a": true,
-      "a5f19abf-1fc1-440d-b2e7-7687518326fe": true,
-      "cb683d39-a6b4-435b-9dad-d38612775272": true,
-      "5552fab6-72f8-4f44-9a94-b380975c1405": true,
-      "695578d1-428e-4f1b-ba3c-1d3f67506f6e": true,
-      "dab5be32-d1d0-453f-b752-b8f6e58c6c69": true,
-      "497eda47-2462-418c-980c-d64518ca1f31": true,
-      "7b90683d-9faa-4be5-948c-7024e1869be8": true,
-      "1674dbb3-5a1d-4d0e-a829-a34ac82cd2ff": true,
-      "486fb5cc-601c-4990-bdb2-bfb502c70606": true,
-      "3fd61c22-55bb-42b1-9961-7d0bfc3cf951": true,
-      "93666204-c66e-4285-9d81-af694eb096f2": true,
-      "64c39023-ec71-4cf7-ae27-123eb27b9eaf": true,
-      "9de8ba70-8471-44e2-a557-670886998560": true,
-      "c33880ab-7bf9-4027-911e-1a0860fb196a": true,
-      "277b2bf1-199c-4806-92a8-dd522a7012b3": true,
-      "8818757b-be71-48a1-ae31-224f31aa7568": true,
-      "265810ef-11aa-43e4-a4c0-61f680b9ebd6": true,
-      "80530026-ab7f-4fad-8473-01e52a69ed2b": true,
-      "d6d7e8b6-d953-4f29-afd4-85288ba739ff": true,
-      "3bfa46bb-711a-4034-b0a0-3ebb4f2d3323": true,
-      "05079ca2-dc6e-4c00-a78e-66207cbbb3f5": true,
-      "1b797def-5bfc-4333-851f-6b4aa5e666ac": true,
-      "41d9e7cc-857f-4eec-acca-f331cdc09f86": true,
-      "ceb69e5c-8228-4477-891c-1acf203ebe34": true,
-      "72d6f305-172a-44ac-9900-72dddd300113": true
+      "336c62b9-ec94-4242-b8cc-c3de413c44d7": true,
+      "a49807db-3a5e-48e2-a070-d814a66acc10": true,
+      "6269c46a-db80-4344-914e-b4edd2673c18": true,
+      "1454e0a7-bdb5-408d-9d8d-6f4d68dcaf7a": true,
+      "d7ba0f1f-45ed-4682-a902-dfbdb6b18c91": true,
+      "83e3736b-bf5d-4668-812f-a98d5990cd98": true,
+      "8daae0ff-52d0-409a-8094-d653e108425d": true,
+      "44c62a6f-294b-4a6c-996d-ec87b25ec88e": true,
+      "575a9623-8ba0-4030-8d72-1faba7dbd7cd": true,
+      "1fada30a-32ad-4d8e-832a-8c402085670e": true,
+      "c8e3b6e8-64dc-493c-a237-e6fc302905d0": true,
+      "18674029-b1b0-45af-abc4-6309ab14a637": true,
+      "9ad4cff1-001d-4610-99c6-150e309db56f": true,
+      "b5d8cb44-877f-448a-a72d-c17ea15ccfd7": true,
+      "83dd3149-6846-4580-8c7e-84d9393bd8b9": true,
+      "700eee63-377d-4c44-8409-2f157a29cd24": true,
+      "9ade7d53-b5dd-48aa-a690-15c513c1f6ed": true,
+      "7e5df16e-5686-4043-b92d-3029d4b02a4d": true,
+      "8b0d9862-9d7a-4cd6-976c-907774ad28d5": true,
+      "7653d7c4-6bf5-461d-a7a4-ca5862c3d424": true,
+      "deb53edd-0f9b-4c9c-9ac5-04eee90d8e6e": true,
+      "232d37b9-5c05-42a7-860b-07deb2c796b4": true,
+      "f395af72-3988-43cb-9c58-024c9aad4997": true,
+      "98c436bf-ce87-4030-98e6-352e1f0d856b": true,
+      "ffb5e949-3f09-48c1-8282-3697ec7430fa": true,
+      "0e175b5a-8aea-430e-a215-cf87a0aca22e": true,
+      "fa6c9f78-92f0-4c35-8ee8-6f75ad6129e2": true,
+      "56b17978-48fd-45d9-b706-a8406b984bee": true,
+      "a6d63451-9b11-4be4-a26e-6d9522005723": true,
+      "1246e8dd-c6fd-4e5c-8cc5-f4a295578c2c": true
     },
     "menuGroupCount": 1,
     "timeFrom": 11,
-    "timeTo": 20
+    "timeTo": 20,
+    "favoriteUsers": {}
   },
-  "5545ac80-c4e7-40db-8678-a1774d9f369e": {
+  "552e6623-f4c5-447d-8a9a-f930c62e3be8": {
     "call": "052-243-1233",
     "category": "others",
     "menuCount": 866,
     "menuGroups": {
-      "ff1f9596-2c8f-482e-b9a1-2a8633d39b27": true
+      "916ba3e7-bcbd-4824-9dd4-233875a8b469": true
     },
     "name": "안동 찜닭",
     "sortOrder": 53,
     "menus": {
-      "f441d99e-e284-4c01-bb96-2f97e3826eab": true,
-      "c239b941-8d0b-445a-a436-053ac672ec48": true,
-      "af1439df-9bd1-41d4-8ce0-af84cd89c989": true,
-      "08d8dee9-0d92-484d-afcf-28861b94f9cb": true,
-      "f2edf83a-62f4-484a-aaa1-0df7069447c3": true,
-      "5d2151b3-260e-4781-9a23-5570bb270723": true
+      "68e81655-a716-4af1-9104-7f3ce75266c5": true,
+      "82278dde-f483-455b-a149-0e97f96882cf": true,
+      "081577a3-c0e1-48f4-8bae-4ec71a466eb2": true,
+      "95dc94e5-5349-4235-81e9-5fefb496e0ba": true,
+      "28d24011-3a7f-41aa-90aa-196f2e7a6bd3": true,
+      "3f578cb6-2e25-4e7e-bcf4-e165fbb1aeb2": true
     },
     "menuGroupCount": 1,
     "timeFrom": 10,
-    "timeTo": 24
+    "timeTo": 24,
+    "favoriteUsers": {}
   },
-  "2cc0a80f-4e91-4d4c-b3b7-e536cc2a63db": {
+  "3a3826dc-9310-4e7d-87d3-184691044558": {
     "call": "052-246-1101",
     "category": "others",
     "menuCount": 878,
     "menuGroups": {
-      "44f27580-1716-498a-a0b3-57646ba2e5f4": true
+      "dd268456-a7bf-48e2-9a18-11de74787457": true
     },
     "name": "왕통 찜닭",
     "sortOrder": 54,
     "menus": {
-      "975a4108-9dc1-4d7d-b347-6cdeffef4c59": true,
-      "f9b0f8b8-ef2a-4338-95b1-212eedad9dda": true,
-      "bff41c55-e6e8-415c-86e5-0ba9008248db": true,
-      "4c3ce3c4-9383-4a7c-8ac4-0b649f2d1629": true,
-      "0373d338-f576-4e6a-b863-806e23dd0739": true,
-      "ef915cbc-3718-48b6-88c3-8d5472517644": true,
-      "be38b841-e120-474e-84bc-1a0c3162735f": true,
-      "13930c39-a056-4b9f-8511-a2fa27a299a5": true,
-      "0f703cbe-635a-4818-a162-4f77878f21ae": true,
-      "fee00099-d885-464f-b459-dfe651a8e179": true,
-      "6d02763a-08c9-480b-b5ff-61e2390afdcf": true,
-      "92f8b309-9aa1-4d07-842b-6b0a3442a048": true
+      "c00bbce9-a845-4d4c-b474-4246534d9c69": true,
+      "cb64ab71-21f9-4335-86ca-cb51c1fbab9b": true,
+      "8e4629b2-c8fe-4e8b-b496-c5a6ba37d5e7": true,
+      "2031aefd-4219-42a7-b26c-b0966ba5b632": true,
+      "9638e735-7ccf-4dfb-b22c-7fce4674a91a": true,
+      "4a33272f-cba6-4ac7-89de-f89439de80e0": true,
+      "7c67b7a7-1ee5-4092-8db7-7d8063feac05": true,
+      "27861e8f-4d37-4984-9f98-f7347cae0b1f": true,
+      "15d74303-84f4-4f6e-a938-bb26a7225727": true,
+      "8de4d439-cce6-4ff6-9049-35d142116d62": true,
+      "bcb7e270-7f7c-4234-9ceb-9b674f621a67": true,
+      "311eef0f-0db1-4e83-b66b-8b388098ff4e": true
     },
     "menuGroupCount": 1,
     "timeFrom": 11,
-    "timeTo": 24
+    "timeTo": 24,
+    "favoriteUsers": {}
   },
-  "fb4d5d6c-8b34-4bc1-b772-300aa215e703": {
+  "ce48224c-4eb8-4e2c-a598-343d204e1f4b": {
     "call": "052-212-9957",
     "category": "chicken",
     "menuCount": 884,
     "menuGroups": {
-      "9ecb70a9-acb5-4680-8e3d-4dda6349aa74": true
+      "4f41bd46-b6b6-440b-830f-f6f4b0bb40b3": true
     },
     "name": "파닭의 달인",
     "sortOrder": 55,
     "menus": {
-      "7421fa36-ffc0-45a8-92a2-3321e57fb201": true,
-      "6fb9edf0-c160-432e-9cf8-ba9f22f01029": true,
-      "97201d5b-66bf-465d-bb7a-f6cf2d060a84": true,
-      "8e5f783f-e8d8-4c48-920f-28483b543859": true,
-      "3af39a35-5f75-4a26-8bb5-cf7e6e7629e0": true,
-      "3c5c1a60-0e03-4e0f-8340-a4af9bdc606c": true
+      "526f3f53-d8b8-42ae-91f0-491e85767b85": true,
+      "b6407596-62ed-4f83-bebc-13866c750ec7": true,
+      "29e6b795-d90a-4a7e-8ea0-e95da65a972d": true,
+      "23fdf534-48d9-44ab-8d97-8b3b02ed1db4": true,
+      "b1226b2d-e472-4b36-b9b5-d1eb2c30fe62": true,
+      "f9ae3436-04e3-4a84-9130-893dc83aa9e0": true
     },
     "menuGroupCount": 1,
     "timeFrom": 15,
-    "timeTo": 24
+    "timeTo": 24,
+    "favoriteUsers": {}
   },
-  "a1b361f4-f3db-42be-838b-76d3f5fd29db": {
+  "9a4adfe5-43eb-4ad9-b13c-c7c403c07a7d": {
     "call": "052-212-8895",
     "category": "chicken",
     "menuCount": 894,
     "menuGroups": {
-      "03edfca0-5c4e-4dcf-8cb5-7ca7dfa3d0eb": true
+      "61182d5d-8e80-498b-b2f4-b6fc103ef61f": true
     },
     "name": "놀라버린 파닭",
     "sortOrder": 56,
     "menus": {
-      "b0d2698a-6727-4dd1-bc10-a8f2256b2843": true,
-      "179aacef-c6cb-4c32-9ce5-2f5a0f3bcee8": true,
-      "465fe3b9-873f-43ee-8aa0-57efdf09ada1": true,
-      "4fcfa0b1-dbef-4b1e-ba92-d7bb9a3d2411": true,
-      "e54521c4-4e82-4514-a1d1-5c562fb88680": true,
-      "69df2e8d-9354-4c66-808c-ae2abf194d69": true,
-      "4cb97f9e-3829-44de-86c8-626ea43d99f3": true,
-      "6db235e4-bee2-430f-ad66-8d39897db670": true,
-      "cce77a4d-101d-4601-9114-c251b162dd9f": true,
-      "9818fe97-87fd-4c71-8679-b03a0a37152e": true
+      "b882ae7f-45f0-4a3e-be34-891579c3e8a5": true,
+      "4f1f50fd-4d5d-4f04-9ffd-becf7589e05f": true,
+      "757f2077-4bcf-4936-b0b7-5562ee552a51": true,
+      "3c5a7769-e426-4138-b8e9-28f083619c90": true,
+      "14b9e4c7-fa59-4849-a43a-6706f3e80fbc": true,
+      "fd60c78b-8f85-487c-81d0-e8354af67f45": true,
+      "8270302b-4eca-45c9-8365-b752db1fbe02": true,
+      "dd1fd11e-3bc5-4701-94ef-1fe854118b79": true,
+      "3d73f9da-3fe7-45c3-b711-7005b1238ac9": true,
+      "27248820-2b11-48f5-84c1-f92ca606bb11": true
     },
     "menuGroupCount": 1,
     "timeFrom": 15,
-    "timeTo": 24
+    "timeTo": 24,
+    "favoriteUsers": {}
   },
-  "97537a1b-28e3-4a56-ac38-c692633006cf": {
+  "fa7b5538-e37d-4a9c-b251-7dc6a2acf42a": {
     "call": "052-248-8891",
     "category": "chicken",
     "menuCount": 912,
     "menuGroups": {
-      "803eb58c-ff5a-4e3a-bf01-758fda45b48d": true
+      "a9d45689-696b-47a7-b6d0-96e9764bc3df": true
     },
     "name": "화르화르",
     "sortOrder": 57,
     "menus": {
-      "3eb98eb0-e760-4cac-a9b5-93cb2a10905f": true,
-      "9385be6f-4c25-4ec2-b5d4-02e0d740453b": true,
-      "2e0cf806-fd21-44bc-bf42-85e22c432ac6": true,
-      "f17679ae-f688-4928-86dc-7daf71530b37": true,
-      "40598488-ecfa-47bc-bc33-b4b3fd223b91": true,
-      "a08eec9a-29ee-4a75-83f6-3e885027dfd7": true,
-      "992fb0d0-121c-40a3-9dd4-0c61d6e1ad59": true,
-      "7e6b7ce6-934d-4f1f-b2d5-9d30e5e8acb0": true,
-      "325da785-1467-448e-82c7-ef3d3126b70d": true,
-      "6afc021e-44e0-4c7e-93b8-e7f36681c4de": true,
-      "9c528b94-d424-491d-99ce-439549f4a174": true,
-      "0ce46878-d789-4cb8-92d2-c56ef32055ae": true,
-      "8d49d764-3bd4-452c-97e1-8c7cbbda1616": true,
-      "a957f334-604e-4282-a70b-7a469665c37e": true,
-      "78269103-8a52-424d-a4aa-977d68167996": true,
-      "0c39d223-49f5-474f-b03e-aa0e35ab616a": true,
-      "4067f9be-1263-49bc-9852-59acbdf76834": true,
-      "17ac4cc9-cbb5-4e4e-bf9c-76fc213ffeba": true
+      "0bfb3232-ede3-46b4-bd46-58fce853521f": true,
+      "57d8d965-4126-48ff-ac7b-829d35fa9a13": true,
+      "66cd9951-6f13-459c-965f-6ba847e26c36": true,
+      "4d60ad53-1307-4ac2-bbd1-38f9a2bd1f8f": true,
+      "670d334b-22f4-4f91-b2cf-003337a54bab": true,
+      "7033a8f3-8a44-4368-bc47-69eaf386bb65": true,
+      "46d0b846-57b1-467b-bb79-3af02533e126": true,
+      "2b0f996e-ef13-4ffe-a66c-6b9cd17af799": true,
+      "cf65e8dc-d7da-4040-bd74-2e9b79571977": true,
+      "3ec588cc-3e5a-414b-87b5-8d1e123f1ee0": true,
+      "2baa3f79-e086-4f65-ac9b-3e151c5c7cda": true,
+      "b0f0acae-a4fb-4682-a52c-c607d064a9f5": true,
+      "0a3e8a8e-dd90-4021-8794-e2c17d42ba39": true,
+      "2920c39f-83c4-4b23-8f5b-44307a9d0231": true,
+      "64fe270b-bc57-4bdc-99a3-6bfa01db9403": true,
+      "ed3ca20b-b594-4917-bea8-754d92ad5f89": true,
+      "3444db00-c09f-43b3-b9ca-867a3fdae10b": true,
+      "8896a7ba-58d8-48fd-8859-cfb4a8c3e0af": true
     },
     "menuGroupCount": 1,
     "timeFrom": 17,
-    "timeTo": 23
+    "timeTo": 23,
+    "favoriteUsers": {}
   },
-  "48d9e229-e880-4831-84e6-f884eaff8b57": {
+  "6fc5b41d-6541-43c1-927f-1177e6fa3d0d": {
     "call": "052-245-2580",
     "category": "chicken",
     "menuCount": 923,
     "menuGroups": {
-      "8cee9e8b-1897-4acf-95cc-f230f3333cb7": true
+      "242eb0ef-570c-4782-8271-2a85c8851f3b": true
     },
     "name": "페리카나",
     "sortOrder": 58,
     "menus": {
-      "9cbb6a61-4b64-48bf-8ca6-6a85ecb86c14": true,
-      "8a5d2ca4-c490-4ab0-b0cc-3298013f7b40": true,
-      "9f9cb756-230d-40bb-882f-4f44939674ff": true,
-      "551a9cb1-25b5-4b83-ac6e-91c33be06b21": true,
-      "2924c86b-38b1-47eb-ab35-18cfa103c097": true,
-      "e769bedc-8d48-4045-954c-bc674f78eca5": true,
-      "9f3a8257-3807-4f96-8268-f88f3d0eb602": true,
-      "61911dfa-2c72-4e3e-80ac-dc1b84c28451": true,
-      "6c773910-0ea2-49ff-b5a8-5c9785859317": true,
-      "48a4c81f-c87f-4c53-88b9-8b6e723c4edc": true,
-      "05ba50c2-2c25-4b81-9eb3-90f74ae553d3": true
+      "2cf547d6-169e-44c4-92b6-2229e8d4be3e": true,
+      "7276ef1c-7938-4ead-9f60-f1c04de69f48": true,
+      "a87ab806-af4e-4d63-8ad8-29643b34c457": true,
+      "90d6cd3f-cd7d-4418-9200-ac3b3ebfc530": true,
+      "ac9cf4d6-339b-40a9-8efc-6520b14108fd": true,
+      "d94e6358-101f-4ac0-ba68-575732425b62": true,
+      "db0b430e-06d1-41f3-b752-a420857df92d": true,
+      "498efb96-57b1-4f8e-9ead-82c8a32aa618": true,
+      "e6839f8f-b3ec-4257-8eb8-68bb39c300e4": true,
+      "5377c28a-5a0a-42f5-8efd-74ea86a2c3b9": true,
+      "08e524db-18f3-4d71-a78e-60a2b1e88f27": true
     },
     "menuGroupCount": 1,
     "timeFrom": 10,
-    "timeTo": 24
+    "timeTo": 24,
+    "favoriteUsers": {}
   },
-  "c73915fe-ed19-4616-a68e-b9b942da18a3": {
+  "e22ed0d5-e936-4f74-9c7d-c723562b8489": {
     "call": "052-245-9279",
     "category": "chicken",
     "menuCount": 939,
     "menuGroups": {
-      "344b86b8-b675-4199-b5a6-aebe2bebe1c9": true
+      "e7d2c2ba-ae5c-4e8c-a60b-84558903b932": true
     },
     "name": "구어좋은닭",
     "sortOrder": 59,
     "menus": {
-      "ca3ae6f1-380a-4cab-91be-8d383d3b0e1a": true,
-      "41aeb3e2-7fea-489d-9383-cf485e79e16c": true,
-      "76b0f0a5-32f4-4ed4-ad74-2213abe880dd": true,
-      "338b42c9-7055-4644-b070-bbeaadbe60d6": true,
-      "5f9f53f0-bae7-4392-abed-f42c0cc8d9e8": true,
-      "6a93bf38-8745-4fba-a15a-bea5f03d23e3": true,
-      "e72fbbe2-cecc-4953-8cde-ca1a458e9d3b": true,
-      "68fe45bc-1b1d-4833-9950-7dbf9b8f9867": true,
-      "11a1585f-4bbf-4d04-9c96-03aa1629ad97": true,
-      "ae611799-adc9-428f-9fb2-d7e5183193ea": true,
-      "1119b76d-252a-45c4-bf08-e3bde0decb47": true,
-      "d015a3e7-f990-4024-aa99-f262bd2dd23d": true,
-      "41b2a58a-ffc3-44b1-b745-f6d7fa66303e": true,
-      "8ffa4e80-75b1-467d-a59f-71e4e3c99fa9": true,
-      "d407a05a-adde-4fde-9f9a-8e419c855654": true,
-      "e2772ccf-2f25-4d0f-a51b-f8acd513eb01": true
+      "97ba03fc-335e-4709-8e38-c037633f6fbd": true,
+      "43b30f95-3458-4217-a974-a9e0c7648dd7": true,
+      "74d65367-0298-4f17-a8d2-0b1e4810561b": true,
+      "8ad0751d-1279-4dfc-84ef-e1125eab18f8": true,
+      "34bb9ac1-96ca-4f67-b275-dde3c16541cf": true,
+      "788ff3ec-a130-4484-a000-470d5bd379e3": true,
+      "6ab47637-107d-4538-a439-49eafb8e67f8": true,
+      "6baf9727-a9b8-43ea-8a90-ebcf968a93bd": true,
+      "06020343-ef74-422d-beb0-a70df3f0d634": true,
+      "f8c6cef8-5d9a-4b20-a19e-e5efece10265": true,
+      "fcd11490-cad1-4486-937f-947c0723f378": true,
+      "67b7cde4-5e6b-466c-9cb5-338c8f59dbaa": true,
+      "91c9cee3-3480-45ce-a8f4-4ce0530c70cf": true,
+      "f4ca41fd-ab35-41cf-9f12-2f9647a9df35": true,
+      "88b7b209-8645-4459-ba2f-5f87a04e7e61": true,
+      "0ec2b0b7-380e-4300-8212-9c35dfde740d": true
     },
     "menuGroupCount": 1,
     "timeFrom": 17,
-    "timeTo": 25
+    "timeTo": 25,
+    "favoriteUsers": {}
   },
-  "f226f0fe-6946-4d19-91e3-1d22e9193839": {
+  "38c586fe-472d-4237-8616-7e7ec6a04c1a": {
     "call": "052-212-9934",
     "category": "chicken",
     "menuCount": 965,
     "menuGroups": {
-      "3594a97b-af55-4f20-ae56-ece4d73c8c21": true
+      "6a1b807b-3edd-478f-a2f7-f267d6a8a2ac": true
     },
     "name": "땅땅치킨",
     "sortOrder": 60,
     "menus": {
-      "39f1c762-80ac-4806-9de6-62bb9659439b": true,
-      "1470b23d-4eee-410a-a1ce-48f29c8dac58": true,
-      "301e5908-49b4-4b46-97ad-7d86ee1713ac": true,
-      "3d809163-d812-4ec5-9d58-66b665ce9563": true,
-      "b67697c6-6f09-4ea9-bcca-f33096424e75": true,
-      "c1294f74-55d3-4846-bfc8-0330b74578f5": true,
-      "32e77985-e469-454c-8843-b60f357769c5": true,
-      "ce862170-6ebe-47b2-a8ed-394c34c47f72": true,
-      "72fc1258-19d9-4c58-b166-9ef77237697e": true,
-      "b1683f8e-f71c-40e4-a1d0-e83f5d1e8695": true,
-      "e1f475db-22ab-46f2-9bfb-fc1bd8d8830d": true,
-      "8f0de846-86c6-4951-bfbb-e8fd330ae0a3": true,
-      "5178ff14-ebe8-41c2-9638-563ceb9d7a95": true,
-      "c793da31-e16c-4fa1-b317-36c4bdb8469c": true,
-      "60dff8aa-6615-4be1-a595-b46704446a1a": true,
-      "8cf7d169-bc00-4296-902d-bc31fcd81d3d": true,
-      "a3fef808-0e5c-4629-ae12-34d733df6058": true,
-      "7ca6118b-3fbb-46b6-b55b-0d159af37934": true,
-      "5cf7f91b-0a56-4174-8435-778aa83d8622": true,
-      "a207059d-7348-4d7c-9017-48512e22b1e3": true,
-      "0cc86294-94c0-4d8b-ba9f-d32edfad4974": true,
-      "cf450a82-3cbd-4cc9-9898-cb8a784a0a38": true,
-      "93dc891f-4fe3-4992-bff7-1359965b132f": true,
-      "2b6e309c-7668-4f4e-be50-3c6ba2fcae70": true,
-      "587a5a24-7168-4781-be39-439b758d136f": true,
-      "c2c3cddf-0981-4c9e-ad64-eb4da39375ec": true
+      "dd63c7b4-d084-44fe-9b57-d17129deb71d": true,
+      "88e474cc-4a8a-4549-b7dc-a47c90e769c8": true,
+      "ee6e7f86-dd4f-43a7-afde-d25dd5fcf7d3": true,
+      "cf1d7e91-aa42-4d11-b4d8-d999c6f8347d": true,
+      "bbe522cc-feca-454c-a8db-734af95df9d1": true,
+      "b543ec5c-72f9-45e8-89ee-8ac2e61c9819": true,
+      "e70967ca-2bd9-4e46-aaa1-dcf4008a8188": true,
+      "3034101a-d422-4a90-958c-e6eecd0f7348": true,
+      "3bb1935e-b557-4201-9f3a-45fe75cc350d": true,
+      "0fe7ccec-8e90-4d65-a572-208574df8789": true,
+      "2739ee1a-6807-48dc-8f46-1c49b7bd824b": true,
+      "2ae6c51f-f7e1-456f-8f3e-520c140fea2f": true,
+      "9ee4c2de-1163-4dba-b785-96fff7ff155d": true,
+      "1ea736ed-dcd7-4e81-ad22-7e99feed8aa1": true,
+      "ce48f370-7e38-464a-b798-80aee24e33a3": true,
+      "5401bb52-f1c4-4046-9b15-003cf009c42a": true,
+      "ba915339-e5cc-47ef-a068-05ce76444f4f": true,
+      "c3b09c97-bb11-4ae8-8297-d9057d31fa9a": true,
+      "004f1ba9-e119-470f-ab06-029598eeae44": true,
+      "23da9732-dce1-4e53-99a3-1e92e0529500": true,
+      "e3bc573d-c8b6-4c06-bd56-5260b5507f15": true,
+      "98ea2f84-d121-4821-8cbd-5e43a32559b3": true,
+      "fafdc460-a2cd-4c4c-81d9-001a3a4cb969": true,
+      "31d0b0ed-5a0d-401d-b1b0-8156499b6f90": true,
+      "06094187-5dfd-4252-95d3-e0f03d87fa79": true,
+      "e3d84d25-8439-4224-b7ac-3ee083d35165": true
     },
     "menuGroupCount": 1,
     "timeFrom": 17,
-    "timeTo": 26
+    "timeTo": 26,
+    "favoriteUsers": {}
   },
-  "001f7e42-31e6-4e40-885a-f400a68bb81c": {
+  "25c56f06-2736-423b-9b51-cc0d64a6b613": {
     "call": "052-245-0092",
     "category": "jokbal",
     "menuCount": 989,
     "menuGroups": {
-      "c12bd2ca-d2f0-4f6c-8d1e-ce103376876a": true
+      "8795132c-08d8-4ccf-b40a-18ff7b9dbd1f": true
     },
     "name": "놀부보쌈",
     "sortOrder": 61,
     "menus": {
-      "ed13f0d0-d20a-4913-b2cd-4661b83894f4": true,
-      "8bc3079b-ed9b-4c1b-bb9d-5047fbc424e9": true,
-      "c28260e0-a646-4fdc-9975-9f4f9d88bafc": true,
-      "28db6a78-2dec-4572-ac85-305388cd4cdb": true,
-      "9d64c340-18a9-43c5-91c6-4cfd70a5ae10": true,
-      "090f8ead-c6fd-48a6-87b3-dc415771e055": true,
-      "d8d84a9c-0132-4d89-a4ca-aee7ee915cc4": true,
-      "808b810b-efd6-4e0a-beb0-363b5e9af2ab": true,
-      "f75b71c3-b524-429e-b138-1ca8e65634c1": true,
-      "273e150f-6957-435d-821f-1436ab77e0fd": true,
-      "cdd8ba90-4bc7-4871-8dc6-b354088abffb": true,
-      "8f400c8e-c5cf-493e-9910-3b6a5d6dc425": true,
-      "d311ee28-6836-47e9-a931-1ae852469077": true,
-      "a126ce8c-b2a2-4956-955d-f3874b71ab6e": true,
-      "85e0538a-0de2-465d-b0c8-65f5f550fb56": true,
-      "8d666c89-c0e0-4c01-aae3-d3fdc8903f66": true,
-      "8c4a320c-8dfc-438d-908b-7f7b40c5f131": true,
-      "4756800a-3cba-4b8e-97ab-66523512ee51": true,
-      "bfbf61f7-6e34-4879-a012-1e66c41f07b5": true,
-      "fa388549-a029-4583-ac85-2942768f45b5": true,
-      "298b5d38-8ee2-448d-99d7-3e1195e7f572": true,
-      "787ba970-6d13-45ee-8e25-1b082bb3855e": true,
-      "323defd6-21f6-4bcf-a80a-eda350b5fa8a": true,
-      "2c6bb491-3024-4b0d-8302-c827aed0f59b": true
+      "88b5a413-f288-4743-bdc7-fe13882edbf2": true,
+      "3a4d7213-b2be-4273-864c-80f63d6090ea": true,
+      "3a357325-fffd-4c5b-b933-22269d138822": true,
+      "cf7d2365-b942-41ec-bdfc-58a3657245cd": true,
+      "0ddd3a1f-269b-4799-a469-e8598c1dee35": true,
+      "9e7f8adb-cdc1-4adc-a836-4fe9678bc8b6": true,
+      "1e928687-da08-455f-be8f-a4787080c19e": true,
+      "245b6a68-7d61-4af4-af62-0cc72a8faf87": true,
+      "5147761a-9753-493c-84d5-99d18d96e489": true,
+      "8b8c9cf8-ad97-470e-a009-28f5f7fba0a0": true,
+      "f360b641-81ce-43e6-b0de-bda8be3b469f": true,
+      "cd448455-c85d-4122-ba96-a0b37b19bd09": true,
+      "89b37bc1-00b6-44e0-bd86-b6d2914f5698": true,
+      "0b7874d0-fff4-4143-b1d3-b963e43e3642": true,
+      "75ab27ed-6e43-442a-a936-277a458ab98f": true,
+      "9aeafe03-6774-4855-8a3a-c40c6fc8971b": true,
+      "97b9f7b0-0c95-45cf-b9d3-cc0038d8db72": true,
+      "27972e17-7fb5-4cdf-9023-c0da7e8bfee9": true,
+      "5299e65e-a60a-4d67-b757-9157623c4dc1": true,
+      "63135e3f-6046-43a0-9478-8695fcc988fc": true,
+      "4b70f00f-cb7d-4d07-8851-4ef8fd82f8a8": true,
+      "768a6977-54ae-4054-a463-ea055134db1e": true,
+      "7a4126ef-cab9-4f05-9798-41d8743019f7": true,
+      "af493ecb-2878-4228-ae99-4fac8cb13555": true
     },
     "menuGroupCount": 1,
     "timeFrom": 10,
-    "timeTo": 22
+    "timeTo": 22,
+    "favoriteUsers": {}
   },
-  "ef2b7105-899d-42b0-a71b-47c9722f8cbb": {
+  "49f3fe10-77cf-4792-ab40-05fadb7d83da": {
     "call": "052-245-0089",
     "category": "jokbal",
     "menuCount": 996,
     "menuGroups": {
-      "9a4ee387-2fa8-471b-b02e-14580b336a74": true
+      "3dce8016-30d7-4216-823a-b4cb27b13b35": true
     },
     "name": "풍문족발",
     "sortOrder": 62,
     "menus": {
-      "cf68365e-123e-409e-a282-ce711cef7e74": true,
-      "e96cd4ec-c2bd-4ec4-ac55-1cc340dc7c20": true,
-      "2cd674df-9c8e-489c-9aae-c3690603f63a": true,
-      "19ea202b-cf89-4a07-8901-4d2eb617bfdd": true,
-      "7b854237-573f-4980-bc64-61e0e05da210": true,
-      "8ac0f27d-aa2d-47b5-b00b-1a018bcfaa2b": true,
-      "580ff332-1c8d-4500-9882-c69bf9a39f79": true
+      "0a49fb21-100d-422a-ac1e-bf5dbf7eaa00": true,
+      "11e2ad59-73f1-4391-b515-1e10638bfc5c": true,
+      "cd1cc3d4-6000-4c4b-b4d3-747719bba552": true,
+      "b37c2e1d-d481-404b-82b8-50137498b523": true,
+      "799e32a6-d7ad-441b-86b8-3ca57d2d428d": true,
+      "96ab0e72-7519-4709-9916-d627454e134a": true,
+      "fd1110af-8cb7-4090-9c7a-dd206c060321": true
     },
     "menuGroupCount": 1,
     "timeFrom": 17,
-    "timeTo": 26
+    "timeTo": 26,
+    "favoriteUsers": {}
   },
-  "b1e66fb3-306b-4134-a1e9-7d47648f7329": {
+  "535acb45-149a-4a32-8498-38a0918f0efc": {
     "branch": "구영천상점",
     "call": "052-246-5582",
     "category": "chicken",
     "menuCount": 1024,
     "menuGroups": {
-      "ef6b0fea-abd8-44ed-9660-dd90780fadae": true
+      "e4146b2f-8bbb-4807-b34d-f9dacb87a590": true
     },
     "name": "비버스치킨",
     "sortOrder": 63,
     "menus": {
-      "7c38878c-e69d-48c5-8d99-55d0b1f74f6f": true,
-      "c26062f5-3098-4f39-8827-21be64ca500b": true,
-      "d43b56f5-6bd8-42b8-823e-08bb3fc7a49c": true,
-      "73cee33d-4bcf-4c74-8f8d-ce710d4e6f23": true,
-      "a7be6a92-deb7-4b24-b66d-0b24cedc389d": true,
-      "75623348-1596-45db-9882-40f0d021ce92": true,
-      "c0630126-c862-44fc-9560-99c8c1d6b73c": true,
-      "ce8f47ba-041a-4895-812f-7795f0766e4b": true,
-      "d1d1cb7e-08e9-4c3f-bb43-bc23ba2f14b8": true,
-      "8f857524-cf5b-4da8-bc35-c3fdacdd2044": true,
-      "7cf9973c-0992-4ba4-a1a2-4af26988566f": true,
-      "1996cbe6-d729-4e33-903d-f124f1971d52": true,
-      "92dc8a8a-cd3c-4e4f-8a15-42c498a1f810": true,
-      "45ea429e-30e3-44eb-827c-7295843ddac5": true,
-      "894be183-4f37-4e7e-90ea-2a59b1283ef5": true,
-      "98844ebd-661f-4b61-9649-6270e35799ae": true,
-      "25224cdb-6a68-4640-b4e3-0fb221b7dfd7": true,
-      "f3a480ed-ef44-4a87-b776-600fd1709101": true,
-      "675c1c6c-eab8-4de7-af12-f53c2a008b3a": true,
-      "6a7b5498-8909-48f6-834e-76e4dfeb862c": true,
-      "9943ac16-7bcf-4944-a496-34608f8cc345": true,
-      "d10dec5c-3787-423e-82cd-aef778df66f9": true,
-      "8b772c1e-dd7f-4f53-8c02-e31024bd16ef": true,
-      "eebddf94-ab28-46ca-a67f-3ff15fc2c8e8": true,
-      "ebe9ba23-fa0f-454e-8690-d88421d4d81b": true,
-      "c95f8363-95c7-4e83-9e3f-102b28c0c66d": true,
-      "a221e6c5-6926-4911-b4fc-2a290bcb23f9": true,
-      "d734f0b8-ad2c-4cb0-8962-db39f7fb4b4c": true
+      "a4076f3d-7829-438c-966b-bf9184214e6c": true,
+      "14cfb8ee-6aed-4b68-b11d-4fd3591e8924": true,
+      "2ad2b00a-f633-4bea-ae37-0fe4b0660cef": true,
+      "ee0b0a68-a8f8-4bb6-a8f7-909c577960bf": true,
+      "d91aea6a-b542-424f-ac93-7f959d9c6518": true,
+      "248e19d6-f9a8-494a-9533-cdcac30be8fe": true,
+      "3709130b-8353-481d-a04d-a081a22e9cb0": true,
+      "77e30ab3-e846-4872-96ad-437abda2ce50": true,
+      "56e7b967-4c7a-4de0-9528-809356cdd851": true,
+      "b858f1ef-af98-4623-8f3c-64f5556ea7e1": true,
+      "f46a5d3e-ce75-409a-ad3f-7aacf1aa0d4c": true,
+      "4d898e5e-a374-4387-8c8b-faa18d073f38": true,
+      "62799417-10ad-4292-bcdb-e19f45d7ed3b": true,
+      "936abf45-a98a-49f4-9e4d-9400c7dbf8cc": true,
+      "8f3504f0-3ffa-407f-a61f-dd95d6a884a4": true,
+      "3b7f9803-cc7b-40f0-8116-d10bd27d0d13": true,
+      "a780e079-e46c-410b-a8d5-09723f071bbc": true,
+      "c53ce529-ace2-42db-9e2c-110df8d11aac": true,
+      "0b0eb38f-3f84-45ad-a7c6-0b1eebfe9eb5": true,
+      "0e7ac7fd-1c43-405a-8ffb-fcfc114b2d68": true,
+      "b973a0aa-9042-47c3-a47c-fe0adda347dc": true,
+      "44d90d73-10ae-48cf-b1d4-ce1eb0cdb363": true,
+      "69d5a2fe-9412-4d69-8326-28913cf25298": true,
+      "9056fb51-6688-4650-9cc9-20994988963c": true,
+      "1c3d4ce9-b6f2-4519-aa5d-3d51686e5a6a": true,
+      "dc4aa486-3366-463e-a35b-dd3830dba528": true,
+      "0e8445ce-580d-4a99-bc06-c56d611d3f6f": true,
+      "b8639d69-6802-405a-99b6-430989576f0b": true
     },
     "menuGroupCount": 1,
     "timeFrom": 15,
-    "timeTo": 26
+    "timeTo": 26,
+    "favoriteUsers": {}
   },
-  "83f546d5-331a-4523-b11c-8a43f2de2860": {
+  "dd53b881-45be-4c2f-a759-3dd252eb530d": {
     "call": "052-211-2360",
     "category": "others",
     "menuCount": 1039,
     "menuGroups": {
-      "50532422-96f7-4a79-a853-f8d692b73946": true
+      "ebd9b244-c0a1-4aab-89f7-30bee84ca4c2": true
     },
     "name": "배터지는 생돈까스",
     "sortOrder": 64,
     "menus": {
-      "5c1753b4-f21c-4a0b-a163-565ca8021491": true,
-      "612728c6-44d6-4401-9a52-62110771f85a": true,
-      "69033a77-be8f-4db4-a7c8-ecdca6fc79e1": true,
-      "5c04daf5-1be2-426a-b33d-a1885e637f52": true,
-      "3e021e21-3aa0-4142-8c65-5710e956bab7": true,
-      "17b8d29b-1b96-4486-8032-ea6c52d612f8": true,
-      "c5367ae0-f5b4-4862-a5d7-794758fae557": true,
-      "e2a609a7-807d-40ef-a66b-52c412bc88c8": true,
-      "01492c94-ded5-4a95-a15a-455fcbc9d4ad": true,
-      "64bfe8e1-aa54-4abc-b734-fcec96651177": true,
-      "1876c2d7-f181-44ca-960a-fe4cc77a6271": true,
-      "0aaf1e45-853b-4be9-86de-ff4938d33630": true,
-      "02b69da0-838c-4488-8ca0-ecc88811b6d0": true,
-      "bb1be684-5e37-425e-afec-3bc5ce9ee2df": true,
-      "c22f62b3-18d0-408e-8d90-428faac4b699": true
+      "2896d887-3b91-42bb-9186-e62a8608b274": true,
+      "35f0e146-5b05-4c5a-88f7-0256ac1d906e": true,
+      "4f7ccef4-266f-49e6-a69f-ad112ea9f7d7": true,
+      "823feaff-8a3f-4f55-931d-ff7cf03ea1da": true,
+      "e35b857a-77ed-415b-8472-4761391c06af": true,
+      "e4a4eb11-984f-4141-b7dd-131ffb4e46d2": true,
+      "01f225c8-d888-4a88-a6b5-74e6f471a61a": true,
+      "d18cd7ab-4727-438e-9897-92cf61c09fed": true,
+      "8ea6a966-4d2e-469e-962d-19e74e69e24c": true,
+      "8122aded-3ef6-4327-8993-aa67fb51765d": true,
+      "f2edc56f-f7bb-425c-91dc-b2f8bdb1b27e": true,
+      "752d7dda-7113-4307-828c-71d77a479e55": true,
+      "16f44478-dc35-4e25-92c8-de810d63f25f": true,
+      "3892d479-e2fd-4f0a-ba04-d766dcea7b75": true,
+      "1d78e445-01e1-4bbb-b7d2-7791601140ad": true
     },
     "menuGroupCount": 1,
     "timeFrom": null,
-    "timeTo": null
+    "timeTo": null,
+    "favoriteUsers": {}
   },
-  "58ea32f7-d88c-4831-bea7-d8dc5f2060e5": {
+  "be2950d5-a262-49bb-abb9-8bdd82165c5f": {
     "call": "052-211-2118",
     "category": "others",
     "menuCount": 1052,
     "menuGroups": {
-      "1cb37d71-ddac-4b6c-9fed-a6b262e9f0dc": true
+      "bbc6e0ed-1845-4768-bb2d-fc06265c0641": true
     },
     "name": "해송돈까스",
     "sortOrder": 65,
     "menus": {
-      "4297ae49-e48a-4944-8fe4-a5a2bbdc953a": true,
-      "a583f14f-3485-45c2-b0ca-39764fd09be7": true,
-      "afffeafe-52cc-4e56-a1b5-adebe3ec680b": true,
-      "cbc2cbb1-3c13-4470-aa69-e45366645fcd": true,
-      "3b6417c5-09b5-40cb-a37a-9fc090e64a8c": true,
-      "9cd7e8d4-a9d1-4e4f-8b8f-c223f09dd6b6": true,
-      "8e01ad26-18b5-43dc-b8fa-b0c6f537fbea": true,
-      "fa8d5436-6dcd-4de8-bc00-f01183dd657b": true,
-      "244a3ada-9e49-4091-8576-9ab9d697264e": true,
-      "79780c9f-3258-4d8b-8309-78d74b989da7": true,
-      "d5594684-a217-41cc-968e-120344984686": true,
-      "820aa2f1-cfce-49e7-950b-64d00d284186": true,
-      "cf1823a9-1314-475a-8a1e-814e9f34e511": true
+      "431336ff-9d0a-4857-acd7-eab76b813ddc": true,
+      "4cfbf463-d7fe-4469-bd1a-28575b875a0a": true,
+      "4695776c-1f27-4c47-950f-da528756a18e": true,
+      "3fa20020-9447-46b7-ac68-f14b06a1f335": true,
+      "02432f85-9d09-4197-9dc6-f14f7b29f041": true,
+      "905cb349-a6d5-4873-8b44-893e2a249565": true,
+      "1da9a310-caf6-4ef2-8f1a-fd11b339c955": true,
+      "b9e4e67e-33d3-4e9c-9af5-94ccc1d532bd": true,
+      "7d8d1d0a-9eae-4826-ac4e-f38335b9b4ea": true,
+      "e7228aa5-2713-43a0-88d2-086177a0da69": true,
+      "54d9384b-ac3b-4961-99f7-804bb3ef1cc5": true,
+      "a2c8a77a-9831-4cf6-8edb-efa401131bc1": true,
+      "ad8141b0-5d72-40e9-8325-4b1ac64fff25": true
     },
     "menuGroupCount": 1,
     "timeFrom": null,
-    "timeTo": null
+    "timeTo": null,
+    "favoriteUsers": {}
   },
-  "0cbc45ef-beb2-43af-876c-72c43e22cce3": {
+  "377ef3a4-a460-4226-a8b6-a639d9de4d04": {
     "call": "052-248-5540",
     "category": "others",
     "menuCount": 1064,
     "menuGroups": {
-      "9d5f7e5d-5236-478d-80bf-32056d0d955a": true
+      "2b5429ce-0e3f-4a88-918b-4f4ceebf8270": true
     },
     "name": "빠사시떡볶이&치킨",
     "sortOrder": 66,
     "menus": {
-      "8ec78c40-2539-487a-85de-1e73d5bec5d5": true,
-      "c4a77fb7-6296-467b-92d9-ee362fbc89ee": true,
-      "4890cfbc-6c0a-4d28-8982-86fe62ef55c1": true,
-      "354c7ed4-56de-44a7-ba9e-ac0aed86f4d7": true,
-      "d9303988-cbb3-44fd-bce2-5a7304aa866c": true,
-      "3b201717-8be5-4faf-b5f8-23f645b2b08b": true,
-      "003a620c-108a-4cc2-8348-5ebeb14a33f3": true,
-      "77cb23bf-ed65-4c86-a448-d9c458afd8c1": true,
-      "543310c7-c1ee-4f24-9794-aa6c22bb9f62": true,
-      "503862c4-db6b-45cf-a665-b7d10aa8cc25": true,
-      "0d0f52be-ebaa-41e8-a7e6-b2723e3b252e": true,
-      "65c40bc4-cd56-4b04-a2a3-f84c40dd44fb": true
+      "74e6325f-bdbd-42e4-9dad-20ab83f1ade9": true,
+      "7101b1e7-7058-4eed-82e4-dbeeee078d60": true,
+      "a702c78f-dba3-4b5d-ae15-f8df7820a459": true,
+      "f0475547-688f-4fb8-a0eb-125ce0e8146f": true,
+      "80fafe9b-9a0e-47d6-8664-57ec64642a04": true,
+      "92e8ba9d-b148-4faf-b55f-7f5a46e84965": true,
+      "9e8b3fa8-3d7e-411a-b9b9-b925a84e8474": true,
+      "c2f8f2d6-7368-4ad8-9d39-7752bcf1f416": true,
+      "fb5d6450-7096-40ee-a9b1-389612afc90e": true,
+      "83336aa6-18df-44ae-adb2-d903c8f7df26": true,
+      "8a6b4e1c-22ce-422d-940a-1d3a71000acf": true,
+      "0fd7723f-ad7c-4262-9862-76cb0b8141d0": true
     },
     "menuGroupCount": 1,
     "timeFrom": null,
-    "timeTo": null
+    "timeTo": null,
+    "favoriteUsers": {}
   },
-  "eda8776f-1dd1-46f9-a211-1e23f9909d6b": {
+  "e9dc93ef-de9a-4e1f-8310-7a6eabcd7c95": {
     "address": "구영리374-14",
     "branch": "구영리",
     "call": "052-211-9274",
@@ -2169,303 +2236,314 @@
     "condition": "메뉴1개 주문시배달비+2000",
     "menuCount": 1084,
     "menuGroups": {
-      "492b35ee-93f7-412c-a41b-83eda532edf6": true
+      "d6564293-e0d2-4a60-9f17-c89cba24e324": true
     },
     "name": "쌀을 품은 닭",
     "sortOrder": 67,
     "menus": {
-      "53683809-37f7-44b1-88b3-ef344b33e4f7": true,
-      "0854ec07-2a6c-4a1c-b339-8d6248f08370": true,
-      "0e76e8e5-0720-47d9-9610-b4c15a703f4c": true,
-      "dd255ce1-ee20-4aa5-960e-432f5a7b4112": true,
-      "5e71ce49-8954-4e26-ad57-61c41a8a3b03": true,
-      "5dc2f2b3-6eab-4e36-b81e-5d31d158ce89": true,
-      "235855c1-16fe-4af2-9180-726df0491e28": true,
-      "b23607b4-e533-4215-8d69-9974e83cf742": true,
-      "a84403bd-12ae-4737-98d5-d2878543bfb3": true,
-      "fc44d536-02f1-4991-95db-1819619dd03f": true,
-      "ccaa70db-f096-4ff9-8c72-43288e2d5a8a": true,
-      "4124d22c-b18e-4b81-a303-f58af961aeba": true,
-      "323fa7d0-36d9-4164-a925-4d817571c91c": true,
-      "94093087-ca8a-4f2f-b2fe-fe91d6df6567": true,
-      "4efd8660-11f5-4236-8fa1-68bfd11491ef": true,
-      "abf223d1-04cd-4018-acd4-9495a9892f68": true,
-      "5e9dbf96-34ef-4782-977b-94bc6b2a40b3": true,
-      "cf8bf2a6-c138-4f92-aea2-172d7e368939": true,
-      "0ad61c32-c9e5-4f10-97ee-3201327cf718": true,
-      "bb1c264b-3ca1-4120-add8-7caaad5d79e9": true
+      "c973f15f-bb62-41d5-bc58-d8f23a80a66a": true,
+      "15136c23-e5dc-4495-b534-d252fd501f66": true,
+      "282e62aa-9513-4589-a605-d2edf540ebfd": true,
+      "6a7a47fe-ea73-4eaa-8ec0-b89189b10a39": true,
+      "7b7b6554-f729-4654-8670-0ce97148666f": true,
+      "f63b1b2d-2177-4605-9663-7df8182ed667": true,
+      "e19265a4-be9e-4196-8790-239d6bb7ddf1": true,
+      "7cae57e2-ba00-41b1-96f1-45ba1cc26b9a": true,
+      "a0e913bb-fb6a-4fcb-a156-79825ffd9811": true,
+      "9e9d79fe-db0c-4e5c-9fb0-bc969270f8b3": true,
+      "f2edfaf9-c70e-4ca8-95c7-4cde3b244ee0": true,
+      "efbef551-4e93-42e0-bbce-14cd8e1c0a5b": true,
+      "0a78dd93-1a53-4e0f-9916-1c9161a6e29b": true,
+      "6b1fe941-1209-4e21-804f-cc5bf633abfc": true,
+      "2e9e5888-418e-4be6-8aa4-00a323748e54": true,
+      "74ace47c-e342-481d-b8e5-de5e6708b4e1": true,
+      "596823ac-117b-4f31-983d-19d3e4549271": true,
+      "0f1dc83a-6942-4ffe-9a82-998b3cc37a09": true,
+      "b9d3323d-f0d5-4ec3-ad89-c5429420bc9d": true,
+      "976dd9fd-f17d-44fc-9eff-6c77a640bef8": true
     },
     "menuGroupCount": 1,
     "timeFrom": 15,
-    "timeTo": 23
+    "timeTo": 23,
+    "favoriteUsers": {}
   },
-  "74626f46-4417-482b-a758-e0a6a0455be2": {
+  "2d07d446-df2d-43b0-a4f4-f8e8fb71b841": {
     "call": "052-212-9989",
     "category": "chicken",
     "condition": "한마리도 가능",
     "menuCount": 1094,
     "menuGroups": {
-      "ce347239-4c56-4417-b491-7ecb4b93c893": true
+      "9a1af9fe-9f4d-4729-b485-879a832e7b46": true
     },
     "name": "올꼬꼬 치킨",
     "sortOrder": 68,
     "menus": {
-      "44d0a8a1-e5b6-492a-8156-3d2ee6acb46b": true,
-      "d09fd9f2-6e9a-4f13-8d29-1ca76c649ea5": true,
-      "cad9a79e-5b59-4f78-bad4-d1ca9c570743": true,
-      "3bf95fdc-67bc-434d-b791-08343a145b6b": true,
-      "319fe72b-a3dc-4392-9829-ba1d416a9f1d": true,
-      "26d627ae-75ec-4005-9623-af26d85025db": true,
-      "abbe81b4-2d7c-49b9-900d-bfc556002028": true,
-      "cea194a2-c14d-483e-98a2-c9b757814ea1": true,
-      "55480e36-66c6-45f7-9058-2e9ad74a8250": true,
-      "ecd831f9-f9fb-4e71-8ace-990f248326e1": true
+      "83968282-7b8f-49af-8b6e-c136176880b5": true,
+      "c6e53d2a-25ac-45f0-a68e-b7904c07ecdc": true,
+      "05b4a833-7910-44f5-8759-3196fc423475": true,
+      "4b7ac001-cdf4-4ae2-8572-047ce5529e3b": true,
+      "3cdbcbf9-0a9f-4710-bf61-cc9b2c043e8d": true,
+      "d50a9985-2104-48b1-8666-bd23c1305389": true,
+      "b045b21b-981b-4d07-a1d7-e714dbb680bb": true,
+      "07d9de14-a1b0-446b-8449-f4b512b5f587": true,
+      "1b688979-4a8b-47b7-b1e8-0087aed1affd": true,
+      "6c1bb4bf-0329-4dfb-bacc-c7a9fde6890c": true
     },
     "menuGroupCount": 1,
     "timeFrom": 17,
-    "timeTo": 25
+    "timeTo": 25,
+    "favoriteUsers": {}
   },
-  "7f39b78e-0d63-4df6-9900-e176040440c2": {
+  "8955f2a1-5365-4189-9a99-81921a416046": {
     "call": "052-246-9296",
     "category": "jokbal",
     "menuCount": 1104,
     "menuGroups": {
-      "52d08b57-1633-4f91-ab02-7831d6ce71eb": true
+      "68e4d477-4555-40d0-99be-076840087ab5": true
     },
     "name": "천하제일왕족발",
     "sortOrder": 69,
     "menus": {
-      "7ae24975-95d9-408b-b2e0-37f9b33c58a9": true,
-      "3efe2d8e-8bb5-45eb-8646-356917209893": true,
-      "de7069c0-5056-4649-9b8c-70867ce38fc2": true,
-      "d041ca22-8e07-45a5-acf6-a50f942b435e": true,
-      "b06cdf61-d9c3-4a0d-8ccf-ad8940cf0c6b": true,
-      "4f85c668-dd18-4384-9397-5c8e5a3594bc": true,
-      "a74a4552-1c05-4d1e-9438-ec726e1f5a39": true,
-      "a6d05ccd-5be9-4fc8-b052-c97af10992a6": true,
-      "f03d7109-9224-401c-8b1e-216a4333ba21": true,
-      "29f10cee-965f-46e5-9b02-39b04811ce7e": true
+      "a1d13caa-9983-4915-bc01-9665f7ab775c": true,
+      "f2357ede-a199-434c-bfa3-6596948239d6": true,
+      "e4e3df4c-a8fe-4239-9951-bdd294a0c1ff": true,
+      "42015c5d-a19e-486a-9c82-6d12108d5dac": true,
+      "e46c7862-f841-41ed-b779-64f15c9af9ce": true,
+      "3a3883e8-1c58-4902-ac4b-8d85f229c00a": true,
+      "0b15fdaf-cbea-4a6a-b670-d0724d6ca0ed": true,
+      "d476eccc-0c09-4202-8d3d-89bba6d3bfd7": true,
+      "c9565a1a-2443-487f-aa71-093cd691b0b7": true,
+      "dcd3374f-67d6-4868-9551-228b24bfe80b": true
     },
     "menuGroupCount": 1,
     "timeFrom": 12,
-    "timeTo": 25
+    "timeTo": 25,
+    "favoriteUsers": {}
   },
-  "513aeb94-3d6f-48f9-9ee3-605b63c68862": {
+  "11bbb00e-1e7b-4546-9f6d-b7166dc45f74": {
     "call": "052-244-8898",
     "category": "chicken",
     "menuCount": 1111,
     "menuGroups": {
-      "85c4c002-a294-4d1d-adb4-b6658adb6da3": true
+      "f5637718-2a93-4826-ad93-055eadf86a6c": true
     },
     "name": "파닭에 미쳐써",
     "sortOrder": 70,
     "menus": {
-      "e8b94f05-e03d-43b6-bb29-05535e4568cd": true,
-      "c90d7c30-6beb-42d6-94ad-72f48a6b1507": true,
-      "f2c990e5-cad8-4851-bdc0-ddd2fc973fc6": true,
-      "f646889e-cb56-45d3-bfc5-50f3a7467497": true,
-      "a3a8cc02-d157-4f0f-a6b5-768d8479e22c": true,
-      "1063470c-76db-4fe1-b906-31f00d94bb96": true,
-      "2b6146f0-94c1-4e84-8c2d-985ef791eb36": true
+      "5c0f4bbd-c019-438a-8937-f3a89d2af4c7": true,
+      "b8d3445d-448b-4890-ae3c-e81d740861ad": true,
+      "8cdd1169-80ae-4875-9a69-0b3c1f1df232": true,
+      "1b9bf90d-c969-40ff-8535-48d2e90639cf": true,
+      "d9e4127a-8510-486e-9f99-094af139863d": true,
+      "311f9697-269b-441b-8dcd-a831d408ea80": true,
+      "e356de62-f00c-4c6a-8d13-e6c5568f8784": true
     },
     "menuGroupCount": 1,
     "timeFrom": 16,
-    "timeTo": 25
+    "timeTo": 25,
+    "favoriteUsers": {}
   },
-  "4c1a54e3-fbfe-433a-9091-6cad3ac176e6": {
+  "6dc6efa2-680d-4438-95fe-8e3b4ec149d3": {
     "call": "052-248-9272",
     "category": "others",
     "menuCount": 1118,
     "menuGroups": {
-      "3b7025d5-3b9b-47bc-bae3-f87ba95ff8e1": true
+      "ee4fb406-c574-4382-b341-7c3ea11e3767": true
     },
     "name": "감토 생 아구전문",
     "sortOrder": 71,
     "menus": {
-      "cec7c357-55b0-4ea2-bb37-5dae403432e0": true,
-      "d687ce0a-55e3-42dc-b72e-cc0684cd2828": true,
-      "1e3fa78f-179b-481f-b481-dd4dd28037bc": true,
-      "7bb4e649-9473-49ee-8c23-0ed437475b3e": true,
-      "14d1b8a9-3c61-4b22-a13f-7828274e514d": true,
-      "e74f2164-2e09-474d-9c47-7dce714b8701": true,
-      "6c800c05-f8f7-4e13-8e02-8415560ba350": true
+      "d64a6ff3-317a-4dd3-9a62-a9ecc4358792": true,
+      "8cdcde18-7016-4b92-9560-ab587b75acb7": true,
+      "28dcea8f-f6e3-42d3-b76a-2528c210edaf": true,
+      "e16fcff8-fa6c-4e79-9b01-777e18196e6c": true,
+      "a742c109-4c88-4aab-94cd-b6b3b084eede": true,
+      "ca7e63d7-20da-4fc4-a6b8-8e63b2da95a3": true,
+      "ce06a551-7228-4582-a985-e00868fb3691": true
     },
     "menuGroupCount": 1,
     "timeFrom": null,
-    "timeTo": null
+    "timeTo": null,
+    "favoriteUsers": {}
   },
-  "618b6ef3-bad0-4763-ac3f-192b6040e7d1": {
+  "b68385a1-a50f-49d8-9e40-c2de6a4f700d": {
     "branch": "범서점",
     "call": "052-223-8844",
     "category": "chicken",
     "menuCount": 1121,
     "menuGroups": {
-      "5ae9be07-1a1d-481c-8e57-ea9a0e3ea302": true
+      "8cebf550-8f34-4064-a786-4dc76b65ba00": true
     },
     "name": "코리엔탈 깻잎 치킨",
     "sortOrder": 72,
     "menus": {
-      "50c9262c-72e4-450a-8e61-2150103c5bc7": true,
-      "01971961-c3c5-489e-a850-191c4f699d35": true,
-      "b112a04f-ef16-4569-bef8-af73297d686f": true
+      "115f3341-db4b-4100-a98b-c0f1367023ee": true,
+      "7050fdec-45b1-4324-a17a-0da31708d8a1": true,
+      "80716a38-2e4f-4a3b-a147-22632117d3fb": true
     },
     "menuGroupCount": 1,
     "timeFrom": 17,
-    "timeTo": 26
+    "timeTo": 26,
+    "favoriteUsers": {}
   },
-  "e4e2daa0-086b-45aa-ae51-311e49713ade": {
+  "5ac3cf8d-17b9-4085-a587-93bad6af320f": {
     "call": "052-246-6289",
     "category": "others",
     "menuCount": 1133,
     "menuGroups": {
-      "a52f3797-0eac-4905-b399-0437d893c042": true
+      "54ac9ce7-f7e1-4e85-99f8-355727d55dca": true
     },
     "name": "수제왕돈까스 청담",
     "sortOrder": 73,
     "menus": {
-      "50e0e694-96e5-4481-8fb0-3fae5531bf7a": true,
-      "f7f6c122-8cee-4381-bc84-3d6e465e08ce": true,
-      "f219efe1-9a35-4379-b4c2-c73426b548ab": true,
-      "bf44215e-9fe2-4dbe-b646-4ae9ff4798a8": true,
-      "8e9c3b22-5c83-4cea-aa8e-bf32dbeb709d": true,
-      "713c64fa-6140-4913-a0a1-0efe63fe3764": true,
-      "6ef2c270-2921-451a-a9ee-e723b8410b31": true,
-      "a4fda8f1-aeb2-4cbf-9a7c-3551e49c7676": true,
-      "1e747ac7-e94d-4e2f-b491-5e07ca74a6b1": true,
-      "6b6ddd53-4a85-4e36-8e77-915759847475": true,
-      "5e70c1da-76f5-445c-8105-858fc00d584c": true,
-      "c96faab3-f3db-41eb-ac91-f0e1577b8f52": true
+      "e4b6f699-8967-4ec0-8d9e-4205cfba6f1b": true,
+      "38a6c5d2-fc22-4971-9f0d-00749495b496": true,
+      "950af7e9-9ad8-42bc-866e-26d2dfe73670": true,
+      "e773a592-0e37-45aa-84a2-85b683b7ee90": true,
+      "4f03b814-5389-4710-bf0c-87e3ad43bdd0": true,
+      "c0192575-2a73-43d6-9e4b-7bf469fe7d4e": true,
+      "87ed1b01-ee92-439c-8174-4417325f0bfd": true,
+      "710f8998-def3-4743-8a93-3f240556a659": true,
+      "51494779-06b0-496d-98e5-2a8e59151b8d": true,
+      "d00b04d3-edcd-463f-97d0-d05b5048b3ce": true,
+      "20610f26-6e15-4274-a01c-170a17497347": true,
+      "f3cc9fb9-75ec-4d50-90e4-8116c2ffd219": true
     },
     "menuGroupCount": 1,
     "timeFrom": null,
-    "timeTo": null
+    "timeTo": null,
+    "favoriteUsers": {}
   },
-  "e29ab9ad-2620-45d2-80cb-94747294f302": {
+  "16d1439e-8f8c-42df-8ac5-0df8e8fbe771": {
     "branch": "범서점",
     "call": "052-243-9289",
     "category": "chicken",
     "condition": "배송료 1000",
     "menuCount": 1138,
     "menuGroups": {
-      "5e1c8e6c-ef25-411e-9e65-67ed595cb7c6": true
+      "2789760f-4ac7-4bd2-99db-e77a334b89bd": true
     },
     "name": "호식이 두마리 치킨",
     "sortOrder": 74,
     "menus": {
-      "9033fc20-6830-42b3-81bf-54a15fbc270a": true,
-      "75d33bb4-959e-4094-905f-f1d0e5159598": true,
-      "fe6533cf-c241-432c-9507-7869e743c17f": true,
-      "54666c1f-3999-4fe4-bba1-0f1c3284ac16": true,
-      "4343372d-f51f-4d09-9d94-9cbba264743a": true
+      "f6f3b7d7-71d8-49d1-b829-4cdd90b4e99c": true,
+      "e6e6e2e4-10d9-412a-bd19-bf5127c7eaa5": true,
+      "44e8ffe4-9a2a-4423-a643-0e2053a88696": true,
+      "6b64c7b5-cec4-45c9-8ad9-e1f488b05b0c": true,
+      "a4727e1f-ea37-4a95-b070-791bed10984f": true
     },
     "menuGroupCount": 1,
     "timeFrom": 18,
-    "timeTo": 24
+    "timeTo": 24,
+    "favoriteUsers": {}
   },
-  "cb5d26cf-42ed-4eaa-bea3-0c34c1156d2d": {
+  "28a7edeb-68db-4d5d-a496-cc95bfbf62fe": {
     "branch": "천상점",
     "call": "052-248-5855",
     "category": "jokbal",
     "condition": "배달비1000원",
     "menuCount": 1155,
     "menuGroups": {
-      "30ae8e4e-b312-414e-8899-47f8a2f2cef5": true
+      "f2ed8d3b-1eeb-41b3-9cf5-8ff0b65dee89": true
     },
     "name": "족발 삶는 사람들",
     "sortOrder": 75,
     "menus": {
-      "16055951-eab6-4a05-82c5-c6821354bacb": true,
-      "6eedc58b-9326-4999-b1b3-927aa20a4301": true,
-      "88c4a32c-6b77-4ccb-acb3-b7ca61ca601b": true,
-      "24c149b3-838f-40cf-b83b-68b98ae23109": true,
-      "d86de400-258d-4ff2-a465-4e65ad671ff7": true,
-      "99a88ed5-5531-4cfa-b344-7b7562fb2743": true,
-      "3c34ee1f-9e63-4ea3-808a-70a64aa0fdf7": true,
-      "b2aa7646-01fd-4f2d-8b90-0d8cce46cece": true,
-      "3bd11263-9ee5-408f-91ea-7016cdb47673": true,
-      "9034fb1a-c3fa-4d67-bbd7-428049297a3a": true,
-      "c24e399c-1299-429f-b350-f7f6f52ff289": true,
-      "c7631381-c9db-4d22-ad08-13663305d5a8": true,
-      "303d8520-c809-4dd5-bc72-5e060364e5c3": true,
-      "8f9f566d-50a1-4d64-aa66-03550a339798": true,
-      "405db6ab-4f5d-40fa-acef-f5be8adee848": true,
-      "f6f9df55-094a-4dac-aee1-6290b0f7f6bf": true,
-      "40580a61-674d-484d-b5ae-3566f031701d": true
+      "c7c14f11-f0a2-4d67-b34d-dfdfc8035f95": true,
+      "9bdab6c0-b476-4fc3-b8d3-e33092aef47a": true,
+      "70a9c0d4-3e30-4fbb-b680-a8968281cfc0": true,
+      "ee4b0618-c2a5-4a56-957e-dcefbc433ef6": true,
+      "a7e44dc2-73b0-4d90-ab99-eff5f111ad39": true,
+      "5e369239-bff3-46eb-93a5-db5f8f2e346d": true,
+      "d789c2e9-9a25-46d2-a6fe-3a1896eda4bd": true,
+      "d5709629-1fe7-4f5e-865d-6bff4aad7792": true,
+      "53b74dea-6d2b-433f-8ca2-8cceb61e8bb3": true,
+      "cb2238f1-8ecc-4e31-b0ce-2565e199ba09": true,
+      "ae044255-2e5f-4535-9aa5-134d2a00d8fb": true,
+      "5ae1b7c8-e205-4c39-abe5-08948f67c83d": true,
+      "f6f30967-9c0b-4548-aae6-f582e2b5735a": true,
+      "197a751a-ab92-44c0-9129-0cc331f57278": true,
+      "26dd597b-083a-49d4-a30d-00f10563b028": true,
+      "fd6850e8-0308-49ba-a365-f26925c58d2b": true,
+      "b951c178-ab6f-4352-b5bb-d6a15a83e5cd": true
     },
     "menuGroupCount": 1,
     "timeFrom": 12,
-    "timeTo": 26
+    "timeTo": 26,
+    "favoriteUsers": {}
   },
-  "a654b03b-fe2c-4878-af2f-de40f627d7a2": {
+  "1a214013-45d3-4527-bcab-f5d2f6b95aa3": {
     "address": "울산 울주군 범서읍 천상중앙길 104",
     "branch": "천상점",
     "call": "052-248-1991",
     "category": "chicken",
     "menuCount": 1171,
     "menuGroups": {
-      "ebdec3e7-734f-4d17-bb2c-74775e4838e4": true
+      "af6c1c68-370a-48df-aeb9-076bf8fdd0c9": true
     },
     "name": "교촌치킨",
     "sortOrder": 76,
     "menus": {
-      "cdec3196-f54b-4cb6-8942-49bb7a8bca82": true,
-      "89892530-2522-4c57-a973-1b5f8667b88f": true,
-      "6ee9f987-b988-45d9-ab9e-d8be0ec985c3": true,
-      "33709486-7009-4ba5-adfe-855ea60289d8": true,
-      "9333e5b5-35a9-4fe8-8c38-04f1b73ed92f": true,
-      "c8703f8b-c3dc-4985-aafb-7d312aa8fbdd": true,
-      "e90a59d7-ac00-4e74-b082-eb99b5708836": true,
-      "25c9c188-be41-4416-aa56-89ed687dc209": true,
-      "b9c8db33-ab46-45a0-bae8-1a918bd86c02": true,
-      "b67bf4aa-5a2b-4a9c-a4e5-1a10ce49caa2": true,
-      "30694652-4cd0-4fde-977e-43bbca755223": true,
-      "09fe2037-70f2-4dbd-b3be-1d139cef60d7": true,
-      "f1803c5c-9e97-45bd-9ac4-f00cda4c3a62": true,
-      "016ba5ac-793a-419d-a7d7-22794bf4f51e": true,
-      "60e602f3-d44a-415f-bc44-a73881fb6d7f": true,
-      "7d23d07b-effc-44e8-8c2b-8106589954c3": true
+      "b9fe71e1-e0d5-44a4-b500-c8d3ab6cfcd7": true,
+      "e9fc0653-95c3-4d52-8eee-00fe95feefb2": true,
+      "d31a15a9-e0e7-4f31-913a-c1d677344a78": true,
+      "d6abc8b0-ac40-4d40-accd-f10069b3c1d8": true,
+      "0ad63eab-91dd-421c-8a03-13f35256569d": true,
+      "28a5ac53-0328-449e-b1d3-a20596643fdc": true,
+      "03a6c2a7-2b96-41c3-bbed-977cd6029296": true,
+      "4b18b517-b03b-422e-acbe-4adf248fdee1": true,
+      "90015b35-1a99-4837-b41b-d03689c61e1f": true,
+      "49d90834-a991-4e8f-b055-0e28eb8b27e1": true,
+      "37df1681-aebd-4a87-893b-71e7e4307a69": true,
+      "3b20e00e-07f0-485b-b717-ea2e99f13ee5": true,
+      "1b9f225b-15a9-4348-865b-2c8d9021d5d9": true,
+      "1aa7a55e-a7a8-4328-af05-c1670401da1d": true,
+      "2bd6acaf-b200-4d94-85d1-73903abdeb37": true,
+      "549bde0a-28a7-44d9-82a7-f6c62e284118": true
     },
     "menuGroupCount": 1,
     "timeFrom": 12,
-    "timeTo": 24
+    "timeTo": 24,
+    "favoriteUsers": {}
   },
-  "680602ca-cdb5-4ea2-b1fe-20ea89d5fd44": {
+  "e89e1c92-f1e3-462b-8b08-5bee02836b37": {
     "call": "052-910-9292",
     "category": "chicken",
     "menuCount": 1195,
     "menuGroups": {
-      "8080cfea-4901-4bae-bf47-c72c315badeb": true
+      "789a3c77-8efe-4c66-9370-76c6c04b305e": true
     },
     "name": "처갓집 양념치킨",
     "sortOrder": 77,
     "menus": {
-      "924bee77-b46a-4bda-8b55-e98c04e145b1": true,
-      "e97215a0-2bef-4e2e-97c9-33cd77dac9c5": true,
-      "3008f94c-bfa9-47aa-afc0-52cde58221eb": true,
-      "bfd16134-98f8-4ab9-8eb6-804da21d2040": true,
-      "a658c83c-9359-4e93-b192-48890874e577": true,
-      "433c054e-9ad1-4744-a8fb-5ff7ac930b15": true,
-      "e9d038df-6396-4c4f-bbb1-5f075e164422": true,
-      "5c2342e6-08b7-402d-b96f-1adf9c9e9af2": true,
-      "19795ebe-1988-4b73-b7fe-d60acff3c305": true,
-      "c939a964-6b8f-449f-a6f0-6e222e30db85": true,
-      "1ed2ef40-4f29-4db0-b47c-83be20ac00b7": true,
-      "535ecef7-5e04-4095-8d5f-15e3de541019": true,
-      "5c8128ed-3316-43d7-9a81-c61d6ece59a2": true,
-      "f1ebdcb5-1138-4c04-8511-19cf8c54a9a8": true,
-      "eb0ca5f9-7d2a-4546-9a2b-ae68bc87cbdf": true,
-      "684201d8-752a-4f16-b54b-488524cd365f": true,
-      "130b6870-d417-44ba-8c3d-1cee35ce9437": true,
-      "42c09092-0583-478c-9acb-65ef396bf9e6": true,
-      "6d0dfba2-e46a-4fce-a99a-3a82750ff755": true,
-      "b106ae55-c393-4265-ab0b-d217d0545bd2": true,
-      "266cfa2e-089b-43b9-9f2d-d5daabc8a232": true,
-      "7d4ad5f6-8463-4d5a-8067-2a43e9b412ad": true,
-      "600fbb56-d107-41d1-b9c4-822a01cbcbac": true,
-      "4f7fec2b-fddc-4bcc-9b5f-69d8035e485d": true
+      "80b20d7f-c98b-4982-b586-9d2ca3d05ce2": true,
+      "efcdaf53-1bcb-401a-8d5f-c9e21f2d1c3b": true,
+      "43e4d5b6-f93b-480c-905c-064efa6bd628": true,
+      "0e541a53-a2b1-46cd-9f3e-90f3517e869f": true,
+      "0da83b5b-1020-42f3-a92e-cf7396d24c4a": true,
+      "34329e58-8837-4f31-bd76-6f8138f12894": true,
+      "4e95f545-1847-432f-b940-a54de544ab2c": true,
+      "b35a04a8-2b7e-4d19-9791-1c3ea30ee8d9": true,
+      "76ce5655-e4cc-43d9-ba75-d423cab6f5d5": true,
+      "9767687b-ebe1-4eef-9236-2d073e375423": true,
+      "88d944e8-2987-427f-95eb-976b2fd00b6e": true,
+      "c4c16f7e-844b-4901-85aa-43f4f5754da3": true,
+      "82ca13cf-2e11-4333-83c3-9ab6d589a6ff": true,
+      "1b7a2cb2-b9a9-470a-b8a3-3c9086281f16": true,
+      "1537cca2-b53e-4bef-be93-4ec8c5c704aa": true,
+      "4267cfb6-6444-4f13-9b1d-f91c5b10099e": true,
+      "dd6a87d0-b4ec-4e2b-8b33-c403c769b198": true,
+      "95e6bf3c-5183-4ff9-aa4f-2cf046d5e5d4": true,
+      "4f72ecbb-65bb-47be-b7e3-8dc83541c7e8": true,
+      "033951f2-2a7a-4b47-9081-d33b0838bb6c": true,
+      "4a4c3c65-1f60-4662-95ad-eebe844b4127": true,
+      "c9f64555-8794-451a-ada2-453815a0173f": true,
+      "33e3dc2c-a955-4894-b7e9-dc648496d2a3": true,
+      "3240965b-9152-4b4b-9138-8a52dd1943e3": true
     },
     "menuGroupCount": 1,
     "timeFrom": 11,
-    "timeTo": 24
+    "timeTo": 24,
+    "favoriteUsers": {}
   }
 }

@@ -8,7 +8,18 @@
   "scripts": {
     "get-data": "firebase database:get / > database.data.json",
     "get-data:users": "firebase database:get /users > database.data.users.json",
-    "get-data:stores": "firebase database:get /stores > database.data.stores.json"
+    "get-data:stores":
+      "firebase database:get /stores > database.data.stores.json",
+    "get-data:menus": "firebase database:get /menus > database.data.menus.json",
+    "get-data:menuGroups":
+      "firebase database:get /menuGroups > database.data.menuGroups.json",
+    "set-data": "firebase database:set / database.data.json",
+    "set-data:users": "firebase database:set /users database.data.users.json",
+    "set-data:stores":
+      "firebase database:set /stores database.data.users.stores",
+    "set-data:menus": "firebase database:set /menus database.data.menus.json",
+    "set-data:menuGroups":
+      "firebase database:set /menuGroups database.data.menuGroups.json"
   },
   "devDependencies": {
     "babel-eslint": "^7.2.3",
