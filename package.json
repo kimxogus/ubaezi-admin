@@ -6,7 +6,10 @@
   "author": "kimxogus <kgyoo8232@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "get-data": "firebase database:get / > database.data.json"
+    "get-data": "firebase database:get / > database.data.json",
+    "get-data:users": "firebase database:get /users > database.data.users.json",
+    "get-data:stores":
+      "firebase database:get /stores > database.data.stores.json"
   },
   "devDependencies": {
     "eslint": "^4.5.0",
