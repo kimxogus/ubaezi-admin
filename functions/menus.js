@@ -17,8 +17,8 @@ exports.onMenuWrite = functions.database.ref('/menus/{id}').onWrite(event => {
     // on create or update
     const updates = {};
     if (!eventSnapshot.previous.exists()) {
-      updates[storeRefPath] = true;
-      updates[menuGroupRefPath] = true;
+      updates[storeRefPath] = new Date().getTime();
+      updates[menuGroupRefPath] = new Date().getTime();
     }
 
     if (

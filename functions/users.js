@@ -44,7 +44,7 @@ exports.onFavoriteStore = functions.database
     } else if (!eventSnapshot.previous.exists()) {
       // on create
       const updates = {
-        [`/stores/${storeId}/favoriteUsers/${userId}`]: true,
+        [`/stores/${storeId}/favoriteUsers/${userId}`]: new Date().getTime(),
       };
 
       database.ref().update(updates);
@@ -79,7 +79,7 @@ exports.onFavoriteMenuGroup = functions.database
     } else if (!eventSnapshot.previous.exists()) {
       // on create
       const updates = {
-        [`/menuGroups/${menuGroupId}/favoriteUsers/${userId}`]: true,
+        [`/menuGroups/${menuGroupId}/favoriteUsers/${userId}`]: new Date().getTime(),
       };
 
       database.ref().update(updates);
@@ -114,7 +114,7 @@ exports.onFavoriteMenu = functions.database
     } else if (!eventSnapshot.previous.exists()) {
       // on create
       const updates = {
-        [`/menus/${menuId}/favoriteUsers/${userId}`]: true,
+        [`/menus/${menuId}/favoriteUsers/${userId}`]: new Date().getTime(),
       };
 
       database.ref().update(updates);

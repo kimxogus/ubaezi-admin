@@ -28,7 +28,7 @@ exports.onMenuGroupWrite = functions.database
       }
 
       if (!eventSnapshot.previous.exists()) {
-        updates[storeRefPath] = true;
+        updates[storeRefPath] = new Date().getTime();
       }
 
       if (

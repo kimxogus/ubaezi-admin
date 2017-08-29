@@ -7,12 +7,30 @@
       "$uid": {
         ".read": "auth != null",
         ".write": "auth != null && auth.uid == $uid"
+      },
+      "favorites": {
+        ".read": true,
+        ".write":
+          "auth.token.email_verified == true && auth.token.email.matches(/.*@unist.ac.kr$/)"
       }
     },
     "stores": {
       ".read": true,
-      ".write": "auth != null",
-      ".indexOn": ["id", "category"]
+      ".write":
+        "auth.token.email_verified == true && auth.token.email.matches(/.*@unist.ac.kr$/)",
+      ".indexOn": ["category", "favoriteUserCount"]
+    },
+    "menus": {
+      ".read": true,
+      ".write":
+        "auth.token.email_verified == true && auth.token.email.matches(/.*@unist.ac.kr$/)",
+      ".indexOn": ["name", "menuGroupId", "storeId", "favoriteUserCount"]
+    },
+    "menuGroups": {
+      ".read": true,
+      ".write":
+        "auth.token.email_verified == true && auth.token.email.matches(/.*@unist.ac.kr$/)",
+      ".indexOn": ["name", "storeId", "favoriteUserCount"]
     }
   }
 }
