@@ -7,11 +7,26 @@ exports.onUserJoin = functions.auth.user().onCreate(event => {
     uid,
     favorites: {
       stores: {},
+      storeCount: 0,
       menus: {},
+      menuCount: 0,
       menuGroups: {},
+      menuGroupCount: 0,
     },
   });
 });
+
+exports.onFavoriteStores = functions.database
+  .ref('/users/{userId}/favorites/stores')
+  .onWrite(event => {
+    const { params: { userId } } = event;
+    const eventSnapshot = event.data;
+
+    const count = Object.keys(eventSnapshot.val());
+    if (count !== Object.keys(eventSnapshot.previous.val())) {
+      database.ref('/users/{userId}/favorites/storeCount').set(count);
+    }
+  });
 
 exports.onFavoriteStore = functions.database
   .ref('/users/{userId}/favorites/stores/{storeId}')
@@ -36,6 +51,18 @@ exports.onFavoriteStore = functions.database
     }
   });
 
+exports.onFavoriteMenuGroups = functions.database
+  .ref('/users/{userId}/favorites/menuGroups')
+  .onWrite(event => {
+    const { params: { userId } } = event;
+    const eventSnapshot = event.data;
+
+    const count = Object.keys(eventSnapshot.val());
+    if (count !== Object.keys(eventSnapshot.previous.val())) {
+      database.ref('/users/{userId}/favorites/menuGroupsCount').set(count);
+    }
+  });
+
 exports.onFavoriteMenuGroup = functions.database
   .ref('/users/{userId}/favorites/menuGroups/{menuGroupId}')
   .onWrite(event => {
@@ -56,6 +83,18 @@ exports.onFavoriteMenuGroup = functions.database
       };
 
       database.ref().update(updates);
+    }
+  });
+
+exports.onFavoriteMenus = functions.database
+  .ref('/users/{userId}/favorites/menus')
+  .onWrite(event => {
+    const { params: { userId } } = event;
+    const eventSnapshot = event.data;
+
+    const count = Object.keys(eventSnapshot.val());
+    if (count !== Object.keys(eventSnapshot.previous.val())) {
+      database.ref('/users/{userId}/favorites/menusCount').set(count);
     }
   });
 

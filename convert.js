@@ -22,22 +22,26 @@ const stores = storesJson
           b.menuGroupId = menuGroup.id;
           b.storeId = store.id;
           b.favoriteUsers = {};
+          b.favoriteUserCount = 0;
           a[b.id] = b;
           delete b.id;
+          delete b.sortOrder;
           return a;
         }, {});
-        Object.keys(menuGroupMenus).forEach(id => (store.menus[id] = true));
 
         menus = Object.assign({}, menus, menuGroupMenus);
-        menuGroup.menus = _.mapValues(menuGroupMenus, () => true);
+        menuGroup.menus = _.mapValues(menuGroupMenus, 'sortOrder');
+        store.menus = Object.assign({}, store.menus, menuGroup.menus);
 
         return menuGroup;
       })
       .reduce((a, b) => {
         b.storeId = store.id;
         b.favoriteUsers = {};
+        b.favoriteUserCount = 0;
         a[b.id] = b;
         delete b.id;
+        delete b.sortOrder;
         return a;
       }, {});
 
@@ -45,7 +49,7 @@ const stores = storesJson
     store.menuCount = Object.keys(menus).length;
 
     menuGroups = Object.assign({}, menuGroups, storeMenuGroups);
-    store.menuGroups = _.mapValues(storeMenuGroups, () => true);
+    store.menuGroups = _.mapValues(storeMenuGroups, 'sortOrder');
 
     store.timeFrom = store.time && store.time.from ? store.time.from : null;
     store.timeTo = store.time && store.time.to ? store.time.to : null;
@@ -55,8 +59,10 @@ const stores = storesJson
   })
   .reduce((a, b) => {
     b.favoriteUsers = {};
+    b.favoriteUserCount = 0;
     a[b.id] = b;
     delete b.id;
+    delete b.sortOrder;
     return a;
   }, {});
 
