@@ -24,7 +24,6 @@ const stores = storesJson
           b.favoriteUsers = {};
           b.favoriteUserCount = 0;
           a[b.id] = b;
-          delete b.id;
           delete b.sortOrder;
           return a;
         }, {});
@@ -40,7 +39,6 @@ const stores = storesJson
         b.favoriteUsers = {};
         b.favoriteUserCount = 0;
         a[b.id] = b;
-        delete b.id;
         delete b.sortOrder;
         return a;
       }, {});
@@ -61,7 +59,6 @@ const stores = storesJson
     b.favoriteUsers = {};
     b.favoriteUserCount = 0;
     a[b.id] = b;
-    delete b.id;
     delete b.sortOrder;
     return a;
   }, {});
