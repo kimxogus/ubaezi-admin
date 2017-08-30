@@ -11,10 +11,12 @@ exports.onMenuGroupWrite = functions.database
       // on delete
       const previous = eventSnapshot.previous.val();
 
-      const menuUpdates = Object.keys(previous.menus).reduce((a, b) => {
-        a[`/menus/${b}`] = null;
-        return a;
-      }, {});
+      const menuUpdates = previous.menus
+        ? Object.keys(previous.menus).reduce((a, b) => {
+            a[`/menus/${b}`] = null;
+            return a;
+          }, {})
+        : {};
 
       database
         .ref()
@@ -24,27 +26,19 @@ exports.onMenuGroupWrite = functions.database
       const updates = {};
 
       if (!eventSnapshot.previous.exists()) {
-        updates[`/menuGroups/${id}/menus`] = data.menus = data.menus || {};
-      }
-
-      if (!eventSnapshot.previous.exists()) {
         updates[storeRefPath] = new Date().getTime();
       }
 
-      if (
-        eventSnapshot.child('menus').changed() ||
-        updates[`/menuGroups/${id}/menus`]
-      ) {
-        updates[`/menuGroups/${id}/menuCount`] = Object.keys(data.menus).length;
+      if (eventSnapshot.child('menus').changed()) {
+        updates[`/menuGroups/${id}/menuCount`] = data.menus
+          ? Object.keys(data.menus).length
+          : 0;
       }
 
-      if (
-        eventSnapshot.child('favoriteUsers').changed() ||
-        updates[`/stores/${id}/favoriteUsers`]
-      ) {
-        updates[`/stores/${id}/favoriteUserCount`] = Object.keys(
-          data.favoriteUsers
-        ).length;
+      if (eventSnapshot.child('favoriteUsers').changed()) {
+        updates[`/stores/${id}/favoriteUserCount`] = data.favoriteUsers
+          ? Object.keys(data.favoriteUsers).length
+          : 0;
       }
 
       if (Object.keys(updates).length) {

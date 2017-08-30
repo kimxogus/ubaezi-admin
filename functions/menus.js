@@ -21,13 +21,10 @@ exports.onMenuWrite = functions.database.ref('/menus/{id}').onWrite(event => {
       updates[menuGroupRefPath] = new Date().getTime();
     }
 
-    if (
-      eventSnapshot.child('favoriteUsers').changed() ||
-      updates[`/menus/${id}/favoriteUsers`]
-    ) {
-      updates[`/menus/${id}/favoriteUserCount`] = Object.keys(
-        data.favoriteUsers
-      ).length;
+    if (eventSnapshot.child('favoriteUsers').changed()) {
+      updates[`/menus/${id}/favoriteUserCount`] = data.favoriteUsers
+        ? Object.keys(data.favoriteUsers).length
+        : 0;
     }
 
     if (Object.keys(updates).length) {
