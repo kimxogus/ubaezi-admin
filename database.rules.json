@@ -18,7 +18,7 @@
       ".read": true,
       ".write":
         "auth.token.email_verified == true && auth.token.email.matches(/.*@unist.ac.kr$/)",
-      ".indexOn": ["category", "favoriteUserCount"]
+      ".indexOn": ["name", "category", "favoriteUserCount"]
     },
     "menus": {
       ".read": true,
