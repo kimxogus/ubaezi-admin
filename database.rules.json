@@ -18,19 +18,25 @@
       ".read": true,
       ".write":
         "auth.token.email_verified == true && auth.token.email.matches(/.*@unist.ac.kr$/)",
-      ".indexOn": ["name", "category", "favoriteUserCount"]
+      ".indexOn": ["name", "category", "favoriteUserCount", "sortOrder"]
     },
     "menus": {
       ".read": true,
       ".write":
         "auth.token.email_verified == true && auth.token.email.matches(/.*@unist.ac.kr$/)",
-      ".indexOn": ["name", "menuGroupId", "storeId", "favoriteUserCount"]
+      ".indexOn": [
+        "name",
+        "menuGroupId",
+        "storeId",
+        "favoriteUserCount",
+        "sortOrder"
+      ]
     },
     "menuGroups": {
       ".read": true,
       ".write":
         "auth.token.email_verified == true && auth.token.email.matches(/.*@unist.ac.kr$/)",
-      ".indexOn": ["name", "storeId", "favoriteUserCount"]
+      ".indexOn": ["name", "storeId", "favoriteUserCount", "sortOrder"]
     }
   }
 }
