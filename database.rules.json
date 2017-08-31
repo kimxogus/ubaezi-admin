@@ -10,20 +10,17 @@
       },
       "favorites": {
         ".read": true,
-        ".write":
-          "auth.token.email_verified == true && auth.token.email.matches(/.*@unist.ac.kr$/)"
+        ".write": "auth.token.email_verified == true"
       }
     },
     "stores": {
       ".read": true,
-      ".write":
-        "auth.token.email_verified == true && auth.token.email.matches(/.*@unist.ac.kr$/)",
+      ".write": "auth.token.email_verified == true",
       ".indexOn": ["name", "category", "favoriteUserCount", "sortOrder"]
     },
     "menus": {
       ".read": true,
-      ".write":
-        "auth.token.email_verified == true && auth.token.email.matches(/.*@unist.ac.kr$/)",
+      ".write": "auth.token.email_verified == true",
       ".indexOn": [
         "name",
         "menuGroupId",
@@ -34,8 +31,7 @@
     },
     "menuGroups": {
       ".read": true,
-      ".write":
-        "auth.token.email_verified == true && auth.token.email.matches(/.*@unist.ac.kr$/)",
+      ".write": "auth.token.email_verified == true",
       ".indexOn": ["name", "storeId", "favoriteUserCount", "sortOrder"]
     }
   }
