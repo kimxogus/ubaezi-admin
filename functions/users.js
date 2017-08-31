@@ -1,10 +1,13 @@
 const { admin, database, functions } = require('./lib');
 
 exports.onUserJoin = functions.auth.user().onCreate(event => {
-  const { uid } = event.data;
+  const { uid, email, emailVerified } = event.data;
 
   database.ref(`/users/${uid}`).set({
     uid,
+    email,
+    unistar: email.endsWith('@unist.ac.kr'),
+    emailVerified,
     favorites: {
       stores: {},
       storeCount: 0,
