@@ -1,11 +1,12 @@
 const { admin, database, functions } = require('./lib');
 
 exports.onUserJoin = functions.auth.user().onCreate(event => {
-  const { uid, email, emailVerified } = event.data;
+  const { uid, displayName, email, emailVerified } = event.data;
 
   database.ref(`/users/${uid}`).set({
     uid,
-    email,
+    username: displayName,
+    emails: { [email]: true },
     unistar: email.endsWith('@unist.ac.kr'),
     emailVerified,
     favorites: {
@@ -127,5 +128,32 @@ exports.onFavoriteMenu = functions.database
 exports.onUserDelete = functions.auth.user().onDelete(event => {
   const { uid } = event.data;
 
-  database.ref(`/users/${uid}`).remove();
+  database.ref(`/users/${uid}`).once('value', userData => {
+    const favorites = userData.child('favorites');
+
+    const stores = favorites.child('stores').val();
+    const storesUpdates = Object.keys(stores).reduce((a, b) => {
+      a[`/stores/${b.id}/favoriteUsers/${uid}`] = null;
+      return a;
+    }, {});
+
+    const menus = favorites.child('menus').val();
+    const menusUpdates = Object.keys(menus).reduce((a, b) => {
+      a[`/menus/${b.id}/favoriteUsers/${uid}`] = null;
+      return a;
+    }, {});
+
+    const menuGroups = favorites.child('menuGroups').val();
+    const menuGroupsUpdates = Object.keys(menuGroups).reduce((a, b) => {
+      a[`/menuGroups/${b.id}/favoriteUsers/${uid}`] = null;
+      return a;
+    }, {});
+
+    database.ref().update({
+      [`/users/${uid}`]: null,
+      ...storesUpdates,
+      ...menusUpdates,
+      ...menuGroupsUpdates,
+    });
+  });
 });
