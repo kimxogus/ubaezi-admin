@@ -26,9 +26,9 @@ exports.onFavoriteStores = functions.database
     const { params: { userId } } = event;
     const eventSnapshot = event.data;
 
-    const count = Object.keys(eventSnapshot.val());
+    const count = Object.keys(eventSnapshot.val()).length;
     if (count !== Object.keys(eventSnapshot.previous.val())) {
-      database.ref('/users/{userId}/favorites/storeCount').set(count);
+      database.ref(`/users/${userId}/favorites/storeCount`).set(count);
     }
   });
 
@@ -61,9 +61,9 @@ exports.onFavoriteMenuGroups = functions.database
     const { params: { userId } } = event;
     const eventSnapshot = event.data;
 
-    const count = Object.keys(eventSnapshot.val());
+    const count = Object.keys(eventSnapshot.val()).length;
     if (count !== Object.keys(eventSnapshot.previous.val())) {
-      database.ref('/users/{userId}/favorites/menuGroupsCount').set(count);
+      database.ref(`/users/${userId}/favorites/menuGroupsCount`).set(count);
     }
   });
 
@@ -96,9 +96,9 @@ exports.onFavoriteMenus = functions.database
     const { params: { userId } } = event;
     const eventSnapshot = event.data;
 
-    const count = Object.keys(eventSnapshot.val());
+    const count = Object.keys(eventSnapshot.val()).length;
     if (count !== Object.keys(eventSnapshot.previous.val())) {
-      database.ref('/users/{userId}/favorites/menusCount').set(count);
+      database.ref(`/users/${userId}/favorites/menusCount`).set(count);
     }
   });
 
@@ -149,11 +149,15 @@ exports.onUserDelete = functions.auth.user().onDelete(event => {
       return a;
     }, {});
 
-    database.ref().update({
-      [`/users/${uid}`]: null,
-      ...storesUpdates,
-      ...menusUpdates,
-      ...menuGroupsUpdates,
-    });
+    database.ref().update(
+      Object.assign(
+        {
+          [`/users/${uid}`]: null,
+        },
+        storesUpdates,
+        menusUpdates,
+        menuGroupsUpdates
+      )
+    );
   });
 });
