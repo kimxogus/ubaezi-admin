@@ -6,8 +6,7 @@ exports.onUserJoin = functions.auth.user().onCreate(event => {
   database.ref(`/users/${uid}`).set({
     uid,
     username: displayName,
-    emails: email ? { [email]: true } : {},
-    unistar: email ? email.endsWith('@unist.ac.kr') : null,
+    email,
     emailVerified,
     favorites: {
       stores: {},
