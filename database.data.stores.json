@@ -1,11 +1,11 @@
 {
-  "0138ef31-750f-4392-bfc4-67efefa0c372": {
+  "5db55765-7fcd-4436-be21-0e01c1a0f571": {
     "address": "울산광역시 울주군 범서읍 구영리 846-2",
     "branch": "구영점",
     "call": "052-245-7279",
     "category": "chicken",
     "condition": "울산과기원 3마리 이상 무료배달",
-    "id": "0138ef31-750f-4392-bfc4-67efefa0c372",
+    "id": "5db55765-7fcd-4436-be21-0e01c1a0f571",
     "menuCount": 20,
     "menuGroups": {},
     "name": "달감 치킨(불닭,닭발)",
@@ -16,13 +16,13 @@
     "favoriteUsers": {},
     "favoriteUserCount": 0
   },
-  "bd7851e7-db33-456c-a533-e7baa8b2179f": {
+  "f7e005c1-798a-4572-9243-f55ea02bd54a": {
     "address": "울산광역시 범서읍 울산 울주군 범서읍 천상리 (블) 9",
     "branch": "범서점",
     "call": "052-212-9433",
     "category": "chicken",
     "condition": "과기원 2마리이상 배달가능 (매주둘째주 화요일 정기휴무)",
-    "id": "bd7851e7-db33-456c-a533-e7baa8b2179f",
+    "id": "f7e005c1-798a-4572-9243-f55ea02bd54a",
     "menuCount": 31,
     "menuGroups": {},
     "name": "또래오래",
@@ -33,12 +33,12 @@
     "favoriteUsers": {},
     "favoriteUserCount": 0
   },
-  "3e4e6095-9716-4e41-a742-06bf1af9ab4c": {
+  "824f3a22-7192-42fa-931c-bb826e8d2f55": {
     "address": "울산광역시 울주군 범서읍 구영리840",
     "branch": "범서점",
     "call": "052-212-8705",
     "category": "chicken",
-    "id": "3e4e6095-9716-4e41-a742-06bf1af9ab4c",
+    "id": "824f3a22-7192-42fa-931c-bb826e8d2f55",
     "menuCount": 42,
     "menuGroups": {},
     "name": "멕코이치킨",
@@ -49,13 +49,13 @@
     "favoriteUsers": {},
     "favoriteUserCount": 0
   },
-  "74fe7aca-914d-4124-9a07-ce3212847bf0": {
+  "2081727b-b38b-4ab4-963f-941f80eef284": {
     "address": "울산광역시 울주군 범서읍 구영리 382-2",
     "branch": "구영점",
     "call": "052-245-2030",
     "category": "chinese",
     "condition": "과기원 2만원 이상 배달가능",
-    "id": "74fe7aca-914d-4124-9a07-ce3212847bf0",
+    "id": "2081727b-b38b-4ab4-963f-941f80eef284",
     "menuCount": 73,
     "menuGroups": {},
     "name": "명품관",
@@ -66,11 +66,11 @@
     "favoriteUsers": {},
     "favoriteUserCount": 0
   },
-  "64e5aedd-efc0-43ef-9aac-7a0364139d77": {
+  "8e7f6999-2de9-4190-ae09-d821e487dbf8": {
     "branch": "범서점",
     "call": "052-211-9934",
     "category": "chinese",
-    "id": "64e5aedd-efc0-43ef-9aac-7a0364139d77",
+    "id": "8e7f6999-2de9-4190-ae09-d821e487dbf8",
     "menuCount": 84,
     "menuGroups": {},
     "name": "탕코",
@@ -81,12 +81,12 @@
     "favoriteUsers": {},
     "favoriteUserCount": 0
   },
-  "f6e01491-2720-4454-836f-9bd93cbb49bb": {
+  "78804fc4-6190-4503-9e42-7f6f320e906e": {
     "branch": "범서점",
     "call": "010-2081-0056",
     "category": "others",
     "condition": "과기원 30,000이상 배달가능",
-    "id": "f6e01491-2720-4454-836f-9bd93cbb49bb",
+    "id": "78804fc4-6190-4503-9e42-7f6f320e906e",
     "menuCount": 102,
     "menuGroups": {},
     "name": "구영보리밥",
@@ -97,12 +97,12 @@
     "favoriteUsers": {},
     "favoriteUserCount": 0
   },
-  "9ca1097c-d8a5-4142-b4a4-57ae9cf1792b": {
+  "dc85ae3a-1396-4399-812d-84f21c94ce6c": {
     "branch": "구영점",
     "call": "052-245-2226",
     "category": "others",
     "condition": "20000원 이상 배달 가능",
-    "id": "9ca1097c-d8a5-4142-b4a4-57ae9cf1792b",
+    "id": "dc85ae3a-1396-4399-812d-84f21c94ce6c",
     "menuCount": 110,
     "menuGroups": {},
     "name": "개미집(낙지볶음 명가)",
@@ -113,12 +113,12 @@
     "favoriteUsers": {},
     "favoriteUserCount": 0
   },
-  "069372a8-d999-41c5-b327-672e40989cd6": {
+  "ced25d8e-0727-4146-be53-a7eb1c0b8b3f": {
     "branch": "구영점",
     "call": "052-245-9449",
     "category": "others",
     "condition": "과기원 30000원 이상 배달가능 (카드결제 안됨) , 매주 일요일 휴무",
-    "id": "069372a8-d999-41c5-b327-672e40989cd6",
+    "id": "ced25d8e-0727-4146-be53-a7eb1c0b8b3f",
     "menuCount": 120,
     "menuGroups": {},
     "name": "국시사랑(국수)",
@@ -129,12 +129,12 @@
     "favoriteUsers": {},
     "favoriteUserCount": 0
   },
-  "e086c40b-71be-4dfd-978d-b528689b74a0": {
+  "30038b70-c1ac-44e5-a3e8-6e1944d316be": {
     "branch": "천상점",
     "call": "052-244-1092",
     "category": "others",
     "condition": "구영(12000원 이상 배달가능), 과기원 배달비 2000원 추가비 별도",
-    "id": "e086c40b-71be-4dfd-978d-b528689b74a0",
+    "id": "30038b70-c1ac-44e5-a3e8-6e1944d316be",
     "menuCount": 145,
     "menuGroups": {},
     "name": "꼬치&닭발",
@@ -145,13 +145,13 @@
     "favoriteUsers": {},
     "favoriteUserCount": 0
   },
-  "f414482d-74c2-484f-a5c6-bc745c882991": {
+  "c1eec72c-56ba-43e1-9999-7346cdb0713f": {
     "address": "구영리 외환은행 2층",
     "branch": "구영점",
     "call": "052-246-8258",
     "category": "others",
     "condition": "과기원 3만원 이상 배달가능",
-    "id": "f414482d-74c2-484f-a5c6-bc745c882991",
+    "id": "c1eec72c-56ba-43e1-9999-7346cdb0713f",
     "menuCount": 199,
     "menuGroups": {},
     "name": "스시마쯔리",
@@ -162,12 +162,12 @@
     "favoriteUsers": {},
     "favoriteUserCount": 0
   },
-  "3e1207d9-8f95-4be3-b636-6b49f4fc64f5": {
+  "7ea987b2-2d94-4ee9-bd0e-a20e26f56676": {
     "branch": "범서점",
     "call": "052-248-4080",
     "category": "others",
     "condition": "과기원 20000원 이상 배달가능",
-    "id": "3e1207d9-8f95-4be3-b636-6b49f4fc64f5",
+    "id": "7ea987b2-2d94-4ee9-bd0e-a20e26f56676",
     "menuCount": 216,
     "menuGroups": {},
     "name": "카츠애 돈까스",
@@ -178,12 +178,12 @@
     "favoriteUsers": {},
     "favoriteUserCount": 0
   },
-  "c9cf91ff-f137-492e-850c-02a7fa3532b1": {
+  "ceb8fd4b-154c-48ba-98f3-bb42e89744d5": {
     "branch": "범서점",
     "call": "052-211-8089",
     "category": "hamburgerAndPizza",
     "condition": "과기원 20000원 이상 배달가능, 매월 둘째주 화요일 휴무",
-    "id": "c9cf91ff-f137-492e-850c-02a7fa3532b1",
+    "id": "ceb8fd4b-154c-48ba-98f3-bb42e89744d5",
     "menuCount": 240,
     "menuGroups": {},
     "name": "피자빅 (공룡피자)",
@@ -194,12 +194,12 @@
     "favoriteUsers": {},
     "favoriteUserCount": 0
   },
-  "225d69c0-e51c-451a-9e8d-e123a0790fba": {
+  "c13380d9-593b-4c8c-8f5b-011cdf32876f": {
     "branch": "범서점",
     "call": "052-212-9966",
     "category": "chicken",
     "condition": "과기원 2만원 이상 배달가능",
-    "id": "225d69c0-e51c-451a-9e8d-e123a0790fba",
+    "id": "c13380d9-593b-4c8c-8f5b-011cdf32876f",
     "menuCount": 257,
     "menuGroups": {},
     "name": "멕시카나치킨",
@@ -210,13 +210,13 @@
     "favoriteUsers": {},
     "favoriteUserCount": 0
   },
-  "eaf57939-4a2a-4c3d-8f82-495b0287fd7a": {
+  "29d8fcc8-5887-46e5-a587-7e1ef1f8ef0d": {
     "address": "울주군 범서읍 구영리 799-5",
     "branch": "구영점",
     "call": "052-245-9996",
     "category": "others",
     "condition": "과기원 30000원 이상 배달가능",
-    "id": "eaf57939-4a2a-4c3d-8f82-495b0287fd7a",
+    "id": "29d8fcc8-5887-46e5-a587-7e1ef1f8ef0d",
     "menuCount": 267,
     "menuGroups": {},
     "name": "홍담 불닭발",
@@ -227,12 +227,12 @@
     "favoriteUsers": {},
     "favoriteUserCount": 0
   },
-  "339b5d87-259f-4161-bc23-68139a85c6e9": {
+  "20d91219-f8b2-4237-a0ea-2493dd2f01fd": {
     "branch": "천상구영점",
     "call": "052-247-9300",
     "category": "chicken",
     "condition": "없음",
-    "id": "339b5d87-259f-4161-bc23-68139a85c6e9",
+    "id": "20d91219-f8b2-4237-a0ea-2493dd2f01fd",
     "menuCount": 282,
     "menuGroups": {},
     "name": "치킨파티",
@@ -243,12 +243,12 @@
     "favoriteUsers": {},
     "favoriteUserCount": 0
   },
-  "b8c2e82e-5708-4d92-92f4-730f3b993f47": {
+  "52bb1270-631a-4dc5-96c5-c9de264d2e31": {
     "branch": "천상점",
     "call": "052-244-7995",
     "category": "others",
     "condition": "과기원 40000원 이상 배달가능",
-    "id": "b8c2e82e-5708-4d92-92f4-730f3b993f47",
+    "id": "52bb1270-631a-4dc5-96c5-c9de264d2e31",
     "menuCount": 295,
     "menuGroups": {},
     "name": "썰어썰어 횟집",
@@ -259,12 +259,12 @@
     "favoriteUsers": {},
     "favoriteUserCount": 0
   },
-  "afc65209-6164-42c6-a889-3794e0000916": {
+  "539aa58d-2f86-4a37-850a-3ade8108cfdd": {
     "branch": "구영 천상점",
     "call": "052-248-2333",
     "category": "others",
     "condition": "배달비 2000",
-    "id": "afc65209-6164-42c6-a889-3794e0000916",
+    "id": "539aa58d-2f86-4a37-850a-3ade8108cfdd",
     "menuCount": 300,
     "menuGroups": {},
     "name": "부산 생 아구찜",
@@ -275,11 +275,11 @@
     "favoriteUsers": {},
     "favoriteUserCount": 0
   },
-  "879ddf65-33ce-449f-8dad-578fe3e36bec": {
+  "5a964427-19cc-43de-be7e-d54161f3e1de": {
     "call": "052-212-0079",
     "category": "others",
     "condition": "X",
-    "id": "879ddf65-33ce-449f-8dad-578fe3e36bec",
+    "id": "5a964427-19cc-43de-be7e-d54161f3e1de",
     "menuCount": 308,
     "menuGroups": {},
     "name": "대윤 생 아구찜 대구뽈",
@@ -290,11 +290,11 @@
     "favoriteUsers": {},
     "favoriteUserCount": 0
   },
-  "909ba531-1949-49de-807d-0aea952bbb23": {
+  "c828efaa-6d10-49cb-87d9-986804db7f09": {
     "call": "052-248-7100",
     "category": "others",
     "condition": "배달비 3000",
-    "id": "909ba531-1949-49de-807d-0aea952bbb23",
+    "id": "c828efaa-6d10-49cb-87d9-986804db7f09",
     "menuCount": 320,
     "menuGroups": {},
     "name": "찜들미",
@@ -305,11 +305,11 @@
     "favoriteUsers": {},
     "favoriteUserCount": 0
   },
-  "821f0ab8-4b39-48ab-ac41-e6a7f6897842": {
+  "4942697c-0a93-49bc-b7f2-2424e522f258": {
     "call": "052-243-6866",
     "category": "others",
     "condition": "배달비 2000",
-    "id": "821f0ab8-4b39-48ab-ac41-e6a7f6897842",
+    "id": "4942697c-0a93-49bc-b7f2-2424e522f258",
     "menuCount": 326,
     "menuGroups": {},
     "name": "의정부 부대찌개",
@@ -320,12 +320,12 @@
     "favoriteUsers": {},
     "favoriteUserCount": 0
   },
-  "4ede3be5-d980-4f5c-9dc8-107ef1b12bc4": {
+  "56ccda47-3c82-4e76-bc37-62800ea7d821": {
     "branch": "천상점",
     "call": "052-248-9272",
     "category": "others",
     "condition": "배달비 3000",
-    "id": "4ede3be5-d980-4f5c-9dc8-107ef1b12bc4",
+    "id": "56ccda47-3c82-4e76-bc37-62800ea7d821",
     "menuCount": 334,
     "menuGroups": {},
     "name": "감포 생 아구찜 대구뽈찜",
@@ -336,12 +336,12 @@
     "favoriteUsers": {},
     "favoriteUserCount": 0
   },
-  "a77a3389-ba16-4820-be1a-3498d24c7fc1": {
+  "6a2e6bbe-a646-4e46-893d-03b3a0bdade1": {
     "branch": "구영점",
     "call": "052-248-9053",
     "category": "others",
     "condition": "메뉴 1개  시 배달비 2000원",
-    "id": "a77a3389-ba16-4820-be1a-3498d24c7fc1",
+    "id": "6a2e6bbe-a646-4e46-893d-03b3a0bdade1",
     "menuCount": 342,
     "menuGroups": {},
     "name": "감포 생 아구찜 대구뽈찜",
@@ -352,12 +352,12 @@
     "favoriteUsers": {},
     "favoriteUserCount": 0
   },
-  "9f5c053a-74e6-41e9-a233-b864b85f2dd6": {
+  "a9f75139-c87b-4709-b57e-93260e425aa5": {
     "branch": "구영점",
     "call": "052-245-5382",
     "category": "jokbal",
     "condition": "배달비 2000원",
-    "id": "9f5c053a-74e6-41e9-a233-b864b85f2dd6",
+    "id": "a9f75139-c87b-4709-b57e-93260e425aa5",
     "menuCount": 353,
     "menuGroups": {},
     "name": "원할머니 보쌈 족발",
@@ -368,13 +368,13 @@
     "favoriteUsers": {},
     "favoriteUserCount": 0
   },
-  "f36c529a-22b8-4f6b-af7c-3a6f7800f316": {
+  "fc230353-a4cc-41f4-a8ae-424ea623d7cb": {
     "address": "울산시 울주군 범서읍 구영리 375-2",
     "branch": "구영 천상점",
     "call": "052-211-5849",
     "category": "jokbal",
     "condition": "메뉴 1개는 현금결제만 가능 / 2개 이상은 카드 가능",
-    "id": "f36c529a-22b8-4f6b-af7c-3a6f7800f316",
+    "id": "fc230353-a4cc-41f4-a8ae-424ea623d7cb",
     "menuCount": 361,
     "menuGroups": {},
     "name": "가장 맛있는 족발",
@@ -385,13 +385,13 @@
     "favoriteUsers": {},
     "favoriteUserCount": 0
   },
-  "d9535950-7d58-4ed0-8158-83b8db19a4d9": {
+  "4782bbee-9489-4293-aa16-9706f35c0d9b": {
     "address": "848-2번지",
     "branch": "구영리",
     "call": "052-212-9289",
     "category": "others",
     "condition": "배달료3천원부과",
-    "id": "d9535950-7d58-4ed0-8158-83b8db19a4d9",
+    "id": "4782bbee-9489-4293-aa16-9706f35c0d9b",
     "menuCount": 375,
     "menuGroups": {},
     "name": "순곱이네",
@@ -402,13 +402,13 @@
     "favoriteUsers": {},
     "favoriteUserCount": 0
   },
-  "c963f6d5-612f-4710-960c-b71c082ff77b": {
+  "36a9c48d-8c95-494f-b04d-0b0d6912ecf3": {
     "address": "울주군 범서읍 점촌3길 8-15",
     "branch": "구영점",
     "call": "052-248-6288",
     "category": "others",
     "condition": "배달비5천원",
-    "id": "c963f6d5-612f-4710-960c-b71c082ff77b",
+    "id": "36a9c48d-8c95-494f-b04d-0b0d6912ecf3",
     "menuCount": 400,
     "menuGroups": {},
     "name": "본죽",
@@ -419,13 +419,13 @@
     "favoriteUsers": {},
     "favoriteUserCount": 0
   },
-  "5554ac01-e2a6-4f34-a95c-823cc946f1bb": {
+  "4768bc40-074d-485b-8f18-88c1415d54d7": {
     "address": "구영리 819-2",
     "branch": "구영점",
     "call": "052-245-7001",
     "category": "jokbal",
     "condition": "없음",
-    "id": "5554ac01-e2a6-4f34-a95c-823cc946f1bb",
+    "id": "4768bc40-074d-485b-8f18-88c1415d54d7",
     "menuCount": 404,
     "menuGroups": {},
     "name": "한양 족발",
@@ -436,13 +436,13 @@
     "favoriteUsers": {},
     "favoriteUserCount": 0
   },
-  "a26ae56d-54ff-475b-85a0-c1635af45b3e": {
+  "057a69a8-da37-47e4-84ab-8d8de604df23": {
     "address": "구영리 385-1",
     "branch": "구영천상점",
     "call": "052-246-0096",
     "category": "jokbal",
     "condition": "소자는 주먹밥같이시킬시 배달가능, 중자부터는 그냥 배달가능, take out시 개당 3천원",
-    "id": "a26ae56d-54ff-475b-85a0-c1635af45b3e",
+    "id": "057a69a8-da37-47e4-84ab-8d8de604df23",
     "menuCount": 418,
     "menuGroups": {},
     "name": "오븐에 구운 매운 족발",
@@ -453,12 +453,12 @@
     "favoriteUsers": {},
     "favoriteUserCount": 0
   },
-  "94799821-5031-445d-b2f4-0f4b100f36a7": {
+  "c8ef236e-f771-4e1e-bce9-13bafd51c824": {
     "branch": "구영점",
     "call": "052-248-5382",
     "category": "jokbal",
     "condition": "3만원 이상 사장님이 계실경우 그냥 배달 배달시 막구수를 주심",
-    "id": "94799821-5031-445d-b2f4-0f4b100f36a7",
+    "id": "c8ef236e-f771-4e1e-bce9-13bafd51c824",
     "menuCount": 427,
     "menuGroups": {},
     "name": "마늘 보쌈",
@@ -469,11 +469,11 @@
     "favoriteUsers": {},
     "favoriteUserCount": 0
   },
-  "4bb8cc9a-bc87-4c12-8126-776b96ce519b": {
+  "7f634936-3c05-44c2-ab3f-ffc28a29dbd1": {
     "call": "052-224-3372",
     "category": "others",
     "condition": "배달비3천원 야채,고추,마늘,쌈장 배달시 2000 원 추가",
-    "id": "4bb8cc9a-bc87-4c12-8126-776b96ce519b",
+    "id": "7f634936-3c05-44c2-ab3f-ffc28a29dbd1",
     "menuCount": 431,
     "menuGroups": {},
     "name": "시장횟집",
@@ -484,10 +484,10 @@
     "favoriteUsers": {},
     "favoriteUserCount": 0
   },
-  "6d02a702-87f6-4d8f-9e61-00a2e39c25f6": {
+  "ca65d312-f03a-47e6-b839-fb912973b78d": {
     "call": "052-212-8868",
     "category": "others",
-    "id": "6d02a702-87f6-4d8f-9e61-00a2e39c25f6",
+    "id": "ca65d312-f03a-47e6-b839-fb912973b78d",
     "menuCount": 435,
     "menuGroups": {},
     "name": "거제 회 센타",
@@ -498,12 +498,12 @@
     "favoriteUsers": {},
     "favoriteUserCount": 0
   },
-  "a993980f-f3d6-4b38-9279-fc7572e84e08": {
+  "6ec2bfc4-33b7-4454-a1be-8fe10d5c7e1e": {
     "branch": "구영리점",
     "call": "052-245-4634",
     "category": "others",
     "condition": "2만원이상",
-    "id": "a993980f-f3d6-4b38-9279-fc7572e84e08",
+    "id": "6ec2bfc4-33b7-4454-a1be-8fe10d5c7e1e",
     "menuCount": 453,
     "menuGroups": {},
     "name": "오 남포 궁물 떡볶이",
@@ -514,12 +514,12 @@
     "favoriteUsers": {},
     "favoriteUserCount": 0
   },
-  "b4e014f6-9786-48a0-9ea5-99f04f9407b2": {
+  "0da1ae2c-8300-47e2-be5a-88926b853184": {
     "branch": "구영 천상점",
     "call": "052-212-3376",
     "category": "others",
     "condition": "2만원이상배달",
-    "id": "b4e014f6-9786-48a0-9ea5-99f04f9407b2",
+    "id": "0da1ae2c-8300-47e2-be5a-88926b853184",
     "menuCount": 472,
     "menuGroups": {},
     "name": "신전 떡볶이",
@@ -530,12 +530,12 @@
     "favoriteUsers": {},
     "favoriteUserCount": 0
   },
-  "c0de4c1d-7c93-445e-ba94-6ddb10e028cb": {
+  "ff80a857-1c91-42ef-9b01-c2e49cac365f": {
     "branch": "구영점",
     "call": "052-211-9492",
     "category": "others",
     "condition": "2인분이상",
-    "id": "c0de4c1d-7c93-445e-ba94-6ddb10e028cb",
+    "id": "ff80a857-1c91-42ef-9b01-c2e49cac365f",
     "menuCount": 476,
     "menuGroups": {},
     "name": "아라쭈꾸미",
@@ -546,11 +546,11 @@
     "favoriteUsers": {},
     "favoriteUserCount": 0
   },
-  "3bc4c9f5-ddb6-4abf-85e9-019d05f0b699": {
+  "04e08a6c-d2e5-446d-b2a5-1b853d5bb82f": {
     "call": "052-243-1233",
     "category": "others",
     "condition": "배달비 2000",
-    "id": "3bc4c9f5-ddb6-4abf-85e9-019d05f0b699",
+    "id": "04e08a6c-d2e5-446d-b2a5-1b853d5bb82f",
     "menuCount": 480,
     "menuGroups": {},
     "name": "원조할매 안동찜",
@@ -561,11 +561,11 @@
     "favoriteUsers": {},
     "favoriteUserCount": 0
   },
-  "b0b02cea-6624-4b85-af95-7d3ebe61dee5": {
+  "9296b2b3-2927-4a8a-b7e3-ab6a74c52a49": {
     "call": "052-243-3943",
     "category": "others",
     "condition": "현금만 가능",
-    "id": "b0b02cea-6624-4b85-af95-7d3ebe61dee5",
+    "id": "9296b2b3-2927-4a8a-b7e3-ab6a74c52a49",
     "menuCount": 489,
     "menuGroups": {},
     "name": "맛나감자탕",
@@ -576,12 +576,12 @@
     "favoriteUsers": {},
     "favoriteUserCount": 0
   },
-  "d4d8a572-78dc-4a8f-b3ca-f3279c6d46a8": {
+  "6d247d3c-974b-4d6e-9359-02b4f31873d3": {
     "branch": "범서점",
     "call": "052-245-9281",
     "category": "chicken",
     "condition": "2인분 이상배달가능,  방학때는 24시까지",
-    "id": "d4d8a572-78dc-4a8f-b3ca-f3279c6d46a8",
+    "id": "6d247d3c-974b-4d6e-9359-02b4f31873d3",
     "menuCount": 501,
     "menuGroups": {},
     "name": "기똥찬 파닭",
@@ -592,12 +592,12 @@
     "favoriteUsers": {},
     "favoriteUserCount": 0
   },
-  "043f5d01-e671-4ef6-9cef-ccbe362356cd": {
+  "e3b91264-04c2-416b-9571-ad17a72544dd": {
     "branch": "구영점",
     "call": "052-248-5992",
     "category": "chicken",
     "condition": "배달비 5000원",
-    "id": "043f5d01-e671-4ef6-9cef-ccbe362356cd",
+    "id": "e3b91264-04c2-416b-9571-ad17a72544dd",
     "menuCount": 525,
     "menuGroups": {},
     "name": "오븐에 꾸운 닭",
@@ -608,12 +608,12 @@
     "favoriteUsers": {},
     "favoriteUserCount": 0
   },
-  "147d243b-749f-43db-bc75-68a662274265": {
+  "6aff788c-f91a-468e-84d6-a3ea9f0b390e": {
     "branch": "범서.구영.천상",
     "call": "052-248-9982",
     "category": "chicken",
     "condition": "2마리이상 배달가능",
-    "id": "147d243b-749f-43db-bc75-68a662274265",
+    "id": "6aff788c-f91a-468e-84d6-a3ea9f0b390e",
     "menuCount": 545,
     "menuGroups": {},
     "name": "네네치킨",
@@ -624,11 +624,11 @@
     "favoriteUsers": {},
     "favoriteUserCount": 0
   },
-  "ef57d20d-61f5-4b50-af79-0667ac02e93e": {
+  "90a34353-8943-46f6-9ca9-3d16d11f6492": {
     "branch": "울산본점",
     "call": "052-246-1101",
     "category": "others",
-    "id": "ef57d20d-61f5-4b50-af79-0667ac02e93e",
+    "id": "90a34353-8943-46f6-9ca9-3d16d11f6492",
     "menuCount": 558,
     "menuGroups": {},
     "name": "왕통 찜닭.조림닭",
@@ -639,10 +639,10 @@
     "favoriteUsers": {},
     "favoriteUserCount": 0
   },
-  "f3482ccf-5453-491b-8e22-d25f7bd4b35e": {
+  "ea8e583d-a268-4150-9d59-9b34154ca04d": {
     "call": "052-246-9022",
     "category": "others",
-    "id": "f3482ccf-5453-491b-8e22-d25f7bd4b35e",
+    "id": "ea8e583d-a268-4150-9d59-9b34154ca04d",
     "menuCount": 565,
     "menuGroups": {},
     "name": "숙이네 안동찜닭",
@@ -653,10 +653,10 @@
     "favoriteUsers": {},
     "favoriteUserCount": 0
   },
-  "40b9e5a2-8b57-4605-b72a-25e60b125ece": {
+  "f843522e-6bcc-492d-af8b-58f6a6562a76": {
     "call": "052-211-4600",
     "category": "jokbal",
-    "id": "40b9e5a2-8b57-4605-b72a-25e60b125ece",
+    "id": "f843522e-6bcc-492d-af8b-58f6a6562a76",
     "menuCount": 577,
     "menuGroups": {},
     "name": "장충동왕족발보쌈",
@@ -667,12 +667,12 @@
     "favoriteUsers": {},
     "favoriteUserCount": 0
   },
-  "7322deb5-aee9-41bd-b457-94afb60283cc": {
+  "0a78dd77-45a9-4b0b-aaf8-c4e2ca6df862": {
     "branch": "범서점",
     "call": "052-245-1922",
     "category": "chicken",
     "condition": "두마리 이상",
-    "id": "7322deb5-aee9-41bd-b457-94afb60283cc",
+    "id": "0a78dd77-45a9-4b0b-aaf8-c4e2ca6df862",
     "menuCount": 599,
     "menuGroups": {},
     "name": "BHC",
@@ -683,11 +683,11 @@
     "favoriteUsers": {},
     "favoriteUserCount": 0
   },
-  "6f02d596-e29a-4f2d-af43-9b2a4ddae4af": {
+  "ccbcc54a-d7d8-4457-8ed6-e8fb3cd87721": {
     "branch": "천상구영점",
     "call": "052-246-8090",
     "category": "chicken",
-    "id": "6f02d596-e29a-4f2d-af43-9b2a4ddae4af",
+    "id": "ccbcc54a-d7d8-4457-8ed6-e8fb3cd87721",
     "menuCount": 618,
     "menuGroups": {},
     "name": "쫄파촌닭",
@@ -698,13 +698,13 @@
     "favoriteUsers": {},
     "favoriteUserCount": 0
   },
-  "e74591da-ba4b-4a8d-bf44-0a5cc9e94f79": {
+  "19fb5c99-33d2-4bb5-9caf-ee0313ba7d42": {
     "address": "구영리382-2",
     "branch": "구영점",
     "call": "052-248-2500",
     "category": "chinese",
     "condition": "2만원이상",
-    "id": "e74591da-ba4b-4a8d-bf44-0a5cc9e94f79",
+    "id": "19fb5c99-33d2-4bb5-9caf-ee0313ba7d42",
     "menuCount": 627,
     "menuGroups": {},
     "name": "도원 황궁쟁반짜장",
@@ -715,12 +715,12 @@
     "favoriteUsers": {},
     "favoriteUserCount": 0
   },
-  "eb1db733-988e-4de2-8b65-9ae65d3be528": {
+  "7fd22526-a034-4af5-87a0-0b1a5c52c60d": {
     "branch": "구영리점",
     "call": "052-212-0487",
     "category": "others",
     "condition": "퀵비4000원부담",
-    "id": "eb1db733-988e-4de2-8b65-9ae65d3be528",
+    "id": "7fd22526-a034-4af5-87a0-0b1a5c52c60d",
     "menuCount": 639,
     "menuGroups": {},
     "name": "만나고쪽갈비가",
@@ -731,11 +731,11 @@
     "favoriteUsers": {},
     "favoriteUserCount": 0
   },
-  "3d974ec1-0ba9-4bc3-83a4-5ff9e28986bf": {
+  "b0a66e50-b091-44c3-9142-b33c39128394": {
     "branch": "구영점",
     "call": "052-243-5949",
     "category": "hamburgerAndPizza",
-    "id": "3d974ec1-0ba9-4bc3-83a4-5ff9e28986bf",
+    "id": "b0a66e50-b091-44c3-9142-b33c39128394",
     "menuCount": 675,
     "menuGroups": {},
     "name": "오구피자",
@@ -746,10 +746,10 @@
     "favoriteUsers": {},
     "favoriteUserCount": 0
   },
-  "a4a9cae5-fb01-4811-a8a2-0fa43c95ec32": {
+  "fd60e8c5-3181-42eb-aada-04b22f249cec": {
     "call": "052-243-5445",
     "category": "hamburgerAndPizza",
-    "id": "a4a9cae5-fb01-4811-a8a2-0fa43c95ec32",
+    "id": "fd60e8c5-3181-42eb-aada-04b22f249cec",
     "menuCount": 699,
     "menuGroups": {},
     "name": "피자마루",
@@ -760,10 +760,10 @@
     "favoriteUsers": {},
     "favoriteUserCount": 0
   },
-  "88d0de43-1c20-47f4-a677-06ceb41acd1d": {
+  "8204f494-6f54-405f-b749-774325ee8c84": {
     "call": "052-248-1080",
     "category": "hamburgerAndPizza",
-    "id": "88d0de43-1c20-47f4-a677-06ceb41acd1d",
+    "id": "8204f494-6f54-405f-b749-774325ee8c84",
     "menuCount": 712,
     "menuGroups": {},
     "name": "피자에땅",
@@ -774,10 +774,10 @@
     "favoriteUsers": {},
     "favoriteUserCount": 0
   },
-  "cf1e8034-260c-4704-b0ed-1baddee9ef02": {
+  "dae4850e-25ba-4741-a333-3b7f44301044": {
     "call": "052-248-2419",
     "category": "hamburgerAndPizza",
-    "id": "cf1e8034-260c-4704-b0ed-1baddee9ef02",
+    "id": "dae4850e-25ba-4741-a333-3b7f44301044",
     "menuCount": 751,
     "menuGroups": {},
     "name": "롯데리아",
@@ -788,11 +788,11 @@
     "favoriteUsers": {},
     "favoriteUserCount": 0
   },
-  "35beefcf-e325-434e-b3fb-3ba7da3d0c79": {
+  "d4536e25-dbed-4614-b5a8-5c4de739e48d": {
     "call": "052-244-2977",
     "category": "hamburgerAndPizza",
     "condition": "매월 첫째주 일요일은 휴무입니다.",
-    "id": "35beefcf-e325-434e-b3fb-3ba7da3d0c79",
+    "id": "d4536e25-dbed-4614-b5a8-5c4de739e48d",
     "menuCount": 788,
     "menuGroups": {},
     "name": "맘스터치",
@@ -803,11 +803,11 @@
     "favoriteUsers": {},
     "favoriteUserCount": 0
   },
-  "dfa41953-7f9a-4ffb-a38a-4c4db4421e8c": {
+  "973df2f5-0e75-44f4-a6bb-6f7557c9998f": {
     "call": "052-211-0565",
     "category": "chinese",
     "condition": "짜장면,짬뽕,볶음밥,우동 곱뺴기 주문시 1000원 추가",
-    "id": "dfa41953-7f9a-4ffb-a38a-4c4db4421e8c",
+    "id": "973df2f5-0e75-44f4-a6bb-6f7557c9998f",
     "menuCount": 830,
     "menuGroups": {},
     "name": "황제 쟁반 짜장",
@@ -818,11 +818,11 @@
     "favoriteUsers": {},
     "favoriteUserCount": 0
   },
-  "da986b6d-161b-4350-80d0-71e798641ef7": {
+  "7edbb273-868e-4b89-afc7-be7036af38d1": {
     "call": "052-211-0018",
     "category": "chinese",
     "condition": "모든 식사류 곱뺴기 주문시 1,000원 추가",
-    "id": "da986b6d-161b-4350-80d0-71e798641ef7",
+    "id": "7edbb273-868e-4b89-afc7-be7036af38d1",
     "menuCount": 860,
     "menuGroups": {},
     "name": "돌콩",
@@ -833,10 +833,10 @@
     "favoriteUsers": {},
     "favoriteUserCount": 0
   },
-  "50884280-a10a-4ed5-96f5-3a8ad4022ce1": {
+  "3f248549-9cef-4e71-b73e-26da6df5fab3": {
     "call": "052-243-1233",
     "category": "others",
-    "id": "50884280-a10a-4ed5-96f5-3a8ad4022ce1",
+    "id": "3f248549-9cef-4e71-b73e-26da6df5fab3",
     "menuCount": 866,
     "menuGroups": {},
     "name": "안동 찜닭",
@@ -847,10 +847,10 @@
     "favoriteUsers": {},
     "favoriteUserCount": 0
   },
-  "ba2b092f-2f55-4618-a32e-3a7af7de3144": {
+  "4efccf34-50dd-4edb-b2cf-9a1e2e2f3c5a": {
     "call": "052-246-1101",
     "category": "others",
-    "id": "ba2b092f-2f55-4618-a32e-3a7af7de3144",
+    "id": "4efccf34-50dd-4edb-b2cf-9a1e2e2f3c5a",
     "menuCount": 878,
     "menuGroups": {},
     "name": "왕통 찜닭",
@@ -861,10 +861,10 @@
     "favoriteUsers": {},
     "favoriteUserCount": 0
   },
-  "c2172e31-6eb3-4342-a50c-f627fba2a9c9": {
+  "1a640a00-7d09-4271-bde6-ef28f526c595": {
     "call": "052-212-9957",
     "category": "chicken",
-    "id": "c2172e31-6eb3-4342-a50c-f627fba2a9c9",
+    "id": "1a640a00-7d09-4271-bde6-ef28f526c595",
     "menuCount": 884,
     "menuGroups": {},
     "name": "파닭의 달인",
@@ -875,10 +875,10 @@
     "favoriteUsers": {},
     "favoriteUserCount": 0
   },
-  "c1ab642d-280e-4816-9645-5008f29326c9": {
+  "01e21b8d-3363-46ac-b1b6-a950dc9bdcdf": {
     "call": "052-212-8895",
     "category": "chicken",
-    "id": "c1ab642d-280e-4816-9645-5008f29326c9",
+    "id": "01e21b8d-3363-46ac-b1b6-a950dc9bdcdf",
     "menuCount": 894,
     "menuGroups": {},
     "name": "놀라버린 파닭",
@@ -889,10 +889,10 @@
     "favoriteUsers": {},
     "favoriteUserCount": 0
   },
-  "ab5ccf57-a8f7-437f-acfd-87e574e66d48": {
+  "44c93102-2af2-47e9-9423-bf74f7ab70f8": {
     "call": "052-248-8891",
     "category": "chicken",
-    "id": "ab5ccf57-a8f7-437f-acfd-87e574e66d48",
+    "id": "44c93102-2af2-47e9-9423-bf74f7ab70f8",
     "menuCount": 912,
     "menuGroups": {},
     "name": "화르화르",
@@ -903,10 +903,10 @@
     "favoriteUsers": {},
     "favoriteUserCount": 0
   },
-  "7863b99c-e2a1-4972-bb60-097b4c953332": {
+  "b4342905-53d3-4f74-b5ed-ce268517f258": {
     "call": "052-245-2580",
     "category": "chicken",
-    "id": "7863b99c-e2a1-4972-bb60-097b4c953332",
+    "id": "b4342905-53d3-4f74-b5ed-ce268517f258",
     "menuCount": 923,
     "menuGroups": {},
     "name": "페리카나",
@@ -917,10 +917,10 @@
     "favoriteUsers": {},
     "favoriteUserCount": 0
   },
-  "6fdc12da-3004-4c5e-8304-cb838b59bcd5": {
+  "28f57824-f93b-482a-b86f-07c4047e8605": {
     "call": "052-245-9279",
     "category": "chicken",
-    "id": "6fdc12da-3004-4c5e-8304-cb838b59bcd5",
+    "id": "28f57824-f93b-482a-b86f-07c4047e8605",
     "menuCount": 939,
     "menuGroups": {},
     "name": "구어좋은닭",
@@ -931,10 +931,10 @@
     "favoriteUsers": {},
     "favoriteUserCount": 0
   },
-  "1bf74715-0570-4e4c-baf4-c46de85a45b0": {
+  "d0ec0a8f-b09e-4f70-bedf-7f28c4940b7d": {
     "call": "052-212-9934",
     "category": "chicken",
-    "id": "1bf74715-0570-4e4c-baf4-c46de85a45b0",
+    "id": "d0ec0a8f-b09e-4f70-bedf-7f28c4940b7d",
     "menuCount": 965,
     "menuGroups": {},
     "name": "땅땅치킨",
@@ -945,10 +945,10 @@
     "favoriteUsers": {},
     "favoriteUserCount": 0
   },
-  "68a6cb5d-9cbf-4345-a53c-93070110955f": {
+  "93100323-1f6d-4ddf-ae22-b6a9d83acf83": {
     "call": "052-245-0092",
     "category": "jokbal",
-    "id": "68a6cb5d-9cbf-4345-a53c-93070110955f",
+    "id": "93100323-1f6d-4ddf-ae22-b6a9d83acf83",
     "menuCount": 989,
     "menuGroups": {},
     "name": "놀부보쌈",
@@ -959,10 +959,10 @@
     "favoriteUsers": {},
     "favoriteUserCount": 0
   },
-  "1b5b6e1a-5d95-467c-a476-7aec4ba9615d": {
+  "ada059ad-5108-47ac-a81d-7a2a19cd7ff1": {
     "call": "052-245-0089",
     "category": "jokbal",
-    "id": "1b5b6e1a-5d95-467c-a476-7aec4ba9615d",
+    "id": "ada059ad-5108-47ac-a81d-7a2a19cd7ff1",
     "menuCount": 996,
     "menuGroups": {},
     "name": "풍문족발",
@@ -973,11 +973,11 @@
     "favoriteUsers": {},
     "favoriteUserCount": 0
   },
-  "438ba0e2-ef95-4353-a1fb-b15267200c86": {
+  "9b1c6a72-2982-46a9-bfca-c45711880917": {
     "branch": "구영천상점",
     "call": "052-246-5582",
     "category": "chicken",
-    "id": "438ba0e2-ef95-4353-a1fb-b15267200c86",
+    "id": "9b1c6a72-2982-46a9-bfca-c45711880917",
     "menuCount": 1024,
     "menuGroups": {},
     "name": "비버스치킨",
@@ -988,10 +988,10 @@
     "favoriteUsers": {},
     "favoriteUserCount": 0
   },
-  "c965ce44-5ce4-4d56-b504-c3da1b121c3f": {
+  "696bfe16-cb0a-4ab7-bd29-b474f40c4dd5": {
     "call": "052-211-2360",
     "category": "others",
-    "id": "c965ce44-5ce4-4d56-b504-c3da1b121c3f",
+    "id": "696bfe16-cb0a-4ab7-bd29-b474f40c4dd5",
     "menuCount": 1039,
     "menuGroups": {},
     "name": "배터지는 생돈까스",
@@ -1002,10 +1002,10 @@
     "favoriteUsers": {},
     "favoriteUserCount": 0
   },
-  "12f29cd0-f27b-4c18-8265-123a0b68d7c6": {
+  "f441dc68-a446-4b7e-a2b4-c3b609a40a2b": {
     "call": "052-211-2118",
     "category": "others",
-    "id": "12f29cd0-f27b-4c18-8265-123a0b68d7c6",
+    "id": "f441dc68-a446-4b7e-a2b4-c3b609a40a2b",
     "menuCount": 1052,
     "menuGroups": {},
     "name": "해송돈까스",
@@ -1016,10 +1016,10 @@
     "favoriteUsers": {},
     "favoriteUserCount": 0
   },
-  "5cb939ad-b75b-4967-b6a7-e4ba2410532d": {
+  "7a73f059-0daa-402c-8574-d1af8b9285f1": {
     "call": "052-248-5540",
     "category": "others",
-    "id": "5cb939ad-b75b-4967-b6a7-e4ba2410532d",
+    "id": "7a73f059-0daa-402c-8574-d1af8b9285f1",
     "menuCount": 1064,
     "menuGroups": {},
     "name": "빠사시떡볶이&치킨",
@@ -1030,13 +1030,13 @@
     "favoriteUsers": {},
     "favoriteUserCount": 0
   },
-  "b56b3052-55ec-40af-a445-0c7e242fdba8": {
+  "8854ca1d-a2a2-4370-abb2-397c0aca1c11": {
     "address": "구영리374-14",
     "branch": "구영리",
     "call": "052-211-9274",
     "category": "chicken",
     "condition": "메뉴1개 주문시배달비+2000",
-    "id": "b56b3052-55ec-40af-a445-0c7e242fdba8",
+    "id": "8854ca1d-a2a2-4370-abb2-397c0aca1c11",
     "menuCount": 1084,
     "menuGroups": {},
     "name": "쌀을 품은 닭",
@@ -1047,11 +1047,11 @@
     "favoriteUsers": {},
     "favoriteUserCount": 0
   },
-  "82806801-12d2-4f66-af0a-a8dcf9326c6d": {
+  "e84fa963-db31-43d8-93f9-c7ad6d66049d": {
     "call": "052-212-9989",
     "category": "chicken",
     "condition": "한마리도 가능",
-    "id": "82806801-12d2-4f66-af0a-a8dcf9326c6d",
+    "id": "e84fa963-db31-43d8-93f9-c7ad6d66049d",
     "menuCount": 1094,
     "menuGroups": {},
     "name": "올꼬꼬 치킨",
@@ -1062,10 +1062,10 @@
     "favoriteUsers": {},
     "favoriteUserCount": 0
   },
-  "ff19eaec-8b84-4595-9a71-0c44d2a5418f": {
+  "47ffed42-b5ef-4618-837f-85f68ae24931": {
     "call": "052-246-9296",
     "category": "jokbal",
-    "id": "ff19eaec-8b84-4595-9a71-0c44d2a5418f",
+    "id": "47ffed42-b5ef-4618-837f-85f68ae24931",
     "menuCount": 1104,
     "menuGroups": {},
     "name": "천하제일왕족발",
@@ -1076,10 +1076,10 @@
     "favoriteUsers": {},
     "favoriteUserCount": 0
   },
-  "cdc1f94b-e6a6-4bcf-afda-51179b26221e": {
+  "6fb4b7e7-3acb-496f-a235-077e07f0cd19": {
     "call": "052-244-8898",
     "category": "chicken",
-    "id": "cdc1f94b-e6a6-4bcf-afda-51179b26221e",
+    "id": "6fb4b7e7-3acb-496f-a235-077e07f0cd19",
     "menuCount": 1111,
     "menuGroups": {},
     "name": "파닭에 미쳐써",
@@ -1090,10 +1090,10 @@
     "favoriteUsers": {},
     "favoriteUserCount": 0
   },
-  "8a1e404e-7887-4a57-aa96-49235c890f21": {
+  "0bf7698c-247f-4ddc-9551-c75e414e4caa": {
     "call": "052-248-9272",
     "category": "others",
-    "id": "8a1e404e-7887-4a57-aa96-49235c890f21",
+    "id": "0bf7698c-247f-4ddc-9551-c75e414e4caa",
     "menuCount": 1118,
     "menuGroups": {},
     "name": "감토 생 아구전문",
@@ -1104,11 +1104,11 @@
     "favoriteUsers": {},
     "favoriteUserCount": 0
   },
-  "d01b62bd-faa0-4bd4-83ac-6ad1b851dd81": {
+  "13617f87-d3d6-4303-8903-fa02eb098b1e": {
     "branch": "범서점",
     "call": "052-223-8844",
     "category": "chicken",
-    "id": "d01b62bd-faa0-4bd4-83ac-6ad1b851dd81",
+    "id": "13617f87-d3d6-4303-8903-fa02eb098b1e",
     "menuCount": 1121,
     "menuGroups": {},
     "name": "코리엔탈 깻잎 치킨",
@@ -1119,10 +1119,10 @@
     "favoriteUsers": {},
     "favoriteUserCount": 0
   },
-  "e3f88ad3-f1e0-469e-a3c2-ca15826329fd": {
+  "6752f364-b874-4d2b-bc1b-48120ac12999": {
     "call": "052-246-6289",
     "category": "others",
-    "id": "e3f88ad3-f1e0-469e-a3c2-ca15826329fd",
+    "id": "6752f364-b874-4d2b-bc1b-48120ac12999",
     "menuCount": 1133,
     "menuGroups": {},
     "name": "수제왕돈까스 청담",
@@ -1133,12 +1133,12 @@
     "favoriteUsers": {},
     "favoriteUserCount": 0
   },
-  "98857ed7-3fec-459b-b504-2f54b745f425": {
+  "117ec3dd-a837-4a69-966e-9c5c888bfafa": {
     "branch": "범서점",
     "call": "052-243-9289",
     "category": "chicken",
     "condition": "배송료 1000",
-    "id": "98857ed7-3fec-459b-b504-2f54b745f425",
+    "id": "117ec3dd-a837-4a69-966e-9c5c888bfafa",
     "menuCount": 1138,
     "menuGroups": {},
     "name": "호식이 두마리 치킨",
@@ -1149,12 +1149,12 @@
     "favoriteUsers": {},
     "favoriteUserCount": 0
   },
-  "bd4c3106-0984-4424-805a-99947080d7dc": {
+  "3872ca7e-07c7-41fb-b767-c146f8032b59": {
     "branch": "천상점",
     "call": "052-248-5855",
     "category": "jokbal",
     "condition": "배달비1000원",
-    "id": "bd4c3106-0984-4424-805a-99947080d7dc",
+    "id": "3872ca7e-07c7-41fb-b767-c146f8032b59",
     "menuCount": 1155,
     "menuGroups": {},
     "name": "족발 삶는 사람들",
@@ -1165,12 +1165,12 @@
     "favoriteUsers": {},
     "favoriteUserCount": 0
   },
-  "ebb035ad-909e-4d8b-934b-53e4a9b8ac4f": {
+  "8245715d-bd0c-4187-a603-4669019f39c7": {
     "address": "울산 울주군 범서읍 천상중앙길 104",
     "branch": "천상점",
     "call": "052-248-1991",
     "category": "chicken",
-    "id": "ebb035ad-909e-4d8b-934b-53e4a9b8ac4f",
+    "id": "8245715d-bd0c-4187-a603-4669019f39c7",
     "menuCount": 1171,
     "menuGroups": {},
     "name": "교촌치킨",
@@ -1181,10 +1181,10 @@
     "favoriteUsers": {},
     "favoriteUserCount": 0
   },
-  "987614aa-fba6-4d5f-9b23-c833ab2b925b": {
+  "ac40e690-c9cb-4ed3-b6ca-463d5fa98aa2": {
     "call": "052-910-9292",
     "category": "chicken",
-    "id": "987614aa-fba6-4d5f-9b23-c833ab2b925b",
+    "id": "ac40e690-c9cb-4ed3-b6ca-463d5fa98aa2",
     "menuCount": 1195,
     "menuGroups": {},
     "name": "처갓집 양념치킨",
