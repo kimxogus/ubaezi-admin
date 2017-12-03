@@ -1,6 +1,6 @@
 const { admin, functions, database } = require('./lib');
 
-exports.onMenuWrite = functions.database
+exports.onSuggestionWrite = functions.database
   .ref('/suggestions/{id}')
   .onWrite(event => {
     const { params: { id } } = event;
