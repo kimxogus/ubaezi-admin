@@ -6,7 +6,9 @@
   "author": "kimxogus <kgyoo8232@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "deploy": "firebase deploy --only functions",
+    "deploy": "firebase deploy --only functions,database",
+    "deploy:functions": "firebase deploy --only functions",
+    "deploy:database": "firebase deploy --only database",
     "serve": "firebase serve --only functions",
     "get-data": "firebase database:get / > database.data.json",
     "get-data:users": "firebase database:get /users > database.data.users.json",

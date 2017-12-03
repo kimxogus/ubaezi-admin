@@ -13,6 +13,10 @@
         ".write": "auth.token.email_verified == true"
       }
     },
+    "suggestions": {
+      ".read": "auth != null",
+      ".write": "auth != null"
+    },
     "stores": {
       ".read": true,
       ".write": "auth.token.email_verified == true",

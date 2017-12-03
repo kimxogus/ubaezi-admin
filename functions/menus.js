@@ -21,6 +21,12 @@ exports.onMenuWrite = functions.database.ref('/menus/{id}').onWrite(event => {
       updates[menuGroupRefPath] = new Date().getTime();
     }
 
+    if (eventSnapshot.child('suggestions').changed()) {
+      updates[`/menus/${id}/suggestionCount`] = data.suggestions
+        ? Object.keys(data.suggestions).length
+        : 0;
+    }
+
     if (eventSnapshot.child('favoriteUsers').changed()) {
       updates[`/menus/${id}/favoriteUserCount`] = data.favoriteUsers
         ? Object.keys(data.favoriteUsers).length

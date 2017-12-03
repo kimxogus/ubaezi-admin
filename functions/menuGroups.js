@@ -29,6 +29,12 @@ exports.onMenuGroupWrite = functions.database
         updates[storeRefPath] = new Date().getTime();
       }
 
+      if (eventSnapshot.child('suggestions').changed()) {
+        updates[`/menuGroups/${id}/suggestionCount`] = data.suggestions
+          ? Object.keys(data.suggestions).length
+          : 0;
+      }
+
       if (eventSnapshot.child('menus').changed()) {
         updates[`/menuGroups/${id}/menuCount`] = data.menus
           ? Object.keys(data.menus).length

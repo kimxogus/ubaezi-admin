@@ -16,8 +16,22 @@ exports.onUserJoin = functions.auth.user().onCreate(event => {
       menuGroups: {},
       menuGroupCount: 0,
     },
+    suggestions: {},
+    suggestionCount: 0,
   });
 });
+
+exports.onSuggestions = functions.database
+  .ref('/users/{userId}/suggestions')
+  .onWrite(event => {
+    const { params: { userId } } = event;
+    const eventSnapshot = event.data;
+
+    const count = Object.keys(eventSnapshot.val()).length;
+    if (count !== Object.keys(eventSnapshot.previous.val())) {
+      database.ref(`/users/${userId}/suggestionCount`).set(count);
+    }
+  });
 
 exports.onFavoriteStores = functions.database
   .ref('/users/{userId}/favorites/stores')
@@ -82,7 +96,9 @@ exports.onFavoriteMenuGroup = functions.database
     } else if (!eventSnapshot.previous.exists()) {
       // on create
       const updates = {
-        [`/menuGroups/${menuGroupId}/favoriteUsers/${userId}`]: new Date().getTime(),
+        [`/menuGroups/${menuGroupId}/favoriteUsers/${
+          userId
+        }`]: new Date().getTime(),
       };
 
       database.ref().update(updates);
@@ -148,6 +164,12 @@ exports.onUserDelete = functions.auth.user().onDelete(event => {
       return a;
     }, {});
 
+    const suggestions = userData.child('suggestions').val();
+    const suggestionsUpdates = Object.keys(suggestions).reduce((a, b) => {
+      a[`/suggestions/${b.id}`] = null;
+      return a;
+    }, {});
+
     database.ref().update(
       Object.assign(
         {
@@ -155,7 +177,8 @@ exports.onUserDelete = functions.auth.user().onDelete(event => {
         },
         storesUpdates,
         menusUpdates,
-        menuGroupsUpdates
+        menuGroupsUpdates,
+        suggestionsUpdates
       )
     );
   });

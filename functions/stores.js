@@ -10,12 +10,13 @@ exports.onStoreWrite = functions.database.ref('/stores/{id}').onWrite(event => {
 
     let updates = {};
     if (previous.menuGroups) {
-      const menuGroupUpdates = Object.keys(
-        previous.menuGroups
-      ).reduce((a, b) => {
-        a[`/menuGroups/${b}`] = null;
-        return a;
-      }, {});
+      const menuGroupUpdates = Object.keys(previous.menuGroups).reduce(
+        (a, b) => {
+          a[`/menuGroups/${b}`] = null;
+          return a;
+        },
+        {}
+      );
       updates = Object.assign(updates, menuGroupUpdates);
     }
 
@@ -33,6 +34,12 @@ exports.onStoreWrite = functions.database.ref('/stores/{id}').onWrite(event => {
   } else {
     // on create or update
     const updates = {};
+
+    if (eventSnapshot.child('suggestions').changed()) {
+      updates[`/stores/${id}/suggestionCount`] = data.suggestions
+        ? Object.keys(data.suggestions).length
+        : 0;
+    }
 
     if (eventSnapshot.child('menuGroups').changed()) {
       updates[`/stores/${id}/menuGroupCount`] = data.menuGroups

@@ -21,12 +21,6 @@
     "no-console": "error",
     "no-shadow": "error",
     "no-undef": "error",
-    "prettier/prettier": [
-      "error",
-      {
-        "trailingComma": "es5",
-        "singleQuote": true
-      }
-    ]
+    "prettier/prettier": ["error"]
   }
 }
