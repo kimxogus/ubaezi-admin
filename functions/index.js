@@ -4,5 +4,6 @@ Object.assign(
   require('./menuGroups'),
   require('./stores'),
   require('./users'),
-  require('./suggestions')
+  require('./suggestions'),
+  require('./likes')
 );

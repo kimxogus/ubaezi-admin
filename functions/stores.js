@@ -35,6 +35,12 @@ exports.onStoreWrite = functions.database.ref('/stores/{id}').onWrite(event => {
     // on create or update
     const updates = {};
 
+    if (eventSnapshot.child('likes').changed()) {
+      updates[`/stores/${id}/likeCount`] = data.likes
+        ? Object.keys(data.likes).length
+        : 0;
+    }
+
     if (eventSnapshot.child('suggestions').changed()) {
       updates[`/stores/${id}/suggestionCount`] = data.suggestions
         ? Object.keys(data.suggestions).length

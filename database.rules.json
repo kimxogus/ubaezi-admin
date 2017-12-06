@@ -16,10 +16,19 @@
     "suggestions": {
       ".read": "auth != null",
       ".write": "auth != null",
-      ".indexOn": ["field", "targetId", "likeCount"],
+      ".indexOn": ["field", "targetId", "likeCount", "path"],
       "likes": {
         ".read": true,
         ".write": "auth.token.email_verified == true"
+      }
+    },
+    "likes": {
+      ".read": "auth != null",
+      ".write": "auth != null",
+      ".indexOn": ["path", "targetId", "uid"],
+      "$uid": {
+        ".read": "auth != null",
+        ".write": "auth != null && auth.uid == $uid"
       }
     },
     "stores": {
