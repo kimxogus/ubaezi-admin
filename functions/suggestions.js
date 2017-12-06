@@ -2,7 +2,7 @@ const { admin, functions, database } = require('./lib');
 
 exports.onSuggestionWrite = functions.database
   .ref('/suggestions/{id}')
-  .onWrite(async event => {
+  .onWrite(event => {
     const { params: { id } } = event;
     const eventSnapshot = event.data;
     if (!eventSnapshot.exists()) {
@@ -47,7 +47,7 @@ exports.onSuggestionWrite = functions.database
       if (Object.keys(updates).length) {
         database.ref().update(updates);
         if (shouldApplySuggestion) {
-          await database
+          database
             .ref('/suggestions')
             .orderByChild('targetId')
             .equalTo(targetId)
