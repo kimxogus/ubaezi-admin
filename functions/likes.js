@@ -5,7 +5,7 @@ exports.onLikeWrite = functions.database.ref('/likes/{id}').onWrite(event => {
   const eventSnapshot = event.data;
   const data = eventSnapshot.val();
   const { path, targetId, suggestionType } = data;
-  const relationPath = `/${path}/${targetId}/likes/${id}`;
+  const relationPath = `${path}/${targetId}/likes/${id}`;
   if (!eventSnapshot.exists()) {
     // on delete
     const updates = {
