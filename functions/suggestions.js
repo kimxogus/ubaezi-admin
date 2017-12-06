@@ -22,6 +22,12 @@ exports.onSuggestionWrite = functions.database
         updates[`/suggestions/${id}/id`] = id;
       }
 
+      if (eventSnapshot.child('likes').changed()) {
+        updates[`/suggestions/${id}/likeCount`] = data.likes
+          ? Object.keys(data.likes).length
+          : 0;
+      }
+
       if (Object.keys(updates).length) {
         database.ref().update(updates);
       }

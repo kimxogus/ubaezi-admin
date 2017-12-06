@@ -16,7 +16,11 @@
     "suggestions": {
       ".read": "auth != null",
       ".write": "auth != null",
-      ".indexOn": ["field", "targetId"]
+      ".indexOn": ["field", "targetId", "likeCount"],
+      "likes": {
+        ".read": true,
+        ".write": "auth.token.email_verified == true"
+      }
     },
     "stores": {
       ".read": true,
