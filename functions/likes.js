@@ -16,7 +16,7 @@ exports.onLikeWrite = functions.database.ref('/likes/{id}').onWrite(event => {
     // on create or update
     const updates = {};
     if (!eventSnapshot.previous.exists()) {
-      updates[relationPath] = new Date().getTime();
+      updates[relationPath] = data.uid;
       updates[`/likes/${id}/id`] = id;
     }
 
