@@ -15,7 +15,8 @@
     },
     "suggestions": {
       ".read": "auth != null",
-      ".write": "auth != null"
+      ".write": "auth != null",
+      ".indexOn": ["field", "targetId"]
     },
     "stores": {
       ".read": true,

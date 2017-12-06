@@ -6,7 +6,7 @@ exports.onSuggestionWrite = functions.database
     const { params: { id } } = event;
     const eventSnapshot = event.data;
     const data = eventSnapshot.val();
-    const { path, id: targetID, suggestionType } = data;
+    const { path, targetID, suggestionType } = data;
     const relationPath = `/${path}/${targetID}/suggestions/${id}`;
     if (!eventSnapshot.exists()) {
       // on delete
@@ -19,6 +19,7 @@ exports.onSuggestionWrite = functions.database
       const updates = {};
       if (!eventSnapshot.previous.exists()) {
         updates[relationPath] = new Date().getTime();
+        updates[`/suggestions/${id}/id`] = id;
       }
 
       if (Object.keys(updates).length) {
