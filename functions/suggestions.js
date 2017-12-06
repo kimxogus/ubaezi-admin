@@ -5,17 +5,22 @@ exports.onSuggestionWrite = functions.database
   .onWrite(event => {
     const { params: { id } } = event;
     const eventSnapshot = event.data;
-    const data = eventSnapshot.val();
-    const { path, targetId, suggestionType } = data;
-    const relationPath = `${path}/${targetId}/suggestions/${id}`;
     if (!eventSnapshot.exists()) {
       // on delete
+      const data = eventSnapshot.previous.val();
+      const { path, targetId } = data;
+      const relationPath = `${path}/${targetId}/suggestions/${id}`;
+
       const updates = {
         [relationPath]: null,
       };
       database.ref().update(updates);
     } else {
       // on create or update
+      const data = eventSnapshot.val();
+      const { path, targetId } = data;
+      const relationPath = `${path}/${targetId}/suggestions/${id}`;
+
       const updates = {};
       if (!eventSnapshot.previous.exists()) {
         updates[relationPath] = new Date().getTime();
